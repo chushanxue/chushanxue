@@ -30,7 +30,7 @@ const MD = () => {
     handleTags(tags);
     handleTime(time);
 
-    fetch(`/md/${title}.md`)
+    fetch(`/chushanxue/md/${title}.md`)
       .then((resp) => resp.text())
       .then((txt) => handleMD(txt));
   }, []);
@@ -55,7 +55,10 @@ const MD = () => {
           ))}
         </p>
         <Space size={25}>
-          <img src="/img/decorate/back.svg" onClick={() => history.back()} />
+          <img
+            src="/chushanxue/img/decorate/back.svg"
+            onClick={() => history.back()}
+          />
           {tags &&
             tags.map((item: any) => (
               <Tag color="purple" onClick={back} key={item}>

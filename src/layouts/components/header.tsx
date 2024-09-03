@@ -47,7 +47,7 @@ const Header: React.FC = () => {
             {weather ? (
               <Space>
                 <div className={styles.location}>
-                  <img src="/svg/location.svg" />
+                  <img src="/chushanxue/svg/location.svg" />
                 </div>
                 <Space direction="vertical" size={1}>
                   <span>{city.slice(0, city.length - 1)}</span>
