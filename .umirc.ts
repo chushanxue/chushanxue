@@ -4,7 +4,7 @@ const path = require('path');
 
 export default defineConfig({
   links: [{ rel: 'icon', href: './favicon.ico' }],
-  title: '兀米的技术小站(本地版)',
+  title: '宣禾的技术小站(本地版)',
   antd: {},
   access: {},
   model: {},

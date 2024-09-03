@@ -4,6 +4,6 @@ git config --global https.proxy 127.0.0.1:7891
 git config --global http.proxy 127.0.0.1:7891
 pnpm build:pre
 git add . 
-git commit -m "更改静态资源路径" --no-verify
+git commit -m "新增404页面" --no-verify
 # 只差git cz
 
