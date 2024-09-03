@@ -3,6 +3,8 @@
   "author": "YBY2020 <2289350377@qq.com>",
   "scripts": {
     "build": "max build",
+    "build:pre": "cross-env  UMI_ENV=prod max build",
+    "deploy": "npm run build:pre && gh-pages -d dist",
     "dev": "max dev",
     "format": "prettier --cache --write .",
     "postinstall": "max setup",
