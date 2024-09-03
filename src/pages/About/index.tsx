@@ -10,7 +10,7 @@ const About = () => {
   return (
     <>
       <div className={styles.about}>
-        <img src="/img/banner/about.svg" />
+        <img src="@/assets/img/banner/about.svg" />
       </div>
       <Row gutter={24}>
         <Col span={6}>

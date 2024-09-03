@@ -130,7 +130,7 @@ const Header: React.FC = () => {
             bottom: 0,
           }}
         />
-        <img src="/img/banner/post.svg" />
+        <img src="@/assets/img/banner/post.svg" />
         <div className={styles.tags}>
           <Row gutter={[16, 26]}>
             {intros.map((item) => {
