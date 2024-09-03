@@ -75,6 +75,6 @@ export default defineConfig({
   },
   mfsu: {},
   base: '/chushanxue/',
-  publicPath: '/chushanxue/',
+  // publicPath: '/chushanxue/',
   outputPath: 'docs',
 });
