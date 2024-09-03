@@ -1,0 +1,98 @@
+[
+  {
+    "name": "全部",
+    "intro": "学而时习之",
+    "color": "green"
+  },
+  {
+    "name": "成长",
+    "intro": "自己就是自己最好的陪伴",
+    "color": "green"
+  },
+  {
+    "name": "html5",
+    "intro": "html5是html最新的修订版本，HTML5将Web带入一个成熟的应用平台，在这个平台上，视频、音频、图像、动画以及与设备的交互都进行了规范。",
+    "color": "purple"
+  },
+  {
+    "name": "css",
+    "intro": "Cascading Style Sheet（层叠样式表）",
+    "color": "purple"
+  },
+  {
+    "name": "js/ts",
+    "intro": "轻量级的脚本语言",
+    "color": "purple"
+  },
+  {
+    "name": "vue",
+    "intro": "",
+    "color": "geekblue"
+  },
+  {
+    "name": "react",
+    "intro": "",
+    "color": "geekblue"
+  },
+  {
+    "name": "web APIs",
+    "intro": "Web API 是为了让开发者可以通过 JavaScript（也有例外）代码来操作浏览器本身提供的服务或功能。",
+    "color": "geekblue"
+  },
+  {
+    "name": "第三方库",
+    "intro": "",
+    "color": "geekblue"
+  },
+  {
+    "name": "node.js",
+    "intro": "Node.js项目标志着JavaScript可以用于服务器端编程，从此网站的前端和后端可以使用同一种语言开发。并且，Node.js可以承受很大的并发流量，使得开发某些互联网大规模的实时应用变得容易。",
+    "color": "red"
+  },
+  {
+    "name": "计算机网络",
+    "intro": "计算机网络对前端开发的重要性体现在网络通信、性能优化、安全性和跨域问题等方面。",
+    "color": "red"
+  },
+  {
+    "name": "工程化",
+    "intro": "通过一系列的开发规范和自动化工具提高开发效率和产品质量",
+    "color": "red"
+  },
+  {
+    "name": "性能",
+    "intro": "性能优化的目的，就是为了提供给用户更好的体验，这些体验包含这几个方面：展示更快、交互响应快、页面无卡顿情况。",
+    "color": "red"
+  },
+  {
+    "name": "安全",
+    "intro": "",
+    "color": "red"
+  },
+  {
+    "name": "高频算法",
+    "intro": "没有天才的思维，那么题海战术也是一种绝妙的战术，它不是用来解决一些问题的，而是用来解决更多问题的。",
+    "color": "red"
+  },
+
+  {
+    "name": "技术方案",
+    "intro": "谋定而后动，三思而后行",
+    "color": "blue"
+  },
+  {
+    "name": "工具",
+    "intro": "工欲善其事，必先利其器",
+    "color": "magenta"
+  },
+  {
+    "name": "产品",
+    "intro": "前端工程师应该掌握的产品思维",
+    "color": "magenta"
+  },
+  {
+    "name": "拓展",
+    "intro": "博采众长，深入浅出",
+    "color": "magenta"
+  }
+]

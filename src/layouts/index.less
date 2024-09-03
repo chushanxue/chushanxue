@@ -1,0 +1,9 @@
+.container {
+  max-width: 1400px;
+  margin: auto;
+  //解决因出现滚动条导致页面抖动
+  // 原理：100vw 包括滚动条   100%是可用宽度，不包含滚动条
+  // 当滚动条不出现的时候，计算后无padding，滚动条一出现，页面就会左移一个滚动条的宽度，那么此时放一个padding在那里卡住就无事发生啦
+  padding-left: calc(100vw - 100%);
+  position: relative;
+}

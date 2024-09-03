@@ -1,0 +1,14 @@
+node_modules
+dist
+mock
+chart
+public
+.vscode
+.idea
+/public
+/docs
+.husky
+/bin
+.eslintrc.js
+prettier.config.js
+.umirc.ts

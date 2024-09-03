@@ -1,0 +1,129 @@
+@font-face {
+  font-family: GEORGIA;
+  src: url('/fonts/GEORGIA.ttf');
+  font-style: normal;
+  font-stretch: ultra-expanded;
+}
+
+@font-face {
+  font-family: SourceHanSansCN;
+  src: url('/fonts/SourceHanSansCN-Normal.ttf');
+  font-style: normal;
+  font-stretch: ultra-expanded;
+}
+
+@font-face {
+  font-family: HL;
+  src: url('/fonts/鸿雷拙书简体.ttf');
+  font-style: normal;
+  font-stretch: ultra-expanded;
+}
+// 快去写作业
+@font-face {
+  font-family: KQ;
+  src: url('/fonts/CEFFontsCJK.ttf');
+  font-style: normal;
+  font-stretch: ultra-expanded;
+}
+// 寒蝉手拙体
+@font-face {
+  font-family: HCSZT-Regular;
+  src: url('/fonts/HCSZT-Regular.ttf');
+  font-style: normal;
+  font-stretch: ultra-expanded;
+}
+// 竹石体
+@font-face {
+  font-family: ZS;
+  src: url('/fonts/杨任东竹石体-Light.ttf');
+  font-style: normal;
+  font-stretch: ultra-expanded;
+}
+
+// 屏幕过小时
+@media screen and (max-width: 1440px) {
+  .header {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+
+.header {
+  border-top: 1px solid #dfdfe0;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .menu {
+      font-size: 25px;
+      // font-weight: bold;
+      font-family: HL !important;
+      color: black;
+    }
+
+    .menu:hover {
+      color: #52c41a;
+    }
+
+    .selected {
+      color: #faa219;
+    }
+
+    .logo {
+      img {
+        width: 140px;
+      }
+    }
+  }
+
+  .right {
+    .location {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 35px;
+      height: 35px;
+      background: #e3f3fd;
+      border-radius: 30px;
+
+      img {
+        width: 20px;
+        height: 20px;
+      }
+    }
+
+    span {
+      font-family: HL !important;
+      font-size: 14px;
+    }
+  }
+
+  .search {
+    width: 530px;
+    border-radius: 30px;
+  }
+}
+
+:global {
+  :where(.css-dev-only-do-not-override-1idjxlv).ant-switch:not(
+      .ant-switch-disabled
+    ) {
+    background-color: #faa219;
+  }
+
+  :where(.css-dev-only-do-not-override-1idjxlv).ant-switch.ant-switch-checked {
+    background: #00b96b !important;
+  }
+
+  :where(.css-dev-only-do-not-override-1idjxlv).ant-switch:hover:not(
+      .ant-switch-disabled
+    ) {
+    background-color: #faa219;
+  }
+}

@@ -1,0 +1,65 @@
+:global {
+  .ant-anchor-wrapper {
+    padding-block-start: 54px;
+  }
+
+  :where(.css-dev-only-do-not-override-3op25v).ant-anchor-wrapper:not(
+      .ant-anchor-wrapper-horizontal
+    )
+    .ant-anchor::before {
+    left: 7px;
+  }
+}
+
+.containerMax {
+  display: flex;
+  flex-direction: column;
+}
+
+.add {
+  margin-bottom: -10px;
+  margin-left: auto;
+  margin-right: 35px;
+}
+
+.container {
+  margin-bottom: 16px;
+  border-bottom: 1px solid #f7f7f7;
+  padding-bottom: 16px;
+
+  a {
+    color: #000;
+
+    &:hover {
+      color: #000 !important;
+    }
+  }
+}
+
+.wrapper {
+  // background: #fcfcfc;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 10%);
+  transition: transform 0.5s;
+  border: 1px solid #e6e6e6;
+
+  &:hover {
+    cursor: pointer;
+    transform: translateY(-3px);
+    // box-shadow: 0 13px 20px rgba(0, 0, 0, 10%);
+  }
+
+  .ico {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // background: #fcfcfc;
+  }
+}

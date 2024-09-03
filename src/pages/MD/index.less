@@ -1,0 +1,253 @@
+// 屏幕过小时，不显示目录
+@media screen and (max-width: 1440px) {
+  .mdNavigation {
+    display: none;
+  }
+
+  .container {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+
+.container {
+  :global {
+    .ant-space {
+      margin: auto;
+      // margin-bottom: 40px;
+    }
+
+    .ant-tag {
+      cursor: pointer;
+    }
+
+    .ant-space-item {
+      img {
+        height: 30px;
+        cursor: pointer;
+        transition: transform 0.2s;
+
+        &:hover {
+          transform: scale(1.2) translateX(-3px);
+        }
+      }
+
+      span {
+        font-family: KQ;
+        font-size: 16px;
+      }
+    }
+  }
+
+  .banner {
+    display: flex;
+    flex-direction: column;
+
+    p {
+      font-size: 20px;
+      font-family: HL;
+      text-align: center;
+    }
+
+    img {
+      height: 30px;
+      cursor: pointer;
+      transition: transform 0.2s;
+
+      &:hover {
+        transform: scale(1.2) translateX(-3px);
+      }
+    }
+  }
+
+  .mdNavigation {
+    z-index: 999;
+    width: 220px;
+    position: fixed;
+    left: 10px;
+    top: 150px;
+    border-radius: 5px;
+    // border: 1px solid #eee;
+    transform: translate(0);
+    transition: transform 0.5s ease;
+    background-color: #ffff;
+    // opacity: 0.5;
+    height: 80vh;
+    overflow: scroll;
+
+    .navTitle {
+      font-weight: 500;
+      // padding: 1.333rem 0;
+      // margin: 0 1.667rem;
+      display: none;
+      font-size: 16px;
+      line-height: 2rem;
+      color: #1d2129;
+      // border-bottom: 1px solid #e4e6eb;
+    }
+  }
+
+  .markdown {
+    position: relative;
+    padding: 15%;
+    padding-top: 0;
+    margin: auto;
+    // box-shadow:
+    //   0 7px 7px 0 rgb(0 0 0 / 10%),
+    //   0 17px 50px 0 rgb(0 0 0 / 5%);
+    // border: 1px solid #eee;
+
+    pre {
+      /* 控制代码框顶栏颜色、宽度、圆角等 */
+      background: rgb(246, 248, 250);
+      border-radius: 8px;
+      padding-top: 25px;
+      z-index: 998;
+      border: 0 !important;
+      margin: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      position: relative;
+      box-shadow: 1px 1px 4px -1px rgba(0, 0, 0, 30%);
+
+      div {
+        background-color: #f6f8fa !important;
+        margin: 0 !important;
+        border: 0 !important;
+        line-height: 24px !important;
+      }
+    }
+
+    pre::before {
+      /* 绘制三个小圆点 */
+      background: #fc625d;
+      border-radius: 50%;
+      box-shadow:
+        20px 0 #fdbc40,
+        40px 0 #35cd4b;
+      content: ' ';
+      height: 12px;
+      margin-top: -17px;
+      position: absolute;
+      left: 10px;
+      width: 12px;
+      z-index: 999;
+    }
+
+    // 有图片的p标签居中（突然失效--->因为仅支持105及以上版本的Chrome浏览器）
+    p:has(img) {
+      text-align: center;
+      margin: 0 auto;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    code {
+      margin: 0;
+      white-space: break-spaces !important;
+      background-color: #f6f8fa;
+      font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+      word-break: break-word;
+      border-radius: 2px;
+      font-size: 0.87em;
+      padding: 0.065em 0.4em;
+    }
+
+    p code {
+      background-color: #f6f8fa !important;
+      padding: 0.2em 0.4em;
+      font-size: 85%;
+      border-radius: 3px;
+      font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+    }
+
+    a {
+      // display: block;
+      text-decoration: none !important;
+      // border-bottom: 1px solid #755300;
+      padding: 0 0.4em;
+    }
+
+    mark {
+      background: #fae3dc;
+    }
+
+    summary {
+      text-align: center;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin-bottom: 1em;
+      margin-top: 2em;
+      padding-left: 10px;
+      border-left: 5px solid #916dd5;
+    }
+
+    li {
+      margin-bottom: 1em;
+      margin-top: 1em;
+      line-height: 2;
+    }
+
+    blockquote {
+      // background: #fff9f9;
+      background: rgb(223, 248, 231);
+      padding: 2px 20px;
+      // border-left: 4px solid #b2aec5;
+      border-radius: 4px;
+      color: rgb(53, 112, 71) !important;
+
+      a {
+        display: block;
+        color: rgb(53, 112, 71) !important;
+        text-decoration: underline !important;
+      }
+    }
+
+    p {
+      margin-top: 1em;
+      line-height: 2;
+    }
+
+    // 表格样式
+    table {
+      margin: 1rem 0;
+      display: block;
+      overflow-x: auto;
+      box-sizing: border-box;
+      text-indent: initial;
+      border-spacing: 2px;
+      border-color: gray;
+
+      tbody {
+        display: table-row-group;
+        // vertical-align: middle;
+        border-color: gray;
+      }
+
+      tr {
+        display: table-row;
+        // vertical-align: inherit;
+        border-color: inherit;
+        border-top: 1px solid #dfe2e5;
+      }
+
+      tr:nth-child(2n) {
+        background-color: #f6f8fa;
+      }
+
+      td,
+      th {
+        border: 1px solid #dfe2e5;
+        padding: 0.6em 1em;
+      }
+    }
+  }
+}

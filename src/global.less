@@ -1,0 +1,44 @@
+// 全局样式文件
+:root {
+  --spring-hover: #52c41a;
+  --spring-dispaly: #faa219;
+  // --spring-dispaly: rgb(53, 112, 71);
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+
+  /* 横向滚动条整体的样式 */
+  &::-webkit-scrollbar {
+    width: 1px; //隐藏滚动条（伪）
+  }
+
+  /* 滚动条滑道的背景色 */
+  &::-webkit-scrollbar-track {
+    background-color: #fff;
+  }
+
+  /* 滚动条手柄的样式 */
+  &::-webkit-scrollbar-thumb {
+    background-color: #e6ecf4;
+    border-radius: 10px;
+  }
+}
+
+.ant-btn-link,
+a {
+  text-decoration: none;
+  color: var(--spring-dispaly);
+}
+
+.ant-btn-link {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.ant-btn-link:hover,
+a:hover {
+  color: #52c41a !important;
+}

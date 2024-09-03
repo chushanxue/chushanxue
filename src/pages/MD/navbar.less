@@ -1,0 +1,68 @@
+.markdown-navigation {
+  width: 100%;
+  overflow: scroll;
+  z-index: 999;
+
+  .title-anchor {
+    display: block;
+    color: #bbb;
+    transition: all 0.2s;
+    margin: 0.8em 0;
+    font-weight: lighter;
+    line-height: 2em;
+    padding-right: 1.8em;
+    cursor: pointer;
+  }
+
+  .active {
+    color: var(--spring-hover) !important;
+  }
+
+  .title-anchor small {
+    margin: 0 0.8em;
+  }
+
+  .title-level1 {
+    color: #000;
+    font-size: 1.2em;
+    padding-left: 1em;
+    font-weight: normal;
+  }
+
+  .title-level2 {
+    color: #333;
+    font-size: 0.9em;
+    padding-left: 1em;
+    font-weight: normal;
+  }
+
+  .title-level3 {
+    color: #666;
+    font-size: 0.8em;
+    padding-left: 3em;
+    font-weight: normal;
+  }
+
+  .title-level4 {
+    color: #999;
+    font-size: 0.72em;
+    padding-left: 5em;
+  }
+
+  .title-level5 {
+    color: #aaa;
+    font-size: 0.72em;
+    padding-left: 7em;
+  }
+
+  .title-level6 {
+    color: #bbb;
+    font-size: 0.72em;
+    padding-left: 9em;
+  }
+}
+
+.markdown-navigation .title-anchor:hover,
+.markdown-navigation .title-anchor.active {
+  background-color: #fff;
+}

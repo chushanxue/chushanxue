@@ -1,0 +1,94 @@
+// 屏幕过小时
+@media screen and (max-width: 1440px) {
+  .container {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+
+  .banner {
+    display: flex;
+    flex-direction: column;
+
+    h1 {
+      margin-top: -1px;
+      font-weight: 800;
+      font-size: 76px;
+      margin-bottom: -1px;
+    }
+
+    .button-group {
+      display: flex;
+      align-items: baseline;
+      margin-top: 30px;
+      margin-left: 4px;
+
+      .start {
+        width: 150px;
+        margin-right: 50px;
+        box-shadow: 0 15px 20px rgba(68, 117, 242, 20%);
+      }
+
+      .slogan {
+        color: #686d77;
+        font-size: 14px;
+        letter-spacing: 2px;
+      }
+    }
+  }
+
+  .logo {
+    svg {
+      width: 700px;
+    }
+  }
+
+  .head {
+    font-size: 44px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 15px;
+    background: linear-gradient(220.55deg, #d7003a 0%, #19087e 100%);
+    background: linear-gradient(220.55deg, #ff8570 0%, #418cb7 100%);
+    background: linear-gradient(220.55deg, #ff5e98 0%, #0f213e 100%);
+    background-clip: text;
+    color: transparent;
+    position: relative;
+
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+
+      --color: rgba(255, 255, 255, 60%);
+
+      background-image: linear-gradient(
+        -45deg,
+        transparent 0%,
+        transparent 50%,
+        var(--color) 50%,
+        var(--color) calc(50% + 20px),
+        transparent calc(50% + 20px),
+        transparent 100%
+      );
+      background-size: 200%;
+      background-position: 70% 0;
+      animation: bg-run 2s linear infinite;
+    }
+
+    @keyframes bg-run {
+      to {
+        background-position: 25% 0;
+      }
+    }
+  }
+}
