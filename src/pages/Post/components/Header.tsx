@@ -1,3 +1,4 @@
+import { ReactComponent as PostImage } from '@/assets/img/banner/post.svg';
 import posts from '@/models/data/posts.json';
 import {
   CheckCircleOutlined,
@@ -130,7 +131,8 @@ const Header: React.FC = () => {
             bottom: 0,
           }}
         />
-        <img src="@/assets/img/banner/post.svg" />
+        {/* <img src={postImage} /> */}
+        <PostImage />
         <div className={styles.tags}>
           <Row gutter={[16, 26]}>
             {intros.map((item) => {
