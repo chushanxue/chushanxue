@@ -77,4 +77,5 @@ export default defineConfig({
   base: '/chushanxue/',
   publicPath: '/chushanxue/',
   outputPath: 'docs',
+  history: { type: 'hash' },
 });
