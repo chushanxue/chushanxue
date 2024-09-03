@@ -32,7 +32,7 @@ const Header: React.FC = () => {
           <Space size={40}>
             {/* logo */}
             <NavLink className={styles.logo} to="/">
-              <img src="/img/logo/logo3.svg" />
+              <img src="/chushanxue/img/logo/logo3.svg" />
             </NavLink>
             <Search
               placeholder="站内搜索"
