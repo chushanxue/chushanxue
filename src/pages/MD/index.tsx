@@ -1,3 +1,4 @@
+import { useBasePath } from '@/hooks/useBasePath';
 import { Helmet, history, useModel } from '@umijs/max';
 import { Space, Tag } from 'antd';
 import MarkNav from 'markdown-navbar';
@@ -30,7 +31,7 @@ const MD = () => {
     handleTags(tags);
     handleTime(time);
 
-    fetch(`/chushanxue/md/${title}.md`)
+    fetch(`${useBasePath()}/md/${title}.md`)
       .then((resp) => resp.text())
       .then((txt) => handleMD(txt));
   }, []);
@@ -56,7 +57,7 @@ const MD = () => {
         </p>
         <Space size={25}>
           <img
-            src="/chushanxue/img/decorate/back.svg"
+            src={useBasePath() + '/img/decorate/back.svg'}
             onClick={() => history.back()}
           />
           {tags &&

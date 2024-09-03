@@ -1,3 +1,4 @@
+import { useBasePath } from '@/hooks/useBasePath';
 import { getIP, getWeather } from '@/services/UseWeather';
 import { NavLink, useModel } from '@umijs/max';
 import { useMount } from 'ahooks';
@@ -13,6 +14,7 @@ const Header: React.FC = () => {
     useModel('useWeathers');
 
   useMount(() => {
+    console.log(useBasePath());
     getIP().then((res: any) => {
       if (res.adcode) {
         getWeather(res.adcode).then((res: any) => {
@@ -32,7 +34,7 @@ const Header: React.FC = () => {
           <Space size={40}>
             {/* logo */}
             <NavLink className={styles.logo} to="/">
-              <img src="/chushanxue/img/logo/logo3.svg" />
+              <img src={useBasePath() + '/img/logo/logo3.svg'} />
             </NavLink>
             <Search
               placeholder="站内搜索"
@@ -47,7 +49,7 @@ const Header: React.FC = () => {
             {weather ? (
               <Space>
                 <div className={styles.location}>
-                  <img src="/chushanxue/svg/location.svg" />
+                  <img src={useBasePath() + '/svg/location.svg'} />
                 </div>
                 <Space direction="vertical" size={1}>
                   <span>{city.slice(0, city.length - 1)}</span>

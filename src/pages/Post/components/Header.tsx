@@ -1,3 +1,4 @@
+import { useBasePath } from '@/hooks/useBasePath';
 import posts from '@/models/data/posts.json';
 import {
   CheckCircleOutlined,
@@ -130,7 +131,7 @@ const Header: React.FC = () => {
             bottom: 0,
           }}
         />
-        <img src="/chushanxue/img/banner/post.svg" />
+        <img src={useBasePath() + '/img/banner/post.svg'} />
 
         <div className={styles.tags}>
           <Row gutter={[16, 26]}>
@@ -149,7 +150,7 @@ const Header: React.FC = () => {
           <Divider />
           <p className={styles.intro}>
             {intro}
-            <img src="/chushanxue/img/decorate/pencil.svg" />
+            <img src={useBasePath() + '/img/decorate/pencil.svg'} />
           </p>
         </div>
       </a>

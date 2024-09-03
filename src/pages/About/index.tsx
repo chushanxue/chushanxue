@@ -1,3 +1,4 @@
+import { useBasePath } from '@/hooks/useBasePath';
 import posts from '@/models/data/posts.json';
 import { history } from '@umijs/max';
 import { Card, Col, Row, Statistic } from 'antd';
@@ -10,7 +11,7 @@ const About = () => {
   return (
     <>
       <div className={styles.about}>
-        <img src="/chushanxue/img/banner/about.svg" />
+        <img src={useBasePath() + '/img/banner/about.svg'} />
       </div>
       <Row gutter={24}>
         <Col span={6}>
