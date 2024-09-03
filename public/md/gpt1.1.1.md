@@ -142,30 +142,7 @@ const handleSearch = () => {
 
 ### 3、react的改造
 
-```js
-<div className={styles['chat-clues-panel-header']}>
-  {userInput?.length > 0 && inputClues?.length > 0 ? (
-    <List
-      size="small"
-      dataSource={inputClues}
-      renderItem={(item) => (
-        <List.Item onClick={() => sendAssociate(item)}>
-          <div
-            dangerouslySetInnerHTML={{
-              __html: item.replace(
-                userInput,
-                `<span style=" color: #1890ff ">${userInput}</span>`,
-              ),
-            }}
-          />
-        </List.Item>
-      )}
-    />
-  ) : (
-    ''
-  )}
-</div>
-```
+待补充js
 
 ```less
 .chat-clues-panel-header {
