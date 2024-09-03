@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[571],{51806:function(c,s,e){e.r(s);var n=e(92880),u=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("p",{children:"This is 404s"})})};s.default=u}}]);
