@@ -48,7 +48,7 @@ useEffect(() => {
 }, []); //注意避免闭包
 ```
 
-```jsx
+```js
 <Card
   bordered={false}
   style={{

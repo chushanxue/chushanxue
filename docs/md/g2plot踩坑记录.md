@@ -29,7 +29,7 @@
 
   保证每次**刷新**拿到最新的数据并渲染
 
-  ```jsx
+  ```js
     import React, { useEffect } from 'react';
     import { Line } from '@antv/g2plot';
 

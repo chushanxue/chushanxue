@@ -139,7 +139,7 @@ JavaScript 语言的每一个值，都属于某一种数据类型。JavaScript �
 
   只要变量要保存对象，而当时又没有那个对象可保存，就可用 null来填充该变量，<mark>这也是如何解决不想初始化对象的问题hhhh</mark>
 
-  ```tsx
+  ```js
   type Post = {
     title?: string;
     id?: number;

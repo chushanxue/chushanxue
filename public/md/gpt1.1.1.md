@@ -142,7 +142,7 @@ const handleSearch = () => {
 
 ### 3、react的改造
 
-```jsx
+```js
 <div className={styles['chat-clues-panel-header']}>
   {userInput?.length > 0 && inputClues?.length > 0 ? (
     <List

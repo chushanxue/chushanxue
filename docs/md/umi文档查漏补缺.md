@@ -139,7 +139,7 @@ Umi 可以通过**环境变量**来完成一些特殊的配置和功能。
 
 可以配合`ahooks`的`useLocalStorageState`实现**数据持久化**
 
-```ts
+```js
 // 普通用法
 import { useState } from 'react';
 

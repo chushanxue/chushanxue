@@ -31,7 +31,7 @@
 
 - 简单应用
 
-```ts
+```js
 // db.ts  单独的一个文件（【】内皆为自定义项）
 
 import Dexie from 'dexie';
@@ -64,7 +64,7 @@ export const db = new MySubClassedDexie();
 
 - 项目内使用
 
-```ts
+```js
 // ChatDB.ts
 
 import Dexie from 'dexie';
@@ -104,7 +104,7 @@ export class ChatDB extends Dexie {
 
 - 简单应用
 
-  ```ts
+  ```js
   import { db } from '../db';
 
   async function addFriend() {
@@ -122,7 +122,7 @@ export class ChatDB extends Dexie {
 
 - 项目内使用
 
-  ```ts
+  ```js
   const db = new ChatDB();
 
   async function createChat(item?: ChatOption) {

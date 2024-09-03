@@ -230,7 +230,7 @@ function WelcomeDialog() {
 
 <mark>通常用于修改路由页面的页签标题</mark>
 
-```jsx
+```js
 import { Helmet } from 'react-helmet';
 
 const comp = () => {
