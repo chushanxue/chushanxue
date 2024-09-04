@@ -105,6 +105,25 @@ useMount(() => {
 });
 ```
 
+### 四、语法
+
+#### 1、url()
+
+`url()`是一种 `CSS` 函数，用于包含文件
+
+在src属性中可以使用逗号分隔的URL列表，以达到多源加载、优先级控制的作用
+
+- 多源加载：通过提供多个URL，可以指定字体文件的多个来源。这样做可以增加字体加载的容错性和可靠性。如果第一个URL无法加载字体文件，浏览器将尝试加载下一个URL
+- 优先级控制：通过按顺序列出URL，您可以控制字体加载的优先级。如果第一个URL是本地文件路径，而第二个URL是远程文件路径，则本地文件将具有更高的优先级，并且将首选从本地加载字体。
+
+```css
+@font-face {
+  ...
+  src: url('/base/fonts/GEORGIA.ttf'), url('/fonts/GEORGIA.ttf');
+  ...
+}
+```
+
 ### 引用
 
 > [Everything About Auto in CSS](https://ishadeed.com/article/auto-css/)
