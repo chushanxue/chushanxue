@@ -2,11 +2,11 @@ import { useBasePath } from '@/hooks/useBasePath';
 import { getIP, getWeather } from '@/services/UseWeather';
 import { NavLink, useModel } from '@umijs/max';
 import { useMount } from 'ahooks';
-import { Input, Space } from 'antd';
+import { Space } from 'antd';
 import React from 'react';
 import styles from './header.less';
 
-const { Search } = Input;
+// const { Search } = Input;
 
 const Header: React.FC = () => {
   const onSearch = (value: string) => console.log('输入内容', value);
@@ -36,11 +36,11 @@ const Header: React.FC = () => {
             <NavLink className={styles.logo} to="/">
               <img src={useBasePath() + '/img/logo/logo3.svg'} />
             </NavLink>
-            <Search
+            {/* <Search
               placeholder="站内搜索"
               onSearch={onSearch}
               className={styles.search}
-            />
+            /> */}
           </Space>
         </div>
         {/* 右侧内容 */}

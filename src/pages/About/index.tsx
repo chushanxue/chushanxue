@@ -13,8 +13,8 @@ const About = () => {
       <div className={styles.about}>
         <img src={useBasePath() + '/img/banner/about.svg'} />
       </div>
-      <Row gutter={24}>
-        <Col span={6}>
+      <Row gutter={[16, 24]}>
+        <Col xs={12} sm={12} md={6} lg={6} xl={6}>
           <Card bordered={false}>
             {/* 2023目标：100 */}
             <Statistic
@@ -26,7 +26,7 @@ const About = () => {
           </Card>
         </Col>
 
-        <Col span={6}>
+        <Col xs={12} sm={12} md={6} lg={6} xl={6}>
           <Card bordered={false}>
             {/* 2023目标：2 */}
             <Statistic
@@ -37,7 +37,7 @@ const About = () => {
             />
           </Card>
         </Col>
-        <Col span={6}>
+        <Col xs={12} sm={12} md={6} lg={6} xl={6}>
           <Card bordered={false}>
             {/* 2023目标：5 */}
             <Statistic
@@ -49,7 +49,7 @@ const About = () => {
           </Card>
         </Col>
 
-        <Col span={6}>
+        <Col xs={12} sm={12} md={6} lg={6} xl={6}>
           <Card bordered={false} onClick={() => history.push('/contribute')}>
             {/* 2023目标：5 */}
             <Statistic

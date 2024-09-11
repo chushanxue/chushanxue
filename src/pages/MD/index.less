@@ -1,5 +1,4 @@
-// 屏幕过小时，不显示目录
-@media screen and (max-width: 1440px) {
+@media (max-width: 1440px) {
   .mdNavigation {
     display: none;
   }
@@ -7,6 +6,16 @@
   .container {
     margin-left: 100px;
     margin-right: 100px;
+  }
+}
+// 屏幕过小时，不显示目录
+@media (max-width: 600px) {
+  .mdNavigation {
+    display: none;
+  }
+  .container {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
