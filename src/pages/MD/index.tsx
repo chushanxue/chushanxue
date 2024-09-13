@@ -4,6 +4,7 @@ import { Space, Tag } from 'antd';
 import MarkNav from 'markdown-navbar';
 import querystring from 'querystring';
 import React, { useEffect, useState } from 'react';
+import { useLocation } from 'react-router-dom';
 import { icons } from './content';
 import style from './index.less';
 import Markdown from './Markdown';
@@ -14,13 +15,14 @@ const MD = () => {
   const [time, handleTime] = useState<any>();
   const [title, handleTitle] = useState<any>('');
   const { setTag } = useModel('usePost');
+  const location = useLocation();
   const back = (event: React.MouseEvent<HTMLSpanElement>) => {
     setTag(event.currentTarget.innerText);
     history.back();
   };
-  const queryParams = querystring.parse(location.search.slice(1));
 
   useEffect(() => {
+    const queryParams = querystring.parse(location.search.slice(1));
     const title = queryParams.title;
     if (!Array.isArray(queryParams.tags) && queryParams.tags) {
       queryParams.tags = [queryParams.tags];
@@ -34,7 +36,7 @@ const MD = () => {
     fetch(`${useBasePath()}/md/${title}.md`)
       .then((resp) => resp.text())
       .then((txt) => handleMD(txt));
-  }, [queryParams]);
+  }, [location.search]);
 
   return (
     <div className={style.container}>
