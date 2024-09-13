@@ -18,9 +18,9 @@ const MD = () => {
     setTag(event.currentTarget.innerText);
     history.back();
   };
+  const queryParams = querystring.parse(location.search.slice(1));
 
   useEffect(() => {
-    const queryParams = querystring.parse(location.search.slice(1));
     const title = queryParams.title;
     if (!Array.isArray(queryParams.tags) && queryParams.tags) {
       queryParams.tags = [queryParams.tags];
@@ -34,7 +34,7 @@ const MD = () => {
     fetch(`${useBasePath()}/md/${title}.md`)
       .then((resp) => resp.text())
       .then((txt) => handleMD(txt));
-  }, []);
+  }, [queryParams]);
 
   return (
     <div className={style.container}>

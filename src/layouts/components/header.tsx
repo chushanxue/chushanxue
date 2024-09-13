@@ -1,20 +1,33 @@
+import Clues from '@/components/Clues';
 import { useBasePath } from '@/hooks/useBasePath';
+import { useSearchPost } from '@/hooks/useSearchPost';
 import { getIP, getWeather } from '@/services/UseWeather';
-import { NavLink, useModel } from '@umijs/max';
+import { NavLink } from '@umijs/max';
 import { useMount } from 'ahooks';
-import { Space } from 'antd';
-import React from 'react';
+import { Input, Space } from 'antd';
+import React, { useState } from 'react';
 import styles from './header.less';
 
-// const { Search } = Input;
+const { Search } = Input;
 
 const Header: React.FC = () => {
-  const onSearch = (value: string) => console.log('输入内容', value);
-  const { city, weather, temperature, setCity, setWeather, setTemperature } =
-    useModel('useWeathers');
+  // const { city, weather, temperature, setCity, setWeather, setTemperature } =
+  //   useModel('useWeathers'); // todo 不要使用钩子 线上不显示的原因还不清楚
+  const [keyword, setKeyword] = useState<string>('');
+  const [matchPosts, setMatchPosts] = useState<any>([]);
+  const [city, setCity] = useState();
+  const [weather, setWeather] = useState();
+  const [temperature, setTemperature] = useState();
+
+  const onSearch = (value: string) => {
+    setKeyword(value);
+    // 异步promise的赋值方法
+    useSearchPost(value).then((matchedPosts) => {
+      setMatchPosts(matchedPosts);
+    });
+  };
 
   useMount(() => {
-    console.log(useBasePath());
     getIP().then((res: any) => {
       if (res.adcode) {
         getWeather(res.adcode).then((res: any) => {
@@ -36,11 +49,19 @@ const Header: React.FC = () => {
             <NavLink className={styles.logo} to="/">
               <img src={useBasePath() + '/img/logo/logo3.svg'} />
             </NavLink>
-            {/* <Search
-              placeholder="站内搜索"
-              onSearch={onSearch}
-              className={styles.search}
-            /> */}
+            <div className={styles.searchBar}>
+              <Search
+                placeholder="站内搜索"
+                onSearch={onSearch}
+                className={styles.search}
+              />
+              <Clues
+                keyword={keyword}
+                matchPosts={matchPosts}
+                cleanKeyword={() => setKeyword('')}
+                cleanMatchPosts={() => setMatchPosts([])}
+              />
+            </div>
           </Space>
         </div>
         {/* 右侧内容 */}
@@ -74,13 +95,13 @@ const Header: React.FC = () => {
             >
               技术博客
             </NavLink>
-            {/* <NavLink
+            <NavLink
               to="/nav"
               className={styles.menu}
               style={({ isActive }) => (isActive ? { color: '#faa219' } : {})}
             >
               资源导航
-            </NavLink> */}
+            </NavLink>
             {/* <NavLink
               to="/week"
               className={styles.menu}

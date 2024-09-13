@@ -1,0 +1,21 @@
+.chat-clues-panel-header {
+  position: absolute;
+  top: 35px;
+  width: 530px;
+  background: #fff;
+  z-index: 999;
+  .chat-clues-item {
+    display: flex;
+    flex-direction: column;
+    .chat-clues-item-desc {
+      font-size: 12px;
+      color: grey;
+    }
+  }
+  :global {
+    .ant-list-item {
+      padding: 10px;
+      cursor: pointer;
+    }
+  }
+}
