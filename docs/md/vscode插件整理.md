@@ -2,13 +2,13 @@
 
 代码片段是提升效率的一大利器，下面记录几个常用的插件
 
-1、
+#### 1、ES7+ React/Redux/React-Native
 
 ![ ](/md/vscode插件整理/1.png)
 
 tsx文件输入`rfc`(react function component)或者`rafc`(react arrow function component)
 
-2、
+#### 2、React Hooks Snippets
 
 ![ ](/md/vscode插件整理/2.png)
 

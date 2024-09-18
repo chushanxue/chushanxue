@@ -1,5 +1,3 @@
-![websocket](https://www.ruanyifeng.com/blogimg/asset/2017/bg2017051501.png)
-
 ### 一、概念
 
 `http` 协议缺陷：通信只能由客户端发起，服务器无法主动向客户端推送信息。所以客户端要获取服务器连续的状态变化，只能使用<mark>轮询</mark>。
@@ -55,27 +53,27 @@ ws.send('your message');
   - `CLOSING`：值为 2，表示连接正在关闭。
   - `CLOSED`：值为 3，表示连接已经关闭，或者打开连接失败。
 
-- `bufferedAmount`属性，表示还有多少字节的二进制数据没有发送出去。它可以用来判断发送是否结束。
+  ```js
+  switch (ws.readyState) {
+    case WebSocket.CONNECTING:
+      // do something
+      break;
+    case WebSocket.OPEN:
+      // do something
+      break;
+    case WebSocket.CLOSING:
+      // do something
+      break;
+    case WebSocket.CLOSED:
+      // do something
+      break;
+    default:
+      // this never happens
+      break;
+  }
+  ```
 
-```js
-switch (ws.readyState) {
-  case WebSocket.CONNECTING:
-    // do something
-    break;
-  case WebSocket.OPEN:
-    // do something
-    break;
-  case WebSocket.CLOSING:
-    // do something
-    break;
-  case WebSocket.CLOSED:
-    // do something
-    break;
-  default:
-    // this never happens
-    break;
-}
-```
+- `bufferedAmount`属性，表示还有多少字节的二进制数据没有发送出去。它可以用来判断发送是否结束。
 
 ### 三、心跳机制
 

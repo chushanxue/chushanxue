@@ -25,23 +25,6 @@
   };
   ```
 
-  ```js
-  var source = new EventSource(url);
-
-  source.onopen = function (event) {
-    // ...
-  };
-
-  source.onmessage = function (event) {
-    var data = event.data;
-    // handle message
-  };
-
-  source.onerror = function (event) {
-    // handle error event
-  };
-  ```
-
 - 拿到sse接口传回来的数据这一步，与普通的fetch请求也并无不同
 
   ```js
@@ -90,30 +73,6 @@
   }
   ```
 
-  ```js
-  const reader = body.getReader();
-  let count = 0;
-
-  while (true) {
-    const { done, value } = await reader.read();
-
-    if (!value) {
-      count++;
-      if (count === 1000) {
-        reader.cancel();
-        break;
-      }
-    }
-
-    if (done) {
-      reader.cancel();
-      break;
-    }
-
-    // 数据处理
-  }
-  ```
-
 - 完整的代码
 
   这里主要讲一下`try..catch`在本次请求中的作用，解答之前的疑惑：**网络异常不是可以通过status去处理吗，为什么还需要通过`try..catch`去处理**
@@ -138,6 +97,7 @@
         // 其他异常都归为网络异常
         addResponse('网络异常，请稍后重试');
       }
+      // 全局状态
       setTalkTime(null);
   }
   ```
@@ -166,7 +126,96 @@
 
 ```js
 const eventSource = new EventSource('xxxx');
-eventSource.onmessage = ({ data }) => {
-  console.log('New message', JSON.parse(data));
+
+eventSource.onopen = function (event) {
+  // ...
 };
+
+eventSource.onmessage = function (event) {
+  var data = event.data;
+  // handle message
+};
+
+eventSource.onerror = function (event) {
+  // handle error event
+};
+```
+
+### 五、实践思路
+
+#### 1、断流问题分析
+
+在流式输出的过程中，有三种情况前端会停止输出：
+
+- 明确给出done标识
+- 网络异常
+- 解析数据结构失败
+
+#### 2、思路
+
+后端给的数据结构是固定的，都是data对象，每一次可能收到多个data对象，拆分出来后，就可以拆解中间我们需要的字段
+
+当我们存储流式数据时，start标志是实现流式的核心，一旦有了start标志，就新开一个对象去接受它，start的后面的数据都陆续写入改对象，直到新的start出现，type是UI展示的核心，不同的type展示的位置和性质不一样，这也是agent实现的核心
+
+#### 3、具体代码
+
+```js
+// 使用换行符 \n 拆分原始数据，并过滤掉空字符串元素
+const dataStrings = text.split('\n').filter((line) => line.trim() !== '');
+
+// 去除"data:"前缀，并解析字符串数组为 JSON 对象数组
+// 注意，能解析为正常对象的才解析，所以需要isJSON方法（注意这一步还没有剔除null）
+const dataArray = dataStrings.map((dataString) => {
+  const trimmedDataString = dataString.replace('data:', '').trim();
+  return isJSON(trimmedDataString) ? JSON.parse(trimmedDataString) : null;
+});
+
+// 开始解析对象数组
+for (let item of dataArray) {
+  // 绕过null
+  if (item === null) {
+    continue;
+  }
+  // 与后端约定的结束标志
+  if (item.event === 'end') {
+    //结束整体的解析
+    ...
+  }
+  // 与后端约定的消息开始标志
+  if (item.event === 'message_start') {
+    addResponseStart({
+      content: item.content,
+      type: item.type,
+      answerId: item.answerId,
+    });
+  }
+  // 与后端约定的消息中间标志（其实没有必要有结束标志，有开始标志就可以了）
+  else if (item.event === 'message' || item.event === 'message_end') {
+    addResponse({
+      content: item.content,
+      type: item.type,
+      answerId: item.answerId,
+    });
+  }
+}
+```
+
+```js
+// 判断一个字符串是否为 JSON 格式
+export const isJSON = (str: string) => {
+  if (typeof str === 'string') {
+    try {
+      let obj = JSON.parse(str);
+      if (typeof obj === 'object' && obj) {
+        return true;
+      } else {
+        return false;
+      }
+    } catch (e) {
+      return false;
+    }
+  }
+  return false;
+};
+
 ```

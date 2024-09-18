@@ -124,6 +124,19 @@ useMount(() => {
 }
 ```
 
+#### 2、v-html 里的样式不受控制
+
+补充知识：vue组件中的 `style` 如果设置为 `scoped`，那么 `style` 不会应用到 `v-html` 中
+
+```js
+<div v-html="md.render(test)" class="md" />
+
+// 使用 deep scoped 来实现对v-html的样式应用
+.md >>> a {
+  color: #1890ff;
+}
+```
+
 ### 引用
 
-> [Everything About Auto in CSS](https://ishadeed.com/article/auto-css/)
+> [Everything About Auto in CSS](https://ishadeed.com/article/auto-css/)>[vue 中控制v-html 中的样式，但不影响全局的小技巧](https://juejin.cn/post/6844903569334747150)

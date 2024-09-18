@@ -1,14 +1,6 @@
 ![indexedDb](https://www.wangbase.com/blogimg/asset/201807/bg2018070401.png)
 
-### 一、参阅
-
-- [中文教程](https://www.tangshuang.net/3735.html#title-1)
-- [MDN（web 技术文档）](https://developer.mozilla.org/zh-CN/docs/Web/API/IndexedDB_API/Using_IndexedDB)
-- [阮一峰](https://www.ruanyifeng.com/blog/2018/07/indexeddb.html)
-- [Dexie.js](https://dexie.org/)
-- [vue 使用 dexie.js](https://dexie.org/docs/Tutorial/Vue)
-
-### 二、概念
+### 一、概念
 
 #### 1、**现有的浏览器存储方案**
 
@@ -23,7 +15,7 @@
 
 `dexie.js` 是一个对浏览器 `indexexDB`的包装库，使得我们可以更方便地操作 `indexedDB`。
 
-### 三、Dexie.js 在 vue 中的使用（ts 版）
+### 二、Dexie.js 在 vue 中的使用（ts 版）
 
 #### 1、**创建 【db】.ts 文件**
 
@@ -141,6 +133,6 @@ export class ChatDB extends Dexie {
   }
   ```
 
-### 四、引用
+### 三、引用
 
-> [dexie.js 中文教程](https://blog.csdn.net/hjb2722404/article/details/118670300)
+> [dexie.js 中文教程](https://blog.csdn.net/hjb2722404/article/details/118670300)[中文教程](https://www.tangshuang.net/3735.html#title-1) [MDN（web 技术文档）](https://developer.mozilla.org/zh-CN/docs/Web/API/IndexedDB_API/Using_IndexedDB) [阮一峰](https://www.ruanyifeng.com/blog/2018/07/indexeddb.html) [Dexie.js](https://dexie.org/) [vue 使用 dexie.js](https://dexie.org/docs/Tutorial/Vue)
