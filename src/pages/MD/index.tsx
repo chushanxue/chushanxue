@@ -35,7 +35,14 @@ const MD = () => {
 
     fetch(`${useBasePath()}/md/${title}.md`)
       .then((resp) => resp.text())
-      .then((txt) => handleMD(txt));
+      .then((txt) => {
+        // 使用正则表达式替换文本中的路径
+        const updatedText = txt.replace(
+          /!\[ ]\(\/md/g,
+          `![ ](${useBasePath()}/md`,
+        );
+        handleMD(updatedText);
+      });
   }, [location.search]);
 
   return (

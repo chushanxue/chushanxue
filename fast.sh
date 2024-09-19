@@ -5,7 +5,7 @@ git config --global https.proxy 127.0.0.1:7891
 git config --global http.proxy 127.0.0.1:7891
 pnpm build:pre
 git add . 
-git commit -m "文章更新" --no-verify
+git commit -m "解决文章内部图片地址访问问题" --no-verify
 git push origin HEAD
 git config --global --unset http.proxy  
 git config --global --unset https.proxy  
