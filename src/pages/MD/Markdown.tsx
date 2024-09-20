@@ -35,6 +35,12 @@ const Markdown: React.FC<IMarkdownProps> = ({ children }) => {
             </code>
           );
         },
+        // 代替原linkTarget="_blank"方案
+        a: ({ node, href, children, ...props }) => (
+          <a href={href} target="_blank" rel="noopener noreferrer" {...props}>
+            {children}
+          </a>
+        ),
       }}
     >
       {children}

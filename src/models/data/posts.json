@@ -1,5 +1,12 @@
 [
   {
+    "title": "github使用指南",
+    "time": "2024/9/20",
+    "tag": ["工具"],
+    "status": 1,
+    "rate": 0
+  },
+  {
     "title": "博客部署记录",
     "time": "2024/9/3",
     "tag": ["工程化"],
@@ -501,7 +508,7 @@
     "title": "DOM详解",
     "time": "2023/6/2",
     "tag": ["web APIs"],
-    "status": 1,
+    "status": 0,
     "rate": 0
   },
   {
@@ -552,13 +559,6 @@
     "tag": ["js/ts"],
     "status": 0,
     "rate": 1
-  },
-  {
-    "title": "webrtc",
-    "time": "2023/5/15",
-    "tag": ["web APIs"],
-    "status": 0,
-    "rate": 0
   },
   {
     "title": "pinia",

@@ -1,6 +1,8 @@
 import { useBasePath } from '@/hooks/useBasePath';
+import { endSpeak, handleSpeak, trans } from '@/hooks/useRead';
+import { CustomerServiceOutlined } from '@ant-design/icons';
 import { Helmet, history, useModel } from '@umijs/max';
-import { Space, Tag } from 'antd';
+import { FloatButton, Space, Tag } from 'antd';
 import MarkNav from 'markdown-navbar';
 import querystring from 'querystring';
 import React, { useEffect, useState } from 'react';
@@ -45,6 +47,20 @@ const MD = () => {
       });
   }, [location.search]);
 
+  const [isRead, setIsRead] = useState<boolean>(false); //是否正在播放语音
+
+  const changeSpeek = () => {
+    if (!isRead) {
+      console.log('开始语音播报');
+      setIsRead(true);
+      handleSpeak(trans(md));
+    } else {
+      console.log('结束语音播报');
+      setIsRead(false);
+      endSpeak();
+    }
+  };
+
   return (
     <div className={style.container}>
       {/* 页签标题 */}
@@ -80,6 +96,14 @@ const MD = () => {
       </div>
       {/* 正文 */}
       <Markdown>{md}</Markdown>
+      {/* 朗读功能 */}
+      <FloatButton
+        shape="circle"
+        type="primary"
+        style={{ insetInlineEnd: 94 }}
+        icon={<CustomerServiceOutlined />}
+        onClick={() => changeSpeek()}
+      />
     </div>
   );
 };

@@ -21,8 +21,6 @@
 
 使用 `ts` 需在子类上明确表类型，以帮助 `db` 实例、其表和实体模型进行类型化
 
-- 简单应用
-
 ```js
 // db.ts  单独的一个文件（【】内皆为自定义项）
 
@@ -54,84 +52,23 @@ export const db = new MySubClassedDexie();
 
 ```
 
-- 项目内使用
+#### 2、数据库增删改查操作
 
 ```js
-// ChatDB.ts
+import { db } from '../db';
 
-import Dexie from 'dexie';
-// 类型文件单独存放
-import { ChatSettingOption, ChatPromptOption } from '@/types';
-// 变量统一命名
-const databaseName = 'ChatGPT';
-const lastVersion = 2;
-
-const prompt = [
-  '++id',
-  'promptCategoryId',
-  'name',
-  'order',
-  'message',
-].toString();
-
-const setting = ['++id', 'type'].toString();
-
-export class ChatDB extends Dexie {
-  /* 泛型语法，number是表内每条数据的主键的类型，（Dexie 同样允许我们在没有声明 primary key 索引字段的情况下
-  使用自增的整数作为默认 primary key 来操作数据。）*/
-  setting!: Dexie.Table<ChatSettingOption, number>;
-  prompt!: Dexie.Table<ChatPromptOption, number>;
-
-  constructor() {
-    super(databaseName);
-    this.version(lastVersion).stores({
-      setting,
-      prompt,
+async function addFriend() {
+  try {
+    const id = await db.friends.add({
+      name: '冥夜',
+      age: '500',
     });
+    //添加新数据成功
+  } catch (error) {
+    //添加新数据失败
   }
 }
 ```
-
-#### 2、数据库增删改查操作
-
-- 简单应用
-
-  ```js
-  import { db } from '../db';
-
-  async function addFriend() {
-    try {
-      const id = await db.friends.add({
-        name: '冥夜',
-        age: '500',
-      });
-      //添加新数据成功
-    } catch (error) {
-      //添加新数据失败
-    }
-  }
-  ```
-
-- 项目内使用
-
-  ```js
-  const db = new ChatDB();
-
-  async function createChat(item?: ChatOption) {
-    const chatItem: ChatOption = item ?? {
-      name: '新的会话',
-      order: 0,
-      sessionId: generateUUID(),
-      pageIndex: PAGE_INDEX.welcome,
-      prePageIndex: PAGE_INDEX.welcome,
-    };
-    // console.log("新建的item", chatItem);
-    await db.chat.put({ ...chatItem });
-
-    // 加载列表并打开第一个
-    await getAllChats();
-  }
-  ```
 
 ### 三、引用
 
