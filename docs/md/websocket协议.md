@@ -77,6 +77,94 @@ ws.send('your message');
 
 ### 三、心跳机制
 
-### 四、引用
+心跳机制解决的问题：**onclose事件无法检测到连接断开的所有情况**，比如信号不好，或者网络临时性关闭，则无法及时得知连接已经断开。
 
-> [封装一套前端几乎通用的 WebSocket 代码](https://blog.csdn.net/nbaqq2010/article/details/108992288)
+心跳机制实现原理：**发送websocket数据到后端，一旦请求超时，onclose便会执行**，这时候便可进行绑定好的重连操作
+
+```js
+// gpt示例代码
+let socket;
+
+function connect() {
+  socket = new WebSocket('wss://example.com/socket');
+
+  socket.onopen = function () {
+    console.log('WebSocket连接已建立');
+    startHeartbeat();
+  };
+
+  socket.onclose = function (event) {
+    console.log('WebSocket连接已关闭');
+    reconnect();
+  };
+
+  socket.onerror = function (error) {
+    console.error('WebSocket发生错误:', error);
+    reconnect();
+  };
+
+  socket.onmessage = function (event) {
+    console.log('收到消息:', event.data);
+    // 处理收到的消息
+  };
+}
+
+function startHeartbeat() {
+  setInterval(function () {
+    if (socket.readyState === WebSocket.OPEN) {
+      socket.send('ping');
+    }
+  }, 5000); // 每5秒发送一次心跳包
+}
+
+function reconnect() {
+  setTimeout(function () {
+    console.log('尝试重新连接...');
+    connect();
+  }, 3000); // 等待3秒后重新连接
+}
+
+connect();
+```
+
+### 四、实际应用（以vue为例）
+
+```js
+// socket.ts文件
+// 创建ws连接
+const useWebsocket = () => {
+  const ws: any = ref(null);
+
+  const createWebSocket = (url: string) => {
+    ws.value = new WebSocket(url);
+    return ws.value;
+  };
+
+  // 关闭 WebSocket
+  const closeWebSocket = () => {
+    ws.value?.close();
+  };
+
+  return {
+    createWebSocket,
+    closeWebSocket
+  };
+};
+export default useWebsocket;
+```
+
+```ts
+const { closeWebSocket, createWebSocket } = useWebsocket();
+
+// 写在开启时机中
+createWebSocket('ws地址').onmessage = (e: any) => {
+  console.log('接收到', e.data);
+  // 这里是接收到消息后的处理
+};
+// 写在关闭时机中
+closeWebSocket();
+```
+
+### 五、引用
+
+> [封装一套前端几乎通用的 WebSocket 代码](https://blog.csdn.net/nbaqq2010/article/details/108992288)[初探和实现websocket心跳重连](https://juejin.cn/post/6844903734170894343?from=search-suggest)
