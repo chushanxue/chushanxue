@@ -19,7 +19,7 @@ const Status = [
 ];
 
 const DocsPage: React.FC = () => {
-  const { post, sort } = useModel('usePost');
+  const { post, sort, setQuestion } = useModel('usePost');
 
   // 拼接博客标题
   const mergeTitle = (index: number, title: string, desc: string) => {
@@ -68,15 +68,16 @@ const DocsPage: React.FC = () => {
           {(item, index) => (
             <List.Item
               key={item.title}
-              onClick={() =>
+              onClick={() => {
+                setQuestion(item.question);
                 history.push(
                   `/md?${querystring.stringify({
                     title: item.title,
                     tags: item.tag,
                     time: item.time,
                   })}`,
-                )
-              }
+                );
+              }}
             >
               <span>
                 {mergeTitle(index, item.title, item.desc || '')}

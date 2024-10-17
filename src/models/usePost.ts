@@ -3,6 +3,7 @@ import { useState } from 'react';
 import posts from './data/posts.json';
 
 interface Post {
+  question: string;
   rate?: number;
   title: string;
   desc?: string;
@@ -20,6 +21,8 @@ const usePost = () => {
   const [tag, setTag] = useState<string>('全部');
   // 当前文章tag描述
   const [intro, setIntro] = useState<string>('学而时习之');
+   // 当前文章提问
+   const [question, setQuestion] = useState<string>('');
   // 当前文章排序  true倒序 false正序
   const [sort, setSort] = useState<boolean>(true);
   // 当前文章状态 0 已完成 1 未完成 2 有疑问
@@ -29,6 +32,8 @@ const usePost = () => {
     setPost,
     intro,
     setIntro,
+    question, 
+    setQuestion,
     sort,
     setSort,
     tag,

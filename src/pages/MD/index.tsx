@@ -1,6 +1,6 @@
 import { useBasePath } from '@/hooks/useBasePath';
 import { endSpeak, handleSpeak, trans } from '@/hooks/useRead';
-import { CustomerServiceOutlined } from '@ant-design/icons';
+import { QuestionCircleOutlined } from '@ant-design/icons';
 import { Helmet, history, useModel } from '@umijs/max';
 import { FloatButton, Space, Tag } from 'antd';
 import MarkNav from 'markdown-navbar';
@@ -16,7 +16,7 @@ const MD = () => {
   const [tags, handleTags] = useState<any>(['']);
   const [time, handleTime] = useState<any>();
   const [title, handleTitle] = useState<any>('');
-  const { setTag } = useModel('usePost');
+  const { setTag, question, tag } = useModel('usePost');
   const location = useLocation();
   const back = (event: React.MouseEvent<HTMLSpanElement>) => {
     setTag(event.currentTarget.innerText);
@@ -24,6 +24,8 @@ const MD = () => {
   };
 
   useEffect(() => {
+    console.log('question', question, tag);
+
     const queryParams = querystring.parse(location.search.slice(1));
     const title = queryParams.title;
     if (!Array.isArray(queryParams.tags) && queryParams.tags) {
@@ -96,13 +98,22 @@ const MD = () => {
       </div>
       {/* 正文 */}
       <Markdown>{md}</Markdown>
-      {/* 朗读功能 */}
-      <FloatButton
+      {/* 朗读功能  暂时不做了，语音很生硬*/}
+      {/* <FloatButton
         shape="circle"
         type="primary"
         style={{ insetInlineEnd: 94 }}
         icon={<CustomerServiceOutlined />}
         onClick={() => changeSpeek()}
+      /> */}
+      {/* 提问功能  待构思*/}
+      <FloatButton
+        badge={{ count: 12 }}
+        icon={<QuestionCircleOutlined />}
+        shape="circle"
+        type="primary"
+        tooltip={<div>{question}</div>}
+        style={{ insetInlineEnd: 94 }}
       />
     </div>
   );
