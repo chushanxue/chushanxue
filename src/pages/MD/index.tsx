@@ -1,8 +1,7 @@
 import { useBasePath } from '@/hooks/useBasePath';
-import { endSpeak, handleSpeak, trans } from '@/hooks/useRead';
 import { QuestionCircleOutlined } from '@ant-design/icons';
 import { Helmet, history, useModel } from '@umijs/max';
-import { FloatButton, Space, Tag } from 'antd';
+import { FloatButton, Popconfirm, Space, Tag } from 'antd';
 import MarkNav from 'markdown-navbar';
 import querystring from 'querystring';
 import React, { useEffect, useState } from 'react';
@@ -11,21 +10,38 @@ import { icons } from './content';
 import style from './index.less';
 import Markdown from './Markdown';
 import './navbar.less';
+
 const MD = () => {
   const [md, handleMD] = useState('loading... ...');
   const [tags, handleTags] = useState<any>(['']);
   const [time, handleTime] = useState<any>();
   const [title, handleTitle] = useState<any>('');
-  const { setTag, question, tag } = useModel('usePost');
+
+  const { setTag, question, post, setQuestion } = useModel('usePost'); //umi没有做到持久化缓存，所以一刷新这里的数据就没了
+  // 借助useLocalStorageState持久化缓存
+  // const [questionLocal, setQuestionLocal] = useLocalStorageState<string>(
+  //   'use-local-storage-state-question',
+  //   {
+  //     defaultValue: question,
+  //   },
+  // );
+
   const location = useLocation();
   const back = (event: React.MouseEvent<HTMLSpanElement>) => {
     setTag(event.currentTarget.innerText);
     history.back();
   };
 
-  useEffect(() => {
-    console.log('question', question, tag);
+  // 随机跳转一篇文章
+  const randomNext = () => {
+    const randomIndex = Math.floor(Math.random() * post.length);
+    setQuestion(post[randomIndex].question);
+    history.push(
+      `/md?${querystring.stringify({ title: post[randomIndex].title, tag: post[randomIndex].tag, time: post[randomIndex].time })}`,
+    );
+  };
 
+  useEffect(() => {
     const queryParams = querystring.parse(location.search.slice(1));
     const title = queryParams.title;
     if (!Array.isArray(queryParams.tags) && queryParams.tags) {
@@ -49,19 +65,19 @@ const MD = () => {
       });
   }, [location.search]);
 
-  const [isRead, setIsRead] = useState<boolean>(false); //是否正在播放语音
+  // const [isRead, setIsRead] = useState<boolean>(false); //是否正在播放语音
 
-  const changeSpeek = () => {
-    if (!isRead) {
-      console.log('开始语音播报');
-      setIsRead(true);
-      handleSpeak(trans(md));
-    } else {
-      console.log('结束语音播报');
-      setIsRead(false);
-      endSpeak();
-    }
-  };
+  // const changeSpeek = () => {
+  //   if (!isRead) {
+  //     console.log('开始语音播报');
+  //     setIsRead(true);
+  //     handleSpeak(trans(md));
+  //   } else {
+  //     console.log('结束语音播报');
+  //     setIsRead(false);
+  //     endSpeak();
+  //   }
+  // };
 
   return (
     <div className={style.container}>
@@ -107,14 +123,23 @@ const MD = () => {
         onClick={() => changeSpeek()}
       /> */}
       {/* 提问功能  待构思*/}
-      <FloatButton
-        badge={{ count: 12 }}
-        icon={<QuestionCircleOutlined />}
-        shape="circle"
-        type="primary"
-        tooltip={<div>{question}</div>}
-        style={{ insetInlineEnd: 94 }}
-      />
+      <Popconfirm
+        title="复习一下吧~"
+        description={<div className={style.question}>{question}</div>}
+        okText="我已掌握" //随机跳转下一篇
+        cancelText="再捋捋"
+        placement="topLeft"
+        onConfirm={randomNext}
+      >
+        <FloatButton
+          // 匹配question中有几个'/n'
+          badge={{ count: question?.split('\n')?.length || 0 }}
+          icon={<QuestionCircleOutlined />}
+          shape="circle"
+          type="primary"
+          style={{ insetInlineEnd: 94 }}
+        />
+      </Popconfirm>
     </div>
   );
 };
