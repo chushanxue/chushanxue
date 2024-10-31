@@ -23,6 +23,8 @@
 </div>
 ```
 
+<mark>注意这里使用的as any会让整个组件高亮失效，之前一直没找到原因，后面大佬说了才恍然大悟，类型也是会影响高亮的,解决方案是不要在html里面定义类型，放到js中</mark>
+
 ```css
 .add-modal {
   :deep(.ant-modal-body) {

@@ -1,10 +1,4 @@
-## 一、Vue3简介
-
-- 2020年9月18日，Vue.js发布3.0版本，代号：One Piece（海贼王）
-- 耗时2年多、[2600+次提交](https://github.com/vuejs/vue-next/graphs/commit-activity)、[30+个RFC](https://github.com/vuejs/rfcs/tree/master/active-rfcs)、[600+次PR](https://github.com/vuejs/vue-next/pulls?q=is%3Apr+is%3Amerged+-author%3Aapp%2Fdependabot-preview+)、[99位贡献者](https://github.com/vuejs/vue-next/graphs/contributors)
-- github上的tags地址：https://github.com/vuejs/vue-next/releases/tag/v3.0.0
-
-### Vue3带来了什么
+## 一、Vue3带来了什么
 
 1. 性能的提升
 
@@ -81,7 +75,7 @@
    npm run dev
    ```
 
-3. 使用其他开源模板创建
+3. 使用其他开源模板创建（更常用）
 
    如[SoybeanAdmin](https://docs.soybeanjs.cn/zh/)
 
