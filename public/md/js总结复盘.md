@@ -491,9 +491,24 @@ altKey：布尔值，是否同时按下 Alt 键，默认值为false。
 
 KeyboardEvent接口用来描述用户与键盘的互动。这个接口继承了Event接口，并且定义了自己的实例属性和实例方法。
 
-- eydown：按下键盘时触发。
-- eypress：按下有值的键时触发，即按下 Ctrl、Alt、Shift、Meta 这样无值的键，这个事件不会触发。对于有值的键，按下时先触发keydown事件，再触发这个事件。
-- eyup：松开键盘时触发该事件。
+- keydown：按下键盘时触发。
+- keypress：按下有值的键时触发，即按下 Ctrl、Alt、Shift、Meta 这样无值的键，这个事件不会触发。对于有值的键，按下时先触发keydown事件，再触发这个事件。
+- keyup：松开键盘时触发该事件。
+
+<mark>键盘事件两个注意点：</mark>
+
+- 在禁用原生键盘事件时，不要全局禁用，那么浏览器的快捷键就失效了，打字输入也失效了
+
+  ```js
+  const handleKeyDown = async (e: KeyboardEvent) => {
+  if (e.code === 'Tab') {
+    //禁用可以写在具体的键盘事件中
+    e.preventDefault();
+  }
+  };
+  ```
+
+- 注册键盘事件时，要注意不要放到被循环的子组件里，否则被循环几次，键盘事件就会被调用几次
 
 #### 5、窗口事件
 

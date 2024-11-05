@@ -86,6 +86,17 @@ Vue 的设计非常注重**灵活性**和**可以被逐步集成**
 
 如果data采用对象形式，多个实例对象之间的data会共用同一个内存地址，产生数据污染
 
+## 三、vue应用
+
+### 1、组件间通信的方法
+
+- props和v-model，父组件向子组件传递数据
+- $emit，子组件触发父组件的事件
+- ref 和 defineExpose，父组件使用子组件的事件和数据
+- provide 和 inject，父组件向所有子组件传递方法
+- pinia，状态管理库
+- mitt，事件总线（注意全局用一个事件总线，不要多次定义，不然事件没有注册到同一个总线上，使用的时候会出错）
+
 ## 引用
 
-> [web前端面试 - 面试官系列](https://vue3js.cn/interview/vue/vue.html#%E4%B8%80%E3%80%81%E4%BB%8E%E5%8E%86%E5%8F%B2%E8%AF%B4%E8%B5%B7)[Vue3和Vue2的区别](https://juejin.cn/post/7260748045309837349?searchId=202403232132412975BD815EE0FCBD2D39)
+> [web前端面试 - 面试官系列](https://vue3js.cn/interview/vue/vue.html#%E4%B8%80%E3%80%81%E4%BB%8E%E5%8E%86%E5%8F%B2%E8%AF%B4%E8%B5%B7)[Vue3和Vue2的区别](https://juejin.cn/post/7260748045309837349?searchId=202403232132412975BD815EE0FCBD2D39)[Vue3组件通信的7种方法，值得收藏！](https://juejin.cn/post/7280430881965080630#heading-6)
