@@ -39,6 +39,20 @@ chore：构建过程或辅助工具的变动
 【如果type为feat和fix，则该 commit 将肯定出现在 Change log 之中。其他情况（docs、chore、style、refactor、test）建议是不要。】
 ```
 
+<mark>11.20更新</mark>：(研发效能部提出的提交规范，解释更加易懂)
+
+```bash
+feat：表示在代码库中新增了一个功能（feature）；
+fix：表示在代码库中修复了一个 bug；
+docs：用于修改文档，例如修改 README 文件、API 文档等；
+style：用于修改代码的样式（不影响代码运行的变动，例如调整缩进、空格、空行、缺少分号等）；
+refactor：用于重构代码，例如修改代码结构、变量名、函数名等但不修改功能逻辑；
+test：用于修改测试用例，例如添加、删除、修改代码的测试用例等；
+chore：用于对非业务性代码进行修改，例如修改构建流程或者工具配置等；
+perf: 用于优化性能，例如提升代码的性能、减少内存占用等；
+build: 用于修改项目构建系统，例如修改依赖库、外部接口或者升级 Node 版本等；
+```
+
 #### 2、CHANGELOG
 
 <mark>发布新版本时，用来说明与上一个版本差异的文档</mark>
@@ -55,6 +69,15 @@ CHANGELOG 是一个记录软件项目版本变更的文档或文件。它通常�
 
   先行版本号及版本编译信息可以加到“主版本号.次版本号.修订号”的后面，作为延伸。
 
+#### 3、Git代码提交规范（来自研发效能部）
+
+- 避免一次性大量提交：每次提交的改动量尽量保持适中，以便于代码审查和回滚。
+- 先拉取最新代码：在提交前，先拉取远程仓库的最新代码，确保自己的改动是基于项目最新状态。
+- 新功能分支开发：新功能的开发应在单独的分支上进行，开发完成并经过测试后，再合并到主分支。
+- 有意义的提交说明：提交说明信息应包含足够的信息，以便他人能够迅速理解改动的目的和内容。
+- 遵循格式规范：严格按照下述提交信息结构进行编写，确保团队内部的一致性。
+- 每日推送：通常情况下，建议每天下班前将本地仓库推送到远程仓库。
+
 ### 二、工具
 
 - [commitizen](https://github.com/commitizen/cz-cli) 是一个撰写合格 `Commit message` 的工具。
@@ -70,6 +93,10 @@ npm install -g commitizen cz-conventional-changelog
 echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
 【该配置指定了 commitizen 使用的适配器路径为 cz-conventional-changelog】
 ```
+
+- git cz
+
+  `git cz`在使用过程中会有两个需要填写的地方，而第一个`What is the scope of this change?`一般是直接enter跳过，只填写后面的`Write a short, imperative tense description of  the change`，其实严格规范来说，第一个也是需要填写的，表明改动在哪个模块，如用户模块填写`user`
 
 ### 三、技巧整理
 
