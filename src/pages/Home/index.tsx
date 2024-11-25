@@ -6,7 +6,7 @@ import { history } from '@umijs/max';
 import { useMount } from 'ahooks';
 import { Button } from 'antd';
 import React, { useState } from 'react';
-import Timeline from './components/TimeLine';
+// import Timeline from './components/TimeLine';
 import styles from './index.less';
 
 const Home: React.FC = () => {
@@ -41,7 +41,7 @@ const Home: React.FC = () => {
           <SvgLogo />
         </div>
       </div>
-      <Timeline />
+      {/* <Timeline /> */}
     </>
   );
 };
