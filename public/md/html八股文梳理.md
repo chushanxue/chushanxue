@@ -21,6 +21,14 @@
 - `H5`是一个产品名词，包含了最新的`HTML5、CSS3、ES6`等新技术来制作的应用
 - `HTML5`是一个技术名词，指的就是第五代`HTML`
 
+#### 4、html5新特性
+
+- 新增语义化标签，head、footer、nav、main、section等
+- 新增表单类型属性，email、number、时间控件、color颜色拾取器、placeholder、autofocus自动获取焦点...
+- 新增音视频标签，video、audio
+- 新增canvas画布、websocket通信、拖拽等
+- 新增本地存储localStorage、sessionStorage
+
 ### 二、SEO
 
 注意：不开源的B端产品一般不需要做SEO
