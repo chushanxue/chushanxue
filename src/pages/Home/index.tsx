@@ -6,7 +6,6 @@ import { history } from '@umijs/max';
 import { useMount } from 'ahooks';
 import { Button } from 'antd';
 import React, { useEffect, useState } from 'react';
-// import Timeline from './components/TimeLine';
 import styles from './index.less';
 
 const Home: React.FC = () => {
@@ -16,6 +15,7 @@ const Home: React.FC = () => {
   });
 
   useEffect(() => {
+    // todo 待整理成hook及文档
     const fetchDeploymentTime = async () => {
       // 假设你有一个API返回你最后一次部署的时间
       // const response = await fetch(
