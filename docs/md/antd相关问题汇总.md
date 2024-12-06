@@ -36,3 +36,30 @@
 ```
 
 参考：https://blog.csdn.net/estrusKing/article/details/121203429
+
+### 4、针对组件禁用键盘事件
+
+不同的组件方案不一样，有的组件提供了keyboard属性,可以直接禁用
+
+```html
+<!-- 禁用了esc关闭弹窗事件 -->
+<AModal :keyboard="false"> </AModal>
+```
+
+有的组件只能通过点击事件禁用，手动让其失去焦点，才不会被键盘控制
+
+```html
+<ASwitch
+  v-model:checked="checked"
+  :autofocus="false"
+  @click="
+    (_checked, e: any) => {
+      console.log('e', e);
+      e.target.blur();
+      if (e.target.nodeName === 'SPAN') {
+        e.target.parentNode.blur();
+      }
+    }
+  "
+/>
+```
