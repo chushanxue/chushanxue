@@ -152,6 +152,18 @@ git checkout -b dev origin/master
 git push origin HEAD
 ```
 
-### 四、引用
+#### 6、分支合并
+
+基于某feat分支pull了一个自己的分支，改完后，想合并到dev，发现原feat分支带过来的某一个commit有冲突，回到本地，先rest HEAD~1，然后stash自己的改动，再git log找到有问题的commit，git reset 回滚到有问题的commit的上一个commit，再把刚刚stash的代码pop出来，此时有冲突的文件直接删除，然后**强制推送**到这个自己的分支，这时再去合到dev就只把自己新增功能这部分合过去了
+
+其实根本原因就是那个feat分支还没有合并到Dev，没有解决冲突，我们要做的不是解决冲突，而是回退掉没有合并的部分，只提交自己的改动
+
+### 四、git使用避坑
+
+- 1、千万不要在gitlab上处理代码冲突，不然会有意想不到的合并效果，会污染分支
+
+  当从自己的feat分支合并到Dev时，发现有冲突，冲突很小，所以以为可以通过线上的合并冲突解决，但操作后发现自己的分支完全被污染了，多了很多从dev过来的内容
+
+### 五、引用
 
 > [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html) [用Git久了，你会自动变基吗？](https://juejin.cn/post/7010390848584024101)
