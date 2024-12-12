@@ -115,3 +115,25 @@ const scrollConfig = computed(() => {
   };
 });
 ```
+
+### 6、重要的key
+
+许许多多关于**二次打开复现**的问题都可以用key来解决，有两种方案，一是antd提供的字段，会自动销毁，不需要用到key，如：
+
+```html
+<AModal destroy-on-close></AModal>
+```
+
+二是手动设置key，在合适的时机更改key
+
+```html
+<PhotoProvider :key="keyPhoto" @visible-change="imageChange"></PhotoProvider>
+```
+
+```js
+const imageChange = (data: any) => {
+  if (!data.visible.value) {
+    keyPhoto.value += 1;//手动更改key
+  }
+};
+```
