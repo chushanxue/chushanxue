@@ -63,3 +63,55 @@
   "
 />
 ```
+
+### 5、列表滚动样式
+
+```js
+const wrapperEl = (shallowRef < HTMLElement) | (null > null);
+const { height: wrapperElHeight } = useElementSize(wrapperEl);
+const scrollConfig = computed(() => {
+  return {
+    y: wrapperElHeight.value - 150,
+    x: 1500,
+  };
+});
+```
+
+```html
+<ATable :scroll="scrollConfig" />
+```
+
+x设置的值适中即可，对于没有长度突出的数据，基本设置好x的值就能完美展示了，针对长度突出的数据，需要单独调整：
+
+```jsx
+[
+  ...
+ {
+    title: '数据集名称1',
+    dataIndex: 'title',
+    // key: 'title',
+    customRender: ({ record }: any) => {
+      if (record.title) {
+        return (
+          <a-tooltip title={record.title}>
+              {record.title.slice(0, 15)}
+              {record.title.length > 15 ? '...' : ''}
+          </a-tooltip>
+        );
+      }
+      return EMPTY_TEXT;
+    }
+  },
+  ...]
+```
+
+max-content方案其实也可以，（给每个列设置最小宽度，最终宽度会由内容自动撑开）,但是调整起来太费时间了，而且会展示所有的数据，设置的省略也会失效（当然也可以结合上一种方法）
+
+```js
+const scrollConfig = computed(() => {
+  return {
+    y: wrapperElHeight.value - 150,
+    x: 'max-content',
+  };
+});
+```
