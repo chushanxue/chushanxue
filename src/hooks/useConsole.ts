@@ -1,4 +1,8 @@
 // 美化打印实现方法
+/* 
+注意：自定义console会丢失输出后面的在代码哪个文件多少行触发的一个关键因素，所以调试的时候灵活选择
+日常开发没必要使用，没有原生的打印使用起来有效率，作为库的一些内置打印信息优化展示不错
+*/
 export const prettyLog = () => {
   const isProduction = process.env.NODE_ENV === 'production';
 

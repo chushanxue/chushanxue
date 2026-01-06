@@ -30,7 +30,7 @@ const Home: React.FC = () => {
       );
       const data = await response.json();
       const lastCommit = data[0]; // 获取最近的提交信息
-      const commitDate = new Date(lastCommit.commit.committer.date);
+      const commitDate = new Date(lastCommit?.commit?.committer?.date) || 0;
       // 格式化时间
       const formattedDate = commitDate.toLocaleString();
       // 计算与今天相隔的天数以及是不是今天
@@ -40,7 +40,7 @@ const Home: React.FC = () => {
         ? Math.floor(timeDiff / (1000 * 60 * 60 * 24))
         : false;
       setUpdateTime(daysDiff);
-      // console.log(formattedDate, daysDiff, timeDiff);  不要忘记基础的写法
+      // console.log(formattedDate, daysDiff, timeDiff); //不要忘记基础的写法
       log.info('daysDiff', `${formattedDate}, ${daysDiff}, ${timeDiff}`); //挺好的，醒目，图片打印很实用
     };
 
