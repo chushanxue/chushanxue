@@ -12,11 +12,18 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 20
-          cache: npm
-      - run: npm install
+          #   cache: npm
+          cache: pnpm
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Build
-        run: npm build:pre
+        run: pnpm build:pre
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
