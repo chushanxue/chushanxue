@@ -27,12 +27,12 @@ const Home: React.FC = () => {
         {
           headers: {
             Authorization:
-              'Bearer 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', //此处需要频繁更新，一般只有30天有效期
+              'Bearer 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', //此处需要频繁更新，一般只有30天有效期
           },
         },
       );
       const data = await response.json();
-      setUpdateInfoList(data);
+      setUpdateInfoList(data || []);
       console.log('后端', data);
       const lastCommit = data[0]; // 获取最近的提交信息
       const commitDate = new Date(lastCommit?.commit?.committer?.date) || 0;
