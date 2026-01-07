@@ -14,18 +14,16 @@ interface Task {
 
 const TimeLine: React.FC<Iprops> = ({ UpdateInfoList }) => {
   console.log('UpdateInfoList', UpdateInfoList);
-  if (!UpdateInfoList.length) {
+  if (!UpdateInfoList?.length) {
     return null;
   }
-  const events: Task[] =
-    UpdateInfoList &&
-    UpdateInfoList?.slice(0, 10)?.map((item) => {
-      console.log('item', item);
-      return {
-        children: item?.commit?.message || 'No commit message',
-        color: 'blue', // 默认颜色，可根据需要调整
-      };
-    });
+  const events: Task[] = UpdateInfoList?.slice(0, 10)?.map((item) => {
+    console.log('item', item);
+    return {
+      children: item?.commit?.message || 'No commit message',
+      color: 'blue', // 默认颜色，可根据需要调整
+    };
+  });
 
   return (
     <Timeline mode="alternate" items={events} className={styles.timeLine} />
