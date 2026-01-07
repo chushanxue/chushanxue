@@ -85,7 +85,7 @@ const Home: React.FC = () => {
           <SvgLogo />
         </div>
       </div>
-      <Timeline UpdateInfoList />
+      <Timeline UpdateInfoList={UpdateInfoList} />
     </>
   );
 };
