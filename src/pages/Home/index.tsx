@@ -24,12 +24,13 @@ const Home: React.FC = () => {
     const fetchDeploymentTime = async () => {
       const response = await fetch(
         'https://api.github.com/repos/chushanxue/chushanxue/commits',
-        {
-          headers: {
-            Authorization:
-              'Bearer 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', //此处需要频繁更新，一般只有30天有效期
-          },
-        },
+        // 不需要token，也能直接访问github api，但有频率限制，一小时60次
+        // {
+        //   headers: {
+        //     Authorization:
+        //       `Bearer ${{ secrets.WF_TOKEN }}`, //此处需要频繁更新，一般只有30天有效期
+        //   },
+        // },
       );
       const data = await response.json();
       setUpdateInfoList(data || []);
