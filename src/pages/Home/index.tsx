@@ -7,10 +7,13 @@ import { history } from '@umijs/max';
 import { useMount } from 'ahooks';
 import { Button } from 'antd';
 import React, { useEffect, useState } from 'react';
+import Timeline from './components/TimeLine';
 import styles from './index.less';
 
 const Home: React.FC = () => {
   const [updateTime, setUpdateTime] = useState<any>(false);
+  const [UpdateInfoList, setUpdateInfoList] = useState<any>([]);
+
   // 创建打印对象
   const log = prettyLog();
   useMount(() => {
@@ -24,13 +27,16 @@ const Home: React.FC = () => {
         {
           headers: {
             Authorization:
-              'Bearer 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',
+              'Bearer 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', //此处需要频繁更新，一般只有30天有效期
           },
         },
       );
       const data = await response.json();
+      setUpdateInfoList(data);
+      console.log('后端', data);
       const lastCommit = data[0]; // 获取最近的提交信息
       const commitDate = new Date(lastCommit?.commit?.committer?.date) || 0;
+      // const commitInfo = lastCommit?.commit?.message || '';
       // 格式化时间
       const formattedDate = commitDate.toLocaleString();
       // 计算与今天相隔的天数以及是不是今天
@@ -40,6 +46,8 @@ const Home: React.FC = () => {
         ? Math.floor(timeDiff / (1000 * 60 * 60 * 24))
         : false;
       setUpdateTime(daysDiff);
+      // setUpdateInfo(commitInfo);
+      // console.log('后端', data, commitInfo);
       // console.log(formattedDate, daysDiff, timeDiff); //不要忘记基础的写法
       log.info('daysDiff', `${formattedDate}, ${daysDiff}, ${timeDiff}`); //挺好的，醒目，图片打印很实用
     };
@@ -63,6 +71,7 @@ const Home: React.FC = () => {
             </Button>
             <p className={styles['slogan']}>
               {!updateTime && Locale.Home.Slogan}
+              {/* {!updateTime && `（${UpdateInfo}）`} */}
               {!updateTime && <SmileTwoTone twoToneColor="#52c41a" />}
               {updateTime && `已经${updateTime}天没有更新博客啦`}
               {updateTime && <FrownTwoTone twoToneColor="#faa219" />}
@@ -76,7 +85,7 @@ const Home: React.FC = () => {
           <SvgLogo />
         </div>
       </div>
-      {/* <Timeline /> */}
+      <Timeline UpdateInfoList />
     </>
   );
 };

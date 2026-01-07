@@ -3,6 +3,10 @@ import { Timeline } from 'antd';
 import React from 'react';
 import styles from './index.less';
 
+interface Iprops {
+  UpdateInfoList: any[]; //commit信息列表
+}
+
 interface Task {
   dot?: React.ReactNode;
   children: string;
@@ -31,7 +35,8 @@ const events: Task[] = [
   },
 ];
 
-const TimeLine: React.FC = () => {
+const TimeLine: React.FC<Iprops> = ({ UpdateInfoList }) => {
+  
   return (
     <Timeline mode="alternate" items={events} className={styles.timeLine} />
   );
