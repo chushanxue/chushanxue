@@ -43,8 +43,6 @@
 </html>
 ```
 
-![ ](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_object_model/Using_the_Document_Object_Model/using_the_w3c_dom_level_1_core-doctree.jpg)
-
 ### 3、Node 接口
 
 浏览器提供一个原生的节点对象 Node，所有节点都继承了 Node，因此具有一些共同的属性和方法。这是`DOM`操作的基础。

@@ -176,7 +176,7 @@ console.log(a); // [1, 2, 3, 4, 5]
 
 ```js
 let arr = [1, 5, 6];
-//注意这个i是索引不是值，知道索引就知道值，但是知道值不一定知道索引
+//注意这个i是索引不是值，知道索引就知道值，但是知道值不一定知道索引，以及这个i是string类型，不是number
 for (let i in arr) {
   console.log(i);
   console.log(arr[i]);
