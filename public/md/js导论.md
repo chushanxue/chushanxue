@@ -100,6 +100,101 @@
 
 `Node.js` 项目标志着 `JavaScript` 可以用于服务器端编程，从此网站的前端和后端可以使用同一种语言开发。并且，`Node.js` 可以承受很大的并发流量，使得开发某些互联网大规模的实时应用变得容易。
 
-### 四、引用
+### 四、常见问题
+
+#### 1、闭包
+
+闭包是指**函数能够记住并访问其词法作用域**。
+
+关键特征：函数嵌套函数、内部函数引用外部函数的变量、外部函数执行完毕后，内部函数仍能访问那些变量
+
+- 延续局部变量的寿命
+
+  ```js
+  function outerFunction() {
+    let outerVariable = 'I am outside!';
+
+    function innerFunction() {
+      console.log(outerVariable); // 访问外部函数的变量
+    }
+
+    return innerFunction; // 返回内部函数
+  }
+
+  let myInnerFunction = outerFunction(); // outerFunction 执行完毕
+  // 正常情况下，outerVariable 应该被垃圾回收
+  // 但由于闭包，它仍然存在
+  myInnerFunction(); // 仍然可以访问 outerVariable，输出: 'I am outside!'
+  ```
+
+  - ✅ 函数嵌套函数（innerFunction 在 outerFunction 内）
+  - ✅ 内部函数引用了外部函数的变量（innerFunction 访问 outerVariable）
+  - ✅ 外部函数执行完毕后，内部函数仍能访问外部变量
+
+  在上述代码中，`innerFunction` 是一个闭包。尽管 `outerFunction` 已经执行完毕，但 `innerFunction` 仍然可以访问 `outerVariable`。 这是因为当 `innerFunction` 被创建时，它保存了一个指向 `outerFunction` 的作用域的引用。
+
+  ```js
+  function createMultiplier(multiplyBy) {
+    // multiplyBy 参数也会被闭包"记住"
+    return function (number) {
+      return number * multiplyBy;
+    };
+  }
+
+  const double = createMultiplier(2);
+  const triple = createMultiplier(3);
+
+  console.log(double(5)); // 10，还记得 multiplyBy = 2
+  console.log(triple(5)); // 15，还记得 multiplyBy = 3
+
+  // 即使 createMultiplier 早已执行完毕
+  // double 和 triple 仍然记得各自的 multiplyBy 值
+  ```
+
+- useEffect 中的闭包陷阱与解决方案
+
+  - 定时器中的旧值
+
+    useEffect 只在组件挂载时执行一次（空依赖数组），回调函数形成了闭包，捕获了初始的 count = 0，后续所有定时器回调都使用这个旧的 count 值
+
+  ```js
+  function Counter() {
+    const [count, setCount] = useState(0);
+
+    useEffect(() => {
+      const timer = setInterval(() => {
+        console.log(count); // 永远输出 0！
+        setCount(count + 1); // 永远设置成 1！
+      }, 1000);
+
+      return () => clearInterval(timer);
+    }, []); // 空依赖数组
+
+    return <div>Count: {count}</div>;
+  }
+  ```
+
+  方案1：添加正确的依赖项,即添加 count 作为依赖
+
+  方案2：使用函数式更新
+
+  ```js
+  function Counter() {
+    const [count, setCount] = useState(0);
+
+    useEffect(() => {
+      const timer = setInterval(() => {
+        // 使用函数式更新，不依赖闭包中的 count
+        setCount((prevCount) => prevCount + 1);
+      }, 1000);
+
+      return () => clearInterval(timer);
+    }, []); // 空依赖，只在挂载时执行
+
+    return <div>Count: {count}</div>;
+  }
+  ```
+
+### 五、引用
 
 > [阮一峰 JavaScript 教程](https://www.bookstack.cn/read/javascript-tutorial/docs-basic-introduction.md)

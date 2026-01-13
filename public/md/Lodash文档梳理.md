@@ -21,7 +21,7 @@ import cloneDeep from 'lodash/cloneDeep';
 import { cloneDeep } from 'lodash-es';
 ```
 
-对于lodash，知道有这么一个库，知道怎么用就可以了（vueuse也是如此）
+对于lodash，知道有这么一个库，知道怎么用就可以了（vueuse、ahooks也是如此）
 
 ### 引用
 

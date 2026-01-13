@@ -1,11 +1,15 @@
-![indexedDb](https://www.wangbase.com/blogimg/asset/201807/bg2018070401.png)
-
 ### 一、概念
 
 #### 1、**现有的浏览器存储方案**
 
-- `Cookie`：大小不超过 4KB，且每次请求都会发送回服务器
-- `LocalStorage`：在 2.5MB 到 10MB 之间（各家浏览器不同），而且不提供搜索功能，不能建立自定义的索引
+![ ](/md/web数据持久化方案IndexedDB/0.png)
+
+⭐重点记住
+
+- `Cookie`：大小不超过 4KB，且每次请求都会发送回服务器，可以设置过期时间，作用域是域名下，适用于身份验证
+- `LocalStorage`：在 5MB 到 10MB 之间，而且不提供搜索功能，不能建立自定义的索引，生命周期是永久，除非手动清除，作用域是域名下，适用于用户偏好信息保存
+- `SessionStorage`：在 5MB 到 10MB 之间，作用域是单个标签页，标签关闭时清除，适用于临时信息保存
+- `IndexedDB`: ≥250MB，是浏览器提供的本地数据库，适用于大量结构化数据，生命周期是永久，除非手动清除，作用域是域名下
 
 #### 2、**IndexedDB**
 
@@ -13,7 +17,7 @@
 
 #### 3、**Dexie.js**
 
-`dexie.js` 是一个对浏览器 `indexexDB`的包装库，使得我们可以更方便地操作 `indexedDB`。
+`dexie.js` （/'deksɪ/）是一个对浏览器 `indexexDB`的包装库，使得我们可以更方便地操作 `indexedDB`。
 
 ### 二、Dexie.js 在 vue 中的使用（ts 版）
 

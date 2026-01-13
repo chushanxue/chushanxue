@@ -299,3 +299,121 @@ module.exports = {
   // ...
 };
 ```
+
+## 十一、受控组件和非受控组件
+
+在 React 中，表单元素有两种方式来管理状态：受控组件和非受控组件。
+
+- 受控组件是指表单输入元素的值由 React 组件的状态（state）控制。也就是说，表单的数据被存储在组件的状态中，并且任何对表单元素值的更改都要通过状态更新来实现。
+
+- 非受控组件是指表单输入元素的值由 DOM 自身处理，React 通过 ref 属性来获取其值。非受控组件往往在不需要频繁与 React 组件状态同步的情况下使用。
+
+## 十二、React18的自动批处理
+
+“批处理” 是 React 的一种性能优化机制：当多次状态更新（如连续调用setState、useState更新函数）在 “**同一事件循环**” 中触发时，React 会将这些更新合并为一次重新渲染，避免多次渲染带来的性能开销。
+
+```js
+// React 17/18 中，在onClick（React事件）内的状态更新会被批处理
+function Counter() {
+  const [count, setCount] = useState(0);
+
+  const [name, setName] = useState('React');
+
+  const handleClick = () => {
+    // 连续触发2次状态更新
+
+    setCount(count + 1);
+
+    setName('React 18');
+
+    // React会合并为1次渲染，而不是2次
+  };
+
+  console.log('组件渲染了'); // 点击按钮后，仅打印1次
+
+  return (
+    <div>
+      <p>Count: {count}</p>
+
+      <p>Name: {name}</p>
+
+      <button onClick={handleClick}>更新</button>
+    </div>
+  );
+}
+```
+
+<mark>React 17 的痛点：批处理 “不彻底”</mark>
+
+```js
+// React 17 中，setTimeout内的状态更新不会被批处理
+
+function Counter() {
+  const [count, setCount] = useState(0);
+
+  const [name, setName] = useState('React');
+
+  const handleClick = () => {
+    setTimeout(() => {
+      // 连续触发2次状态更新，但React 17不会批处理
+
+      setCount(count + 1);
+
+      setName('React 17');
+
+      // React 17会触发2次渲染，打印2次“组件渲染了”
+    }, 1000);
+  };
+
+  console.log('组件渲染了');
+
+  return (
+    <div>
+      <p>Count: {count}</p>
+
+      <p>Name: {name}</p>
+
+      <button onClick={handleClick}>更新</button>
+    </div>
+  );
+}
+```
+
+React 18 通过 “自动批处理” 解决了上述痛点：无论状态更新在什么场景触发（React 事件、setTimeout、Promise.then、原生事件等），都能自动合并为一次渲染，实现了 “全场景批处理”。
+
+将上面的案例放到 React 18 中运行：
+
+```js
+// React 18 中，setTimeout内的状态更新会被自动批处理
+
+function Counter() {
+  const [count, setCount] = useState(0);
+
+  const [name, setName] = useState('React');
+
+  const handleClick = () => {
+    setTimeout(() => {
+      setCount(count + 1);
+
+      setName('React 18');
+
+      // React 18会合并为1次渲染，仅打印1次“组件渲染了”
+    }, 1000);
+  };
+
+  // React 18 运行结果：点击按钮 1 秒后，“组件渲染了” 仅打印 1 次，性能大幅优化。
+  console.log('组件渲染了');
+
+  return (
+    <div>
+      <p>Count: {count}</p>
+
+      <p>Name: {name}</p>
+
+      <button onClick={handleClick}>更新</button>
+    </div>
+  );
+}
+```
+
+> [React v18.0](https://zh-hans.react.dev/blog/2022/03/29/react-v18)[React 18 新特性实战：自动批处理（Automatic Batching）怎么用？](https://blog.csdn.net/devr_ChangJin/article/details/151047445)

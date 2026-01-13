@@ -51,10 +51,6 @@
 
 注意，不需要提前准备好文件夹
 
-目录结构：
-
-![ ](https://nextjs.org/_next/image?url=%2Fdocs%2Flight%2Ftop-level-folders.png&w=3840&q=75)
-
 ### 二、nextJs优化
 
 Next.js 附带各种内置优化，旨在提高应用程序的速度和核心 Web 生命力
