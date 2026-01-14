@@ -48,7 +48,7 @@
 
   原理：B小区（服务器）告诉保安（浏览器）：“我允许A小区的访客进来”
 
-  前端：几乎不用做特殊处理，正常发请求即可
+  前端：必须了解<mark>和CORS相关的、**简单请求及复杂请求**的、**响应**头</mark>
 
 - JSONP（只支持get）
 
@@ -89,6 +89,8 @@ HTTP + 加密 + 认证 + 完整性保护 = HTTPS
 
 ### 四、HTTP复杂请求和简单请求
 
+在涉及到**CORS**的请求中，我们会把请求分为简单请求和复杂请求。
+
 - 简单请求
 
   - 请求方法只能是GET、POST或HEAD。（其他方法都是复杂请求：PUT, DELETE, PATCH, CONNECT, OPTIONS, TRACE）
@@ -100,6 +102,61 @@ HTTP + 加密 + 认证 + 完整性保护 = HTTPS
 
   - 不满足简单请求的都是复杂请求
   - 复杂请求需要发送预检请求
+
+#### 1、CORS有哪些关键请求头
+
+> ⚠️注意：使用vite代理转发时，因为Vite代理会帮你处理这些响应头。代理服务器转发请求时，相当于前端和代理是同域，浏览器不会触发跨域检查，所以不管简单还是复杂请求，都不用前端手动配置CORS响应头了。（这也是为什么在项目中从来没有配置过这些的原因）
+
+分为浏览器发送和服务器返回两类
+
+- 浏览器发送的请求头：
+
+  - Origin：所有CORS请求都带，表示请求来源
+  - Access-Control-Request-Method：预检请求特有，说明要用的方法
+  - Access-Control-Request-Headers：预检请求特有，说明要用的自定义头
+
+- 服务器返回的响应头：
+
+  - Access-Control-Allow-Origin：允许的源（必需）
+  - Access-Control-Allow-Methods：允许的方法（预检响应）
+  - Access-Control-Allow-Headers：允许的头（预检响应）
+  - Access-Control-Allow-Credentials：是否允许凭证
+  - Access-Control-Expose-Headers：前端能访问的额外响应头
+  - Access-Control-Max-Age：预检结果缓存时间
+
+#### 2、携带Cookie的CORS请求需要前端、后端、浏览器三方配合
+
+- ✅ 前端：设置credentials: 'include'
+- ✅ 后端：设置Access-Control-Allow-Credentials: true
+- ✅ 后端：Access-Control-Allow-Origin必须是具体域名（不能是\*）
+- ✅ Cookie本身：需要正确的SameSite属性
+
+#### 3、预检的结果是怎么返回的
+
+核心机制：预检请求返回空响应体+特定状态码+响应头
+
+预检请求通过`OPTIONS`方法发送，服务器通过HTTP响应返回预检结果。返回机制包括三个方面：
+
+- 状态码：必须返回2xx状态码（通常是204 No Content或200 OK）
+- 响应头：必须在响应头中包含CORS相关信息
+- 响应体：通常为空（推荐204 No Content无响应体），也可以包含内容但浏览器会忽略。
+
+```js
+# 预检请求（浏览器发送）
+OPTIONS /api/data HTTP/1.1
+Host: api.example.com
+Origin: https://frontend.com
+Access-Control-Request-Method: PUT
+Access-Control-Request-Headers: content-type, authorization
+
+# ✅ 正确的预检响应
+HTTP/1.1 204 No Content  # 或 200 OK
+Access-Control-Allow-Origin: https://frontend.com
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: content-type, authorization
+Access-Control-Allow-Credentials: true  # 如果需要凭证
+Access-Control-Max-Age: 600
+```
 
 ### 五、HTTP强制缓存和协商缓存
 
@@ -114,4 +171,4 @@ HTTP + 加密 + 认证 + 完整性保护 = HTTPS
 
 ### 引用
 
-> [四、HTTP复杂请求和简单请求](https://juejin.cn/post/7229573641373286459)
+> [四、HTTP复杂请求和简单请求](https://juejin.cn/post/7229573641373286459) [什么是简单请求和复杂请求](https://segmentfault.com/a/1190000022601274)

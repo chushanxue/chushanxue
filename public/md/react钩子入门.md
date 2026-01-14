@@ -448,40 +448,96 @@ React 18是在22年发布的，现有项目更新到18只需要一行命令`npm 
 
 > react在新版本没有直接废弃掉旧的render api，一是用户更新会更加丝滑，不会出现更新一款应用就crash的问题，二是为了更方便用户做ab测试。升级react，会自动带来很多性能提升，整体来说很建议升级
 
-#### 1、automatic batching（自动批量state更新，减少渲染次数）
-
-在 React 18 之前，“**状态更新批处理**” 仅在 React 自身触发的事件（如onClick、onChange）中生效，而在setTimeout、Promise.then或原生事件中，状态更新会触发多次渲染，导致性能浪费。
-
-React 18 的自动批处理（Automatic Batching） 彻底解决了这个问题 —— 无论状态更新在什么场景触发，都能自动合并为一次渲染，大幅优化性能。
-
-<mark>具体的代码案例见react文档查漏补缺</mark>
-
-#### 2、flushsync
-
-automatic batching是默认开启的，当然如果你不想进行batch update，也可以使用react-dom提供的flushSync方法（但react官方不建议这么做）
-
-flushSync 允许你强制 React 在提供的回调函数内同步刷新任何更新，这将确保 DOM 立即更新。(大多数时候都不需要使用 flushSync，请将其作为最后的手段使用。)
-
-```js
-import { flushSync } from 'react-dom';
-
-function handleClick() {
-  flushSync(() => {
-    // react has updated the DOM by now
-    setCount((count) => count + 1);
-  });
-  flushSync(() => {
-    // react has updated the DOM by now
-    setCount((f) => !f);
-  });
-}
-```
-
-#### 3、⭐⭐⭐cocurrent mode（并发渲染模式）
+#### 1、⭐⭐⭐cocurrent mode（并发渲染模式）
 
 ![ ](/md/react钩子入门/1.png)
 
-之前版本的渲染模型是线性的
+之前版本的渲染模型是**线性**的，渲染都是一个接着一个被触发，并且只要被触发了就无法终止
+
+新版本的渲染模型发生了本质上的变化：
+
+- 渲染可以被中断、暂停，终止
+- 渲染可以在后台进行
+- 渲染可以有优先级（开发者决定哪部分渲染是低优先级的，也就是可以被暂停中断的，哪部分渲染是高优先级的，需要在主线程，也就是不可被中断的，react会在内部调度，来保证并发模式下UI的一致性，这样一来，即便有大型渲染任务也不会卡住UI，可以给用户带来更流畅的体验）
+  > 官方并不期待每一位开发者了解这背后的实现细节，取而代之的是，希望大家对这个事情有个认知，因为底层的渲染模型发生了根本的改变，并发模型会成为后来许多功能的基础，比如我们后来提到的suspense transitions,可以不清楚原理，但需要在更高层次上，对这个东西有一定的了解
+- cocurrent不是新功能，而是一种新的底层机制
+
+#### 2、⭐⭐⭐ useTransition（控制渲染优先级）
+
+**基于cocurrent mode**，react18新增了suspense transitions，可以控制渲染优先级，从而实现更流畅的UI交互
+
+**默认的每一次都是高优先级**，react18提供两个新的api：
+
+- useTransition（hook场景使用）
+- startTransition（非hook场景使用）
+
+  ```js
+  //非hook场景
+  import { useTransition, startTransition } from 'react';
+
+  setInputValue(input); //搜索文字
+
+  // 包裹低优先级更新
+  startTransition(() => {
+    setSearchQuery(input); //搜索结果列表
+  });
+
+  //hook场景
+  // isPending表示这个次优先级渲染是否正在等待中
+  // 如果需要标记某些渲染是低优先级的，可以用上述两个api把更新操作包裹起来，这样react就能在内部明确渲染的调度逻辑
+  const [isPending, startTransition] = useTransition();
+  ```
+
+  实际案例（非常有助于理解）
+
+  ![ ](/md/react钩子入门/2.png)
+
+  这个例子是最常见的搜索+渲染结果列表的场景，用户每敲一次键盘就会触发一次搜索，一旦搜索结果很多，渲染列表就会卡住，连带着输入框的渲染都会卡住，用户就会觉得很卡（我敲了字，反应却这么慢）
+
+  以前我们可以用**防抖、虚拟列表**来处理，但也没法带来完美的用户体验
+
+  渲染下方的列表和渲染上方的输入框中的文字具有相同的优先级，react会一个挨着一个的处理这些渲染请求，因为都忙着渲染下方1000个列表元素，根本没有时间渲染上方输入框中的文字，所以就给了用户一种很卡的感觉
+
+  <mark>react18解决方案：优先响应input的渲染，其次响应列表渲染，一次都是关于「优先级」</mark>
+
+  ```js
+  // 我们可以将列表更新的逻辑包裹在useTransition中，这样就不会阻塞输入框的渲染了
+  const [isPending, startTransition] = useTransition();
+
+  const onchange = (e) => {
+    setInputValue(e.target.value); //搜索文字
+    startTransition(() => {
+      setSearchQuery(e.target.value); //搜索结果列表
+    });
+  };
+  ```
+
+  <mark>总结：transition用于区别渲染优先级/应对同时有大量渲染的情况</mark>
+
+#### 3、⭐⭐⭐suspense组件
+
+过去我们是如何获取数据并渲染的？
+
+- fetch on render渲染时请求：在useEffect中获取数据，然后调用setState更新（一般我们在useEffect调用接口获取数据，然后用steState更新，继而引发重新渲染本组件）
+
+  > 这就是我们常用的请求方式，但这种方式有个问题，我们一共触发了两次请求，如果每次请求需要3秒，那么完整的渲染就需要6秒，这种现象在react内部被称为“waterfall”，本该被并行执行的，变成了线性执行的，这种现象非常常见，也很容易解决，使用**promise.all**的**并行**特性
+
+- fetch then render（获取数据后渲染）
+
+  ```js
+  // 我们可以让两个请求并行执行，直到数据都获取完毕再 render UI，这样加载的时间就被缩短
+  // 但又会出现一个问题，promise.all会等待两个请求同时完成后，才会同时进行state update，也就是说任意单独一个请求完成的时候，我们都不能进行这部分UI的渲染
+  useEffect(() => {
+    promise.all((data) => {
+      setUser(data.user);
+      setPosts(data.posts);
+    });
+  }, []);
+  ```
+
+- fetch as your render(suspense边渲染边获取数据)
+
+  这个的话记住一个核心，suspense**包裹**需要异步获取数据的组件，在**fallback**中渲染一个loading状态，当数据获取完毕后，loading状态就会消失，组件就会被渲染出来，具体的看b站的视频，这里不展开了，那里说得很清楚
 
 ### 五、引用
 

@@ -14,7 +14,9 @@
 
 > 当然对于不可避免的耗时操作（如：繁重的运算，多重循环），HTML5 提出了 Web Worker，它会在当前 JavaScript 的执行主线程中利用 Worker 类新开辟一个额外的线程来加载和运行特定的 JavaScript 文件，这个新的线程和 JavaScript 的主线程之间并不会互相影响和阻塞执行，而且在 Web Worker 中提供了这个新线程和 JavaScript 主线程之间数据交换的接口：postMessage 和 onMessage 事件。但在 HTML5 Web Worker 中是不能操作 DOM 的，任何需要操作 DOM 的任务都需要委托给 JavaScript 主线程来执行，所以虽然引入 HTML5 Web Worker，但仍然没有改线 JavaScript 单线程的本质。
 
-### 三、`JavaScript` 与生俱来的特性：异步与回调
+<mark>JavaScript是**单线程**语言，通过**事件循环**处理**异步操作**</mark>
+
+### 三、同步任务与异步任务
 
 - 同步任务是那些没有被引擎挂起、在主线程上排队执行的任务。只有前一个任务执行完毕，才能执行后一个任务。
 
@@ -43,15 +45,7 @@
 
 ### 四、任务队列和事件循环
 
-`JavaScript` 运行时，除了一个正在运行的主线程，引擎还提供一个**任务队列**（`task queue`），里面是各种需要当前程序处理的异步任务。（实际上，根据异步任务的类型，存在多个任务队列。为了方便理解，这里假设只存在一个队列。）
-
-首先，主线程会去执行所有的同步任务。等到同步任务全部执行完，就会去看任务队列里面的异步任务。如果满足条件，那么异步任务就重新进入主线程开始执行，这时它就变成同步任务了。等到执行完，下一个异步任务再进入主线程开始执行。一旦任务队列清空，程序就结束执行。
-
-**异步任务的写法通常是回调函数**。一旦异步任务重新进入主线程，就会执行对应的回调函数。如果一个异步任务没有回调函数，就不会进入任务队列，也就是说，不会重新进入主线程，因为没有用回调函数指定下一步的操作。
-
-`JavaScript` 引擎怎么知道异步任务有没有结果，能不能进入主线程呢？答案就是引擎在不停地检查，一遍又一遍，只要同步任务执行完了，引擎就会去检查那些挂起来的异步任务，是不是可以进入主线程了。这种循环检查的机制，就叫做**事件循环**（`Event Loop`）。
-
-事件循环（`Event Loop`）是 `JavaScript` 实现异步的具体解决方案，也是 **js 的执行机制**。
+主线程执行同步代码，异步任务被放入任务队列。
 
 ```js
 DOM事件就是一个重要的异步过程（注意这个例子跟上面提到的I/O操作不同）
@@ -62,8 +56,21 @@ button.addEventListener('click', function (e) {
 });
 
 当addEventListener方法被js主线程执行的时候，回调不会被执行
-但click事件发生（状态变更），回调函数就会被放入消息队列，等待js主线程来执行
+但click事件发生（状态变更），回调函数就会被放入任务队列，等待js主线程来执行
 ```
+
+#### 1、宏任务和微任务
+
+任务队列中的任务也分为两种，分别是：宏任务（Macro-take）和微任务（Micro-take）
+
+- 宏任务主要包括：**setTimeout**、**setInterval**、I/O、UI渲染
+- 微任务主要包括：Promise.then(重点关注)、process.nextTick(Node.js)、MutaionObserver
+
+任务队列的执行过程是：先执行一个宏任务，执行过程中如果产出新的宏/微任务，就将他们推入相应的任务队列，之后在执行所有微任务，然后再执行宏任务，如此循环。以上不断重复的过程就叫做 Event Loop(事件循环)。（这个过程由JavaScript引擎通过持续轮询检查来实现）
+
+⭐面试常问：事件循环宏任务和微任务执行数量分别是多少
+
+每个事件循环迭代中： 执行 **1个** 宏任务，会执行 **所有** 微任务 
 
 ### 五、异步操作的模式
 
@@ -131,4 +138,4 @@ timerID = setTimeout(() => submit(), 100);
 
 ### 七、引用
 
-> [异步操作概述-阮一峰](https://wangdoc.com/javascript/async/general) [关于 JavaScript 单线程的一些事](https://github.com/JChehe/blog/blob/master/posts/%E5%85%B3%E4%BA%8EJavaScript%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B.md) [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.cn/post/6844903512845860872) [进程和线程-廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400/1017627212385376)
+> [异步操作概述-阮一峰](https://wangdoc.com/javascript/async/general) [关于 JavaScript 单线程的一些事](https://github.com/JChehe/blog/blob/master/posts/%E5%85%B3%E4%BA%8EJavaScript%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B.md) [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.cn/post/6844903512845860872) [进程和线程-廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400/1017627212385376) [一次搞懂-JS事件循环之宏任务和微任务](https://juejin.cn/post/6873424205791100942)

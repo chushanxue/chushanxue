@@ -103,3 +103,150 @@
   ```
 
 - 标签重叠
+
+### 三、面试考点准备（含echarts、g2plot）
+
+#### 1、ECharts和AntV设计上有什么根本区别？
+
+- ECharts
+  - 配置驱动 (Configuration-Driven)
+  - 开箱即用，通过配置对象描述图表
+  - 像组装乐高，给你预制的组件，按说明书拼装
+- AntV
+  - 声明式语法 (Declarative Grammar)
+  - 图形语法，数据到图形的映射
+- AntV_G2plot
+  - 配置驱动 + 语法糖
+  - 在G2基础上封装，提供类似ECharts的配置API
+
+#### 2、技术选型考量
+
+- 社区、文档是否全面
+- 性能：加载大数据量的能力
+- 框架是否有持续更新
+- 公司内部是否有使用
+- 满足业务需求
+
+因为团队UI基于Ant Design定制，AntV的G2Plot和现有UI设计稿风格统一，不用额外调整样式，而且G2Plot文档清晰，能快速实现折线图、柱状图这些业务需要的图表，所以选了它。
+
+#### 3、g2plots
+
+"G2Plot"中的 G2 即意指图形语法 (the Gramma of Graphics)
+
+- 开箱即用、默认好用的高质量统计图表
+- 提炼自企业级产品的视觉语言和设计规范
+- 响应式图表：致力于解决图表在任何数据和显示尺寸下的基本可读性问题
+- 图层化设计方法：在 G2Plot 体系下，图表不仅仅只是各不相关的实例，图层概念的引入提供了多图表组合叠联动，共同讲述一个数据故事的可能性
+
+#### 4、大数据渲染优化
+
+- 数据聚合：比如按天汇总**小时级数据**，减少数据点数量。
+- 另外G2Plot本身有内置的优化，比如开启canvas渲染模式，或者设置sampling采样配置，这些都能提升大数据量下的渲染速度。
+- 通过**useEffect**依赖数组控制图表**重绘**时机，只在数据更新时才重新渲染，避免无效重绘（而且能避免接口异步无数据前的样式问题）
+
+#### 5、图表组件封装经验
+
+> 比如在AI数据看板里，需要多处展示不同维度的时间趋势数据，像**标注量按日趋势、审核量按日趋势**，这时候封装折线图组件，接收x轴字段、y轴字段和数据，就能在不同地方复用，不用重复写配置。而且团队UI统一，封装时把Ant Design的主题样式内置进去，复用的时候直接传数据就行，符合业务里“快速搭建多个趋势图表”的需求。
+
+- 主要从UI层面和业务逻辑层面考虑，封装过通用业务的折线图
+
+- ⭐⭐⭐封装时用了React的useRef存图表实例，避免重复创建。
+
+  - 性能问题
+  - 闪烁问题（图表平滑过渡到新数据，无闪烁，体验好，不会出现图表消失、白屏或空白的闪烁问题）
+  - 状态丢失（只更新数据保留：所有交互状态，动画连续性，用户操作记录）
+
+- props接收数据和基础配置，比如x轴字段、y轴字段，在useEffect里监听数据变化，调用chart.changeData更新。
+
+- 还处理了组件卸载时销毁实例，防止内存泄漏。
+
+- 另外就是，封装时加过通用的配置项，比如图表标题或者图例位置
+
+```jsx
+// 最简单的折线图组件
+import React, { useEffect, useRef } from 'react';
+import { Line } from '@antv/g2plot';
+
+const SimpleLineChart = ({
+  data = [],
+  xField = 'x',
+  yField = 'y',
+  title = '',
+  width = '100%',
+  height = '400px',
+}) => {
+  const containerRef = useRef(null);
+  const chartRef = useRef(null);
+
+  // 1. 初始化图表
+  useEffect(() => {
+    // 重要检查：确保容器存在
+    if (!containerRef.current) return;
+
+    // 正确写法：如果已经有实例，直接跳过
+    if (chartRef.current) {
+      console.log('图表已存在，跳过重复初始化');
+      return; // 直接返回，不重复创建
+    }
+
+    // 创建图表实例（只执行一次）
+    chartRef.current = new Line(containerRef.current, {
+      data,
+      xField,
+      yField,
+      smooth: true,
+    });
+
+    // 渲染
+    chartRef.current.render();
+
+    // 2. 清理函数
+    return () => {
+      if (chartRef.current) {
+        chartRef.current.destroy();
+        chartRef.current = null; // 清除引用
+      }
+    };
+  }, []); // 空数组：只执行一次
+
+  // 3. 数据更新
+  useEffect(() => {
+    // 重要检查：确保图表实例和数据都存在
+    if (!chartRef.current || !data || data.length === 0) return;
+
+    chartRef.current.changeData(data);
+  }, [data]);
+
+  return (
+    <div style={{ width, height }}>
+      {title && <h4 style={{ textAlign: 'center' }}>{title}</h4>}
+      <div
+        ref={containerRef}
+        style={{
+          width: '100%',
+          height: title ? 'calc(100% - 30px)' : '100%',
+        }}
+      />
+    </div>
+  );
+};
+
+export default SimpleLineChart;
+```
+
+#### 6、图表自适应屏幕
+
+- 基础自适应
+
+  ```js
+  chartRef.current = new Line(containerRef.current, {
+    data,
+    xField: 'date',
+    yField: 'value',
+    autoFit: true, // G2Plot自带自适应
+  });
+  ```
+
+- 响应式布局配合CSS
+
+  比如在小屏幕下把图表高度从400px改成300px

@@ -8,8 +8,6 @@
 
 **简单说，`OAuth` 就是一种授权机制。数据的所有者告诉系统，同意授权第三方应用进入系统，获取这些数据。系统从而产生一个短期的进入令牌（`token`），用来代替密码，供第三方应用使用。**
 
-![ ](https://www.wangbase.com/blogimg/asset/201904/bg2019042101.jpg)
-
 ### 二、示例
 
 以 [github](https://github.com/settings/applications/new) 为例，授权之前，必须填写登记表

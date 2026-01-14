@@ -4,7 +4,22 @@ ECMAScript 和 JavaScript 的关系是，前者是后者的规格，后者是前
 
 ## ES6 的新特性
 
-### 数组的拓展
+### 一、symbol
+
+ES5 的对象属性名都是字符串，这容易造成**属性名的冲突**。比如，你使用了一个他人提供的对象，但又想为这个对象添加新的方法（mixin 模式），新方法的名字就有可能与现有方法产生冲突。如果有一种机制，保证每个属性的名字都是独一无二的就好了，这样就从根本上防止属性名的冲突。这就是 ES6 引入Symbol的原因。
+
+⭐其他数据类型是：undefined、null、布尔值（Boolean）、字符串（String）、数值（Number）、大整数（BigInt）、对象（Object）。
+
+```js
+let s = Symbol();
+
+typeof s;
+// "symbol"
+```
+
+Symbol 值通过Symbol()函数生成。这就是说，对象的属性名现在可以有两种类型，一种是原来就有的字符串，另一种就是新增的 Symbol 类型。凡是属性名属于 Symbol 类型，就都是独一无二的，可以保证不会与其他属性名产生冲突。
+
+### 二、数组的拓展
 
 #### 1、数组解构
 
@@ -112,7 +127,7 @@ console.log(deepCopyArray); // 输出: [ { name: 'Mike', age: 25 }, { name: 'Jan
 
 > JSON.parse(JSON.stringify(originalArray))方法在处理包含函数、正则表达式等特殊类型值的对象数组时会出现问题。因为这些特殊类型的值在转换为 JSON 字符串时会被忽略或转换为其他类型。考虑使用递归和自定义的深拷贝函数来处理
 
-### es6中的class
+### 三、es6中的class
 
 #### 1、ES5构造函数
 
@@ -262,6 +277,63 @@ export default class WkJanus {
   }
   ...
 }
+```
+
+### 四、promise
+
+Promise 是异步编程的一种解决方案。
+
+Promise对象代表一个异步操作，有三种状态：pending（进行中）、fulfilled（已成功）和rejected（已失败）。（只有**异步操作的结果**，可以决定当前是哪一种状态，任何其他操作都无法改变这个状态。这也是Promise这个名字的由来，它的英语意思就是“承诺”，表示其他手段无法改变。）
+
+#### 1、promise.all()
+
+Promise.all()方法用于将多个 Promise 实例，包装成一个新的 Promise 实例。
+
+```js
+const p = Promise.all([p1, p2, p3]);
+```
+
+p的状态由p1、p2、p3决定，分成两种情况。
+
+- 只有p1、p2、p3的状态**都**变成fulfilled，p的状态才会变成fulfilled，此时p1、p2、p3的**返回值组成一个数组**，传递给p的回调函数。
+- 只要p1、p2、p3之中**有一个**被rejected，p的状态就变成rejected，此时**第一个**被reject的实例的返回值，会传递给p的回调函数。
+
+#### 2、promise.race()
+
+Promise.race()方法同样是将多个 Promise 实例，包装成一个新的 Promise 实例。
+
+```js
+const p = Promise.race([p1, p2, p3]);
+```
+
+只要p1、p2、p3之中有一个实例率先改变状态，p的状态就跟着改变。那个率先改变的 Promise 实例的返回值，就传递给p的回调函数。
+
+#### 3、promise.allSettled()
+
+有时候，我们希望等到一组异步操作都结束了，不管每一个操作是成功还是失败，再进行下一步操作。但是，现有的 Promise 方法很难实现这个要求。
+
+Promise.all()方法只适合所有异步操作都成功的情况，如果有一个操作失败，就无法满足要求。
+
+```js
+// 注意这种写法，直接把promise数组传入allSettled()，有时候会忘了三个promise组成的数组也是一个promise
+// const promises = [fetch('/api-1'), fetch('/api-2'), fetch('/api-3')];
+
+await Promise.allSettled([fetch('/api-1'), fetch('/api-2'), fetch('/api-3')]);
+// 数组promises包含了三个请求，只有等到这三个请求都结束了（不管请求成功还是失败），removeLoadingIndicator()才会执行。
+removeLoadingIndicator();
+```
+
+```js
+const promises = [fetch('index.html'), fetch('https://does-not-exist/')];
+const results = await Promise.allSettled(promises);
+
+// 过滤出成功的请求
+const successfulPromises = results.filter((p) => p.status === 'fulfilled');
+
+// 过滤出失败的请求，并输出原因
+const errors = results
+  .filter((p) => p.status === 'rejected')
+  .map((p) => p.reason);
 ```
 
 ## 引用

@@ -175,24 +175,94 @@ JavaScript 语言的每一个值，都属于某一种数据类型。JavaScript �
 
 JavaScript 有三种方法，可以确定一个值到底是什么类型。
 
-- typeof
-- instanceof
-- Object.prototype.toString
+- typeof:最适合判断基本类型（除null会返回'object'），对函数返回'function'，对未声明变量返回'undefined'且不会报错。
 
-<mark>如果一个变量未经声明，那么直接使用会报错，但typeof去检测不会报错，能够识别到undefined，这个特性，我们通常用于判断</mark>
+  ```js
+  // 基本类型
+  typeof undefined; // "undefined"
+  typeof true; // "boolean"
+  typeof 42; // "number"
+  typeof 'hello'; // "string"
+  typeof 123n; // "bigint"
+  typeof Symbol(); // "symbol"
 
-```js
-// 错误的写法
-if (v) {
-  // ...
-}
-// ReferenceError: v is not defined
+  // 特殊值
+  typeof null; // "object" ❌ 历史遗留bug
+  typeof function () {}; // "function"
+  typeof class MyClass {}; // "function"
 
-// 正确的写法
-if (typeof v === 'undefined') {
-  // ...
-}
-```
+  // 引用类型（除了function）
+  typeof []; // "object"
+  typeof {}; // "object"
+  typeof new Date(); // "object"
+  typeof /regex/; // "object"
+
+  // 未声明的变量
+  typeof undeclaredVar; // "undefined"（不会报错）
+  ```
+
+- instanceof:检查原型链，适合判断对象是否属于某个构造函数，但有基本类型判断问题。
+
+  ```js
+    // instanceof 检查原型链
+    [] instanceof Array               // true
+    [] instanceof Object              // true（Array继承Object）
+    new Date() instanceof Date        // true
+    new Date() instanceof Object      // true
+
+    // 自定义构造函数
+    function Person(name) {
+      this.name = name;
+    }
+    const john = new Person('John');
+    console.log(john instanceof Person);   // true
+    console.log(john instanceof Object);   // true
+
+    // 原型链继承
+    function Animal() {}
+    function Dog() {}
+    Dog.prototype = Object.create(Animal.prototype);
+    const dog = new Dog();
+    console.log(dog instanceof Dog);      // true
+    console.log(dog instanceof Animal);   // true
+    console.log(dog instanceof Object);   // true
+
+    // 基本类型返回false(局限性❌)
+    console.log('hello' instanceof String);    // false
+    console.log(42 instanceof Number);         // false
+    console.log(true instanceof Boolean);      // false
+
+  ```
+
+- Object.prototype.toString:最精确的方法，能返回'[object Type]'格式，能区分所有内置类型，是类型判断的终极方案。
+
+  ```js
+  // 基本类型
+  Object.prototype.toString.call(undefined); // "[object Undefined]"
+  Object.prototype.toString.call(null); // "[object Null]"
+  Object.prototype.toString.call(true); // "[object Boolean]"
+  Object.prototype.toString.call(42); // "[object Number]"
+  Object.prototype.toString.call('hello'); // "[object String]"
+  Object.prototype.toString.call(123n); // "[object BigInt]"
+  Object.prototype.toString.call(Symbol()); // "[object Symbol]"
+
+  // 引用类型
+  Object.prototype.toString.call([]); // "[object Array]"
+  Object.prototype.toString.call({}); // "[object Object]"
+  Object.prototype.toString.call(function () {}); // "[object Function]"
+  Object.prototype.toString.call(new Date()); // "[object Date]"
+  Object.prototype.toString.call(/regex/); // "[object RegExp]"
+  Object.prototype.toString.call(new Error()); // "[object Error]"
+  Object.prototype.toString.call(Math); // "[object Math]"
+  Object.prototype.toString.call(JSON); // "[object JSON]"
+
+  // 包装对象
+  Object.prototype.toString.call(new String()); // "[object String]"
+  Object.prototype.toString.call(new Number()); // "[object Number]"
+  Object.prototype.toString.call(new Boolean()); // "[object Boolean]"
+  ```
+
+<mark></mark>
 
 #### 3、数据类型转换
 

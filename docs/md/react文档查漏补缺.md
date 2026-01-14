@@ -312,6 +312,10 @@ module.exports = {
 
 “批处理” 是 React 的一种性能优化机制：当多次状态更新（如连续调用setState、useState更新函数）在 “**同一事件循环**” 中触发时，React 会将这些更新合并为一次重新渲染，避免多次渲染带来的性能开销。
 
+在 React 18 之前，“**状态更新批处理**” 仅在 React 自身触发的事件（如onClick、onChange）中生效，而在setTimeout、Promise.then或原生事件中，状态更新会触发多次渲染，导致性能浪费。
+
+React 18 的自动批处理（Automatic Batching） 彻底解决了这个问题 —— 无论状态更新在什么场景触发，都能自动合并为一次渲染，大幅优化性能。
+
 ```js
 // React 17/18 中，在onClick（React事件）内的状态更新会被批处理
 function Counter() {
@@ -416,4 +420,97 @@ function Counter() {
 }
 ```
 
+### flushsync
+
+automatic batching是默认开启的，当然如果你不想进行batch update，也可以使用react-dom提供的flushSync方法（但react官方不建议这么做）
+
+flushSync 允许你强制 React 在提供的回调函数内同步刷新任何更新，这将确保 DOM 立即更新。(大多数时候都不需要使用 flushSync，请将其作为最后的手段使用。)
+
+```js
+import { flushSync } from 'react-dom';
+
+function handleClick() {
+  flushSync(() => {
+    // react has updated the DOM by now
+    setCount((count) => count + 1);
+  });
+  flushSync(() => {
+    // react has updated the DOM by now
+    setCount((f) => !f);
+  });
+}
+```
+
 > [React v18.0](https://zh-hans.react.dev/blog/2022/03/29/react-v18)[React 18 新特性实战：自动批处理（Automatic Batching）怎么用？](https://blog.csdn.net/devr_ChangJin/article/details/151047445)
+
+## 十三、react的渲染调度
+
+渲染调度所有版本都有，但只有React 18实现了真正的并发可中断调度。
+
+- React 16：引入了Fiber架构，将渲染拆分为**链表结构**的**可中断单元**，为并发调度准备好了数据结构，但默认还是同步渲染
+
+- React 18：基于**Fiber**实现了真正的并发调度，通过时间切片（每5ms检查中断）和优先级车道，让渲染可以被高优先级任务（如用户输入）中断
+
+<mark>这里我们只讲react18的渲染调度</mark>
+
+"React的渲染调度是一个从触发更新到屏幕呈现的完整协调过程，主要包括三个阶段：
+
+- 调度阶段：React接收更新请求，根据优先级（React 18的车道模型）将更新排入队列
+
+- 协调阶段：通过Fiber架构的增量渲染，执行虚拟DOM的diff比较，这个阶段可以被中断（时间切片）
+
+- 提交阶段：将确定的变更一次性同步到真实DOM，这个阶段不可中断
+
+这种设计让React 18能实现并发渲染：在高优先级任务（如用户输入）到来时，中断低优先级渲染，保持界面响应性。
+
+## 十四、Fiber架构
+
+"Fiber是React16引入的新的**协调算法**，它重新实现了虚拟DOM的diff过程。核心是引入了**可中断渲染**的能力，为React18的**并发模式**打下了基础。"
+
+我理解它主要做了三件事：
+
+- 它把原本**递归不可中断**的渲染，改成了**链表可中断**的渲染。
+- **引入优先级**：可以优先渲染高优先级的更新任务。
+- **时间切片**：把渲染工作切成5ms的小块，每做完一块就检查有没有更高优先级任务。
+
+实际开发中，React 18的`useTransitions()`能让界面保持流畅，底层就是Fiber在调度
+
+### 链表结构的理解
+
+每个组件对应一个Fiber节点，节点间通过三个指针连接：
+
+- child指向**第一个子组件**
+
+- sibling指向**下一个兄弟组件**
+
+- return指向**父组件**
+
+```bash
+// Fiber是树转成的链表，有三条移动路径：
+// 1. 向下：child（进入子树）
+// 2. 向右：sibling（同层下一个）
+// 3. 向上：return（回到父层）
+
+// 结构示意（树形）：
+//      A
+//     / \
+//    B   E
+//   / \   \
+//  C   D   F
+
+// 链表连接方式：
+A.child = B
+B.return = A
+B.sibling = E
+B.child = C
+C.return = B
+C.sibling = D
+D.return = B
+E.return = A
+E.child = F
+F.return = E
+```
+
+这样整个组件树就变成了一个链表，遍历时就是沿着指针走。
+
+关键优势是：遍历到一半时，我知道下一个该处理谁，也能轻松回到之前的位置。不像递归，中途暂停了很难恢复现场。
