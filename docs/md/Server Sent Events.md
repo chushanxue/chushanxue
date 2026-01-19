@@ -227,3 +227,7 @@ export const isJSON = (str: string) => {
 };
 
 ```
+
+### 六、sse相关面试问题
+
+

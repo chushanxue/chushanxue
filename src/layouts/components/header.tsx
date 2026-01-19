@@ -116,13 +116,13 @@ const Header: React.FC = () => {
             >
               心得成长
             </NavLink> */}
-            <NavLink
+            {/* <NavLink
               to="/about"
               className={styles.menu}
               style={({ isActive }) => (isActive ? { color: '#faa219' } : {})}
             >
               关于
-            </NavLink>
+            </NavLink> */}
           </Space>
         </div>
         {/* 右侧内容 */}
