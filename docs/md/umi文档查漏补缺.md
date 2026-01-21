@@ -184,7 +184,7 @@ const useUser = () => {
 export default useUser;
 ```
 
-<mark>使用时注意有专门的使用方法，不要依照一般 hooks 使用，否则会失去响应式</mark>
+<mark>使用时注意有专门的使用方法，不要依照一般 hooks 使用，否则无法实现全局共享（因为原始状态下每个组件独立的状态不共享）</mark>
 
 ```js
 import { useModel } from '@umijs/max';

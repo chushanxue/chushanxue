@@ -4,7 +4,77 @@ ECMAScript 和 JavaScript 的关系是，前者是后者的规格，后者是前
 
 ## ES6 的新特性
 
-### 一、symbol
+### 一、var、let、const
+
+ES6 的特性之一是添加了 let 和 const，可用于变量声明。
+
+在 ES6 出现之前，var 声明占主导地位。但是，使用 var 声明的变量存在一些问题。这就是为什么有必要出现新的声明变量的方法。
+
+#### 1、var
+
+- 当 var 变量在函数外部声明时，作用域是全局的。这意味着在函数体外用 var 声明的任何变量都可以在整个窗口中使用。
+- var 在函数中声明时，它的作用域是在函数体内。这意味着它只能在该函数中被访问。
+- var 变量可以重新声明和更新
+- var 的提升（hoisting）是一种 JavaScript 机制，其中变量和函数声明在代码执行之前被移动到其作用域的顶部
+
+#### 2、let
+
+let 现在是变量声明的首选
+
+- let 是块作用域
+
+  块是由 {} 界定的代码块。一个块存在于花括号中。花括号内的任何内容都是一个块。
+
+- let 可以更新但不能重新声明
+
+  但是，如果同一个变量定义在不同的作用域，就不会报错
+
+- 不存在变量提升
+- 暂时性死区⭐⭐⭐
+
+  只要块级作用域内存在let命令，这个区域就不再受外部影响，使用let声明变量前，该变量都不可用，也就是大家常说的“暂时性死区”
+
+  ```js
+  var a = 123;
+  if (true) {
+    a = 'abc'; // ReferenceError
+    let a;
+  }
+
+  // 使用let声明变量时，只要变量在还没有声明完成前使用，就会报错
+  let x = x; // ReferenceError: x is not defined
+  ```
+
+#### 3、const
+
+const声明一个只读的常量，一旦声明，常量的值就不能改变（因此，每个 const 声明都必须在声明时进行初始化。）
+
+- 与 let 声明一样，const 声明只能在它们声明的块内访问。
+- const实际上保证的并不是变量的值不得改动，而是变量指向的那个内存地址所保存的数据不得改动
+  - 对于简单类型的数据，值就保存在变量指向的那个内存地址，因此等同于常量
+  - 对于复杂类型的数据，变量指向的内存地址，保存的只是一个指向实际数据的指针，const只能保证这个指针是固定的，并不能确保改变量的结构不变
+
+#### 4、var、let、const 的区别
+
+- 变量提升
+  - var声明的变量存在变量提升，即变量可以在声明之前调用，值为undefined
+  - let和const不存在变量提升，即它们所声明的变量一定要在声明后使用，否则报错
+- 暂时性死区
+  - var不存在暂时性死区
+  - let和const存在暂时性死区，只有等到声明变量的那一行代码出现，才可以获取和使用该变量
+- 块级作用域
+  - var不存在块级作用域
+  - let和const存在块级作用域
+- 重复声明
+  - var允许重复声明变量
+  - let和const在同一作用域不允许重复声明变量
+- 修改声明的变量
+  - var和let可以
+  - const声明一个只读的常量。一旦声明，常量的值就不能改变
+- 使用
+  - 能用const的情况尽量使用const，其他情况下大多数使用let，避免使用var
+
+### 二、symbol
 
 ES5 的对象属性名都是字符串，这容易造成**属性名的冲突**。比如，你使用了一个他人提供的对象，但又想为这个对象添加新的方法（mixin 模式），新方法的名字就有可能与现有方法产生冲突。如果有一种机制，保证每个属性的名字都是独一无二的就好了，这样就从根本上防止属性名的冲突。这就是 ES6 引入Symbol的原因。
 
@@ -19,7 +89,7 @@ typeof s;
 
 Symbol 值通过Symbol()函数生成。这就是说，对象的属性名现在可以有两种类型，一种是原来就有的字符串，另一种就是新增的 Symbol 类型。凡是属性名属于 Symbol 类型，就都是独一无二的，可以保证不会与其他属性名产生冲突。
 
-### 二、数组的拓展
+### 三、数组的拓展
 
 #### 1、数组解构
 
@@ -127,7 +197,82 @@ console.log(deepCopyArray); // 输出: [ { name: 'Mike', age: 25 }, { name: 'Jan
 
 > JSON.parse(JSON.stringify(originalArray))方法在处理包含函数、正则表达式等特殊类型值的对象数组时会出现问题。因为这些特殊类型的值在转换为 JSON 字符串时会被忽略或转换为其他类型。考虑使用递归和自定义的深拷贝函数来处理
 
-### 三、es6中的class
+### 四、箭头函数
+
+ES6中允许使用箭头`=>`来定义箭头函数，箭头函数最常见的用处就是简化回调函数。
+
+```js
+// 箭头函数
+let fun = (name) => {
+  // 函数体
+  return `Hello ${name} !`;
+};
+
+// 等同于
+let fun = function (name) {
+  // 函数体
+  return `Hello ${name} !`;
+};
+```
+
+- 关于箭头函数的参数
+
+  ```js
+  // 没有参数
+  let fun1 = () => {
+    console.log(111);
+  };
+
+  // 只有一个参数，可以省去参数括号
+  let fun2 = (name) => {
+    console.log(`Hello ${name} !`);
+  };
+
+  // 有多个参数
+  let fun3 = (val1, val2, val3) => {
+    return [val1, val2, val3];
+  };
+  ```
+
+- 关于箭头函数的函数体
+
+  - 如果箭头函数的函数体只有一句代码，就是简单返回某个变量或者返回一个简单的JS表达式，可以省去函数体的大括号{ }
+  - 如果箭头函数的函数体只有一句代码，且是返回一个对象，可以用小括号包裹要返回的对象
+  - 如果箭头函数的函数体只有一条语句并且不需要返回值（最常见是调用一个函数），可以给这条语句前面加一个void关键字
+
+  ```js
+  let f = (val) => val;
+  // 等同于
+  let f = function (val) {
+    return val;
+  };
+
+  let sum = (num1, num2) => num1 + num2;
+  // 等同于
+  let sum = function (num1, num2) {
+    return num1 + num2;
+  };
+
+  // 用小括号包裹要返回的对象，不报错
+  let getTempItem = id => ({ id: id, name: "Temp" });
+
+  // 但绝不能这样写，会报错。
+  // 因为对象的大括号会被解释为函数体的大括号
+  let getTempItem = id => { id: id, name: "Temp" };
+
+  let fn = () => void doesNotReturn();
+  ```
+
+#### 箭头函数和普通函数的区别
+
+- 语法更加简洁、清晰
+- 箭头函数不会创建自己的this⭐⭐⭐
+
+  箭头函数没有自己的this，它会捕获自己在定义时（注意，是定义时，不是调用时）所处的外层执行环境的this，并继承这个this值。所以，箭头函数中this的指向在它被定义的时候就已经确定了，之后永远不会改变。
+
+- 待补充，这一块和this指向绑定很深
+
+### 五、es6中的class
 
 #### 1、ES5构造函数
 
@@ -279,63 +424,6 @@ export default class WkJanus {
 }
 ```
 
-### 四、promise
-
-Promise 是异步编程的一种解决方案。
-
-Promise对象代表一个异步操作，有三种状态：pending（进行中）、fulfilled（已成功）和rejected（已失败）。（只有**异步操作的结果**，可以决定当前是哪一种状态，任何其他操作都无法改变这个状态。这也是Promise这个名字的由来，它的英语意思就是“承诺”，表示其他手段无法改变。）
-
-#### 1、promise.all()
-
-Promise.all()方法用于将多个 Promise 实例，包装成一个新的 Promise 实例。
-
-```js
-const p = Promise.all([p1, p2, p3]);
-```
-
-p的状态由p1、p2、p3决定，分成两种情况。
-
-- 只有p1、p2、p3的状态**都**变成fulfilled，p的状态才会变成fulfilled，此时p1、p2、p3的**返回值组成一个数组**，传递给p的回调函数。
-- 只要p1、p2、p3之中**有一个**被rejected，p的状态就变成rejected，此时**第一个**被reject的实例的返回值，会传递给p的回调函数。
-
-#### 2、promise.race()
-
-Promise.race()方法同样是将多个 Promise 实例，包装成一个新的 Promise 实例。
-
-```js
-const p = Promise.race([p1, p2, p3]);
-```
-
-只要p1、p2、p3之中有一个实例率先改变状态，p的状态就跟着改变。那个率先改变的 Promise 实例的返回值，就传递给p的回调函数。
-
-#### 3、promise.allSettled()
-
-有时候，我们希望等到一组异步操作都结束了，不管每一个操作是成功还是失败，再进行下一步操作。但是，现有的 Promise 方法很难实现这个要求。
-
-Promise.all()方法只适合所有异步操作都成功的情况，如果有一个操作失败，就无法满足要求。
-
-```js
-// 注意这种写法，直接把promise数组传入allSettled()，有时候会忘了三个promise组成的数组也是一个promise
-// const promises = [fetch('/api-1'), fetch('/api-2'), fetch('/api-3')];
-
-await Promise.allSettled([fetch('/api-1'), fetch('/api-2'), fetch('/api-3')]);
-// 数组promises包含了三个请求，只有等到这三个请求都结束了（不管请求成功还是失败），removeLoadingIndicator()才会执行。
-removeLoadingIndicator();
-```
-
-```js
-const promises = [fetch('index.html'), fetch('https://does-not-exist/')];
-const results = await Promise.allSettled(promises);
-
-// 过滤出成功的请求
-const successfulPromises = results.filter((p) => p.status === 'fulfilled');
-
-// 过滤出失败的请求，并输出原因
-const errors = results
-  .filter((p) => p.status === 'rejected')
-  .map((p) => p.reason);
-```
-
 ## 引用
 
-> [JavaScript 数组解构和对象解构](https://www.freecodecamp.org/chinese/news/array-and-object-destructuring-in-javascript/)[ES6 入门教程](https://es6.ruanyifeng.com/)[从 ES6 重新认识 JavaScript 设计模式(一): 单例模式](https://zhuanlan.zhihu.com/p/34754447) [ES6 构造函数语法糖：class 类](https://www.jianshu.com/p/8a1a60709e7e)
+> [JavaScript 数组解构和对象解构](https://www.freecodecamp.org/chinese/news/array-and-object-destructuring-in-javascript/)[ES6 入门教程](https://es6.ruanyifeng.com/)[从 ES6 重新认识 JavaScript 设计模式(一): 单例模式](https://zhuanlan.zhihu.com/p/34754447) [ES6 构造函数语法糖：class 类](https://www.jianshu.com/p/8a1a60709e7e) [Var、Let 和 Const 有什么区别？](https://www.freecodecamp.org/chinese/news/var-let-and-const-whats-the-difference/) [ES6 - 箭头函数、箭头函数与普通函数的区别](https://juejin.cn/post/6844903805960585224)

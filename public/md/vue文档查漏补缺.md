@@ -41,7 +41,7 @@
 
 3. 使用其他开源模板创建（更常用）
 
-   如[SoybeanAdmin](https://docs.soybeanjs.cn/zh/)
+   如[SoybeanAdmin](https://docs.soybeanjs.cn/zh/)[fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 ## 二、常用 Composition API
 

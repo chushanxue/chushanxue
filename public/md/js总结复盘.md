@@ -611,6 +611,10 @@ KeyboardEvent接口用来描述用户与键盘的互动。这个接口继承了E
 
 - 事件捕获是指父元素的事件被子元素捕获。
 
+### 六、this指向
+
+待补充
+
 ### 引用
 
 > [JavaScript 教程](https://wangdoc.com/javascript/basic/grammar#%E8%AF%AD%E5%8F%A5)

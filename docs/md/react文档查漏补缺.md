@@ -126,7 +126,7 @@ function MyButton() {
 
 ## 八、组件间共享数据
 
-这里介绍的是 `react` 中的 `prop`，不必出现 `prop` 这个字段的显式含义，因为每个`react`组件都是一个函数，`prop` 通过函数传参并接收
+每个`react`组件都是一个函数，`props` 通过函数传参并接收
 
 ```js
 export default function MyApp() {
@@ -300,13 +300,59 @@ module.exports = {
 };
 ```
 
+### 3、type 和 interface 有什么区别
+
+- type 是 类型别名，给一些类型的组合起别名，这样能够更方便地在各个地方使用。
+
+  假设我们的业务中，id 可以为字符串或数字，那么我们可以定义这么一个名为 ID 的 type：
+
+  `type ID = string | number;`
+
+  定义一个名为 Circle 的对象结构 type：
+
+  ```js
+  type Circle = {
+    x: number;
+    y: number;
+    radius: number;
+  }
+  ```
+
+- interface 是 接口。有点像 type，可以用来代表一种类型组合，但它范围更小一些，只能描述对象结构。
+
+  ```js
+  //它们写法有一点区别，type 后面需要用 =，interface 后面不需要 =，直接就带上 {。
+  interface Position {
+    x: number;
+    y: number;
+  }
+  ```
+
+- 范围
+
+  - type 能表示的任何类型组合。
+  - interface 只能表示对象结构的类型。
+
+- 继承
+
+  - interface 可以继承（extends）另一个 interface。并在此基础上新增新的属性
+  - interface 也可以继承自 type，但只能是对象结构，或多个对象组成交叉类型（&）的 type。
+  - type 可以通过 & 的写法来继承 type 或 interface，得到一个交叉类型
+
+- 声明合并
+
+  - interface 支持声明合并，文件下多个**同名的 interface**，它们的属性会进行合并。（需要注意的是，同名属性的不能进行类型覆盖修改，否则编译不通过。）
+  - type 不支持声明合并，一个作用域内不允许有多个同名 type。（当然，如果有和 type 同名的 interface，也会报错。）
+
+- 更推荐使用 interface，因为它扩展起来会更方便，提示也更友好
+
 ## 十一、受控组件和非受控组件
 
 在 React 中，表单元素有两种方式来管理状态：受控组件和非受控组件。
 
-- 受控组件是指表单输入元素的值由 React 组件的状态（state）控制。也就是说，表单的数据被存储在组件的状态中，并且任何对表单元素值的更改都要通过状态更新来实现。
+- 受控组件是指**表单输入元素的值**由 React 组件的状态（state）控制。也就是说，表单的数据被存储在组件的状态中，并且任何对表单元素值的更改都要通过状态更新来实现。
 
-- 非受控组件是指表单输入元素的值由 DOM 自身处理，React 通过 ref 属性来获取其值。非受控组件往往在不需要频繁与 React 组件状态同步的情况下使用。
+- 非受控组件是指**表单输入元素的值**由 DOM 自身处理，React 通过 **ref** 属性来获取其值。非受控组件往往在不需要频繁与 React 组件状态同步的情况下使用。
 
 ## 十二、React18的自动批处理
 
@@ -514,3 +560,87 @@ F.return = E
 这样整个组件树就变成了一个链表，遍历时就是沿着指针走。
 
 关键优势是：遍历到一半时，我知道下一个该处理谁，也能轻松回到之前的位置。不像递归，中途暂停了很难恢复现场。
+
+## 十五、父组件调用子组件方法
+
+### 1、ref属性
+
+父组件可以通过引用子组件的实例来调用子组件的方法。
+
+```js
+import React, { useRef } from 'react';
+import ChildComponent from './ChildComponent';
+
+function ParentComponent() {
+  const childRef = useRef(null);
+
+  const handleChildMethod = () => {
+    if (childRef.current) {
+      // 在父组件中，通过 childRef.current.childMethod() 调用子组件的方法。
+      childRef.current.childMethod();
+    }
+  };
+
+  return (
+    <div>
+      <ChildComponent ref={childRef} />
+      <button onClick={handleChildMethod}>调用子组件方法</button>
+    </div>
+  );
+}
+
+export default ParentComponent;
+```
+
+```js
+import { useImperativeHandle } from 'react';
+
+const ChildComponent({ ref }) =>{
+  // 在子组件中，通过 useImperativeHandle 钩子函数将子组件的实例暴露给父组件，并将其赋值给 ref 对象。
+  useImperativeHandle(
+    ref,
+    () => {
+      return {
+        // ... 你的方法 ...
+      };
+    },
+    [],
+  );
+
+  return (
+    <div>
+      <h2>子组件</h2>
+    </div>
+  );
+}
+export default ChildComponent;
+```
+
+### 2、forwardRef
+
+> ⚠️react19已废弃
+
+父组件同上写法
+
+```js
+import React, { forwardRef } from 'react';
+
+function ChildComponent(props, ref) {
+  const childMethod = () => {
+    console.log('子组件方法被调用');
+  };
+
+  return (
+    <div>
+      <h2>子组件</h2>
+    </div>
+  );
+}
+
+// 子组件使用 forwardRef 将子组件的实例传递给父组件。在父组件中，通过 ref 对象调用子组件的方法。
+export default forwardRef(ChildComponent);
+```
+
+## 引用
+
+> [react hooks父组件调用子组件方法？](https://developer.aliyun.com/article/1624431)
