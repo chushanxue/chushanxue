@@ -54,21 +54,11 @@ Vue 的设计非常注重**灵活性**和**可以被逐步集成**
   - 都有虚拟dom
   - 都是数据驱动视图
 - 区别
-
-  - 数据流向的不同。react从诞生开始就推崇单向数据流，而Vue是双向数据流
-  - 数据变化的实现原理不同。react使用的是不可变数据，而Vue使用的是可变的数据
-
-    > 在 React 中，当组件的状态（state）需要更新时，我们通常会创建一个新的状态对象，而不是直接修改当前的状态对象。这样做可以提高应用性能。因为 React 可以通过简单地比较两个状态对象是否引用同一个对象来判断状态是否改变，从而决定是否需要重新渲染组件
-
-    > 在 Vue 中，我们通常会直接修改组件的数据（data）。Vue 通过使用 "响应式系统" 跟踪每个数据对象的依赖关系，当数据改变时，Vue 会自动更新相关联的 DOM。虽然这种方式在某些情况下可能会导致性能问题，但它使得代码更加直观和易于理解。
-
-  - 组件化通信的不同。react中我们通过使用回调函数来进行通信的，而Vue中子组件向父组件传递消息有两种方式：事件和回调函数
-
-    > React 通过回调函数进行通信：在 React 中，父组件通过 props 将回调函数传递给子组件，子组件通过调用这个回调函数来向父组件传递数据或者触发某些操作。这种方式被称为 "向下数据流" 或 "单向数据流"，因为数据和操作只能从父组件流向子组件。
-
-    > Vue 子组件向父组件传递消息有两种方式：事件和回调函数：在 Vue 中，子组件可以使用 $emit 方法来触发一个事件，并将数据作为事件的参数传递出去。父组件可以监听这个事件并在事件处理器中接收到这个数据。此外，Vue 也支持通过 props 传递回调函数的方式进行通信，类似于 React。
-
-  - diff算法不同。react主要使用diff队列保存需要更新哪些DOM，得到patch树，再统一操作批量更新DOM。Vue 使用双向指针，边对比，边更新DOM
+  - 数据流向的不同。react推崇单向数据流，而Vue是双向数据流
+  - 设计理念不同。React 函数式编程，Vue 声明式编程
+  - React 使用 JSX 拥抱 JS，Vue 使用模板拥抱 html
+  - 组件之间的通信方法有所不同。
+  - 底层的diff算法不同。
 
 ### 5、SPA单页应用
 
@@ -81,6 +71,14 @@ SPA通过**动态重写**当前页面来与用户交互，这种方法避免了�
 举个例子来讲就是一个杯子，早上装的牛奶，中午装的是开水，晚上装的是茶，我们发现，变的始终是杯子里的内容，而杯子始终是那个杯子
 
 > 如何给SPA做SEO？SSR服务端渲染（将组件或页面通过服务器生成html，再返回给浏览器，如nuxt.js）
+
+### 6、diff算法
+
+Diff 算法是虚拟 DOM 的核心，它通过对比新旧虚拟 DOM 树，找出最小化的 DOM 操作，从而高效更新真实 DOM。
+
+遵循三个核心原则：同级比较、通过 key 标识节点，提高复用效率、尽量复用节点，减少 DOM 操作
+
+Vue 3 还引入了静态提升、补丁标记等优化，进一步减少比较范围。最终目标是以最小代价更新界面，提升性能。
 
 ## 二、vue核心
 
@@ -383,6 +381,168 @@ console.log(state.value.user.name);
 
 - 全量引入通过npm安装组件库后，在项目入口文件（比如main.ts）里，引入组件库的完整样式和核心模块，再用app.use()注册使用。这样一来，组件库里的所有组件都能直接用。
 - 按需引入，只加载用到的组件，减少打包体积。又分两种情况，一种是手动按需引入，在需要用组件的地方，单独引入具体的组件和对应的样式，再注册使用。另一种是自动按需引入，需要借助unplugin-vue-components这类插件，在项目的vite或webpack配置文件里配置好插件，它会自动检测项目中用了哪些组件，自动引入对应的代码和样式。使用时直接在模板里写组件标签就行。
+
+### 6、Vue.nextTick()
+
+- vue为什么会有nextTick
+
+  Vue 的 DOM 更新是异步的，为了保证 DOM 更新的正确性，Vue 提供了 nextTick 让你在 DOM 更新完成后执行代码，**确保计算基于最新的 DOM 状态。**
+
+  常见应用场景：
+
+  - DOM 渲染后操作元素
+  - 测量更新后的 DOM
+
+- vue data中某一个属性的值发生改变，视图会立即同步执行渲染吗
+
+  不会，vue的优化机制：**异步渲染**（Vue 会批量处理数据变更，避免频繁的 DOM 更新）
+
+- Vue.nextTick()的原理是什么
+
+  核心原理：利用 JS 的事件循环机制
+
+  Vue在更新DOM时，并不是每次数据变化就立即更新，而是将这些更新操作缓存到一个队列里，等同一事件循环中的所有数据变化完成后，再统一处理。这个过程会通过微任务执行，而nextTick的回调会被加入到这个微任务队列的最后，所以能在所有DOM更新后执行。
+
+  > 过多的使用nextTick会导致事件循环中任务数量和回调函数增多，有可能出现可怕的回调地狱，导致性能下降，同时过度依赖nextTick也会降低代码的可读性。
+
+### 7、slot
+
+在 Vue 框架中，slot 是用于在父组件中向子组件传递内容的一种机制，可以实现内容分发和模板复用。slot 允许你在子组件的模板中定义占位符，然后在使用子组件时填充这些占位符。
+
+```js
+//在子组件中定义一个 slot：
+<template>
+  <div>
+    <slot></slot>
+  </div>
+</template>
+
+//在父组件中使用子组件并填充 slot：
+<template>
+  <ChildComponent>
+    <p>这段文字将被插入到子组件的 slot 中</p>
+  </ChildComponent>
+</template>
+```
+
+- 默认插槽
+- 具名插槽：有时我们需要在一个组件中定义多个插槽，这时可以使用具名 slot
+- 作用域插槽：允许父组件访问子组件中提供的数据
+
+### 8、Vue 中 CSS scoped 的原理
+
+在 Vue.js 中，scoped 是一个用于组件级别的 CSS 样式的特性，使得样式只作用于当前组件，从而避免了样式的全局污染。其核心原理是通过在编译阶段动态添加**独特的属性选择器**来实现样式的隔离。
+
+```vue
+<template>
+  <div class="my-component">
+    <p class="my-class">This is a scoped style example.</p>
+  </div>
+</template>
+
+<style scoped>
+.my-class {
+  color: red;
+}
+</style>
+```
+
+编译后生成的 CSS 可能会是这样的：
+
+```css
+.my-component[data-v-123456] {
+  color: red;
+}
+```
+
+而生成的 HTML 会是这样的：
+
+```html
+<div class="my-component" data-v-123abc>
+  <p class="my-class" data-v-123abc>This is a scoped style example.</p>
+</div>
+```
+
+### 9、v-model 组件封装
+
+在 Vue 3 中封装 v-model，可以使用新的 defineModel() API 或传统的 modelValue prop 和 update:modelValue 事件
+
+- defineModel() 更简洁，并且可以封装多个自定义名称的v-model
+
+  ```js
+  //子组件（或封装的组件）
+  <script setup>
+  import { defineModel } from 'vue';
+  // 绑定到 v-model:visible
+  const visible = defineModel('visible');
+  // 绑定到 v-model:title
+  const title = defineModel('title');
+  </script>
+
+  <template>
+    <div v-if="visible">
+      <h2>{{ title }}</h2>
+      <slot></slot>
+      <button @click="visible = false">关闭</button>
+    </div>
+  </template>
+  ```
+
+  ```js
+  //父组件
+  <script setup>
+  import MyModal from './MyModal.vue';
+  import { ref } from 'vue';
+  const showModal = ref(false);
+  const modalTitle = ref('我的标题');
+  </script>
+
+  <template>
+    <button @click="showModal = true">打开模态框</button>
+    <MyModal v-model:visible="showModal" v-model:title="modalTitle">
+      <p>模态框内容</p>
+    </MyModal>
+  </template>
+  ```
+
+- 传统方式则需要父子组件配合 defineProps (接收) 和 defineEmits (派发) 来同步数据
+
+  ```js
+  <script setup>
+  import { defineProps, defineEmits } from 'vue';
+
+  // 接收 props
+  const props = defineProps({
+    modelValue: String // 接收 v-model 传递的值
+  });
+
+  // 定义 emits
+  const emit = defineEmits(['update:modelValue']); // 派发更新事件
+
+  function updateValue(event) {
+    // 派发事件，通知父组件更新
+    emit('update:modelValue', event.target.value);
+  }
+  </script>
+
+  <template>
+    <input :value="props.modelValue" @input="updateValue" />
+  </template>
+  ```
+
+  ```js
+  //父组件
+  <script setup>
+  import MyInput from './MyInput.vue';
+  import { ref } from 'vue';
+  const message = ref('Hello Vue 3');
+  </script
+
+  <template>
+    <MyInput v-model="message" />
+    <p>父组件: {{ message }}</p>
+  </template>
+  ```
 
 ## 四、性能优化
 

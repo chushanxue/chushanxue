@@ -195,6 +195,42 @@
   }
   ```
 
+#### 2、原型链
+
+JavaScript 使用原型链实现继承
+
+JavaScript 中的每个对象都有一个隐藏的 **`__proto__`** 属性，指向另一个对象（原型），当访问对象属性时，如果自身没有，就会沿着这个链一直往上找，直到找到或到达终点（null）。
+
+#### 3、深拷贝和浅拷贝
+
+- 浅拷贝是拷贝一层，对于基本类型属性，拷贝的就是基本类型的值，对于引用类型属性，只复制内存地址，导致新旧对象共享同一块内存，修改一个会影响另一个
+
+  - Object.assign
+  - 展开运算符
+  - slice()、concat()
+
+  ```js
+  const obj1 = { a: 1, b: { c: 2 } };
+  const obj2 = { ...obj1 }; // 浅拷贝
+  obj2.a = 10; // 修改 obj2 的基本类型属性
+  obj2.b.c = 20; // 修改 obj2 的引用类型属性
+  console.log(obj1.a); // 1 (不受影响)
+  console.log(obj1.b.c); // 20 (受影响，因为共享同一地址) [5, 8]
+  ```
+
+- 深拷贝会开辟自己的内存区域，克隆一个全新的数组或者对象，并复制其中的每一项。
+
+  - cloneDeep()
+  - JSON.stringify配合JSON.parse
+  - 循环递归
+
+  ```js
+  const obj1 = { a: 1, b: { c: 2 } };
+  const obj2 = JSON.parse(JSON.stringify(obj1)); // 深拷贝
+  obj2.b.c = 20;
+  console.log(obj1.b.c); // 2 (不受影响) [4, 5, 9, 13]
+  ```
+
 ### 五、引用
 
 > [阮一峰 JavaScript 教程](https://www.bookstack.cn/read/javascript-tutorial/docs-basic-introduction.md)

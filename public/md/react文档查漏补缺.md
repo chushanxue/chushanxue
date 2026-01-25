@@ -318,7 +318,7 @@ module.exports = {
   }
   ```
 
-- interface 是 接口。有点像 type，可以用来代表一种类型组合，但它范围更小一些，只能描述对象结构。
+- interface 定义一种类型组合，但只能描述对象结构。
 
   ```js
   //它们写法有一点区别，type 后面需要用 =，interface 后面不需要 =，直接就带上 {。
@@ -330,14 +330,13 @@ module.exports = {
 
 - 范围
 
-  - type 能表示的任何类型组合。
+  - type 能表示任何类型的组合。
   - interface 只能表示对象结构的类型。
 
 - 继承
 
-  - interface 可以继承（extends）另一个 interface。并在此基础上新增新的属性
-  - interface 也可以继承自 type，但只能是对象结构，或多个对象组成交叉类型（&）的 type。
-  - type 可以通过 & 的写法来继承 type 或 interface，得到一个交叉类型
+  - interface 可以继承（extends）另一个 interface。也可以继承自对象结构的type。
+  - type 可以通过 & 的写法来继承 type 或 interface，得到一个**交叉类型**
 
 - 声明合并
 

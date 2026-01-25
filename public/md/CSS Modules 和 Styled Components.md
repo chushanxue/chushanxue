@@ -6,6 +6,8 @@ CSS Modules 更贴近传统CSS，易于上手和迁移。Styled Components 能�
 
 ### 二、CSS Modules配合Sass / Less
 
+CSS Modules加入了局部作用域和模块依赖，可以保证某个组件的样式不会影响到其他组件。
+
 - CSS Modules的核心理念是编译时生成唯一类名，实现隔离。
 - 写的是CSS/SCSS文件，通过 import styles from ‘./index.module.css’ 使用。
 - 可通过props和className结合实现动态样式（常用）
@@ -24,3 +26,9 @@ CSS Modules 更贴近传统CSS，易于上手和迁移。Styled Components 能�
 - 全局样式规范化：严格管理 global.css 或 reset.css，只放重置样式、CSS变量（Custom Properties）定义、通用工具类（如 .text-center）和第三方全局样式。这部分需要所有人遵守，严禁随意添加。
 - 命名约定：主要增强可维护性
 - 避免全局选择器：在业务代码中，严格禁止直接使用标签选择器（如 div { ... }）或过于宽泛的类选择器。
+
+### 五、less和css的区别⭐⭐⭐
+
+Less是CSS的预处理器（预编译语言），它在CSS基础上增加了变量、嵌套、混合（Mixin）、运算和函数等**编程特性**，让CSS更易维护和编写
+
+但浏览器不能直接识别Less代码，需要先通过编译器编译成标准的CSS文件才能使用

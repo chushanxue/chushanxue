@@ -185,7 +185,7 @@ const originalArray = [
   { name: 'Jane', age: 30 },
 ];
 
-// 使用扩展运算符和递归进行深拷贝
+// 深拷贝
 const deepCopyArray = JSON.parse(JSON.stringify(originalArray));
 
 // 修改深拷贝后的数组中的对象属性

@@ -1,3 +1,5 @@
+import { CopyOutlined } from '@ant-design/icons';
+import { message } from 'antd';
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
@@ -20,15 +22,35 @@ const Markdown: React.FC<IMarkdownProps> = ({ children }) => {
         // eslint-disable-next-line @typescript-eslint/no-unused-vars
         code({ node, inline, className, children, ...props }) {
           const match = /language-(\w+)/.exec(className || '');
+          const handleCopy = () => {
+            navigator.clipboard.writeText(String(children).replace(/\n$/, ''));
+            message.success('复制成功');
+          };
           return !inline && match ? (
-            <SyntaxHighlighter
-              {...props}
-              style={vs}
-              language={match[1]}
-              PreTag="div"
-            >
-              {String(children).replace(/\n$/, '')}
-            </SyntaxHighlighter>
+            <div style={{ position: 'relative' }}>
+              <button
+                onClick={handleCopy}
+                style={{
+                  position: 'absolute',
+                  top: '8px',
+                  right: '8px',
+                  background: 'none',
+                  border: 'none',
+                  cursor: 'pointer',
+                  color: '#919191',
+                }}
+              >
+                <CopyOutlined />
+              </button>
+              <SyntaxHighlighter
+                {...props}
+                style={vs}
+                language={match[1]}
+                PreTag="div"
+              >
+                {String(children).replace(/\n$/, '')}
+              </SyntaxHighlighter>
+            </div>
           ) : (
             <code {...props} className={className}>
               {children}

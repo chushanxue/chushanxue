@@ -16,11 +16,16 @@
 
 <mark>设置了flex: 1 1;的子元素将会灵活地扩大或缩小以适应容器空间</mark>
 
-在Flex布局中，flex属性是flex-grow, flex-shrink和flex-basis的简写。当你设置一个元素的flex: 1 1;，这意味着：
+#### 3、子元素 2:1 布局
 
-- flex-grow: 这个值设为1，表示当有多余空间时，该元素会根据其值与其他元素的比例来**分配剩余空间**。
-- flex-shrink: 这个值设为1，表示当空间不足时，该元素会根据其值与其他元素的比例来**缩小自己的尺寸**。
-- flex-basis: 当省略这个值时，默认为0。
+首先可以通过百分比实现
+
+另外，在flex布局前提下，通过给子元素设置
+
+- flex: 2（相当于 flex-grow: 2, flex-shrink: 1, flex-basis: 0%）
+- flex: 1（相当于 flex-grow: 1, flex-shrink: 1, flex-basis: 0%）
+
+来实现
 
 ### 二、固定布局
 
