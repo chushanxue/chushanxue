@@ -37,7 +37,7 @@
 
 #### api key
 
-最便宜的方案就是deepseek
+最便宜的方案就是deepseek，Claude Code 可以通过设置环境变量，把请求转到 DeepSeek 的 Anthropic 兼容接口
 
 [https://api-docs.deepseek.com/zh-cn/guides/anthropic_api](https://api-docs.deepseek.com/zh-cn/guides/anthropic_api)
 
