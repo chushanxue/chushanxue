@@ -1,9 +1,14 @@
 import { useBasePath } from '@/hooks/useBasePath';
+import {
+  buildPostQueryString,
+  fetchMarkdownByTitle,
+  normalizeMarkdownAssetPaths,
+  parsePostQuery,
+} from '@/services/content';
 import { QuestionCircleOutlined } from '@ant-design/icons';
 import { Helmet, history, useModel } from '@umijs/max';
 import { FloatButton, Popconfirm, Space, Tag } from 'antd';
 import MarkNav from 'markdown-navbar';
-import querystring from 'querystring';
 import React, { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import { icons } from './content';
@@ -13,11 +18,12 @@ import './navbar.less';
 
 const MD = () => {
   const [md, handleMD] = useState('loading... ...');
-  const [tags, handleTags] = useState<any>(['']);
-  const [time, handleTime] = useState<any>();
-  const [title, handleTitle] = useState<any>('');
+  const [tags, handleTags] = useState<string[]>([]);
+  const [time, handleTime] = useState<string>();
+  const [title, handleTitle] = useState<string>('');
 
   const { setTag, question, post, setQuestion } = useModel('usePost'); //umi没有做到持久化缓存，所以一刷新这里的数据就没了
+  const basePath = useBasePath();
   // 借助useLocalStorageState持久化缓存
   // const [questionLocal, setQuestionLocal] = useLocalStorageState<string>(
   //   'use-local-storage-state-question',
@@ -35,33 +41,38 @@ const MD = () => {
   // 随机跳转一篇文章
   const randomNext = () => {
     const randomIndex = Math.floor(Math.random() * post.length);
-    setQuestion(post[randomIndex].question);
-    history.push(
-      `/md?${querystring.stringify({ title: post[randomIndex].title, tag: post[randomIndex].tag, time: post[randomIndex].time })}`,
-    );
+    const nextPost = post[randomIndex];
+
+    if (!nextPost) {
+      return;
+    }
+
+    setQuestion(nextPost.question);
+    history.push(`/md?${buildPostQueryString(nextPost)}`);
   };
 
   useEffect(() => {
-    const queryParams = querystring.parse(location.search.slice(1));
-    const title = queryParams.title;
-    if (!Array.isArray(queryParams.tags) && queryParams.tags) {
-      queryParams.tags = [queryParams.tags];
-    }
-    const tags = queryParams.tags;
-    const time = queryParams.time;
-    handleTitle(title);
-    handleTags(tags);
-    handleTime(time);
+    const {
+      title: nextTitle,
+      tags: nextTags,
+      time: nextTime,
+    } = parsePostQuery(location.search);
 
-    fetch(`${useBasePath()}/md/${title}.md`)
-      .then((resp) => resp.text())
-      .then((txt) => {
-        // 使用正则表达式替换文本中的路径
-        const updatedText = txt.replace(
-          /!\[ ]\(\/md/g,
-          `![ ](${useBasePath()}/md`,
-        );
-        handleMD(updatedText);
+    handleTitle(nextTitle);
+    handleTags(nextTags);
+    handleTime(nextTime);
+
+    if (!nextTitle) {
+      handleMD('loading... ...');
+      return;
+    }
+
+    fetchMarkdownByTitle(nextTitle)
+      .then((text) => {
+        handleMD(normalizeMarkdownAssetPaths(text));
+      })
+      .catch(() => {
+        handleMD('# 文档加载失败\n\n请返回列表页后重试。');
       });
   }, [location.search]);
 
@@ -100,11 +111,11 @@ const MD = () => {
         </p>
         <Space size={25}>
           <img
-            src={useBasePath() + '/img/decorate/back.svg'}
+            src={`${basePath}/img/decorate/back.svg`}
             onClick={() => history.back()}
           />
           {tags &&
-            tags.map((item: any) => (
+            tags.map((item) => (
               <Tag color="purple" onClick={back} key={item}>
                 {item}
               </Tag>

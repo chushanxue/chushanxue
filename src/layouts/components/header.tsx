@@ -2,6 +2,7 @@ import Clues from '@/components/Clues';
 import { useBasePath } from '@/hooks/useBasePath';
 import { useSearchPost } from '@/hooks/useSearchPost';
 import { getIP, getWeather } from '@/services/UseWeather';
+import type { SearchMatchPost } from '@/types/post';
 import { NavLink } from '@umijs/max';
 import { useMount } from 'ahooks';
 import { Input, Space } from 'antd';
@@ -14,10 +15,10 @@ const Header: React.FC = () => {
   // const { city, weather, temperature, setCity, setWeather, setTemperature } =
   //   useModel('useWeathers'); // todo 不要使用钩子 线上不显示的原因还不清楚
   const [keyword, setKeyword] = useState<string>('');
-  const [matchPosts, setMatchPosts] = useState<any>([]);
-  const [city, setCity] = useState();
-  const [weather, setWeather] = useState();
-  const [temperature, setTemperature] = useState();
+  const [matchPosts, setMatchPosts] = useState<SearchMatchPost[]>([]);
+  const [city, setCity] = useState<string>();
+  const [weather, setWeather] = useState<string>();
+  const [temperature, setTemperature] = useState<string>();
 
   const onSearch = (value: string) => {
     setKeyword(value);

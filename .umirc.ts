@@ -10,9 +10,6 @@ export default defineConfig({
   model: {},
   initialState: {},
   request: {},
-  dva: {
-    immer: { enableES5: true },
-  },
   routes: [
     {
       path: '/',

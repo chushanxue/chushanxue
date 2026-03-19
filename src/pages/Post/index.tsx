@@ -1,3 +1,5 @@
+import { buildPostQueryString } from '@/services/content';
+import type { PostItem } from '@/types/post';
 import {
   CheckCircleOutlined,
   PauseCircleOutlined,
@@ -6,7 +8,6 @@ import {
 import { history, useModel } from '@umijs/max';
 import { useMount } from 'ahooks';
 import { List, Rate } from 'antd';
-import querystring from 'querystring';
 import VirtualList from 'rc-virtual-list';
 import React, { useEffect, useState } from 'react';
 import Header from './components/Header';
@@ -21,15 +22,10 @@ const Status = [
 const DocsPage: React.FC = () => {
   const { post, sort, setQuestion } = useModel('usePost');
 
-  // 拼接博客标题
-  const mergeTitle = (index: number, title: string, desc: string) => {
-    return (
-      (sort ? post.length - index : index + 1) +
-      '、' +
-      title +
-      (desc ? '（' + desc + '）' : '')
-    );
-  };
+  const mergeTitle = (index: number, item: PostItem) =>
+    `${sort ? post.length - index : index + 1}、${item.title}${
+      item.desc ? `（${item.desc}）` : ''
+    }`;
 
   const [windowHeight, setWindowHeight] = useState<number>(0);
   const [scrollY, setScrollY] = useState<number>(350);
@@ -70,19 +66,13 @@ const DocsPage: React.FC = () => {
               key={item.title}
               onClick={() => {
                 setQuestion(item.question);
-                history.push(
-                  `/md?${querystring.stringify({
-                    title: item.title,
-                    tags: item.tag,
-                    time: item.time,
-                  })}`,
-                );
+                history.push(`/md?${buildPostQueryString(item)}`);
               }}
             >
               <span>
-                {mergeTitle(index, item.title, item.desc || '')}
+                {mergeTitle(index, item)}
                 <span style={{ marginLeft: '10px' }}>
-                  {Status[item.status]}
+                  {Status[item.status ?? 1]}
                 </span>
               </span>
 

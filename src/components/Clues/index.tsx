@@ -1,17 +1,24 @@
+import { buildPostQueryString } from '@/services/content';
+import type { SearchMatchPost } from '@/types/post';
 import { history } from '@umijs/max';
 import { List } from 'antd';
-import querystring from 'querystring';
 import styles from './index.less';
 
-const Clues = ({ keyword, matchPosts, cleanKeyword, cleanMatchPosts }: any) => {
-  const jumpToPost = (item: any) => {
-    history.push(
-      `/md?${querystring.stringify({
-        title: item.title,
-        tags: item.tag,
-        time: item.time,
-      })}`,
-    );
+interface CluesProps {
+  keyword: string;
+  matchPosts: SearchMatchPost[];
+  cleanKeyword: () => void;
+  cleanMatchPosts: () => void;
+}
+
+const Clues = ({
+  keyword,
+  matchPosts,
+  cleanKeyword,
+  cleanMatchPosts,
+}: CluesProps) => {
+  const jumpToPost = (item: SearchMatchPost) => {
+    history.push(`/md?${buildPostQueryString(item)}`);
     cleanKeyword();
     cleanMatchPosts();
   };
@@ -21,7 +28,7 @@ const Clues = ({ keyword, matchPosts, cleanKeyword, cleanMatchPosts }: any) => {
         <List
           size="small"
           dataSource={matchPosts}
-          renderItem={(item: any) => (
+          renderItem={(item: SearchMatchPost) => (
             <List.Item onClick={() => jumpToPost(item)}>
               <div className={styles['chat-clues-item']}>
                 <div

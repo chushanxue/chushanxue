@@ -1,6 +1,8 @@
 import { prettyLog } from '@/hooks/useConsole';
 import { useUpdateTime } from '@/hooks/useUpdateTime';
 import Locale from '@/locales';
+import { getDaysSinceLatestCommit, getRecentCommits } from '@/services/site';
+import type { GitHubCommitItem } from '@/types/site';
 import { FrownTwoTone, SearchOutlined, SmileTwoTone } from '@ant-design/icons';
 import { ReactComponent as SvgLogo } from '@public/img/banner/blog.svg';
 import { history } from '@umijs/max';
@@ -11,8 +13,8 @@ import Timeline from './components/TimeLine';
 import styles from './index.less';
 
 const Home: React.FC = () => {
-  const [updateTime, setUpdateTime] = useState<any>(false);
-  const [UpdateInfoList, setUpdateInfoList] = useState<any>([]);
+  const [updateTime, setUpdateTime] = useState<number | false>(false);
+  const [updateInfoList, setUpdateInfoList] = useState<GitHubCommitItem[]>([]);
 
   // 创建打印对象
   const log = prettyLog();
@@ -22,38 +24,25 @@ const Home: React.FC = () => {
 
   useEffect(() => {
     const fetchDeploymentTime = async () => {
-      const response = await fetch(
-        'https://api.github.com/repos/chushanxue/chushanxue/commits',
-        // 不需要token，也能直接访问github api，但有频率限制，一小时60次
-        // {
-        //   headers: {
-        //     Authorization:
-        //       `Bearer ${{ secrets.WF_TOKEN }}`, //此处需要频繁更新，一般只有30天有效期
-        //   },
-        // },
-      );
-      const data = await response.json();
+      const data = await getRecentCommits();
+      const nextUpdateTime = getDaysSinceLatestCommit(data || []);
+      const latestCommitDate = data?.[0]?.commit?.committer?.date;
+
       setUpdateInfoList(data || []);
-      console.log('后端', data);
-      const lastCommit = data[0]; // 获取最近的提交信息
-      const commitDate = new Date(lastCommit?.commit?.committer?.date) || 0;
-      // const commitInfo = lastCommit?.commit?.message || '';
-      // 格式化时间
-      const formattedDate = commitDate.toLocaleString();
-      // 计算与今天相隔的天数以及是不是今天
-      const today = new Date();
-      const timeDiff = today.getTime() - commitDate.getTime();
-      const daysDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24))
-        ? Math.floor(timeDiff / (1000 * 60 * 60 * 24))
-        : false;
-      setUpdateTime(daysDiff);
-      // setUpdateInfo(commitInfo);
-      // console.log('后端', data, commitInfo);
-      // console.log(formattedDate, daysDiff, timeDiff); //不要忘记基础的写法
-      log.info('daysDiff', `${formattedDate}, ${daysDiff}, ${timeDiff}`); //挺好的，醒目，图片打印很实用
+      setUpdateTime(nextUpdateTime);
+
+      if (latestCommitDate) {
+        const commitDate = new Date(latestCommitDate);
+        log.info(
+          'daysDiff',
+          `${commitDate.toLocaleString()}, ${nextUpdateTime}, ${Date.now() - commitDate.getTime()}`,
+        );
+      }
     };
 
-    fetchDeploymentTime();
+    fetchDeploymentTime().catch(() => {
+      setUpdateInfoList([]);
+    });
   }, []);
 
   return (
@@ -86,7 +75,7 @@ const Home: React.FC = () => {
           <SvgLogo />
         </div>
       </div>
-      <Timeline UpdateInfoList={UpdateInfoList} />
+      <Timeline updateInfoList={updateInfoList} />
     </>
   );
 };

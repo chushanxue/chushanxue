@@ -1,8 +1,6 @@
-// 检测当前的环境，返回不同的前缀
-export const useBasePath = () => {
-    const { NODE_ENV } = process.env;
-    if (NODE_ENV === 'development') {
-        return '';
-    }
-    return '/chushanxue';
-}
+import { BLOG_BASE_PATH } from '@/constants';
+
+export const getBasePath = () =>
+  process.env.NODE_ENV === 'development' ? '' : BLOG_BASE_PATH;
+
+export const useBasePath = getBasePath;
