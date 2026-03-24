@@ -290,16 +290,6 @@ const News: React.FC = () => {
                   key={item.id}
                   className={styles.newsCard}
                 >
-                  <div
-                    className={styles.cardCover}
-                    style={
-                      item.cover
-                        ? { backgroundImage: `url(${item.cover})` }
-                        : undefined
-                    }
-                  >
-                    {!item.cover ? <span>{item.category}</span> : null}
-                  </div>
                   <div className={styles.cardBody}>
                     <div className={styles.itemMetaRow}>
                       <span>{item.source}</span>

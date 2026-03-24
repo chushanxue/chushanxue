@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T16:08:13.482Z",
+  "generatedAt": "2026-03-24T16:17:05.819Z",
   "headline": {
     "id": "876017b53d1e9d80",
     "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
@@ -18,7 +18,7 @@
       "Developer skills",
       "GitHub Copilot"
     ],
-    "score": 116,
+    "score": 115,
     "sourceType": "rss",
     "cover": "",
     "author": ""
@@ -42,7 +42,7 @@
         "Developer skills",
         "GitHub Copilot"
       ],
-      "score": 116,
+      "score": 115,
       "sourceType": "rss",
       "cover": "",
       "author": ""
@@ -71,6 +71,25 @@
       "author": ""
     },
     {
+      "id": "7080d9ffc1fa01c6",
+      "title": "No Terms. No Conditions",
+      "titleZh": "无条款。无条件",
+      "summary": "Hacker News 热帖，当前积分 17，评论 6。",
+      "url": "https://notermsnoconditions.com",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-03-24T15:58:04.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 113,
+      "sourceType": "api"
+    },
+    {
       "id": "44f4cd7631809d02",
       "title": "Roku’s $3 Howdy subscription service launches on Prime Video",
       "titleZh": "Roku 的 $3 Howdy 订阅服务在 Prime Video 上推出",
@@ -92,63 +111,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": ""
-    },
-    {
-      "id": "176852ed0703487a",
-      "title": "Major insider trading on oil detected ahead of Iran talks",
-      "titleZh": "在伊朗谈判之前检测到主要的石油内幕交易",
-      "summary": "Hacker News 热帖，当前积分 177，评论 42。",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-03-24T15:25:52.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 113,
-      "sourceType": "api"
-    },
-    {
-      "id": "6a971309de5b32f3",
-      "title": "Hypothesis, Antithesis, Synthesis",
-      "titleZh": "假设、对立、合成",
-      "summary": "Hacker News 热帖，当前积分 28，评论 4。",
-      "url": "https://antithesis.com/blog/2026/hegel/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-03-24T15:28:17.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 113,
-      "sourceType": "api"
-    },
-    {
-      "id": "7080d9ffc1fa01c6",
-      "title": "No Terms. No Conditions",
-      "titleZh": "无条款。无条件",
-      "summary": "Hacker News 热帖，当前积分 10，评论 2。",
-      "url": "https://notermsnoconditions.com",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-03-24T15:58:04.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 113,
-      "sourceType": "api"
     },
     {
       "id": "63cccaa6a4343b05",
@@ -174,10 +136,48 @@
       "author": ""
     },
     {
+      "id": "176852ed0703487a",
+      "title": "Major insider trading on oil detected ahead of Iran talks",
+      "titleZh": "在伊朗谈判之前检测到主要的石油内幕交易",
+      "summary": "Hacker News 热帖，当前积分 226，评论 67。",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-03-24T15:25:52.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 112,
+      "sourceType": "api"
+    },
+    {
+      "id": "6a971309de5b32f3",
+      "title": "Hypothesis, Antithesis, Synthesis",
+      "titleZh": "假设、对立、合成",
+      "summary": "Hacker News 热帖，当前积分 31，评论 13。",
+      "url": "https://antithesis.com/blog/2026/hegel/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-03-24T15:28:17.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 112,
+      "sourceType": "api"
+    },
+    {
       "id": "2894390105464e03",
       "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
       "titleZh": "拉瓜迪亚航空公司飞行员在致命的跑道撞车事故发生前几个月发出安全警报",
-      "summary": "Hacker News 热帖，当前积分 59，评论 32。",
+      "summary": "Hacker News 热帖，当前积分 76，评论 39。",
       "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
@@ -195,71 +195,33 @@
   ],
   "featuredTools": [
     {
-      "id": "f4c362d457f641a0",
-      "title": "jared.so",
-      "titleZh": "jared.so",
-      "summary": "监控车队并在需要时主动加入的人工智能",
-      "url": "https://www.producthunt.com/products/jared-so",
+      "id": "246c989a3cf3a20d",
+      "title": "TypeScript 6.0",
+      "titleZh": "TypeScript 6.0",
+      "summary": "基于 JavaScript 构建的最后一个 TypeScript 版本",
+      "url": "https://www.producthunt.com/products/the-new-typescript-website",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-03-24T00:25:04.000Z",
+      "publishedAt": "2026-03-23T22:07:17.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 88,
+      "score": 84,
       "sourceType": "rss",
       "cover": "",
-      "author": "Rohan Chaubey"
+      "author": "Chris Messina"
     },
     {
-      "id": "32d0d4383e7b0ea1",
-      "title": "Claude Computer Use",
-      "titleZh": "Claude 电脑使用",
-      "summary": "使 Claude 能够使用您的计算机完成任务",
-      "url": "https://www.producthunt.com/products/claude",
+      "id": "a0d6d81c30307f0c",
+      "title": "Free AI Video Editor OpenCutAI",
+      "titleZh": "免费 AI 视频编辑器 OpenCutAI",
+      "summary": "使用人工智能免费创建 Instagram 视频片段和编辑视频",
+      "url": "https://www.producthunt.com/products/opencutai-video",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-03-23T21:41:13.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 83,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Rohan Chaubey"
-    },
-    {
-      "id": "104ca1b008714116",
-      "title": "Kitty Points Leaderboard",
-      "titleZh": "猫咪积分排行榜",
-      "summary": "寻找有趣的社区成员，看看你如何积累",
-      "url": "https://www.producthunt.com/products/producthunt",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-03-17T19:44:09.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 56,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Matt Carroll"
-    },
-    {
-      "id": "555410c439887242",
-      "title": "Google Gemini in Chrome",
-      "titleZh": "Chrome 中的 Google Gemini",
-      "summary": "将浏览器转变为人工智能工作区",
-      "url": "https://www.producthunt.com/products/googlegemini-in-chrome",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-03-11T07:09:56.000Z",
+      "publishedAt": "2026-03-22T18:14:15.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -268,7 +230,45 @@
       "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "Rohan Chaubey"
+      "author": "Abhishek Sira Chandrashekar"
+    },
+    {
+      "id": "7df055f51f34e733",
+      "title": "Navox Network",
+      "titleZh": "Navox 网络",
+      "summary": "将您的 LinkedIn 联系人转变为求职地图。",
+      "url": "https://www.producthunt.com/products/navox-network",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-03-18T20:18:29.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Nahrin Oda"
+    },
+    {
+      "id": "b41a49141c32c4f9",
+      "title": "NextPhone",
+      "titleZh": "NextPhone",
+      "summary": "为服务型企业提供全天候人工智能应答服务",
+      "url": "https://www.producthunt.com/products/nextphone-ai-answering-service-2",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-03-16T15:55:34.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Ben Lang"
     }
   ],
   "sections": [
@@ -440,7 +440,7 @@
             "模型产品",
             "Company"
           ],
-          "score": 115,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -506,11 +506,11 @@
           "author": ""
         },
         {
-          "id": "e43cb32659561834",
-          "title": "Introducing GPT-5.4 mini and nano",
-          "titleZh": "推出 GPT-5.4 mini 和 nano",
-          "summary": "GPT-5.4 mini 和 nano 是更小、更快的 GPT-5.4 版本，针对编码、工具使用、多模态推理以及大容量 API 和子代理工作负载进行了优化。",
-          "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+          "id": "5a618c88441ce130",
+          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+          "titleZh": "OpenAI 日本宣布日本青少年安全蓝图，将青少年安全放在首位",
+          "summary": "OpenAI Japan 宣布了日本青少年安全蓝图，引入了更强有力的年龄保护、家长控制和使用生成 A 的青少年福祉保障措施……",
+          "url": "https://openai.com/index/japan-teen-safety-blueprint",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-03-17T10:00:00.000Z",
@@ -518,7 +518,7 @@
           "tags": [
             "AI",
             "模型产品",
-            "Company"
+            "Safety"
           ],
           "score": 69,
           "sourceType": "rss",
@@ -690,54 +690,16 @@
             "Developer skills",
             "GitHub Copilot"
           ],
-          "score": 116,
+          "score": 115,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "176852ed0703487a",
-          "title": "Major insider trading on oil detected ahead of Iran talks",
-          "titleZh": "在伊朗谈判之前检测到主要的石油内幕交易",
-          "summary": "Hacker News 热帖，当前积分 177，评论 42。",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-03-24T15:25:52.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 113,
-          "sourceType": "api"
-        },
-        {
-          "id": "6a971309de5b32f3",
-          "title": "Hypothesis, Antithesis, Synthesis",
-          "titleZh": "假设、对立、合成",
-          "summary": "Hacker News 热帖，当前积分 28，评论 4。",
-          "url": "https://antithesis.com/blog/2026/hegel/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-03-24T15:28:17.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 113,
-          "sourceType": "api"
-        },
-        {
           "id": "7080d9ffc1fa01c6",
           "title": "No Terms. No Conditions",
           "titleZh": "无条款。无条件",
-          "summary": "Hacker News 热帖，当前积分 10，评论 2。",
+          "summary": "Hacker News 热帖，当前积分 17，评论 6。",
           "url": "https://notermsnoconditions.com",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
@@ -753,10 +715,48 @@
           "sourceType": "api"
         },
         {
+          "id": "176852ed0703487a",
+          "title": "Major insider trading on oil detected ahead of Iran talks",
+          "titleZh": "在伊朗谈判之前检测到主要的石油内幕交易",
+          "summary": "Hacker News 热帖，当前积分 226，评论 67。",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-03-24T15:25:52.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 112,
+          "sourceType": "api"
+        },
+        {
+          "id": "6a971309de5b32f3",
+          "title": "Hypothesis, Antithesis, Synthesis",
+          "titleZh": "假设、对立、合成",
+          "summary": "Hacker News 热帖，当前积分 31，评论 13。",
+          "url": "https://antithesis.com/blog/2026/hegel/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-03-24T15:28:17.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 112,
+          "sourceType": "api"
+        },
+        {
           "id": "2894390105464e03",
           "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
           "titleZh": "拉瓜迪亚航空公司飞行员在致命的跑道撞车事故发生前几个月发出安全警报",
-          "summary": "Hacker News 热帖，当前积分 59，评论 32。",
+          "summary": "Hacker News 热帖，当前积分 76，评论 39。",
           "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
@@ -772,14 +772,14 @@
           "sourceType": "api"
         },
         {
-          "id": "85a8b5bccff68a11",
-          "title": "LiteLLM Python package compromised by supply-chain attack",
-          "titleZh": "LiteLLM Python 包受到供应链攻击",
-          "summary": "Hacker News 热帖，当前积分 455，评论 194。",
-          "url": "https://github.com/BerriAI/litellm/issues/24512",
+          "id": "05cbac9230c4e371",
+          "title": "Apple Business",
+          "titleZh": "Apple Business",
+          "summary": "Hacker News 热帖，当前积分 11，评论 5。",
+          "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-03-24T12:36:20.000Z",
+          "publishedAt": "2026-03-24T15:29:41.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -787,7 +787,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 108,
+          "score": 112,
           "sourceType": "api"
         }
       ]
