@@ -1,32 +1,80 @@
 {
-  "generatedAt": "2026-03-24T15:46:18.684Z",
+  "generatedAt": "2026-03-24T16:08:13.482Z",
   "headline": {
-    "id": "44f4cd7631809d02",
-    "title": "Roku’s $3 Howdy subscription service launches on Prime Video",
-    "summary": "Launched in August 2025, Howdy features a library of nearly 10,000 hours of content from its partners, including Lionsgate, Sony Pictures, Disney Entertainment, Warner…",
-    "url": "https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/",
-    "source": "TechCrunch",
-    "sourceUrl": "https://techcrunch.com/",
-    "publishedAt": "2026-03-24T14:39:26.000Z",
-    "category": "product",
+    "id": "876017b53d1e9d80",
+    "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+    "titleZh": "使用 Copilot SDK 构建基于 AI 的 GitHub 问题分类",
+    "summary": "了解如何将 Copilot SDK 集成到 React Native 应用程序中，以生成人工智能驱动的问题摘要，以及用于优雅降级和缓存的生产模式。T…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+    "source": "GitHub Blog",
+    "sourceUrl": "https://github.blog/",
+    "publishedAt": "2026-03-24T16:00:00.000Z",
+    "category": "industry",
     "tags": [
-      "产品/商业",
-      "科技公司",
-      "Apps",
-      "Media & Entertainment",
-      "Howdy",
-      "roku"
+      "行业热点",
+      "开发平台",
+      "AI & ML",
+      "Application development",
+      "Developer skills",
+      "GitHub Copilot"
     ],
-    "score": 114,
+    "score": 116,
     "sourceType": "rss",
     "cover": "",
     "author": ""
   },
   "latest": [
     {
+      "id": "876017b53d1e9d80",
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "titleZh": "使用 Copilot SDK 构建基于 AI 的 GitHub 问题分类",
+      "summary": "了解如何将 Copilot SDK 集成到 React Native 应用程序中，以生成人工智能驱动的问题摘要，以及用于优雅降级和缓存的生产模式。T…",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "source": "GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-03-24T16:00:00.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发平台",
+        "AI & ML",
+        "Application development",
+        "Developer skills",
+        "GitHub Copilot"
+      ],
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "c72675d3143ae0ed",
+      "title": "Meet the former Apple designer building a new AI interface at Hark",
+      "titleZh": "认识这位前苹果设计师，他在 Hark 构建了一个新的人工智能界面",
+      "summary": "该公司表示，将协同设计模型、硬件和接口，以提供“无缝的端到端个人智能产品”。",
+      "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-03-24T16:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司",
+        "AI",
+        "hark",
+        "Exclusive",
+        "figure"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
       "id": "44f4cd7631809d02",
       "title": "Roku’s $3 Howdy subscription service launches on Prime Video",
-      "summary": "Launched in August 2025, Howdy features a library of nearly 10,000 hours of content from its partners, including Lionsgate, Sony Pictures, Disney Entertainment, Warner…",
+      "titleZh": "Roku 的 $3 Howdy 订阅服务在 Prime Video 上推出",
+      "summary": "Howdy 于 2025年8月推出，拥有近 10,000小时的合作伙伴内容库，包括 Lionsgate、Sony Pictures、Disney Entertainment、Warner……",
       "url": "https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
@@ -40,28 +88,6 @@
         "Howdy",
         "roku"
       ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "63cccaa6a4343b05",
-      "title": "Ads are coming to Apple Maps, as Apple expands its business offerings",
-      "summary": "Apple Maps will launch ads this summer in the U.S. and Canada. Plus, a new suite of Apple Business offerings arrives April 14.",
-      "url": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-03-24T15:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司",
-        "Enterprise",
-        "Apps",
-        "Commerce",
-        "Apple"
-      ],
       "score": 113,
       "sourceType": "rss",
       "cover": "",
@@ -70,7 +96,8 @@
     {
       "id": "176852ed0703487a",
       "title": "Major insider trading on oil detected ahead of Iran talks",
-      "summary": "Hacker News 热帖，当前积分 62，评论 5。",
+      "titleZh": "在伊朗谈判之前检测到主要的石油内幕交易",
+      "summary": "Hacker News 热帖，当前积分 177，评论 42。",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
@@ -86,21 +113,60 @@
       "sourceType": "api"
     },
     {
-      "id": "e9ae168a17e80505",
-      "title": "Flighty’s new update gives you real-time alerts about airport disturbances",
-      "summary": "Flighty's new feature will give users real-time updates about why operations at an airport are disrupted.",
-      "url": "https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/",
+      "id": "6a971309de5b32f3",
+      "title": "Hypothesis, Antithesis, Synthesis",
+      "titleZh": "假设、对立、合成",
+      "summary": "Hacker News 热帖，当前积分 28，评论 4。",
+      "url": "https://antithesis.com/blog/2026/hegel/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-03-24T15:28:17.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 113,
+      "sourceType": "api"
+    },
+    {
+      "id": "7080d9ffc1fa01c6",
+      "title": "No Terms. No Conditions",
+      "titleZh": "无条款。无条件",
+      "summary": "Hacker News 热帖，当前积分 10，评论 2。",
+      "url": "https://notermsnoconditions.com",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-03-24T15:58:04.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 113,
+      "sourceType": "api"
+    },
+    {
+      "id": "63cccaa6a4343b05",
+      "title": "Ads are coming to Apple Maps, as Apple expands its business offerings",
+      "titleZh": "随着苹果扩大业务范围，苹果地图将推出广告",
+      "summary": "Apple Maps 将于今年夏天在美国和加拿大推出广告。此外，Apple Business 新套件将于 4月14日推出。",
+      "url": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-03-24T15:05:29.000Z",
+      "publishedAt": "2026-03-24T15:00:00.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司",
         "Apps",
-        "Startups",
-        "Transportation",
-        "air travel"
+        "Commerce",
+        "Enterprise",
+        "Adtech"
       ],
       "score": 112,
       "sourceType": "rss",
@@ -108,13 +174,14 @@
       "author": ""
     },
     {
-      "id": "910cb88ce1c994b4",
-      "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Hacker News 热帖，当前积分 132，评论 70。",
-      "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+      "id": "2894390105464e03",
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "titleZh": "拉瓜迪亚航空公司飞行员在致命的跑道撞车事故发生前几个月发出安全警报",
+      "summary": "Hacker News 热帖，当前积分 59，评论 32。",
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-03-24T14:39:20.000Z",
+      "publishedAt": "2026-03-24T15:19:19.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -124,93 +191,14 @@
       ],
       "score": 112,
       "sourceType": "api"
-    },
-    {
-      "id": "86f03ce27d688ebf",
-      "title": "Epic Games cuts 1,000 jobs, says Fortnite engagement is down",
-      "summary": "Epic Games also increased the price of V-Bucks, the Fortnite in-game currency.",
-      "url": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-03-24T15:17:32.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司",
-        "Gaming",
-        "Epic Games",
-        "In Brief",
-        "Layoffs"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "4e447401de50601d",
-      "title": "FCC bans import of new consumer routers made overseas, citing security risks",
-      "summary": "The FCC ban will affect the import of all new, foreign-made consumer routers, the agency's head Brendan Carr said.",
-      "url": "https://techcrunch.com/2026/03/24/fcc-bans-import-of-new-consumer-routers-made-overseas-citing-security-risks/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-03-24T14:32:59.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司",
-        "Government & Policy",
-        "Security",
-        "cyberattacks",
-        "cybersecurity"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "452298b8d7161c4c",
-      "title": "Testing Font Scaling For Accessibility With Figma Variables",
-      "summary": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s…",
-      "url": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
-      "source": "Smashing Magazine",
-      "sourceUrl": "https://www.smashingmagazine.com/",
-      "publishedAt": "2026-03-24T13:00:00.000Z",
-      "category": "frontend",
-      "tags": [
-        "前端技术",
-        "设计/UI"
-      ],
-      "score": 119,
-      "sourceType": "rss",
-      "cover": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
-      "author": "hello@smashingmagazine.com (Ruben Ferreira Duarte)"
     }
   ],
   "featuredTools": [
     {
-      "id": "ebc2952c1f242ba6",
-      "title": "Library in ChatGPT",
-      "summary": "Find and reuse files across all your ChatGPT conversations Discussion | Link",
-      "url": "https://www.producthunt.com/products/chatgpt",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-03-24T02:43:16.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 92,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Zac Zuo"
-    },
-    {
       "id": "f4c362d457f641a0",
       "title": "jared.so",
-      "summary": "AI that monitors convos & proactively jumps in when needed Discussion | Link",
+      "titleZh": "jared.so",
+      "summary": "监控车队并在需要时主动加入的人工智能",
       "url": "https://www.producthunt.com/products/jared-so",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
@@ -220,7 +208,26 @@
         "工具/网站",
         "新产品"
       ],
-      "score": 89,
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Rohan Chaubey"
+    },
+    {
+      "id": "32d0d4383e7b0ea1",
+      "title": "Claude Computer Use",
+      "titleZh": "Claude 电脑使用",
+      "summary": "使 Claude 能够使用您的计算机完成任务",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-03-23T21:41:13.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 83,
       "sourceType": "rss",
       "cover": "",
       "author": "Rohan Chaubey"
@@ -228,7 +235,8 @@
     {
       "id": "104ca1b008714116",
       "title": "Kitty Points Leaderboard",
-      "summary": "Find interesting community members and see how you stack up Discussion | Link",
+      "titleZh": "猫咪积分排行榜",
+      "summary": "寻找有趣的社区成员，看看你如何积累",
       "url": "https://www.producthunt.com/products/producthunt",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
@@ -244,27 +252,10 @@
       "author": "Matt Carroll"
     },
     {
-      "id": "b41a49141c32c4f9",
-      "title": "NextPhone",
-      "summary": "24/7 AI answering service for service-based businesses Discussion | Link",
-      "url": "https://www.producthunt.com/products/nextphone-ai-answering-service-2",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-03-16T15:55:34.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Ben Lang"
-    },
-    {
       "id": "555410c439887242",
       "title": "Google Gemini in Chrome",
-      "summary": "Turn your browser into an AI workspace Discussion | Link",
+      "titleZh": "Chrome 中的 Google Gemini",
+      "summary": "将浏览器转变为人工智能工作区",
       "url": "https://www.producthunt.com/products/googlegemini-in-chrome",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
@@ -289,7 +280,8 @@
         {
           "id": "452298b8d7161c4c",
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
-          "summary": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s…",
+          "titleZh": "使用 Figma 变量测试字体缩放以实现可访问性",
+          "summary": "无障碍功能融入日常设计工作流程时效果最佳。我们的目标不是大转变，而是简单的工作流程，自然而然地融入团队的……",
           "url": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "source": "Smashing Magazine",
           "sourceUrl": "https://www.smashingmagazine.com/",
@@ -299,7 +291,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 119,
+          "score": 118,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
           "author": "hello@smashingmagazine.com (Ruben Ferreira Duarte)"
@@ -307,7 +299,8 @@
         {
           "id": "932577e47169b520",
           "title": "Experimenting With Scroll-Driven corner-shape Animations",
-          "summary": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects. Experim…",
+          "titleZh": "实验滚动驱动的角形动画",
+          "summary": "新的 CSS corner-shape ()属性是数学性质的，因此很容易进行动画处理。作家丹尼尔·施瓦茨（Daniel Schwarz）戳动画属性以获得有趣的 UI 效果。Experim……",
           "url": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -321,7 +314,7 @@
             "corner-shape",
             "Scroll Driven Animation"
           ],
-          "score": 83,
+          "score": 82,
           "sourceType": "rss",
           "cover": "https://css-tricks.com/wp-content/uploads/2026/02/corner-shape-amimation-1.mp4",
           "author": ""
@@ -329,7 +322,8 @@
         {
           "id": "3c22d05df2ed21a0",
           "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
-          "summary": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Go…",
+          "titleZh": "可滚动容器内的下拉菜单：它们为什么会损坏以及如何正确修复它们",
+          "summary": "下拉菜单通常可以完美地工作，直到它们被放置在一个可滚动的面板中，在那里它们可以被剪切，并菜单的一半消失在容器的边缘后面。去…",
           "url": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "source": "Smashing Magazine",
           "sourceUrl": "https://www.smashingmagazine.com/",
@@ -347,7 +341,8 @@
         {
           "id": "4b0a10c59fe87281",
           "title": "Modal vs. Separate Page: UX Decision Tree",
-          "summary": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Des…",
+          "titleZh": "模式与单独页面：用户体验决策树",
+          "summary": "如何在模式和页面之间进行选择，何时避免模式，以及如何确定正确的中断或导航级别。由智能界面设计为您带来……",
           "url": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
           "source": "Smashing Magazine",
           "sourceUrl": "https://www.smashingmagazine.com/",
@@ -365,7 +360,8 @@
         {
           "id": "f82505b6de705480",
           "title": "JavaScript for Everyone: Destructuring",
-          "summary": "Mat Marquis and Andy Bell have released JavaScript for Everyone , an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken spe…",
+          "titleZh": "适用于所有人的 JavaScript：破坏",
+          "summary": "Mat Marquis 和 Andy Bell 发布了“JavaScript for Everyone”，这是 Piccalilli 独家提供的在线课程。这篇文章摘自所学课程的摘录……",
           "url": "https://css-tricks.com/javascript-for-everyone-destructuring/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -386,7 +382,8 @@
         {
           "id": "c3e77019dc19c756",
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
-          "summary": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and…",
+          "titleZh": "动漫与漫威/DC：设计充满情感的数字产品",
+          "summary": "设计与像素和图案一样关乎节奏和感觉。艾伦·科恩（Alan Cohen）探讨了冲突中的流动和情感中的情感，展示了像丹·达·丹（Dan Da Dan）这样的动漫和……",
           "url": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "source": "Smashing Magazine",
           "sourceUrl": "https://www.smashingmagazine.com/",
@@ -409,9 +406,50 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "64b4a9f471122e6a",
+          "title": "Powering product discovery in ChatGPT",
+          "titleZh": "在 ChatGPT 中推动产品发现",
+          "summary": "ChatGPT 引入了更丰富、更具视觉沉浸感的购物体验，由 Agentic Commerce Protocol 提供支持，支持产品发现、并排比较和商家……",
+          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-03-24T09:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品",
+            "Product"
+          ],
+          "score": 115,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "07fdc1f8a618506a",
+          "title": "Update on the OpenAI Foundation",
+          "titleZh": "OpenAI 基金会最新动态",
+          "summary": "OpenAI 基金会宣布计划投资至少 10 $10 亿用于治疗疾病、经济机会、人工智能弹性和社区计划。",
+          "url": "https://openai.com/index/update-on-the-openai-foundation",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-03-24T09:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品",
+            "Company"
+          ],
+          "score": 115,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "5b5a025f1013ec75",
           "title": "Creating with Sora Safely",
-          "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safe…",
+          "titleZh": "与 Sora 一起安全地创作",
+          "summary": "为了应对最先进的视频模式以及新的社交创作平台带来的新型安全挑战，我们构建了 Sora 2 和 Sora 应用程序，并配备了安全功能……",
           "url": "https://openai.com/index/creating-with-sora-safely",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -430,7 +468,8 @@
         {
           "id": "72dba98087e3e6b3",
           "title": "How we monitor internal coding agents for misalignment",
-          "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety s…",
+          "titleZh": "我们如何监控内部编码代理是否未对齐",
+          "summary": "OpenAI 如何使用思想链监控来研究内部编码代理中的错位--分析真实世界的部署，以检测风险并加强人工智能的安全性……",
           "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -449,7 +488,8 @@
         {
           "id": "f2c7c56f06435fb1",
           "title": "OpenAI to acquire Astral",
-          "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+          "titleZh": "OpenAI 收购 Astral",
+          "summary": "加速 Codex 的增长，为下一代 Python 开发人员工具提供支持",
           "url": "https://openai.com/index/openai-to-acquire-astral",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -466,28 +506,10 @@
           "author": ""
         },
         {
-          "id": "5a618c88441ce130",
-          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative A…",
-          "url": "https://openai.com/index/japan-teen-safety-blueprint",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-03-17T10:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品",
-            "Safety"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
           "id": "e43cb32659561834",
           "title": "Introducing GPT-5.4 mini and nano",
-          "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+          "titleZh": "推出 GPT-5.4 mini 和 nano",
+          "summary": "GPT-5.4 mini 和 nano 是更小、更快的 GPT-5.4 版本，针对编码、工具使用、多模态推理以及大容量 API 和子代理工作负载进行了优化。",
           "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -502,25 +524,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "a60c3848c5b43a22",
-          "title": "Equipping workers with insights about compensation",
-          "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-          "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-03-17T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品",
-            "Global Affairs"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -530,9 +533,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
+          "id": "c72675d3143ae0ed",
+          "title": "Meet the former Apple designer building a new AI interface at Hark",
+          "titleZh": "认识这位前苹果设计师，他在 Hark 构建了一个新的人工智能界面",
+          "summary": "该公司表示，将协同设计模型、硬件和接口，以提供“无缝的端到端个人智能产品”。",
+          "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-03-24T16:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司",
+            "AI",
+            "hark",
+            "Exclusive",
+            "figure"
+          ],
+          "score": 114,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "44f4cd7631809d02",
           "title": "Roku’s $3 Howdy subscription service launches on Prime Video",
-          "summary": "Launched in August 2025, Howdy features a library of nearly 10,000 hours of content from its partners, including Lionsgate, Sony Pictures, Disney Entertainment, Warner…",
+          "titleZh": "Roku 的 $3 Howdy 订阅服务在 Prime Video 上推出",
+          "summary": "Howdy 于 2025年8月推出，拥有近 10,000小时的合作伙伴内容库，包括 Lionsgate、Sony Pictures、Disney Entertainment、Warner……",
           "url": "https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
@@ -546,7 +573,7 @@
             "Howdy",
             "roku"
           ],
-          "score": 114,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -554,7 +581,8 @@
         {
           "id": "63cccaa6a4343b05",
           "title": "Ads are coming to Apple Maps, as Apple expands its business offerings",
-          "summary": "Apple Maps will launch ads this summer in the U.S. and Canada. Plus, a new suite of Apple Business offerings arrives April 14.",
+          "titleZh": "随着苹果扩大业务范围，苹果地图将推出广告",
+          "summary": "Apple Maps 将于今年夏天在美国和加拿大推出广告。此外，Apple Business 新套件将于 4月14日推出。",
           "url": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
@@ -563,32 +591,10 @@
           "tags": [
             "产品/商业",
             "科技公司",
-            "Enterprise",
             "Apps",
             "Commerce",
-            "Apple"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e9ae168a17e80505",
-          "title": "Flighty’s new update gives you real-time alerts about airport disturbances",
-          "summary": "Flighty's new feature will give users real-time updates about why operations at an airport are disrupted.",
-          "url": "https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-03-24T15:05:29.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司",
-            "Apps",
-            "Startups",
-            "Transportation",
-            "air travel"
+            "Enterprise",
+            "Adtech"
           ],
           "score": 112,
           "sourceType": "rss",
@@ -598,7 +604,8 @@
         {
           "id": "86f03ce27d688ebf",
           "title": "Epic Games cuts 1,000 jobs, says Fortnite engagement is down",
-          "summary": "Epic Games also increased the price of V-Bucks, the Fortnite in-game currency.",
+          "titleZh": "Epic Games 裁员 1000人，《堡垒之夜》参与度下降",
+          "summary": "Epic Games 还提高了《堡垒之夜》游戏货币 V-Bucks 的价格。",
           "url": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
@@ -618,25 +625,44 @@
           "author": ""
         },
         {
-          "id": "4e447401de50601d",
-          "title": "FCC bans import of new consumer routers made overseas, citing security risks",
-          "summary": "The FCC ban will affect the import of all new, foreign-made consumer routers, the agency's head Brendan Carr said.",
-          "url": "https://techcrunch.com/2026/03/24/fcc-bans-import-of-new-consumer-routers-made-overseas-citing-security-risks/",
+          "id": "e9ae168a17e80505",
+          "title": "Flighty’s new update gives you real-time alerts about airport disturbances",
+          "titleZh": "Flighty 的最新动态为您提供有关机场骚乱的实时提醒",
+          "summary": "Flighty 的新功能将为用户提供有关机场运营中断原因的实时更新。",
+          "url": "https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-03-24T14:32:59.000Z",
+          "publishedAt": "2026-03-24T15:05:29.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司",
-            "Government & Policy",
-            "Security",
-            "cyberattacks",
-            "cybersecurity"
+            "Apps",
+            "Startups",
+            "Transportation",
+            "air travel"
           ],
           "score": 111,
           "sourceType": "rss",
           "cover": "",
+          "author": ""
+        },
+        {
+          "id": "27fe782adf23f448",
+          "title": "State of the product job market in early 2026",
+          "titleZh": "2026年初产品就业市场的状况",
+          "summary": "人工智能职位正在爆炸式增长，PM 和 ENG 职位空缺是多年来最高的，技术职位的总数也在上升",
+          "url": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-03-24T12:45:12.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "https://substackcdn.com/image/fetch/$s_!R7qT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1359e-86e1-4279-b080-ae33cff8af21_1456x970.png",
           "author": ""
         }
       ]
@@ -647,9 +673,33 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
+          "id": "876017b53d1e9d80",
+          "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+          "titleZh": "使用 Copilot SDK 构建基于 AI 的 GitHub 问题分类",
+          "summary": "了解如何将 Copilot SDK 集成到 React Native 应用程序中，以生成人工智能驱动的问题摘要，以及用于优雅降级和缓存的生产模式。T…",
+          "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+          "source": "GitHub Blog",
+          "sourceUrl": "https://github.blog/",
+          "publishedAt": "2026-03-24T16:00:00.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发平台",
+            "AI & ML",
+            "Application development",
+            "Developer skills",
+            "GitHub Copilot"
+          ],
+          "score": 116,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "176852ed0703487a",
           "title": "Major insider trading on oil detected ahead of Iran talks",
-          "summary": "Hacker News 热帖，当前积分 62，评论 5。",
+          "titleZh": "在伊朗谈判之前检测到主要的石油内幕交易",
+          "summary": "Hacker News 热帖，当前积分 177，评论 42。",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
@@ -665,13 +715,52 @@
           "sourceType": "api"
         },
         {
-          "id": "910cb88ce1c994b4",
-          "title": "The bridge to wealth is being pulled up with AI",
-          "summary": "Hacker News 热帖，当前积分 132，评论 70。",
-          "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+          "id": "6a971309de5b32f3",
+          "title": "Hypothesis, Antithesis, Synthesis",
+          "titleZh": "假设、对立、合成",
+          "summary": "Hacker News 热帖，当前积分 28，评论 4。",
+          "url": "https://antithesis.com/blog/2026/hegel/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-03-24T14:39:20.000Z",
+          "publishedAt": "2026-03-24T15:28:17.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 113,
+          "sourceType": "api"
+        },
+        {
+          "id": "7080d9ffc1fa01c6",
+          "title": "No Terms. No Conditions",
+          "titleZh": "无条款。无条件",
+          "summary": "Hacker News 热帖，当前积分 10，评论 2。",
+          "url": "https://notermsnoconditions.com",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-03-24T15:58:04.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 113,
+          "sourceType": "api"
+        },
+        {
+          "id": "2894390105464e03",
+          "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+          "titleZh": "拉瓜迪亚航空公司飞行员在致命的跑道撞车事故发生前几个月发出安全警报",
+          "summary": "Hacker News 热帖，当前积分 59，评论 32。",
+          "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-03-24T15:19:19.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -685,7 +774,8 @@
         {
           "id": "85a8b5bccff68a11",
           "title": "LiteLLM Python package compromised by supply-chain attack",
-          "summary": "Hacker News 热帖，当前积分 409，评论 179。",
+          "titleZh": "LiteLLM Python 包受到供应链攻击",
+          "summary": "Hacker News 热帖，当前积分 455，评论 194。",
           "url": "https://github.com/BerriAI/litellm/issues/24512",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
@@ -697,61 +787,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
-          "sourceType": "api"
-        },
-        {
-          "id": "46270da6e50108ef",
-          "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
-          "summary": "Hacker News 热帖，当前积分 44，评论 1。",
-          "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-03-24T12:14:56.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
           "score": 108,
-          "sourceType": "api"
-        },
-        {
-          "id": "f54947eacc7f6a5d",
-          "title": "Nanobrew: The fastest macOS package manager compatible with brew",
-          "summary": "Hacker News 热帖，当前积分 55，评论 30。",
-          "url": "https://nanobrew.trilok.ai/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-03-24T11:40:21.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 107,
-          "sourceType": "api"
-        },
-        {
-          "id": "ddf1e403d8b7946b",
-          "title": "Debunking Zswap and Zram Myths",
-          "summary": "Hacker News 热帖，当前积分 99，评论 24。",
-          "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-03-24T10:39:21.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 105,
           "sourceType": "api"
         }
       ]
@@ -762,13 +798,12 @@
     "Hugging Face Blog: fetch failed",
     "Anthropic News: Anthropic News 返回 404",
     "Figma Blog: Figma Blog 返回 404",
-    "Lenny's Newsletter: fetch failed",
     "BBC World: fetch failed"
   ],
   "sourceStats": {
-    "totalItems": 41,
+    "totalItems": 45,
     "totalSources": 13,
-    "succeededSources": 7,
-    "failedSources": 6
+    "succeededSources": 8,
+    "failedSources": 5
   }
 }

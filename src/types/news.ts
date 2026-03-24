@@ -3,6 +3,7 @@ export type NewsSourceType = 'rss' | 'api' | 'html' | 'manual';
 export interface NewsItem {
   id: string;
   title: string;
+  titleZh?: string;
   summary: string;
   url: string;
   source: string;

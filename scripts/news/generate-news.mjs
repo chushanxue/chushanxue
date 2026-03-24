@@ -8,11 +8,16 @@ import { NEWS_CATEGORY_META, NEWS_SOURCES } from './sources.mjs';
 const currentFilePath = fileURLToPath(import.meta.url);
 const projectRoot = path.resolve(path.dirname(currentFilePath), '../..');
 const outputPath = path.join(projectRoot, 'public/news/daily-digest.json');
+const translationCachePath = path.join(
+  projectRoot,
+  '.cache/news-summary-zh.json',
+);
 const requestHeaders = {
   'user-agent': 'chushanxue-news-bot/1.0 (+https://github.com)',
   accept:
     'application/json, text/html, application/xml, text/xml;q=0.9,*/*;q=0.8',
 };
+const TRANSLATE_CONCURRENCY = 4;
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -52,6 +57,53 @@ const clampText = (value = '', maxLength = 160) => {
   }
 
   return `${value.slice(0, maxLength - 1).trim()}…`;
+};
+
+const hasChinese = (value = '') => /[\u3400-\u9fff]/.test(value);
+
+const CHINESE_PUNCTUATION = /[，。！？；：、】【（）《》“”‘’、]/;
+
+const cleanSummarySourceText = (value = '') =>
+  stripHtml(value)
+    .replace(
+      /\b(Discussion|Link|Comments?)\b(\s*\|\s*\b(Discussion|Link|Comments?)\b)*/gi,
+      ' ',
+    )
+    .replace(/\s*Read more\.?$/i, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+const polishChineseCopy = (value = '', maxLength = 168) => {
+  const normalized = stripHtml(value)
+    .replace(/\s+/g, ' ')
+    .replace(/\s+([，。！？；：、）】》”])/g, '$1')
+    .replace(/([（【《“])\s+/g, '$1')
+    .replace(/([，。！？；：、])\s+/g, '$1')
+    .replace(/([\u4e00-\u9fff])([A-Za-z0-9])/g, '$1 $2')
+    .replace(/([A-Za-z0-9])([\u4e00-\u9fff])/g, '$1 $2')
+    .replace(/([\u4e00-\u9fff])([¥$€£])/g, '$1 $2')
+    .replace(/([A-Za-z])\s{2,}([A-Za-z])/g, '$1 $2')
+    .replace(/([¥$€£])\s+(\d)/g, '$1$2')
+    .replace(/(\d)\s+(年|月|日|天|小时|分钟|秒|人|条|款|亿美元|美元)/g, '$1$2')
+    .replace(/(年|月)\s+(\d)/g, '$1$2')
+    .replace(/此外，此外/g, '此外')
+    .replace(/另外，此外/g, '此外')
+    .replace(/，并且/g, '，并')
+    .trim();
+
+  return clampText(normalized, maxLength);
+};
+
+const shouldTranslateTitle = (value = '') => {
+  const text = stripHtml(value);
+
+  return Boolean(text && !hasChinese(text) && /[A-Za-z]/.test(text));
+};
+
+const shouldTranslateSummary = (value = '') => {
+  const text = cleanSummarySourceText(value);
+
+  return Boolean(text && !hasChinese(text) && /[A-Za-z]/.test(text));
 };
 
 const isBlockedUrl = (value = '') =>
@@ -221,6 +273,7 @@ const toNewsItem = ({
       .digest('hex')
       .slice(0, 16),
     title: safeTitle,
+    titleZh: undefined,
     summary: safeSummary,
     url: safeUrl || source.sourceUrl,
     source: source.title,
@@ -338,6 +391,159 @@ const uniqueBy = (items) => {
   return [...map.values()];
 };
 
+const loadTranslationCache = async () => {
+  try {
+    const raw = await fs.readFile(translationCachePath, 'utf8');
+    const parsed = JSON.parse(raw);
+
+    return parsed && typeof parsed === 'object' ? parsed : {};
+  } catch {
+    return {};
+  }
+};
+
+const saveTranslationCache = async (cache) => {
+  await fs.mkdir(path.dirname(translationCachePath), { recursive: true });
+  await fs.writeFile(
+    translationCachePath,
+    `${JSON.stringify(cache, null, 2)}\n`,
+    'utf8',
+  );
+};
+
+const translateTextToChinese = async (text) => {
+  const response = await fetch(
+    `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`,
+    {
+      headers: requestHeaders,
+    },
+  );
+
+  if (!response.ok) {
+    throw new Error(`翻译接口返回 ${response.status}`);
+  }
+
+  const payload = await response.json();
+  const translated = payload?.responseData?.translatedText || '';
+
+  return polishChineseCopy(translated, 168) || text;
+};
+
+const cacheLookup = (cache, namespace, text) => cache[`${namespace}:${text}`];
+
+const cacheAssign = (cache, namespace, text, translated) => {
+  cache[`${namespace}:${text}`] = translated;
+};
+
+const mapWithConcurrency = async (items, limit, mapper) => {
+  const results = new Array(items.length);
+  let cursor = 0;
+
+  const worker = async () => {
+    while (cursor < items.length) {
+      const currentIndex = cursor;
+      cursor += 1;
+      results[currentIndex] = await mapper(items[currentIndex], currentIndex);
+    }
+  };
+
+  await Promise.all(
+    Array.from({ length: Math.min(limit, items.length) }, () => worker()),
+  );
+
+  return results;
+};
+
+const translateItemSummaries = async (items) => {
+  if (!items.length) {
+    return items;
+  }
+
+  const cache = await loadTranslationCache();
+  let cacheUpdated = false;
+
+  const translatedItems = await mapWithConcurrency(
+    items,
+    TRANSLATE_CONCURRENCY,
+    async (item) => {
+      const title = item.title?.trim();
+      const summary = cleanSummarySourceText(item.summary?.trim());
+      let nextItem = item;
+
+      if (shouldTranslateTitle(title)) {
+        const cachedTitle = cacheLookup(cache, 'title', title);
+
+        if (cachedTitle) {
+          nextItem = {
+            ...nextItem,
+            titleZh: polishChineseCopy(cachedTitle, 84),
+          };
+        } else {
+          try {
+            const translatedTitle = polishChineseCopy(
+              await translateTextToChinese(title),
+              84,
+            );
+
+            cacheAssign(cache, 'title', title, translatedTitle);
+            cacheUpdated = true;
+            nextItem = {
+              ...nextItem,
+              titleZh: translatedTitle,
+            };
+          } catch {
+            nextItem = {
+              ...nextItem,
+              titleZh: undefined,
+            };
+          }
+        }
+      }
+
+      if (!shouldTranslateSummary(summary)) {
+        return {
+          ...nextItem,
+          summary: polishChineseCopy(nextItem.summary, 168),
+        };
+      }
+
+      const cachedSummary = cacheLookup(cache, 'summary', summary);
+
+      if (cachedSummary) {
+        return {
+          ...nextItem,
+          summary: polishChineseCopy(cachedSummary, 168),
+        };
+      }
+
+      try {
+        const translated = polishChineseCopy(
+          await translateTextToChinese(summary),
+          168,
+        );
+        cacheAssign(cache, 'summary', summary, translated);
+        cacheUpdated = true;
+
+        return {
+          ...nextItem,
+          summary: translated,
+        };
+      } catch {
+        return {
+          ...nextItem,
+          summary: polishChineseCopy(nextItem.summary, 168),
+        };
+      }
+    },
+  );
+
+  if (cacheUpdated) {
+    await saveTranslationCache(cache);
+  }
+
+  return translatedItems;
+};
+
 const sortByScore = (items) =>
   items.sort((left, right) => {
     const timeDiff =
@@ -391,7 +597,9 @@ const generateDigest = async () => {
     }
   }
 
-  const mergedItems = sortByScore(uniqueBy(collected));
+  const mergedItems = await translateItemSummaries(
+    sortByScore(uniqueBy(collected)),
+  );
   const sections = buildSections(mergedItems);
   const headline = mergedItems[0];
   const latest = mergedItems.slice(0, 8);

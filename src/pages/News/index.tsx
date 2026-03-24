@@ -31,6 +31,8 @@ const formatDateTime = (value?: string) => {
 const renderSummary = (item: NewsItem) =>
   item.summary?.trim() || '这条资讯暂时没有可用摘要，建议直接打开原文查看。';
 
+const renderTitleZh = (item: NewsItem) => item.titleZh?.trim() || '';
+
 const News: React.FC = () => {
   const [digest, setDigest] = useState<NewsDigest | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
@@ -178,6 +180,11 @@ const News: React.FC = () => {
               </div>
               <p className={styles.editorNote}>编辑精选</p>
               <h2>{digest.headline.title}</h2>
+              {renderTitleZh(digest.headline) ? (
+                <p className={styles.titleZhLead}>
+                  {renderTitleZh(digest.headline)}
+                </p>
+              ) : null}
               <p>{renderSummary(digest.headline)}</p>
               <div className={styles.tagRow}>
                 {digest.headline.tags.slice(0, 4).map((tag) => (
@@ -218,6 +225,9 @@ const News: React.FC = () => {
                   <span>{formatDateTime(item.publishedAt)}</span>
                 </div>
                 <h3>{item.title}</h3>
+                {renderTitleZh(item) ? (
+                  <p className={styles.titleZhInline}>{renderTitleZh(item)}</p>
+                ) : null}
                 <p>{renderSummary(item)}</p>
                 <span className={styles.readMore}>
                   继续阅读 <ArrowRightOutlined />
@@ -251,6 +261,9 @@ const News: React.FC = () => {
                   <span>{formatDateTime(item.publishedAt)}</span>
                 </div>
                 <h3>{item.title}</h3>
+                {renderTitleZh(item) ? (
+                  <p className={styles.titleZhInline}>{renderTitleZh(item)}</p>
+                ) : null}
                 <p>{renderSummary(item)}</p>
               </a>
             ))}
@@ -293,6 +306,11 @@ const News: React.FC = () => {
                       <span>{formatDateTime(item.publishedAt)}</span>
                     </div>
                     <h3>{item.title}</h3>
+                    {renderTitleZh(item) ? (
+                      <p className={styles.titleZhInline}>
+                        {renderTitleZh(item)}
+                      </p>
+                    ) : null}
                     <p>{renderSummary(item)}</p>
                     <div className={styles.tagRow}>
                       {item.tags.slice(0, 3).map((tag) => (
