@@ -41,6 +41,11 @@ export default defineConfig({
       component: './Nav',
     },
     {
+      name: '资讯雷达',
+      path: '/news',
+      component: './News',
+    },
+    {
       name: '杂谈',
       path: '/contribute',
       component: './Contribute',

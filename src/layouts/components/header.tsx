@@ -10,6 +10,8 @@ import React, { useState } from 'react';
 import styles from './header.less';
 
 const { Search } = Input;
+const activeMenuStyle = ({ isActive }: { isActive: boolean }) =>
+  isActive ? { color: '#faa219' } : {};
 
 const Header: React.FC = () => {
   // const { city, weather, temperature, setCity, setWeather, setTemperature } =
@@ -74,7 +76,7 @@ const Header: React.FC = () => {
                   <img src={useBasePath() + '/svg/location.svg'} />
                 </div>
                 <Space direction="vertical" size={1}>
-                  <span>{city.slice(0, city.length - 1)}</span>
+                  <span>{city ? city.slice(0, city.length - 1) : ''}</span>
                   <span>{weather + ' / ' + temperature + '℃'}</span>
                 </Space>
               </Space>
@@ -89,19 +91,14 @@ const Header: React.FC = () => {
         <div className={styles.left}>
           <Space size={40}>
             {/* 目录 */}
-            <NavLink
-              to="/post"
-              className={styles.menu}
-              style={({ isActive }) => (isActive ? { color: '#faa219' } : {})}
-            >
+            <NavLink to="/post" className={styles.menu} style={activeMenuStyle}>
               技术博客
             </NavLink>
-            <NavLink
-              to="/nav"
-              className={styles.menu}
-              style={({ isActive }) => (isActive ? { color: '#faa219' } : {})}
-            >
+            <NavLink to="/nav" className={styles.menu} style={activeMenuStyle}>
               资源导航
+            </NavLink>
+            <NavLink to="/news" className={styles.menu} style={activeMenuStyle}>
+              资讯雷达
             </NavLink>
             {/* <NavLink
               to="/week"
@@ -117,13 +114,13 @@ const Header: React.FC = () => {
             >
               心得成长
             </NavLink> */}
-            {/* <NavLink
+            <NavLink
               to="/about"
               className={styles.menu}
-              style={({ isActive }) => (isActive ? { color: '#faa219' } : {})}
+              style={activeMenuStyle}
             >
               关于
-            </NavLink> */}
+            </NavLink>
           </Space>
         </div>
         {/* 右侧内容 */}
