@@ -31,6 +31,11 @@ export interface NewsSourceStats {
   failedSources: number;
 }
 
+export interface TrendingTag {
+  tag: string;
+  count: number;
+}
+
 export interface NewsDigest {
   generatedAt: string;
   headline?: NewsItem;
@@ -39,4 +44,5 @@ export interface NewsDigest {
   sections: NewsSection[];
   sourceFailures: string[];
   sourceStats: NewsSourceStats;
+  trendingTags?: TrendingTag[];
 }

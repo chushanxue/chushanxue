@@ -109,6 +109,28 @@ const shouldTranslateSummary = (value = '') => {
 const isBlockedUrl = (value = '') =>
   /github\.com\/login\?return_to=|github\.com\/sponsors\//i.test(value);
 
+// 识别明显的营销/广告/福利内容
+const isPromotional = (title = '') =>
+  /🎁|福利派|赠品|促销|限时优惠|限时活动|开售|优惠券/.test(title);
+
+const buildTrendingTags = (items) => {
+  const countMap = new Map();
+
+  for (const item of items) {
+    for (const tag of item.tags) {
+      // 只统计包含中文的标签
+      if (hasChinese(tag)) {
+        countMap.set(tag, (countMap.get(tag) || 0) + 1);
+      }
+    }
+  }
+
+  return [...countMap.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 16)
+    .map(([tag, count]) => ({ tag, count }));
+};
+
 const isLikelyValidItem = (item) => {
   if (!item) {
     return false;
@@ -298,7 +320,9 @@ const parseRssItems = async (source) => {
     throw new Error(`${source.title} 返回 ${response.status}`);
   }
 
-  const xml = await response.text();
+  // 移除 DOCTYPE/ENTITY 声明，避免 fast-xml-parser 实体展开限制报错
+  const rawXml = await response.text();
+  const xml = rawXml.replace(/<!DOCTYPE[\s\S]*?(?:\[[\s\S]*?\])?\s*>/gi, '');
   const parsed = parser.parse(xml);
   const rssItems = toArray(parsed?.rss?.channel?.item);
   const atomItems = toArray(parsed?.feed?.entry);
@@ -319,7 +343,8 @@ const parseRssItems = async (source) => {
         readTextField(item.content),
       url: resolveLink(item, source.sourceUrl),
       publishedAt: resolvePublishedAt(item),
-      tags,
+      // 只保留包含中文字符的 tag，过滤掉 RSS 分类中的纯英文单词
+      tags: tags.filter(hasChinese),
       cover: resolveCover(item, source.sourceUrl),
       author: readTextField(item.author?.name || item.author),
       sourceType: 'rss',
@@ -582,7 +607,9 @@ const generateDigest = async () => {
         items = await parseHackerNewsItems(source);
       }
 
-      items = items.filter(isLikelyValidItem);
+      items = items.filter(isLikelyValidItem).filter(
+        (item) => !isPromotional(item.title),
+      );
 
       if (items.length) {
         collected.push(...items);
@@ -605,9 +632,12 @@ const generateDigest = async () => {
   const latest = mergedItems.slice(0, 8);
   const featuredTools = mergedItems
     .filter(
-      (item) => item.category === 'tools' || item.tags.includes('工具/网站'),
+      (item) =>
+        (item.category === 'tools' || item.tags.includes('工具/网站')) &&
+        !isPromotional(item.title),
     )
     .slice(0, 6);
+  const trendingTags = buildTrendingTags(mergedItems);
   const digest = {
     generatedAt: new Date().toISOString(),
     headline,
@@ -621,6 +651,7 @@ const generateDigest = async () => {
       succeededSources,
       failedSources: NEWS_SOURCES.length - succeededSources,
     },
+    trendingTags,
   };
 
   await fs.mkdir(path.dirname(outputPath), { recursive: true });

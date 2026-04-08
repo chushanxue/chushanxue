@@ -31,7 +31,18 @@ const formatDateTime = (value?: string) => {
 const renderSummary = (item: NewsItem) =>
   item.summary?.trim() || '这条资讯暂时没有可用摘要，建议直接打开原文查看。';
 
-const renderTitleZh = (item: NewsItem) => item.titleZh?.trim() || '';
+// 中文标题优先：有就用中文，没有则显示原文
+const renderTitle = (item: NewsItem) => item.titleZh?.trim() || item.title;
+
+// 分类区域标识 kicker
+const CATEGORY_KICKER: Record<string, string> = {
+  frontend: '前端 · 技术',
+  ai: 'AI · 效率',
+  product: '产品 · 商业',
+  design: '设计 · UI',
+  industry: '行业 · 热点',
+  tools: '工具 · 发现',
+};
 
 const News: React.FC = () => {
   const [digest, setDigest] = useState<NewsDigest | null>(null);
@@ -62,9 +73,6 @@ const News: React.FC = () => {
   if (loading) {
     return (
       <div className={styles.page}>
-        <div className={styles.hero}>
-          <Skeleton active paragraph={{ rows: 3 }} />
-        </div>
         <div className={styles.loadingGrid}>
           <Skeleton active paragraph={{ rows: 8 }} />
           <Skeleton active paragraph={{ rows: 8 }} />
@@ -122,34 +130,17 @@ const News: React.FC = () => {
 
   return (
     <div className={styles.page}>
-      <section className={styles.hero}>
-        <div className={styles.heroIntro}>
-          <p className={styles.kicker}>News Radar</p>
-          <h1>每天筛一轮，把值得看的资讯先摆上桌面</h1>
-          <p className={styles.heroText}>
-            这不是全文转载区，而是一个面向日更的资讯聚合首页。内容主要来自官方
-            RSS、公开 API 和稳定媒体
-            feed，首屏优先展示时效性、信息密度和可读性都更高的条目。
-          </p>
+      {digest.trendingTags?.length ? (
+        <div className={styles.trendStrip}>
+          <span className={styles.trendLabel}>热议话题</span>
+          {digest.trendingTags.map((t) => (
+            <span className={styles.trendTag} key={t.tag}>
+              {t.tag}
+              <em>{t.count}</em>
+            </span>
+          ))}
         </div>
-        <div className={styles.heroMeta}>
-          <div>
-            <span>最近生成</span>
-            <strong>{formatDateTime(digest.generatedAt)}</strong>
-          </div>
-          <div>
-            <span>本轮收录</span>
-            <strong>{digest.sourceStats.totalItems} 条</strong>
-          </div>
-          <div>
-            <span>成功来源</span>
-            <strong>
-              {digest.sourceStats.succeededSources}/
-              {digest.sourceStats.totalSources}
-            </strong>
-          </div>
-        </div>
-      </section>
+      ) : null}
 
       <section className={styles.leadGrid}>
         {digest.headline ? (
@@ -159,31 +150,34 @@ const News: React.FC = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <div
-              className={styles.headlineCover}
-              style={
-                digest.headline.cover
-                  ? {
-                      backgroundImage: `linear-gradient(180deg, rgba(20, 20, 20, 0.04), rgba(20, 20, 20, 0.78)), url(${digest.headline.cover})`,
-                    }
-                  : undefined
-              }
-            >
-              <Tag color="gold" className={styles.headlineTag}>
-                <ThunderboltFilled /> 头条
-              </Tag>
-            </div>
+            {digest.headline.cover ? (
+              <div
+                className={styles.headlineCover}
+                style={{
+                  backgroundImage: `linear-gradient(180deg, rgba(20, 20, 20, 0.04), rgba(20, 20, 20, 0.78)), url(${digest.headline.cover})`,
+                }}
+              >
+                <Tag color="gold" className={styles.headlineTag}>
+                  <ThunderboltFilled /> 头条
+                </Tag>
+              </div>
+            ) : null}
             <div className={styles.headlineBody}>
               <div className={styles.itemMetaRow}>
+                {!digest.headline.cover ? (
+                  <Tag color="gold" className={styles.headlineTagInline}>
+                    <ThunderboltFilled /> 头条
+                  </Tag>
+                ) : null}
                 <span>{digest.headline.source}</span>
                 <span>{formatDateTime(digest.headline.publishedAt)}</span>
               </div>
-              <p className={styles.editorNote}>编辑精选</p>
-              <h2>{digest.headline.title}</h2>
-              {renderTitleZh(digest.headline) ? (
-                <p className={styles.titleZhLead}>
-                  {renderTitleZh(digest.headline)}
-                </p>
+              {digest.headline.cover ? (
+                <p className={styles.editorNote}>编辑精选</p>
+              ) : null}
+              <h2>{renderTitle(digest.headline)}</h2>
+              {renderTitle(digest.headline) !== digest.headline.title && digest.headline.title ? (
+                <p className={styles.titleZhLead}>{digest.headline.title}</p>
               ) : null}
               <p>{renderSummary(digest.headline)}</p>
               <div className={styles.tagRow}>
@@ -203,7 +197,7 @@ const News: React.FC = () => {
         <aside className={styles.latestPanel}>
           <div className={styles.panelHeader}>
             <div>
-              <p className={styles.panelTitle}>Top Stories</p>
+              <p className={styles.panelTitle}>精选速览</p>
               <h2>本轮最重要的几条</h2>
             </div>
             <Button type="link" icon={<ReloadOutlined />} onClick={loadDigest}>
@@ -220,13 +214,13 @@ const News: React.FC = () => {
                 className={styles.latestItem}
               >
                 <span className={styles.latestIndex}>0{index + 1}</span>
-                <div className={styles.latestItemTop}>
+                <div className={styles.itemMetaRow}>
                   <span>{item.source}</span>
                   <span>{formatDateTime(item.publishedAt)}</span>
                 </div>
-                <h3>{item.title}</h3>
-                {renderTitleZh(item) ? (
-                  <p className={styles.titleZhInline}>{renderTitleZh(item)}</p>
+                <h3>{renderTitle(item)}</h3>
+                {renderTitle(item) !== item.title && item.title ? (
+                  <p className={styles.titleZhInline}>{item.title}</p>
                 ) : null}
                 <p>{renderSummary(item)}</p>
                 <span className={styles.readMore}>
@@ -242,7 +236,7 @@ const News: React.FC = () => {
         <section className={styles.toolsSection}>
           <div className={styles.sectionHeader}>
             <div>
-              <p className={styles.sectionKicker}>Useful Finds</p>
+              <p className={styles.sectionKicker}>发现好物</p>
               <h2>今日工具与网站</h2>
             </div>
             <span>适合顺手收藏，不适合沉底吃灰</span>
@@ -260,9 +254,9 @@ const News: React.FC = () => {
                   <span>{item.source}</span>
                   <span>{formatDateTime(item.publishedAt)}</span>
                 </div>
-                <h3>{item.title}</h3>
-                {renderTitleZh(item) ? (
-                  <p className={styles.titleZhInline}>{renderTitleZh(item)}</p>
+                <h3>{renderTitle(item)}</h3>
+                {renderTitle(item) !== item.title && item.title ? (
+                  <p className={styles.titleZhInline}>{item.title}</p>
                 ) : null}
                 <p>{renderSummary(item)}</p>
               </a>
@@ -276,10 +270,13 @@ const News: React.FC = () => {
           <section className={styles.section} key={section.key}>
             <div className={styles.sectionHeader}>
               <div>
-                <p className={styles.sectionKicker}>{section.title}</p>
-                <h2>{section.description}</h2>
+                <p className={styles.sectionKicker}>
+                  {CATEGORY_KICKER[section.key] || section.title}
+                </p>
+                <h2>{section.title}</h2>
+                <p className={styles.sectionDesc}>{section.description}</p>
               </div>
-              <span>{section.items.length} 条</span>
+              <span>{section.items.length} 篇</span>
             </div>
             <div className={styles.cardGrid}>
               {section.items.map((item) => (
@@ -295,11 +292,9 @@ const News: React.FC = () => {
                       <span>{item.source}</span>
                       <span>{formatDateTime(item.publishedAt)}</span>
                     </div>
-                    <h3>{item.title}</h3>
-                    {renderTitleZh(item) ? (
-                      <p className={styles.titleZhInline}>
-                        {renderTitleZh(item)}
-                      </p>
+                    <h3>{renderTitle(item)}</h3>
+                    {renderTitle(item) !== item.title && item.title ? (
+                      <p className={styles.titleZhInline}>{item.title}</p>
                     ) : null}
                     <p>{renderSummary(item)}</p>
                     <div className={styles.tagRow}>
