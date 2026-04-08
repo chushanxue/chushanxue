@@ -1,15 +1,16 @@
-name: deployment
+name: news-refresh
 
 on:
-  push:
-    branches: ['main']
+  schedule:
+    # UTC 02:00 = 北京时间 10:00
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  deploy:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -26,12 +27,13 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Build site and refresh news digest
-        run: pnpm build:pre
+      - name: Generate news digest
+        run: pnpm news:generate
 
-      - name: Deploy
+      - name: Push news digest to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-          force_orphan: true
+          publish_dir: ./public/news
+          destination_dir: news
+          keep_files: true
