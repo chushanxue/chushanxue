@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[333],{78230:function(s,n,u){u.r(n),u.d(n,{default:function(){return r}});var e={talk:"talk___Zi4uf"},t=u(92880),i=function(){return(0,t.jsx)("div",{children:(0,t.jsx)("div",{className:e.container,children:"\u793E\u533A\u8D21\u732E"})})},r=i}}]);
