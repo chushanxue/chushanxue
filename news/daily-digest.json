@@ -1,88 +1,160 @@
 {
-  "generatedAt": "2026-04-08T16:06:05.752Z",
+  "generatedAt": "2026-04-09T04:32:41.760Z",
   "headline": {
-    "id": "0885820428fa8cac",
-    "title": "这世界变化太快了, 奶奶的",
-    "summary": "小龙虾还没搞顺, 又来了个 Hermes-agent https://github.com/nousresearch/hermes-agent 不过 openclaw 是有点垃圾和臃肿, 今天的版本我直接无法对接本地的 omlx, 折腾一天了, 烦死.",
-    "url": "https://www.v2ex.com/t/1204456#reply0",
+    "id": "8721c7cca6a92f02",
+    "title": "用开源模型折腾个知识库（RAG)有必要没？",
+    "summary": "写代码。现在都是闭源模型一把梭。。遇到错误了总结个 skill。反正也挺好用。但是写鸿蒙这种就错误多一些，需要手动查文档之类的（虽然闭源也会差，但总感觉查准确率差一些），修起来费点时间。有必要折腾个这种玩意嘛？需求就是配合闭源的去完成工作。还是说继续闭源一把梭算了。。",
+    "url": "https://www.v2ex.com/t/1204576#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-04-08T15:40:56.000Z",
+    "publishedAt": "2026-04-09T04:29:12.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 114,
+    "score": 115,
     "sourceType": "rss",
     "cover": "",
-    "author": "Hermitist"
+    "author": "afkool"
   },
   "latest": [
     {
-      "id": "0885820428fa8cac",
-      "title": "这世界变化太快了, 奶奶的",
-      "summary": "小龙虾还没搞顺, 又来了个 Hermes-agent https://github.com/nousresearch/hermes-agent 不过 openclaw 是有点垃圾和臃肿, 今天的版本我直接无法对接本地的 omlx, 折腾一天了, 烦死.",
-      "url": "https://www.v2ex.com/t/1204456#reply0",
+      "id": "8721c7cca6a92f02",
+      "title": "用开源模型折腾个知识库（RAG)有必要没？",
+      "summary": "写代码。现在都是闭源模型一把梭。。遇到错误了总结个 skill。反正也挺好用。但是写鸿蒙这种就错误多一些，需要手动查文档之类的（虽然闭源也会差，但总感觉查准确率差一些），修起来费点时间。有必要折腾个这种玩意嘛？需求就是配合闭源的去完成工作。还是说继续闭源一把梭算了。。",
+      "url": "https://www.v2ex.com/t/1204576#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-08T15:40:56.000Z",
+      "publishedAt": "2026-04-09T04:29:12.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 115,
       "sourceType": "rss",
       "cover": "",
-      "author": "Hermitist"
+      "author": "afkool"
     },
     {
-      "id": "6f593b9503b5f0a9",
-      "title": "Ai 出现之后，人与人的差距被放大了",
-      "summary": "看看 V2 的创意标签下发布的作品，就能看出来，创意、想象力、执行力真不是想有就能有的，最近在 vibecoding 一个小工具，画个 icon 折麽我一个星期，脑子里是一点东西都没有啊。这边凌晨刚出来一个新技术或者新模型，那边喂饭教程天没亮就上线了，你们真是神人。",
-      "url": "https://www.v2ex.com/t/1204446#reply5",
+      "id": "3f42a436f7a8f5c6",
+      "title": "Linux /Ubuntu 上如何实现连接两个不同的 wifi 解决实际需求。",
+      "summary": "背景：自用电脑是联想小新 pro 14，装有 ubuntu24.04, 支持 wifi6 公司有 wifi A 和 wifi B，wifi A 是国内的普通宽带，wifi B 是连接香港的专线。服务器 ssh 连接限定了必须是使用 wifi A wifi B 由于是香港专线，可以自由访问谷歌等网站，无需翻墙。使用 wifi…",
+      "url": "https://www.v2ex.com/t/1204573#reply3",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-08T15:04:19.000Z",
+      "publishedAt": "2026-04-09T04:17:35.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "GuoDe1T"
+    },
+    {
+      "id": "36eb5ca9ff2cfb74",
+      "title": "雷鸟 Air3 AR 眼镜：一年使用体验复盘",
+      "summary": "本次分享为自费购入雷鸟 Air3 一年多的真实使用体验，所有感受均来自日常真实使用场景。查看全文",
+      "url": "https://sspai.com/post/108367",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-09T03:04:06.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
       ],
       "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "FringJX"
+      "author": "Barryhimself"
     },
     {
-      "id": "cdb9219c27fb3262",
-      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-      "titleZh": "Astropad 的 Workbench 重新构想了人工智能代理的远程桌面，而不是 IT 支持",
-      "summary": "Astropad 的 Workbench 允许用户从 iPhone 或 iPad 远程监控和控制 Mac Mini 上的 AI 代理，具有低延迟的流媒体和移动访问。",
-      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-04-08T16:01:09.000Z",
-      "category": "product",
+      "id": "b5467fd449e93ec4",
+      "title": "GitHub availability report: March 2026",
+      "titleZh": "GitHub 可用性报告：2026年3月",
+      "summary": "3月份，我们经历了四次事件，导致 GitHub 服务的性能下降。GitHub 发布后可用性报告：2026年3月首次出现在……",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+      "source": "GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-04-09T02:21:17.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "开发平台"
       ],
-      "score": 108,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "af46c349cadb0af7",
-      "title": "Show HN: Explore the Silk Roads through an interactive map",
-      "titleZh": "Show HN：通过交互式地图探索丝绸之路",
-      "summary": "Hacker News 热帖，当前积分 21，评论 1。",
-      "url": "https://www.intofarlands.com/silk-roads-map",
+      "id": "d9cdc9342b295f8a",
+      "title": "大家说的 claude 封号，是发生在什么时候？",
+      "summary": "目前我有 claude 账号，桌面也安装了 claude app，但是没有充值。大概用了半年了，账号目前还好。想问下：大家说的封号，是充值之后用 claude code 才封的账号，还是直接用 cluade 就会封账号？",
+      "url": "https://www.v2ex.com/t/1204536#reply13",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-04-09T03:03:02.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "liulixiang1988"
+    },
+    {
+      "id": "e488e5c87e7a794b",
+      "title": "爬虫开发工作中，你们是如何基于 AI 进行提效的？",
+      "summary": "各位彦祖，由于公司给出了 AI 提效的压力，想请教一下各位，在爬虫开发工作中，是如何基于 AI 进行提效的，希望能深入一些。",
+      "url": "https://www.v2ex.com/t/1204542#reply7",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-04-09T03:09:13.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "KingZZZZ"
+    },
+    {
+      "id": "8db6e7f451d359e5",
+      "title": "派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等",
+      "summary": "DeepSeek 上线专家模式、闪迪推出 2TB Extreme Pro UHS-II SD 卡等。查看全文",
+      "url": "https://sspai.com/post/108426",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-09T00:33:27.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "6c1cdfef0a93ba3b",
+      "title": "LittleSnitch for Linux",
+      "titleZh": "Linux 版 LittleSnitch",
+      "summary": "Hacker News 热帖，当前积分 304，评论 115。",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-08T15:00:12.000Z",
+      "publishedAt": "2026-04-09T00:26:08.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -90,86 +162,47 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "baa98b415961074b",
-      "title": "Hackers steal and leak sensitive LAPD police documents",
-      "titleZh": "黑客窃取和泄露洛杉矶警察局的敏感文件",
-      "summary": "洛杉矶警察局表示，该漏洞影响了属于该市检察官办公室的“数字存储系统”。据报道，World Leaks 勒索团伙在……",
-      "url": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-04-08T15:38:34.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "c36676f6984ea8ec",
-      "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
-      "titleZh": "英国密码学家 Adam Back 否认纽约时报关于他是比特币创造者 Satoshi Nakamoto 的报道",
-      "summary": "作为密码学的长期研究者和先驱，Back 否认了他是比特币的秘密创造者的指控。",
-      "url": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-04-08T16:03:21.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
       "score": 107,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "affd25a1f19dc708",
-      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-      "titleZh": "ALTK ‑ Evolve：人工智能代理的在职学习",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-04-08T14:27:42.000Z",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "开源模型"
-      ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "70ac0cbf15c90d61",
-      "title": "antigravity 用 claude 怎么刚才到现在一直 high traffic",
-      "summary": "反重力调用 claude opus 4.6 一直“Our servers are experiencing high traffic right now, please try again in a minute.” 不管发什么都是，兄弟们你们也这样吗？",
-      "url": "https://www.v2ex.com/t/1204441#reply2",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-08T14:24:51.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "duebasser"
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "36eb5ca9ff2cfb74",
+      "title": "雷鸟 Air3 AR 眼镜：一年使用体验复盘",
+      "summary": "本次分享为自费购入雷鸟 Air3 一年多的真实使用体验，所有感受均来自日常真实使用场景。查看全文",
+      "url": "https://sspai.com/post/108367",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-09T03:04:06.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Barryhimself"
+    },
+    {
+      "id": "8db6e7f451d359e5",
+      "title": "派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等",
+      "summary": "DeepSeek 上线专家模式、闪迪推出 2TB Extreme Pro UHS-II SD 卡等。查看全文",
+      "url": "https://sspai.com/post/108426",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-09T00:33:27.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
     {
       "id": "0967e931269a181d",
       "title": "回望日系手机的「加拉帕戈斯」时代",
@@ -183,7 +216,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 109,
+      "score": 89,
       "sourceType": "rss",
       "cover": "",
       "author": "WangMT"
@@ -201,7 +234,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 101,
+      "score": 81,
       "sourceType": "rss",
       "cover": "",
       "author": "广陵止息"
@@ -219,65 +252,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 100,
+      "score": 80,
       "sourceType": "rss",
       "cover": "",
       "author": "流歌"
     },
     {
-      "id": "58779ae6689f5ba4",
-      "title": "git-fire",
-      "titleZh": "git-fire",
-      "summary": "只需一个命令即可备份您拥有的每个 Git 存储库；还有更多！",
-      "url": "https://www.producthunt.com/products/git-fire",
+      "id": "289379ef617791a6",
+      "title": "LookAway 2",
+      "titleZh": "LookAway 2",
+      "summary": "Mac 应用程序您的身体感谢您",
+      "url": "https://www.producthunt.com/products/lookaway",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-04-08T04:48:14.000Z",
+      "publishedAt": "2026-04-08T04:58:31.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 95,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
-      "author": "Ben Schellenberger"
-    },
-    {
-      "id": "77da6d5ac3870d26",
-      "title": "派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等",
-      "summary": "铭凡推出 Elite M1 Lite 迷你主机，摩托罗拉发布 Moto G Stylus （2026） 及 Moto Pad 等。查看全文",
-      "url": "https://sspai.com/post/108380",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-08T00:16:50.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 91,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "7aec8c8b6acdac01",
-      "title": "社区速递 136 | 派友大秀 Vibe Coding 作品、ROCK 数据线收纳盒与空气凤梨",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
-      "url": "https://sspai.com/post/108343",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-07T09:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 68,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Matrix机器人"
+      "author": "Kushagra Agarwal"
     }
   ],
   "sections": [
@@ -300,7 +297,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 82,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -319,7 +316,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 75,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
           "author": "hello@smashingmagazine.com (Victor Yocco)"
@@ -339,7 +336,7 @@
             "CSS相关",
             "flex布局"
           ],
-          "score": 71,
+          "score": 64,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202604/2026-4-7_162049.jpeg",
           "author": ""
@@ -408,6 +405,25 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "de072cef75b62e6a",
+          "title": "The next phase of enterprise AI",
+          "titleZh": "企业 AI 的下一阶段",
+          "summary": "OpenAI 概述了企业人工智能的下一阶段，随着 Frontier、ChatGPT Enterprise、Codex 和全公司人工智能代理的跨行业采用加速。",
+          "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-04-08T14:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "affd25a1f19dc708",
           "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
           "titleZh": "ALTK ‑ Evolve：人工智能代理的在职学习",
@@ -421,7 +437,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 114,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -440,7 +456,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 109,
+          "score": 89,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -459,7 +475,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 91,
+          "score": 71,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -501,25 +517,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "2065d9831fb7197a",
-          "title": "OpenAI acquires TBPN",
-          "titleZh": "OpenAI 收购 TBPN",
-          "summary": "OpenAI 收购 TBPN，以加速围绕人工智能的全球对话，并支持独立媒体，扩大与建筑商、企业和更广泛的科技公司的对话……",
-          "url": "https://openai.com/index/openai-acquires-tbpn",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-04-02T10:30:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -529,96 +526,96 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "cdb9219c27fb3262",
-          "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-          "titleZh": "Astropad 的 Workbench 重新构想了人工智能代理的远程桌面，而不是 IT 支持",
-          "summary": "Astropad 的 Workbench 允许用户从 iPhone 或 iPad 远程监控和控制 Mac Mini 上的 AI 代理，具有低延迟的流媒体和移动访问。",
-          "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+          "id": "04cdc18fcd6f95cf",
+          "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+          "titleZh": "Microsoft 锁定帐户后，WireGuard VPN 开发人员无法发送软件更新",
+          "summary": "这家流行的开源 VPN 制造商是第二家声称微软在没有通知他的情况下锁定了他的帐户并阻止他们发送…",
+          "url": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-08T16:01:09.000Z",
+          "publishedAt": "2026-04-08T21:50:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 108,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "baa98b415961074b",
-          "title": "Hackers steal and leak sensitive LAPD police documents",
-          "titleZh": "黑客窃取和泄露洛杉矶警察局的敏感文件",
-          "summary": "洛杉矶警察局表示，该漏洞影响了属于该市检察官办公室的“数字存储系统”。据报道，World Leaks 勒索团伙在……",
-          "url": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
+          "id": "cf3e6190f04fa456",
+          "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+          "titleZh": "德克萨斯州的一辆自动驾驶汽车撞死了一只母鸭，引发了社区的愤怒",
+          "summary": "奥斯汀附近的一辆 Avride 自动驾驶汽车撞上了鸭子，面临着社区的强烈反对。“它没有放慢速度，也没有犹豫，只是蒸蒸日上，” ac……",
+          "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-08T15:38:34.000Z",
+          "publishedAt": "2026-04-08T21:19:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 108,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "5f12a1982ff17720",
-          "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
-          "titleZh": "VeraCrypt 加密软件的开发人员表示，在微软锁定他的帐户后，Windows 用户可能会面临启动问题",
-          "summary": "流行的开源文件加密软件 VeraCrypt 的制造商表示，微软锁定了他的在线帐户，这可能会阻止设备所有者启动他们的...",
-          "url": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
+          "id": "362eb0c2b6eda0f6",
+          "title": "Poke makes using AI agents as easy as sending a text",
+          "titleZh": "Poke 让使用人工智能代理变得像发送短信一样简单",
+          "summary": "Poke 通过处理任务和自动化，无需复杂的设置、应用程序或技术诀窍，通过短信将 AI 代理带给日常用户。",
+          "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-08T15:21:13.000Z",
+          "publishedAt": "2026-04-08T21:05:13.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 108,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c36676f6984ea8ec",
-          "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
-          "titleZh": "英国密码学家 Adam Back 否认纽约时报关于他是比特币创造者 Satoshi Nakamoto 的报道",
-          "summary": "作为密码学的长期研究者和先驱，Back 否认了他是比特币的秘密创造者的指控。",
-          "url": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
+          "id": "5c05191d7229fea2",
+          "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+          "titleZh": "Canva 通过收购 Simtheory、Ortto，在人工智能和营销自动化方面加倍努力",
+          "summary": "Canva 表示，此次收购增加了代理人工智能、数据基础设施、营销自动化和客户互动方面的优势。",
+          "url": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-08T16:03:21.000Z",
+          "publishedAt": "2026-04-08T21:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 107,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "9c3090b55d980071",
-          "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-          "titleZh": "OpenAI 发布新的安全蓝图，以应对儿童性剥削的增加",
-          "summary": "OpenAI 新的儿童安全蓝图旨在解决与人工智能进步相关的儿童性剥削的惊人增长。",
-          "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+          "id": "f0a1145282242859",
+          "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+          "titleZh": "AWS 老板解释了为什么在 Anthropic 和 OpenAI 上投资数十亿美元是一个不错的冲突",
+          "summary": "他解释说，AWS 在处理竞争方面有着根深蒂固的文化，因为这家云巨头也与合作伙伴竞争。",
+          "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-08T15:23:44.000Z",
+          "publishedAt": "2026-04-08T20:09:14.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 106,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -636,7 +633,7 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 102,
+          "score": 82,
           "sourceType": "rss",
           "cover": "https://api.substack.com/feed/podcast/193307497/8a4b69aab03d1f81576f2f51c7ea1177.mp3",
           "author": ""
@@ -662,7 +659,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 88,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1600/1*3g_rANzM6n-e5CcvZmrI_g.png",
           "author": ""
@@ -681,7 +678,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 70,
+          "score": 58,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*EX4OMf4D_5yWw4uF8Bhv2A.jpeg",
           "author": ""
@@ -700,7 +697,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2160/1*KNqPT56IAfnDLcIrCesRZg.png",
           "author": ""
@@ -719,7 +716,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 66,
+          "score": 58,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*X7m2rKd9Evfqy43no_6ACg.png",
           "author": ""
@@ -738,7 +735,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 62,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -770,87 +767,105 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "0885820428fa8cac",
-          "title": "这世界变化太快了, 奶奶的",
-          "summary": "小龙虾还没搞顺, 又来了个 Hermes-agent https://github.com/nousresearch/hermes-agent 不过 openclaw 是有点垃圾和臃肿, 今天的版本我直接无法对接本地的 omlx, 折腾一天了, 烦死.",
-          "url": "https://www.v2ex.com/t/1204456#reply0",
+          "id": "8721c7cca6a92f02",
+          "title": "用开源模型折腾个知识库（RAG)有必要没？",
+          "summary": "写代码。现在都是闭源模型一把梭。。遇到错误了总结个 skill。反正也挺好用。但是写鸿蒙这种就错误多一些，需要手动查文档之类的（虽然闭源也会差，但总感觉查准确率差一些），修起来费点时间。有必要折腾个这种玩意嘛？需求就是配合闭源的去完成工作。还是说继续闭源一把梭算了。。",
+          "url": "https://www.v2ex.com/t/1204576#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-08T15:40:56.000Z",
+          "publishedAt": "2026-04-09T04:29:12.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 115,
           "sourceType": "rss",
           "cover": "",
-          "author": "Hermitist"
+          "author": "afkool"
         },
         {
-          "id": "6f593b9503b5f0a9",
-          "title": "Ai 出现之后，人与人的差距被放大了",
-          "summary": "看看 V2 的创意标签下发布的作品，就能看出来，创意、想象力、执行力真不是想有就能有的，最近在 vibecoding 一个小工具，画个 icon 折麽我一个星期，脑子里是一点东西都没有啊。这边凌晨刚出来一个新技术或者新模型，那边喂饭教程天没亮就上线了，你们真是神人。",
-          "url": "https://www.v2ex.com/t/1204446#reply5",
+          "id": "3f42a436f7a8f5c6",
+          "title": "Linux /Ubuntu 上如何实现连接两个不同的 wifi 解决实际需求。",
+          "summary": "背景：自用电脑是联想小新 pro 14，装有 ubuntu24.04, 支持 wifi6 公司有 wifi A 和 wifi B，wifi A 是国内的普通宽带，wifi B 是连接香港的专线。服务器 ssh 连接限定了必须是使用 wifi A wifi B 由于是香港专线，可以自由访问谷歌等网站，无需翻墙。使用 wifi…",
+          "url": "https://www.v2ex.com/t/1204573#reply3",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-08T15:04:19.000Z",
+          "publishedAt": "2026-04-09T04:17:35.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 113,
+          "score": 115,
           "sourceType": "rss",
           "cover": "",
-          "author": "FringJX"
+          "author": "GuoDe1T"
         },
         {
-          "id": "af46c349cadb0af7",
-          "title": "Show HN: Explore the Silk Roads through an interactive map",
-          "titleZh": "Show HN：通过交互式地图探索丝绸之路",
-          "summary": "Hacker News 热帖，当前积分 21，评论 1。",
-          "url": "https://www.intofarlands.com/silk-roads-map",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-08T15:00:12.000Z",
+          "id": "b5467fd449e93ec4",
+          "title": "GitHub availability report: March 2026",
+          "titleZh": "GitHub 可用性报告：2026年3月",
+          "summary": "3月份，我们经历了四次事件，导致 GitHub 服务的性能下降。GitHub 发布后可用性报告：2026年3月首次出现在……",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+          "source": "GitHub Blog",
+          "sourceUrl": "https://github.blog/",
+          "publishedAt": "2026-04-09T02:21:17.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "70ac0cbf15c90d61",
-          "title": "antigravity 用 claude 怎么刚才到现在一直 high traffic",
-          "summary": "反重力调用 claude opus 4.6 一直“Our servers are experiencing high traffic right now, please try again in a minute.” 不管发什么都是，兄弟们你们也这样吗？",
-          "url": "https://www.v2ex.com/t/1204441#reply2",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-08T14:24:51.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
+            "开发平台"
           ],
           "score": 112,
           "sourceType": "rss",
           "cover": "",
-          "author": "duebasser"
+          "author": ""
         },
         {
-          "id": "04c81216fc022c24",
-          "title": "The Future of Everything Is Lies, I Guess",
-          "titleZh": "一切的未来都是谎言，我猜",
-          "summary": "Hacker News 热帖，当前积分 50，评论 14。",
-          "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+          "id": "d9cdc9342b295f8a",
+          "title": "大家说的 claude 封号，是发生在什么时候？",
+          "summary": "目前我有 claude 账号，桌面也安装了 claude app，但是没有充值。大概用了半年了，账号目前还好。想问下：大家说的封号，是充值之后用 claude code 才封的账号，还是直接用 cluade 就会封账号？",
+          "url": "https://www.v2ex.com/t/1204536#reply13",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-04-09T03:03:02.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "liulixiang1988"
+        },
+        {
+          "id": "e488e5c87e7a794b",
+          "title": "爬虫开发工作中，你们是如何基于 AI 进行提效的？",
+          "summary": "各位彦祖，由于公司给出了 AI 提效的压力，想请教一下各位，在爬虫开发工作中，是如何基于 AI 进行提效的，希望能深入一些。",
+          "url": "https://www.v2ex.com/t/1204542#reply7",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-04-09T03:09:13.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "KingZZZZ"
+        },
+        {
+          "id": "6c1cdfef0a93ba3b",
+          "title": "LittleSnitch for Linux",
+          "titleZh": "Linux 版 LittleSnitch",
+          "summary": "Hacker News 热帖，当前积分 304，评论 115。",
+          "url": "https://obdev.at/products/littlesnitch-linux/index.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-08T13:06:33.000Z",
+          "publishedAt": "2026-04-09T00:26:08.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -858,26 +873,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
-          "sourceType": "api"
-        },
-        {
-          "id": "74a7d7cecd265917",
-          "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-          "titleZh": "MegaTrain：单个 GPU 上 100B +参数 LLM 的全精度训练",
-          "summary": "Hacker News 热帖，当前积分 137，评论 30。",
-          "url": "https://arxiv.org/abs/2604.05091",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-08T12:19:00.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 108,
+          "score": 107,
           "sourceType": "api"
         }
       ]
@@ -889,7 +885,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 81,
+    "totalItems": 82,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -908,12 +904,12 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
-      "tag": "工具/网站",
-      "count": 9
+      "tag": "产品/商业",
+      "count": 10
     },
     {
       "tag": "工程效率",
@@ -928,20 +924,12 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
-      "count": 6
-    },
-    {
       "tag": "模型产品",
       "count": 6
     },
     {
-      "tag": "科技公司",
-      "count": 5
-    },
-    {
-      "tag": "开源模型",
-      "count": 5
+      "tag": "交互设计",
+      "count": 6
     },
     {
       "tag": "效率",
@@ -952,8 +940,16 @@
       "count": 5
     },
     {
+      "tag": "科技公司",
+      "count": 5
+    },
+    {
+      "tag": "开源模型",
+      "count": 5
+    },
+    {
       "tag": "新产品",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "CSS相关",
