@@ -1,144 +1,70 @@
 {
-  "generatedAt": "2026-04-11T04:20:35.835Z",
+  "generatedAt": "2026-04-12T04:45:33.749Z",
   "headline": {
-    "id": "f02b09f93c58ed77",
-    "title": "现在专线的机场是不是都凉了，还有稳定行强的链路推荐吗",
-    "summary": "据传之前有一次专线整治互动，大部分机场都被拉闸了",
-    "url": "https://www.v2ex.com/t/1205082#reply1",
+    "id": "b29e61ee15638686",
+    "title": "国内现在还有哪家量大管饱的大模型 plan 能买到",
+    "summary": "看了一圈都是售罄，国外的只能紧着用，完全不敢接到应用里。免费的 api 也都是定量，而且质量有点低",
+    "url": "https://www.v2ex.com/t/1205240#reply2",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-04-11T04:13:26.000Z",
+    "publishedAt": "2026-04-12T03:45:53.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 111,
+    "score": 110,
     "sourceType": "rss",
     "cover": "",
-    "author": "sw042"
+    "author": "superkite"
   },
   "latest": [
     {
-      "id": "f02b09f93c58ed77",
-      "title": "现在专线的机场是不是都凉了，还有稳定行强的链路推荐吗",
-      "summary": "据传之前有一次专线整治互动，大部分机场都被拉闸了",
-      "url": "https://www.v2ex.com/t/1205082#reply1",
+      "id": "b29e61ee15638686",
+      "title": "国内现在还有哪家量大管饱的大模型 plan 能买到",
+      "summary": "看了一圈都是售罄，国外的只能紧着用，完全不敢接到应用里。免费的 api 也都是定量，而且质量有点低",
+      "url": "https://www.v2ex.com/t/1205240#reply2",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-11T04:13:26.000Z",
+      "publishedAt": "2026-04-12T03:45:53.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 111,
+      "score": 110,
       "sourceType": "rss",
       "cover": "",
-      "author": "sw042"
+      "author": "superkite"
     },
     {
-      "id": "dbe6459822e302b9",
-      "title": "独立开发如何搞定设计？",
-      "summary": "个人感觉设计是独立开发的一大短板，如果不想让 AI 随便出一个一眼能看出来 AI 味道浓的产品，那得自己下一番功夫。有些小东西可以直接用系统自带的设计 UI 来出，比如苹果官方的 UI 库自带的组件来搓，或者 web 页面使用一些 UI 框架比如 shadcn/ui 之类的。但这些是没有办法的办法了，如果你的产品以功能为主，大可不…",
-      "url": "https://www.v2ex.com/t/1205067#reply9",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-11T02:33:57.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/lT9ZcI9.jpeg",
-      "author": "Kinnikuman"
-    },
-    {
-      "id": "7f467bfecb4de2c7",
-      "title": "想要一个量大管饱的 code agent 替代 antigravity 的 gemini 3 flash",
-      "summary": "antigravity 体验太糟糕了，找一个替代品用于日常简单任务以及备用，不作为深度开发主力",
-      "url": "https://www.v2ex.com/t/1205058#reply7",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-11T01:58:20.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "bjzhou1990"
-    },
-    {
-      "id": "0f3b26095500c91e",
-      "title": "Notes from the people building your future",
-      "titleZh": "来自构建您未来的人们的备注",
-      "summary": "",
-      "url": "https://uxdesign.cc/notes-from-the-people-building-your-future-2a1c7a9dfbcd?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-04-11T01:05:20.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 107,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "d079b40bed2fed4a",
-      "title": "Artemis II safely splashes down",
-      "titleZh": "阿尔忒弥斯 II 安全溅落",
-      "summary": "Hacker News 热帖，当前积分 575，评论 211。",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-11T00:10:51.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 107,
-      "sourceType": "api"
-    },
-    {
-      "id": "c7efe3ba4515d14b",
-      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
-      "titleZh": "美国宇航局阿尔忒弥斯 II 号在太平洋溅落，为登月任务“完美”着陆",
-      "summary": "太平洋时间下午 5:07 后，Integrity 飞船在圣地亚哥海岸附近的太平洋溅落。",
-      "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "id": "081282b27a8fa888",
+      "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+      "titleZh": "沃尔玛旗下的 Flipkart，亚马逊正在挤压印度的快速商务初创公司",
+      "summary": "分析师表示，Flipkart 正在向主要城市以外的地区扩张，大幅折扣正在给印度的快速商业初创企业带来风险。",
+      "url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-04-11T00:44:17.000Z",
+      "publishedAt": "2026-04-12T03:00:00.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 101,
+      "score": 105,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "90df75d637919ed1",
-      "title": "Filing the corners off my MacBooks",
-      "titleZh": "在我的 MacBook 上填写角落",
-      "summary": "Hacker News 热帖，当前积分 513，评论 276。",
-      "url": "https://kentwalters.com/posts/corners/",
+      "id": "9106880a629f295c",
+      "title": "The End of Eleventy",
+      "titleZh": "十一世纪末",
+      "summary": "Hacker News 热帖，当前积分 81，评论 32。",
+      "url": "https://brennan.day/the-end-of-eleventy/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-10T22:16:40.000Z",
+      "publishedAt": "2026-04-12T01:55:48.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -146,18 +72,55 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 104,
+      "score": 109,
       "sourceType": "api"
     },
     {
-      "id": "468d3c1f8cf8ea64",
-      "title": "Installing every* Firefox extension",
-      "titleZh": "安装每个* Firefox 扩展",
-      "summary": "Hacker News 热帖，当前积分 210，评论 25。",
-      "url": "https://jack.cab/blog/every-firefox-extension",
+      "id": "af6d0cdcfd208a24",
+      "title": "终端软件 大家有什么核心需求吗？",
+      "summary": "最近准备发布一款支持 Google Extension 的 Terminal，有什么核心的需求，我准备开发一波再发布 现在有的功能，就是如下图，结合了 Chromium 的多 Tab 页管理的终端, 同时也方便写扩展 目前支持 Linux, 后续会支持 macOS",
+      "url": "https://www.v2ex.com/t/1205213#reply27",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-04-11T23:01:39.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 105,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/00EQhpp.png",
+      "author": "wuruxu"
+    },
+    {
+      "id": "6d3a049721dc334a",
+      "title": "Rethinking design critique",
+      "titleZh": "重新思考设计批判",
+      "summary": "通过协作过程构建设计知识继续阅读 UX Collective »",
+      "url": "https://uxdesign.cc/rethinking-design-critique-3d358a859304?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-04-11T21:24:47.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 104,
+      "sourceType": "rss",
+      "cover": "https://cdn-images-1.medium.com/max/2600/1*r2yVP5Smz-HJc58Fv-5GZw.png",
+      "author": ""
+    },
+    {
+      "id": "1c13edc4b0faf67d",
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "titleZh": "苹果硅和虚拟机：突破 2 台虚拟机的限制（2023年）",
+      "summary": "Hacker News 热帖，当前积分 169，评论 118。",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-10T21:56:33.000Z",
+      "publishedAt": "2026-04-11T20:58:48.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -165,11 +128,105 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 103,
+      "score": 101,
+      "sourceType": "api"
+    },
+    {
+      "id": "1705b05de4b9c8d1",
+      "title": "Kalshi wins temporary pause in Arizona criminal case",
+      "titleZh": "Kalshi 赢得亚利桑那州刑事案件的暂停",
+      "summary": "商品期货交易委员会周五宣布，它赢得了一项临时限制令，阻止亚利桑那州对 KALS 提起刑事诉讼……",
+      "url": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-04-11T21:20:24.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 97,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "8770847474719024",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "titleZh": "447 TB/cm ²，零保留能量–荧光灯上的原子级内存",
+      "summary": "Hacker News 热帖，当前积分 166，评论 83。",
+      "url": "https://zenodo.org/records/19513269",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-04-11T20:08:46.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 100,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "4fcb449fc0c0547e",
+      "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+      "summary": "AX 专门探讨如何设计产品形态，使 AI Agent 能够可靠地「理解」、自主操作并高效集成，而非仅服务于人类用户。查看全文",
+      "url": "https://sspai.com/post/107600",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-11T07:18:26.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 82,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "LOSSES"
+    },
+    {
+      "id": "32d0d4383e7b0ea1",
+      "title": "Claude for Word",
+      "titleZh": "Claude for Word",
+      "summary": "将 Claude 本机引入您的 Microsoft Word 工作流程",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-11T03:43:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 73,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
+    {
+      "id": "30cdd9c39a710f33",
+      "title": "uTerminal",
+      "titleZh": "uTerminal",
+      "summary": "专为日常远程访问而设计的桌面终端",
+      "url": "https://www.producthunt.com/products/uterminal",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-10T12:58:11.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Jacob Abel"
+    },
     {
       "id": "296e0d15fe6ea1ec",
       "title": "本周看什么 | 最近值得一看的 11 部作品",
@@ -183,7 +240,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 88,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -201,7 +258,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 81,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "张奕源Nick"
@@ -219,66 +276,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 76,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "叶水水"
-    },
-    {
-      "id": "c7d8bd575ee9a5c5",
-      "title": "MiniMax CLI",
-      "titleZh": "MiniMax CLI",
-      "summary": "为您的人工智能代理提供本地多式联运功能",
-      "url": "https://www.producthunt.com/products/minimax",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-04-10T04:20:39.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Zac Zuo"
-    },
-    {
-      "id": "d1ad8d591e4fa52d",
-      "title": "派早报：微信支付发布接入 Skill 工具体系等",
-      "summary": "Amflow 推出电动山地自行车系列、戴森推出手持无叶风扇 HushJet Mini Cool 等。查看全文",
-      "url": "https://sspai.com/post/108468",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-10T00:47:54.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 72,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "6dae987005ae8d34",
-      "title": "LoveCapsule",
-      "titleZh": "LoveCapsule",
-      "summary": "您孩子的记忆，永远存储在您的 Google 云端硬盘中。",
-      "url": "https://www.producthunt.com/products/lovecapsule",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-04-09T16:35:08.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 56,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Joseph Nolan"
     }
   ],
   "sections": [
@@ -301,7 +302,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 98,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
@@ -319,7 +320,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 77,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202604/bg2026040203.webp",
           "author": "阮一峰"
@@ -409,11 +410,11 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "ba16b18521c582fe",
-          "title": "Research with ChatGPT",
-          "titleZh": "使用 ChatGPT 进行研究",
-          "summary": "了解如何使用 ChatGPT 使用搜索和深入研究进行研究，以查找最新信息、分析来源并生成结构化见解。",
-          "url": "https://openai.com/academy/search-and-deep-research",
+          "id": "82f850d54e5b7b0d",
+          "title": "Getting started with ChatGPT",
+          "titleZh": "开始使用 ChatGPT",
+          "summary": "了解如何使用 ChatGPT，开始您的第一次对话，并发现使用人工智能进行写作、头脑风暴和解决问题的简单方法。",
+          "url": "https://openai.com/academy/getting-started",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-10T00:00:00.000Z",
@@ -422,17 +423,17 @@
             "AI",
             "模型产品"
           ],
-          "score": 81,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "68a257b723dd23c8",
-          "title": "Analyzing data with ChatGPT",
-          "titleZh": "使用 ChatGPT 分析数据",
-          "summary": "了解如何通过 ChatGPT 探索数据集、生成见解、创建可视化并将结果转化为可操作的决策来分析数据。",
-          "url": "https://openai.com/academy/data-analysis",
+          "id": "5d6f994f73eefc09",
+          "title": "Brainstorming with ChatGPT",
+          "titleZh": "使用 ChatGPT 进行头脑风暴",
+          "summary": "了解如何使用 ChatGPT 集思广益，组织思考，并将粗略的概念转化为结构化、可操作的计划。",
+          "url": "https://openai.com/academy/brainstorming",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-10T00:00:00.000Z",
@@ -441,17 +442,17 @@
             "AI",
             "模型产品"
           ],
-          "score": 81,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "90f0e8bac3edd406",
-          "title": "Financial services",
-          "titleZh": "金融服务",
-          "summary": "探索金融服务的人工智能资源，包括提示包、GPT、指南和工具，以帮助机构安全地部署和扩展人工智能。",
-          "url": "https://openai.com/academy/financial-services",
+          "id": "7e74686a7f600cdb",
+          "title": "ChatGPT for research",
+          "titleZh": "用于研究的 ChatGPT",
+          "summary": "了解如何使用 ChatGPT 进行研究，以收集来源、分析信息并创建结构化、引用支持的见解。",
+          "url": "https://openai.com/academy/research",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-10T00:00:00.000Z",
@@ -460,17 +461,17 @@
             "AI",
             "模型产品"
           ],
-          "score": 81,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "66bae4160609046c",
-          "title": "Using custom GPTs",
-          "titleZh": "使用自定义 GPT",
-          "summary": "了解如何构建和使用自定义 GPT 来自动化工作流程、维护一致的输出并创建专门构建的人工智能助手。",
-          "url": "https://openai.com/academy/custom-gpts",
+          "id": "c1451502d4d783a0",
+          "title": "Responsible and safe use of AI",
+          "titleZh": "负责任和安全地使用人工智能",
+          "summary": "了解如何在使用 ChatGPT 等工具时，通过安全、准确和透明的最佳实践，负责任地使用人工智能。",
+          "url": "https://openai.com/academy/responsible-and-safe-use",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-10T00:00:00.000Z",
@@ -479,17 +480,17 @@
             "AI",
             "模型产品"
           ],
-          "score": 80,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "a8b5623e5dca9204",
-          "title": "ChatGPT for customer success teams",
-          "titleZh": "面向客户成功团队的 ChatGPT",
-          "summary": "了解客户成功团队如何使用 ChatGPT 管理客户、改善沟通、减少客户流失以及推动采用和续订。",
-          "url": "https://openai.com/academy/customer-success",
+          "id": "de3a34739e367f9c",
+          "title": "Prompting fundamentals",
+          "titleZh": "提示基本面",
+          "summary": "了解提示基本原理，以及如何编写清晰、有效的提示，以便从 ChatGPT 获得更好、更有用的回复。",
+          "url": "https://openai.com/academy/prompting",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-10T00:00:00.000Z",
@@ -498,17 +499,17 @@
             "AI",
             "模型产品"
           ],
-          "score": 80,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "ac96205f396641a0",
-          "title": "Applications of AI at OpenAI",
-          "titleZh": "AI 在 OpenAI 的应用",
-          "summary": "探索 OpenAI 产品（如 ChatGPT、Codex 和 API）如何将 AI 应用于工作、开发和日常任务的现实世界。",
-          "url": "https://openai.com/academy/applications-of-ai",
+          "id": "9c9c21c9399e693c",
+          "title": "Writing with ChatGPT",
+          "titleZh": "使用 ChatGPT 写作",
+          "summary": "了解如何使用 ChatGPT 撰写具有清晰结构、语气和意图的草稿、修改和细化内容。",
+          "url": "https://openai.com/academy/writing",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-10T00:00:00.000Z",
@@ -517,7 +518,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 80,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -530,33 +531,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "c7efe3ba4515d14b",
-          "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
-          "titleZh": "美国宇航局阿尔忒弥斯 II 号在太平洋溅落，为登月任务“完美”着陆",
-          "summary": "太平洋时间下午 5:07 后，Integrity 飞船在圣地亚哥海岸附近的太平洋溅落。",
-          "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+          "id": "081282b27a8fa888",
+          "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+          "titleZh": "沃尔玛旗下的 Flipkart，亚马逊正在挤压印度的快速商务初创公司",
+          "summary": "分析师表示，Flipkart 正在向主要城市以外的地区扩张，大幅折扣正在给印度的快速商业初创企业带来风险。",
+          "url": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-11T00:44:17.000Z",
+          "publishedAt": "2026-04-12T03:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 105,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "f9ffa8bc7e46d899",
-          "title": "How to watch NASA’s Artemis II splash back down to Earth",
-          "titleZh": "如何观看 NASA 的阿尔忒弥斯 II 飞溅回地球",
-          "summary": "美国宇航局的阿尔忒弥斯二号任务比以往任何任务都离地球更远。以下是观看船员返回太平洋的方法。",
-          "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+          "id": "1705b05de4b9c8d1",
+          "title": "Kalshi wins temporary pause in Arizona criminal case",
+          "titleZh": "Kalshi 赢得亚利桑那州刑事案件的暂停",
+          "summary": "商品期货交易委员会周五宣布，它赢得了一项临时限制令，阻止亚利桑那州对 KALS 提起刑事诉讼……",
+          "url": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-10T21:18:09.000Z",
+          "publishedAt": "2026-04-11T21:20:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -568,52 +569,51 @@
           "author": ""
         },
         {
-          "id": "eea597af8670a4e0",
-          "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-          "titleZh": "Anthropic 暂时禁止 OpenClaw 的创建者访问 Claude",
-          "summary": "这项禁令是在 Claude 上周更改 OpenClaw 用户的定价后发生的。",
-          "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+          "id": "795d36087d04d801",
+          "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+          "titleZh": "AMC 将在 TikTok 上以 21 个部分播放“The Audacity”首映式",
+          "summary": "这是一种聪明的方式来建立嗡嗡声，还是只是一种奇怪的尝试来重建 Quibi？",
+          "url": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-10T20:27:52.000Z",
+          "publishedAt": "2026-04-11T20:32:23.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b1bc592aab54bdb4",
-          "title": "Battery recycler Ascend Elements files for bankruptcy",
-          "titleZh": "电池回收商 Ascend Elements 申请破产文件",
-          "summary": "Ascend Elements 表示，在政府补助被取消以及锂离子电池市场充满挑战之后，它将申请第 11 章破产。",
-          "url": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-10T19:16:52.000Z",
+          "id": "b29c523c44d2ccdd",
+          "title": "🧠 Community Wisdom: Vibe coding as a team sport, teaching interviewers to surface real signal, what’s missing from leadership offsites, and more",
+          "titleZh": "🧠 社区智慧：将氛围编码作为一项团队运动，教会面试官发出真实的信号，了解非现场领导力中缺少的内容等",
+          "summary": "社区智慧 181",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-vibe-coding-as-a",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-04-11T19:36:51.000Z",
           "category": "product",
           "tags": [
-            "产品/商业",
-            "科技公司"
+            "产品/商业"
           ],
-          "score": 94,
+          "score": 89,
           "sourceType": "rss",
-          "cover": "",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
           "author": ""
         },
         {
-          "id": "a9ef7b7d6ac790d3",
-          "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-          "titleZh": "跟踪受害者起诉 OpenAI，声称 ChatGPT 助长了施虐者的妄想，无视她的警告",
-          "summary": "OpenAI 忽略了三项关于 ChatGPT 用户危险的警告--包括其自己的大规模伤亡旗帜--同时他跟踪和骚扰了他的前女友，这是一项新的诉讼……",
-          "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+          "id": "c7227123256ea863",
+          "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+          "titleZh": "山姆·奥尔特曼（Sam Altman）在家中遭到袭击后回应《纽约客》的“煽动性”文章",
+          "summary": "这位 OpenAI 首席执行官的新博客文章既回应了对他家的明显攻击，也回应了深入的纽约人档案，引发了对他可信度的质疑。",
+          "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-10T16:41:34.000Z",
+          "publishedAt": "2026-04-11T17:18:22.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -625,21 +625,22 @@
           "author": ""
         },
         {
-          "id": "cdc569d4567ef8c2",
-          "title": "I built a custom Slack inbox. It was easier than you’d think. | Yash Tekriwal (Clay)",
-          "titleZh": "我构建了一个自定义 Slack 收件箱。这比你想象的要容易。| Yash Tekriwal （粘土）",
-          "summary": "立即观看| Yash🎙️如何使用 OpenAI 代理和 Perplexity Computer 构建 Slack 摘要和看板仪表板，将 150 个每日通知减少到约 30 个可操作任务",
-          "url": "https://www.lennysnewsletter.com/p/i-built-a-custom-slack-inbox-it-was",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-04-08T12:03:47.000Z",
+          "id": "050f3b77f46d2dc7",
+          "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+          "titleZh": "英伟达支持的 SiFive 对开放式 AI 芯片的估值达到 36.5 $",
+          "summary": "这笔交易很有趣，原因有很多，包括 SiFive 的芯片设计基于 RISC-V，而不是 x86 或 ARM。",
+          "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-04-11T14:03:00.000Z",
           "category": "product",
           "tags": [
-            "产品/商业"
+            "产品/商业",
+            "科技公司"
           ],
-          "score": 51,
+          "score": 84,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/193307497/8a4b69aab03d1f81576f2f51c7ea1177.mp3",
+          "cover": "",
           "author": ""
         }
       ]
@@ -649,6 +650,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "6d3a049721dc334a",
+          "title": "Rethinking design critique",
+          "titleZh": "重新思考设计批判",
+          "summary": "通过协作过程构建设计知识继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/rethinking-design-critique-3d358a859304?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-04-11T21:24:47.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*r2yVP5Smz-HJc58Fv-5GZw.png",
+          "author": ""
+        },
         {
           "id": "0f3b26095500c91e",
           "title": "Notes from the people building your future",
@@ -663,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 107,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -682,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 69,
+          "score": 57,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2550/1*VVhJBoOK4jFGmVa0vcq9kA.png",
           "author": ""
@@ -743,25 +763,6 @@
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2160/1*KNqPT56IAfnDLcIrCesRZg.png",
           "author": ""
-        },
-        {
-          "id": "eb941b4f841366eb",
-          "title": "Beyond the user: why design needs to widen its circle",
-          "titleZh": "超越用户：为什么设计需要拓宽其圈子",
-          "summary": "",
-          "url": "https://uxdesign.cc/beyond-the-user-why-design-needs-to-widen-its-circle-5d6d6bca783e?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-04-07T08:41:27.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -771,68 +772,32 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "f02b09f93c58ed77",
-          "title": "现在专线的机场是不是都凉了，还有稳定行强的链路推荐吗",
-          "summary": "据传之前有一次专线整治互动，大部分机场都被拉闸了",
-          "url": "https://www.v2ex.com/t/1205082#reply1",
+          "id": "b29e61ee15638686",
+          "title": "国内现在还有哪家量大管饱的大模型 plan 能买到",
+          "summary": "看了一圈都是售罄，国外的只能紧着用，完全不敢接到应用里。免费的 api 也都是定量，而且质量有点低",
+          "url": "https://www.v2ex.com/t/1205240#reply2",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-11T04:13:26.000Z",
+          "publishedAt": "2026-04-12T03:45:53.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 111,
+          "score": 110,
           "sourceType": "rss",
           "cover": "",
-          "author": "sw042"
+          "author": "superkite"
         },
         {
-          "id": "dbe6459822e302b9",
-          "title": "独立开发如何搞定设计？",
-          "summary": "个人感觉设计是独立开发的一大短板，如果不想让 AI 随便出一个一眼能看出来 AI 味道浓的产品，那得自己下一番功夫。有些小东西可以直接用系统自带的设计 UI 来出，比如苹果官方的 UI 库自带的组件来搓，或者 web 页面使用一些 UI 框架比如 shadcn/ui 之类的。但这些是没有办法的办法了，如果你的产品以功能为主，大可不…",
-          "url": "https://www.v2ex.com/t/1205067#reply9",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-11T02:33:57.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/lT9ZcI9.jpeg",
-          "author": "Kinnikuman"
-        },
-        {
-          "id": "7f467bfecb4de2c7",
-          "title": "想要一个量大管饱的 code agent 替代 antigravity 的 gemini 3 flash",
-          "summary": "antigravity 体验太糟糕了，找一个替代品用于日常简单任务以及备用，不作为深度开发主力",
-          "url": "https://www.v2ex.com/t/1205058#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-11T01:58:20.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 108,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "bjzhou1990"
-        },
-        {
-          "id": "d079b40bed2fed4a",
-          "title": "Artemis II safely splashes down",
-          "titleZh": "阿尔忒弥斯 II 安全溅落",
-          "summary": "Hacker News 热帖，当前积分 575，评论 211。",
-          "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+          "id": "9106880a629f295c",
+          "title": "The End of Eleventy",
+          "titleZh": "十一世纪末",
+          "summary": "Hacker News 热帖，当前积分 81，评论 32。",
+          "url": "https://brennan.day/the-end-of-eleventy/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-11T00:10:51.000Z",
+          "publishedAt": "2026-04-12T01:55:48.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -840,18 +805,36 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 107,
+          "score": 109,
           "sourceType": "api"
         },
         {
-          "id": "90df75d637919ed1",
-          "title": "Filing the corners off my MacBooks",
-          "titleZh": "在我的 MacBook 上填写角落",
-          "summary": "Hacker News 热帖，当前积分 513，评论 276。",
-          "url": "https://kentwalters.com/posts/corners/",
+          "id": "af6d0cdcfd208a24",
+          "title": "终端软件 大家有什么核心需求吗？",
+          "summary": "最近准备发布一款支持 Google Extension 的 Terminal，有什么核心的需求，我准备开发一波再发布 现在有的功能，就是如下图，结合了 Chromium 的多 Tab 页管理的终端, 同时也方便写扩展 目前支持 Linux, 后续会支持 macOS",
+          "url": "https://www.v2ex.com/t/1205213#reply27",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-04-11T23:01:39.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 105,
+          "sourceType": "rss",
+          "cover": "https://i.imgur.com/00EQhpp.png",
+          "author": "wuruxu"
+        },
+        {
+          "id": "1c13edc4b0faf67d",
+          "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+          "titleZh": "苹果硅和虚拟机：突破 2 台虚拟机的限制（2023年）",
+          "summary": "Hacker News 热帖，当前积分 169，评论 118。",
+          "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-10T22:16:40.000Z",
+          "publishedAt": "2026-04-11T20:58:48.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -859,18 +842,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 104,
+          "score": 101,
           "sourceType": "api"
         },
         {
-          "id": "468d3c1f8cf8ea64",
-          "title": "Installing every* Firefox extension",
-          "titleZh": "安装每个* Firefox 扩展",
-          "summary": "Hacker News 热帖，当前积分 210，评论 25。",
-          "url": "https://jack.cab/blog/every-firefox-extension",
+          "id": "8770847474719024",
+          "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+          "titleZh": "447 TB/cm ²，零保留能量–荧光灯上的原子级内存",
+          "summary": "Hacker News 热帖，当前积分 166，评论 83。",
+          "url": "https://zenodo.org/records/19513269",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-10T21:56:33.000Z",
+          "publishedAt": "2026-04-11T20:08:46.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -878,7 +861,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 103,
+          "score": 100,
+          "sourceType": "api"
+        },
+        {
+          "id": "11825dea83439a93",
+          "title": "Dark Castle",
+          "titleZh": "黑堡",
+          "summary": "Hacker News 热帖，当前积分 151，评论 19。",
+          "url": "https://darkcastle.co.uk/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-04-11T20:01:59.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 100,
           "sourceType": "api"
         }
       ]
@@ -890,7 +892,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 85,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -910,7 +912,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 12
+      "count": 11
     },
     {
       "tag": "产品/商业",
@@ -937,10 +939,6 @@
       "count": 6
     },
     {
-      "tag": "新产品",
-      "count": 6
-    },
-    {
       "tag": "模型产品",
       "count": 6
     },
@@ -950,6 +948,10 @@
     },
     {
       "tag": "科技公司",
+      "count": 5
+    },
+    {
+      "tag": "新产品",
       "count": 5
     },
     {
