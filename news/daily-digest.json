@@ -1,141 +1,105 @@
 {
-  "generatedAt": "2026-04-18T04:31:01.955Z",
+  "generatedAt": "2026-04-19T04:49:18.466Z",
   "headline": {
-    "id": "ce4edfb26fc8505f",
-    "title": "大家都在嫌弃 MCP 的时候我竟然发现有点离不开它",
-    "summary": "MCP 这个协议刚出来的时候我感觉它到处透露着过度设计的味道，难用又难写，工作需要又不得不用，几乎就是捏着鼻子写。看到社区现在几乎一边倒地嫌弃它，要用 api 和 cli 替代掉它的时候我还有点幸灾乐祸。但我在开发自己的 Harness 项目 Chorus 的时候又发现一些场景下没办法替换掉 MCP，主要的原因是 通过 MCP…",
-    "url": "https://www.v2ex.com/t/1206802#reply5",
+    "id": "e3a61f4633dc11a8",
+    "title": "推荐下自己开发的一款字符串处理小工具",
+    "summary": "开发背景 op 在一家小公司上班，由于系统 Bug 较多，经常需要处理数据库中奇怪的脏数据，便以此为契机开发了这款字符串小工具，同时也增加了一些实用功能。如果你经常需要读取 MyBatis 日志、使用 DataGrip 处理数据，或者浏览 JSON，大概率会需要这款软件。功能介绍 项目简介 string_utils_v2 是一个…",
+    "url": "https://www.v2ex.com/t/1206959#reply1",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-04-18T03:09:08.000Z",
+    "publishedAt": "2026-04-19T04:30:12.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 114,
+    "score": 115,
     "sourceType": "rss",
-    "cover": "https://chorus-ai.dev/images/idea-tracker-overview.png",
-    "author": "fennu2333"
+    "cover": "https://i.imgur.com/hghG64H.png",
+    "author": "changdy"
   },
   "latest": [
     {
-      "id": "ce4edfb26fc8505f",
-      "title": "大家都在嫌弃 MCP 的时候我竟然发现有点离不开它",
-      "summary": "MCP 这个协议刚出来的时候我感觉它到处透露着过度设计的味道，难用又难写，工作需要又不得不用，几乎就是捏着鼻子写。看到社区现在几乎一边倒地嫌弃它，要用 api 和 cli 替代掉它的时候我还有点幸灾乐祸。但我在开发自己的 Harness 项目 Chorus 的时候又发现一些场景下没办法替换掉 MCP，主要的原因是 通过 MCP…",
-      "url": "https://www.v2ex.com/t/1206802#reply5",
+      "id": "e3a61f4633dc11a8",
+      "title": "推荐下自己开发的一款字符串处理小工具",
+      "summary": "开发背景 op 在一家小公司上班，由于系统 Bug 较多，经常需要处理数据库中奇怪的脏数据，便以此为契机开发了这款字符串小工具，同时也增加了一些实用功能。如果你经常需要读取 MyBatis 日志、使用 DataGrip 处理数据，或者浏览 JSON，大概率会需要这款软件。功能介绍 项目简介 string_utils_v2 是一个…",
+      "url": "https://www.v2ex.com/t/1206959#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-18T03:09:08.000Z",
+      "publishedAt": "2026-04-19T04:30:12.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 115,
       "sourceType": "rss",
-      "cover": "https://chorus-ai.dev/images/idea-tracker-overview.png",
-      "author": "fennu2333"
+      "cover": "https://i.imgur.com/hghG64H.png",
+      "author": "changdy"
     },
     {
-      "id": "5b564eef3310456b",
-      "title": "使用 auto-cpufreq 平衡 Linux 性能功耗",
-      "summary": "在 Fedora Linux 下，调整系统使用 auto-cpufreq 速度和功耗优化器。搭载 Intel Core Ultra 7 255H 处理器的设备，离电状态进行日常网页浏览、写作和听音乐等轻度任务时的功耗表现，基本维持在 10W 左右。",
-      "url": "https://www.v2ex.com/t/1206814#reply0",
+      "id": "0a9a9f57f28f5ff9",
+      "title": "被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核",
+      "summary": "2026年3月22日终于通过了 Google Adsense 审核，从 2024年4月3日开始提交审核，总共提交了 7 次，总算是通过了。到今天为止差不多一个月的时间，带来的总广告收入为 5.78美元，虽然还很低，但起码流程上通了。小小纪念一下，接下来继续优化 SEO，争取广告费早日日入 1 刀",
+      "url": "https://www.v2ex.com/t/1206942#reply8",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-18T04:00:30.000Z",
+      "publishedAt": "2026-04-19T02:54:02.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 113,
       "sourceType": "rss",
-      "cover": "https://blog.dejavu.moe/posts/fedora-balance-performance-and-power-consumption-with-auto-cpufreq/auto-cpufreq.webp",
-      "author": "DejavuMoe"
+      "cover": "https://i.v2ex.co/99Jq4l4m.jpeg",
+      "author": "twk93"
     },
     {
-      "id": "872d129da69d3614",
-      "title": "oh-my-claude-code 有人用过吗",
-      "summary": "看介绍是完全自动化的开发. 有个问题: 这个过程中应该要自动化测试. 是不是只适合部分类型的项目(自动化测试比较成熟/简单的): 比如在浏览器里运行的, 没有 UI 的. 对于在本机上运行的有 UI 的程序, 是不是就不太合适了.",
-      "url": "https://www.v2ex.com/t/1206800#reply1",
+      "id": "82ab33368bbeeeac",
+      "title": "[吃瓜] 有人在 Openai 论坛举报了谷歌英国 Plus 专业版计划被广泛滥用，但是并没有给出可复现的技术细节",
+      "summary": "https://community.openai.com/t/google-uk-plus-pro-plan-is-being-widely-abused/1379242 我写信给 OpenAI 技术部门，正式报告严重的……",
+      "url": "https://www.v2ex.com/t/1206947#reply7",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-18T03:06:48.000Z",
+      "publishedAt": "2026-04-19T03:10:56.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 112,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "jasonhc"
+      "author": "longxinglink"
     },
     {
-      "id": "16cd3af36e04e3ee",
-      "title": "你好，我是一名「火腿」",
-      "summary": "入门业余无线电，圆梦童年时的梦想。查看全文",
-      "url": "https://sspai.com/post/87807",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-18T02:33:57.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "休伯利安"
-    },
-    {
-      "id": "5f85dbe889734406",
-      "title": "像一个弥留之际的老人一样使用 claude",
-      "summary": "每天一张开眼，打开 claude，发现又活了一天。就好像，一个弥留之际的老人，发现自己又活了一天一样。",
-      "url": "https://www.v2ex.com/t/1206806#reply1",
+      "id": "e414f5089522ad98",
+      "title": "亲测豆包碾压 gemini 的两个点。",
+      "summary": "手机答题，需要远程答题：手机打开 gemini 视频，它答几道题后就死循环了。判断题都说正确，选择题都选 A... 豆包第一次错 12 个，第二次错 8 个，惊险通关。写真生成：媳妇用豆包生成的写真可以以假乱真。（有女友的可以去试试，豆包甚至有个写真广场，模板一键生成） 然后找媳妇要提示词去香蕉 pro 和香蕉 2 试..照片…",
+      "url": "https://www.v2ex.com/t/1206943#reply2",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-18T03:31:37.000Z",
+      "publishedAt": "2026-04-19T02:54:53.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 110,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "YanSeven"
+      "author": "afkool"
     },
     {
-      "id": "54174dea77914de9",
-      "title": "windows 更新这么离谱吗",
-      "summary": "本来电脑安装的是 win10 专业版。昨晚睡觉之前关机，发现有更新。顺手就点了更新并关机，结果早上一开机变成 win11le ???要不要这么不要脸",
-      "url": "https://www.v2ex.com/t/1206784#reply18",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-18T01:50:09.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "HitmanT"
-    },
-    {
-      "id": "e8b3dcd2032bf7ce",
-      "title": "A simplified model of Fil-C",
-      "titleZh": "Fil-C 的简化模型",
-      "summary": "Hacker News 热帖，当前积分 133，评论 68。",
-      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "id": "e615c551addd1f0b",
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "titleZh": "来自 Apple Silicon 上的 WebAssembly 的零拷贝 GPU 推断",
+      "summary": "Hacker News 热帖，当前积分 53，评论 18。",
+      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-17T21:38:20.000Z",
+      "publishedAt": "2026-04-18T22:46:13.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -143,24 +107,61 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 103,
+      "score": 104,
       "sourceType": "api"
     },
     {
-      "id": "6af44031b5280696",
-      "title": "Your AI agent can read your codebase. It doesn’t know your product.",
-      "titleZh": "您的 AI 代理可以读取您的代码库。它不了解您的产品。",
-      "summary": "",
-      "url": "https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-04-17T21:56:02.000Z",
-      "category": "design",
+      "id": "73e896557a60895f",
+      "title": "有人会愿意为没有比官方便宜的 Claude 中转付费吗？",
+      "summary": "感觉干净的 Claude 中转都不便宜，看起来有些甚至还比官方贵，这种为何还有人付费？",
+      "url": "https://www.v2ex.com/t/1206923#reply15",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-04-18T22:21:19.000Z",
+      "category": "industry",
       "tags": [
-        "设计/UI",
-        "交互设计"
+        "行业热点",
+        "开发者社区"
       ],
-      "score": 102,
+      "score": 101,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "zhique"
+    },
+    {
+      "id": "6f6146f1c9c76444",
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "titleZh": "NIST 科学家创造“任意波长”激光器",
+      "summary": "Hacker News 热帖，当前积分 222，评论 98。",
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-04-18T20:54:17.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 101,
+      "sourceType": "api"
+    },
+    {
+      "id": "a3673511c0cde9bc",
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "titleZh": "特斯拉将其机器人出租车服务带到达拉斯和休斯顿",
+      "summary": "该公司去年在奥斯汀推出机器人出租车服务后，现在在三个城市提供机器人出租车服务，所有这些城市都位于德克萨斯州，并开始在没有安全驾驶员的情况下提供乘车服务",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-04-18T21:37:15.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 97,
       "sourceType": "rss",
       "cover": "",
       "author": ""
@@ -180,10 +181,67 @@
         "工具/网站",
         "效率"
       ],
-      "score": 111,
+      "score": 72,
       "sourceType": "rss",
       "cover": "",
       "author": "休伯利安"
+    },
+    {
+      "id": "36ed58112a35c2f2",
+      "title": "React Email 6.0 by Resend",
+      "titleZh": "通过重新发送 React Email 6.0",
+      "summary": "构建、自定义和发送电子邮件—所有这些都来自您自己的应用程序",
+      "url": "https://www.producthunt.com/products/react-email-6-0-resend",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-17T14:36:36.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Adithya Shreshti"
+    },
+    {
+      "id": "32d0d4383e7b0ea1",
+      "title": "Claude Design by Anthropic Labs",
+      "titleZh": "Anthropic Labs 的 Claude 设计",
+      "summary": "与 Claude 交谈，制作原型、幻灯片和一页纸",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-17T15:21:45.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Rohan Chaubey"
+    },
+    {
+      "id": "7743a9391510acd5",
+      "title": "Is Your Site Agent-Ready? by Cloudflare",
+      "titleZh": "您的站点代理是否已准备就绪？由 Cloudflare 提供",
+      "summary": "扫描您的网站，了解 AI 代理的准备程度。",
+      "url": "https://www.producthunt.com/products/is-your-site-agent-ready",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-17T13:10:30.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Rohan Chaubey"
     },
     {
       "id": "90ebd9f31b7d3392",
@@ -198,7 +256,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 88,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -216,65 +274,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 59,
       "sourceType": "rss",
       "cover": "",
       "author": "KingTsui"
-    },
-    {
-      "id": "f30374571804d4e0",
-      "title": "来一杯不翻车的自信：手冲咖啡入门指北",
-      "summary": "只要选对豆子、控制好手冲时的变量，一杯好咖啡也很简单。查看全文",
-      "url": "https://sspai.com/post/108547",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-17T03:29:29.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "一群小羊说"
-    },
-    {
-      "id": "b792c700f2ec351e",
-      "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
-      "summary": "OpenAI 升级 Codex 新增多项实用功能，大疆发布 Osmo Pocket 4 云台相机等。查看全文",
-      "url": "https://sspai.com/post/108742",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-17T01:04:59.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 72,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "6a9325e029d36a62",
-      "title": "gridland",
-      "titleZh": "gridland",
-      "summary": "在终端和浏览器中呈现的 React 应用程序",
-      "url": "https://www.producthunt.com/products/gridland",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-04-16T23:26:16.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 66,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Jess Cheng"
     }
   ],
   "sections": [
@@ -300,7 +303,7 @@
             "视频合成",
             "音频"
           ],
-          "score": 89,
+          "score": 65,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202604/2026-4-17_152137.webp",
           "author": ""
@@ -318,7 +321,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 77,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202604/bg2026041608.webp",
           "author": "阮一峰"
@@ -420,7 +423,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 97,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -528,116 +531,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "105192e444d0624f",
-          "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-          "titleZh": "山姆·奥尔特曼（Sam Altman）的项目“世界” （World）希望扩大其人类验证帝第一站：Tinder。",
-          "summary": "World 通过其以 Orb 为中心的匿名验证项目引起了人们的注意（但也引起了很多兴趣），它正在寻求通过一系列新项目来扩大其影响力……",
-          "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+          "id": "a3673511c0cde9bc",
+          "title": "Tesla brings its robotaxi service to Dallas and Houston",
+          "titleZh": "特斯拉将其机器人出租车服务带到达拉斯和休斯顿",
+          "summary": "该公司去年在奥斯汀推出机器人出租车服务后，现在在三个城市提供机器人出租车服务，所有这些城市都位于德克萨斯州，并开始在没有安全驾驶员的情况下提供乘车服务",
+          "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-17T22:34:02.000Z",
+          "publishedAt": "2026-04-18T21:37:15.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "4526deb28211145c",
-          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-          "titleZh": "随着公司继续放弃“支线任务”，Kevin Weil 和 Bill Peebles 退出 OpenAI",
-          "summary": "Kevin Weil 和 Bill Peebles 正在离开 OpenAI，因为该公司关闭了 Sora 并折叠了其科学团队，这标志着从消费者登月计划向 e…",
-          "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+          "id": "17968b5247a6c397",
+          "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+          "titleZh": "VC Ron Conway 说他患有“罕见的癌症”",
+          "summary": "Conway 写道，他“将退出我的一些日常活动”，但他将“继续支持”由他的公司 SV Angel 支持的创始人。",
+          "url": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-17T20:38:17.000Z",
+          "publishedAt": "2026-04-18T20:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "d3fbee6305fe8060",
-          "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-          "titleZh": "黑客入侵美国最高法院备案系统的男子被判缓刑",
-          "summary": "尼古拉斯·摩尔（Nicholas Moore）使用窃取的凭据入侵了三个美国政府网络，然后吹嘘它，并在 Instagram 上发布了受害者的个人数据。",
-          "url": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+          "id": "3c49fd0f3def9c57",
+          "title": "AI chip startup Cerebras files for IPO",
+          "titleZh": "人工智能芯片初创公司 Cerebras 的 IPO 文件",
+          "summary": "最近几个月，该公司宣布与亚马逊网络服务公司达成协议，在亚马逊数据中心使用 Cerebras 芯片，并据报道与 OpenAI 达成协议......",
+          "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-17T20:16:13.000Z",
+          "publishedAt": "2026-04-18T19:19:11.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 95,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "6544fc38c737e126",
-          "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-          "titleZh": "资料来源：随着企业增长激增，Cursor 正在洽谈以 500亿美元的估值筹集 20亿美元以上的资金",
-          "summary": "回归的支持者 a16z 和 Thrive 预计将领投一轮。",
-          "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-17T19:17:26.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 90,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "225ee5301f5fa585",
-          "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-          "titleZh": "“Tokenmaxxing”正在使开发人员的生产力低于他们的想象",
-          "summary": "代码要多得多，但要贵得多，需要重写的次数也多得多。",
-          "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-17T18:42:45.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 90,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "da39edfc57455ff7",
-          "title": "Listen: Not all AI agents are created equal",
-          "titleZh": "倾听：并非所有人工智能代理都是平等的",
-          "summary": "Lenny 时事通讯帖子的音频版本",
-          "url": "https://www.lennysnewsletter.com/p/listen-not-all-ai-agents-are-created",
+          "id": "1c2c2c7b4046499d",
+          "title": "🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more",
+          "titleZh": "🧠 社区智慧：在整个组织中分享 Claude Code 技能，为什么 lennysjobs.com 关闭，为兼职开设有限责任公司，为中小企业销售提供人工智能等",
+          "summary": "社区智慧 182",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-04-15T03:45:04.000Z",
+          "publishedAt": "2026-04-18T18:38:18.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 47,
+          "score": 87,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/194258810/d3e1be886ebb2819ddc5511fe1b81d04.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "5040b503d559d831",
+          "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+          "titleZh": "Anthropic 与特朗普政府的关系似乎正在解冻",
+          "summary": "尽管最近被五角大楼指定为供应链风险，但 Anthropic 仍在与特朗普政府的高级别成员交谈。",
+          "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-04-18T14:56:48.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 86,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "82a3d4134fda0a6e",
+          "title": "The App Store is booming again, and AI may be why",
+          "titleZh": "App Store 再次蓬勃发展，而 AI 可能就是原因",
+          "summary": "Appfigures 的新数据显示，2026年推出的新应用程序数量激增，这表明人工智能工具可能会推动移动软件的繁荣。",
+          "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-04-18T13:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 82,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -647,6 +650,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "4dd2763f77f8230e",
+          "title": "Are we makers by nature — or consumers by design?",
+          "titleZh": "我们是天生的创造者，还是天生的消费者？",
+          "summary": "",
+          "url": "https://uxdesign.cc/are-we-makers-by-nature-or-consumers-by-design-0a63abb301f0?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-04-18T16:16:02.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 93,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "6af44031b5280696",
           "title": "Your AI agent can read your codebase. It doesn’t know your product.",
@@ -661,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 102,
+          "score": 63,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -680,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 102,
+          "score": 63,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -699,7 +721,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 102,
+          "score": 63,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -718,7 +740,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -737,26 +759,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "ded008088a7919a6",
-          "title": "Oh, but there’s one more thing",
-          "titleZh": "哦，但还有一件事",
-          "summary": "",
-          "url": "https://uxdesign.cc/oh-but-theres-one-more-thing-edb9fbd79c95?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-04-17T00:55:19.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -769,104 +772,86 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "ce4edfb26fc8505f",
-          "title": "大家都在嫌弃 MCP 的时候我竟然发现有点离不开它",
-          "summary": "MCP 这个协议刚出来的时候我感觉它到处透露着过度设计的味道，难用又难写，工作需要又不得不用，几乎就是捏着鼻子写。看到社区现在几乎一边倒地嫌弃它，要用 api 和 cli 替代掉它的时候我还有点幸灾乐祸。但我在开发自己的 Harness 项目 Chorus 的时候又发现一些场景下没办法替换掉 MCP，主要的原因是 通过 MCP…",
-          "url": "https://www.v2ex.com/t/1206802#reply5",
+          "id": "e3a61f4633dc11a8",
+          "title": "推荐下自己开发的一款字符串处理小工具",
+          "summary": "开发背景 op 在一家小公司上班，由于系统 Bug 较多，经常需要处理数据库中奇怪的脏数据，便以此为契机开发了这款字符串小工具，同时也增加了一些实用功能。如果你经常需要读取 MyBatis 日志、使用 DataGrip 处理数据，或者浏览 JSON，大概率会需要这款软件。功能介绍 项目简介 string_utils_v2 是一个…",
+          "url": "https://www.v2ex.com/t/1206959#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-18T03:09:08.000Z",
+          "publishedAt": "2026-04-19T04:30:12.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 115,
           "sourceType": "rss",
-          "cover": "https://chorus-ai.dev/images/idea-tracker-overview.png",
-          "author": "fennu2333"
+          "cover": "https://i.imgur.com/hghG64H.png",
+          "author": "changdy"
         },
         {
-          "id": "5b564eef3310456b",
-          "title": "使用 auto-cpufreq 平衡 Linux 性能功耗",
-          "summary": "在 Fedora Linux 下，调整系统使用 auto-cpufreq 速度和功耗优化器。搭载 Intel Core Ultra 7 255H 处理器的设备，离电状态进行日常网页浏览、写作和听音乐等轻度任务时的功耗表现，基本维持在 10W 左右。",
-          "url": "https://www.v2ex.com/t/1206814#reply0",
+          "id": "0a9a9f57f28f5ff9",
+          "title": "被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核",
+          "summary": "2026年3月22日终于通过了 Google Adsense 审核，从 2024年4月3日开始提交审核，总共提交了 7 次，总算是通过了。到今天为止差不多一个月的时间，带来的总广告收入为 5.78美元，虽然还很低，但起码流程上通了。小小纪念一下，接下来继续优化 SEO，争取广告费早日日入 1 刀",
+          "url": "https://www.v2ex.com/t/1206942#reply8",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-18T04:00:30.000Z",
+          "publishedAt": "2026-04-19T02:54:02.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 113,
           "sourceType": "rss",
-          "cover": "https://blog.dejavu.moe/posts/fedora-balance-performance-and-power-consumption-with-auto-cpufreq/auto-cpufreq.webp",
-          "author": "DejavuMoe"
+          "cover": "https://i.v2ex.co/99Jq4l4m.jpeg",
+          "author": "twk93"
         },
         {
-          "id": "872d129da69d3614",
-          "title": "oh-my-claude-code 有人用过吗",
-          "summary": "看介绍是完全自动化的开发. 有个问题: 这个过程中应该要自动化测试. 是不是只适合部分类型的项目(自动化测试比较成熟/简单的): 比如在浏览器里运行的, 没有 UI 的. 对于在本机上运行的有 UI 的程序, 是不是就不太合适了.",
-          "url": "https://www.v2ex.com/t/1206800#reply1",
+          "id": "82ab33368bbeeeac",
+          "title": "[吃瓜] 有人在 Openai 论坛举报了谷歌英国 Plus 专业版计划被广泛滥用，但是并没有给出可复现的技术细节",
+          "summary": "https://community.openai.com/t/google-uk-plus-pro-plan-is-being-widely-abused/1379242 我写信给 OpenAI 技术部门，正式报告严重的……",
+          "url": "https://www.v2ex.com/t/1206947#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-18T03:06:48.000Z",
+          "publishedAt": "2026-04-19T03:10:56.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "jasonhc"
-        },
-        {
-          "id": "5f85dbe889734406",
-          "title": "像一个弥留之际的老人一样使用 claude",
-          "summary": "每天一张开眼，打开 claude，发现又活了一天。就好像，一个弥留之际的老人，发现自己又活了一天一样。",
-          "url": "https://www.v2ex.com/t/1206806#reply1",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-18T03:31:37.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "YanSeven"
+          "author": "longxinglink"
         },
         {
-          "id": "54174dea77914de9",
-          "title": "windows 更新这么离谱吗",
-          "summary": "本来电脑安装的是 win10 专业版。昨晚睡觉之前关机，发现有更新。顺手就点了更新并关机，结果早上一开机变成 win11le ???要不要这么不要脸",
-          "url": "https://www.v2ex.com/t/1206784#reply18",
+          "id": "e414f5089522ad98",
+          "title": "亲测豆包碾压 gemini 的两个点。",
+          "summary": "手机答题，需要远程答题：手机打开 gemini 视频，它答几道题后就死循环了。判断题都说正确，选择题都选 A... 豆包第一次错 12 个，第二次错 8 个，惊险通关。写真生成：媳妇用豆包生成的写真可以以假乱真。（有女友的可以去试试，豆包甚至有个写真广场，模板一键生成） 然后找媳妇要提示词去香蕉 pro 和香蕉 2 试..照片…",
+          "url": "https://www.v2ex.com/t/1206943#reply2",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-18T01:50:09.000Z",
+          "publishedAt": "2026-04-19T02:54:53.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 108,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "HitmanT"
+          "author": "afkool"
         },
         {
-          "id": "e8b3dcd2032bf7ce",
-          "title": "A simplified model of Fil-C",
-          "titleZh": "Fil-C 的简化模型",
-          "summary": "Hacker News 热帖，当前积分 133，评论 68。",
-          "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+          "id": "e615c551addd1f0b",
+          "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+          "titleZh": "来自 Apple Silicon 上的 WebAssembly 的零拷贝 GPU 推断",
+          "summary": "Hacker News 热帖，当前积分 53，评论 18。",
+          "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-17T21:38:20.000Z",
+          "publishedAt": "2026-04-18T22:46:13.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -874,8 +859,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 103,
+          "score": 104,
           "sourceType": "api"
+        },
+        {
+          "id": "73e896557a60895f",
+          "title": "有人会愿意为没有比官方便宜的 Claude 中转付费吗？",
+          "summary": "感觉干净的 Claude 中转都不便宜，看起来有些甚至还比官方贵，这种为何还有人付费？",
+          "url": "https://www.v2ex.com/t/1206923#reply15",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-04-18T22:21:19.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 101,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "zhique"
         }
       ]
     }
@@ -887,7 +890,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 76,
+    "totalItems": 78,
     "totalSources": 18,
     "succeededSources": 14,
     "failedSources": 4
@@ -906,12 +909,12 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
-      "count": 10
+      "tag": "工具/网站",
+      "count": 11
     },
     {
-      "tag": "工具/网站",
-      "count": 9
+      "tag": "产品/商业",
+      "count": 10
     },
     {
       "tag": "工程效率",
@@ -926,11 +929,11 @@
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "交互设计",
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "效率",
       "count": 6
     },
     {
@@ -950,11 +953,11 @@
       "count": 5
     },
     {
-      "tag": "技术周刊",
-      "count": 3
+      "tag": "新产品",
+      "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "技术周刊",
       "count": 3
     }
   ]
