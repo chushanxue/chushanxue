@@ -1,68 +1,50 @@
 {
-  "generatedAt": "2026-04-24T04:53:18.067Z",
+  "generatedAt": "2026-04-25T04:34:55.898Z",
   "headline": {
-    "id": "989ffb68abb0977f",
-    "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-    "summary": "4月24日-4月26日，新一届 2050 大会将在云栖小镇如期举行。期间，少数派将会组织《少数派的共创时代》社区交流活动，围绕 AI 降低创造门槛后，从想法到产品落地的真实路径展开讨论。以下是活动的详细信息：... 查看全文",
-    "url": "https://sspai.com/post/108202",
-    "source": "少数派",
-    "sourceUrl": "https://sspai.com/",
-    "publishedAt": "2026-04-24T03:25:15.000Z",
-    "category": "tools",
+    "id": "138cf4c7caec35e8",
+    "title": "希望 AGO 三大厂商持续竞争",
+    "summary": "gpt5.5 一发布，claude 降智问题就被修复了，gemini cli 里面的 3.1 也变得可用了(虽然很慢 是不是说明了市场竞争对我们小老百姓可太重要了啊 没啥主题，就是感慨一下",
+    "url": "https://www.v2ex.com/t/1208452#reply0",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-04-25T04:16:56.000Z",
+    "category": "industry",
     "tags": [
-      "工具/网站",
-      "效率"
+      "行业热点",
+      "开发者社区"
     ],
-    "score": 115,
+    "score": 113,
     "sourceType": "rss",
     "cover": "",
-    "author": "老麦"
+    "author": "ljstao"
   },
   "latest": [
     {
-      "id": "989ffb68abb0977f",
-      "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-      "summary": "4月24日-4月26日，新一届 2050 大会将在云栖小镇如期举行。期间，少数派将会组织《少数派的共创时代》社区交流活动，围绕 AI 降低创造门槛后，从想法到产品落地的真实路径展开讨论。以下是活动的详细信息：... 查看全文",
-      "url": "https://sspai.com/post/108202",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-24T03:25:15.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "老麦"
-    },
-    {
-      "id": "7b9d00c20957d9a1",
-      "title": "只能说 DeepSeek V4 Pro 继续努力吧，天气卡片效果一般",
-      "summary": "简单试了下天气卡片，中文英文都试了，太简陋了：中文：创建一个包含 CSS 和 JavaScript 的单一 HTML 文件，用于生成动画天气卡片。卡片应该通过不同的动画直观地表示以下天气状况：风：（例如，移动的云朵、摇摆的树木或风线） 雨：（例如，下落的雨滴、形成的水坑） 阳光：（例如，闪耀的光线、明亮的背景） 雪：（例如，下…",
-      "url": "https://www.v2ex.com/t/1208250#reply29",
+      "id": "138cf4c7caec35e8",
+      "title": "希望 AGO 三大厂商持续竞争",
+      "summary": "gpt5.5 一发布，claude 降智问题就被修复了，gemini cli 里面的 3.1 也变得可用了(虽然很慢 是不是说明了市场竞争对我们小老百姓可太重要了啊 没啥主题，就是感慨一下",
+      "url": "https://www.v2ex.com/t/1208452#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-24T03:45:41.000Z",
+      "publishedAt": "2026-04-25T04:16:56.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 113,
       "sourceType": "rss",
-      "cover": "https://s3.bmp.ovh/2026/04/24/useViXUw.png",
-      "author": "dingawm"
+      "cover": "",
+      "author": "ljstao"
     },
     {
-      "id": "5ad4eff313b80bf8",
-      "title": "Vibe coding 有什么意义？",
-      "summary": "除了做 demo，任何一个需要稳定性的系统都不应该使用 vibe coding 实现。全黑盒，完全不可控。之前的一家公司，PM 开始自己 vibe coding，推到上线后结果完全不可维护，到最后还是研发来擦屁股。产品爽了，最后烂摊子研发全接走？",
-      "url": "https://www.v2ex.com/t/1208240#reply23",
+      "id": "f1b9e3f6501ad0d1",
+      "title": "OpenCode GO 已上线 deepseek v4",
+      "summary": "5小时限额 pro 1300 次, flash 7450 次 理论上可以用于其他工具比如 claude code，opencode 说 go 可以用于第三方。",
+      "url": "https://www.v2ex.com/t/1208454#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-24T03:28:38.000Z",
+      "publishedAt": "2026-04-25T04:21:21.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -71,73 +53,17 @@
       "score": 112,
       "sourceType": "rss",
       "cover": "",
-      "author": "chuchen023"
+      "author": "defaw"
     },
     {
-      "id": "deae7158a40d6311",
-      "title": "DeepSeek v4",
-      "titleZh": "DeepSeek v4",
-      "summary": "Hacker News 热帖，当前积分 277，评论 89。",
-      "url": "https://api-docs.deepseek.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-24T03:01:21.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "cb8fa12d90609f56",
-      "title": "A quick look at Mythos run on Firefox: too much hype?",
-      "titleZh": "快速浏览在 Firefox 上运行的 Mythos：过度炒作？",
-      "summary": "Hacker News 热帖，当前积分 18，评论 3。",
-      "url": "https://xark.es/b/mythos-firefox-150",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-24T03:12:30.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "a36037c7244b0642",
-      "title": "DeepSeek V4 终于出来了。。不知道强不强",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1208225#reply27",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-24T03:07:59.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 107,
-      "sourceType": "rss",
-      "cover": "https://img.tianjiyao.com/v2ex/0002.png",
-      "author": "tianjiyao"
-    },
-    {
-      "id": "61241c940662e58d",
-      "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
-      "titleZh": "保时捷正在为其产品阵容增加一款全电动 Cayenne 双门轿跑车",
-      "summary": "保时捷将于夏末开始销售 Cayenne Coupe Electric。",
-      "url": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
+      "id": "dee248d1a7aeb2a3",
+      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "titleZh": "消息人士称，Lachy Groom 将以 2亿美元的估值支持印度初创公司 Pronto",
+      "summary": "如果发生这种情况，这轮融资将在几周内使房屋帮助初创公司的估值翻番。",
+      "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-04-24T04:01:00.000Z",
+      "publishedAt": "2026-04-25T03:30:00.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
@@ -149,25 +75,136 @@
       "author": ""
     },
     {
-      "id": "2f5009b9201ca88a",
-      "title": "手机和平板间的新品类：华为 Pura X Max 漫谈",
-      "summary": "折叠屏手机这两年并不太好过。按照 IDC 的年度报告，2025年中国折叠屏手机市场出货约 1001 万台，同比增速 9.2%，而 2024年这个数字还是 30.8%——一年之间，增速接近腰斩。而折叠屏手机在全球智能 ... 查看全文",
-      "url": "https://sspai.com/post/109024",
+      "id": "81e0f7231cdd478a",
+      "title": "vscode 中 codex 插件加载不出来的问题",
+      "summary": "我在最新版本中使用 GPT-5.5 的 Codex 插件时，遇到加载对话内容不出来的问题。具体情况如下：在服务器和 WSL2 中都会出现。我已更新到最新的 VSCode 版本，更新后 VSCode 自带了一个“聊天”选项。点开“聊天”再切回 Codex，有时能让 codex 之前加载不出来的对话显示出来。网络状况正常，看起来…",
+      "url": "https://www.v2ex.com/t/1208422#reply7",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-04-25T01:25:40.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Saunak"
+    },
+    {
+      "id": "7696dc118e7ff43e",
+      "title": "大项目中大家真的会用 Spec-Driven Development 吗？",
+      "summary": "https://openai.com/zh-Hans-CN/index/harness-engineering/ 中提到要把 Spec & Planning & Tasks 进度放进 git 仓库中，大家实践中真的会这么做吗？但是我看 codex 仓库内根本没这些东西，而且很多 Spec 他们都是放在的 Issue 中讨论的。我自…",
+      "url": "https://www.v2ex.com/t/1208418#reply14",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-04-25T00:22:27.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "CodeY99"
+    },
+    {
+      "id": "991115b5dfc7548a",
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "titleZh": "将 IBM Quantum 后端替换为/dev/urandom",
+      "summary": "Hacker News 热帖，当前积分 61，评论 7。",
+      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-04-25T00:58:38.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "763af4b77d3c04fb",
+      "title": "Education must go beyond the mere production of words",
+      "titleZh": "教育必须超越单纯的文字生产",
+      "summary": "Hacker News 热帖，当前积分 37，评论 7。",
+      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-04-25T00:11:43.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 107,
+      "sourceType": "api"
+    },
+    {
+      "id": "36bf6ac2f072eda7",
+      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+      "titleZh": "史蒂夫·鲍尔默（Steve Ballmer）抨击了他支持的创始人，他承认犯有欺诈罪：“我被骗了，觉得自己很愚蠢”",
+      "summary": "史蒂夫·鲍尔默（Steve Ballmer）在判决不光彩的创始人约瑟夫·桑伯格（Joseph Sanberg）时写了一封火热的信，记录了他作为投资者遭受的所有伤害。",
+      "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-04-24T23:32:11.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 100,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    }
+  ],
+  "featuredTools": [
+    {
+      "id": "35b9448fc52b0e9a",
+      "title": "本周看什么 | 最近值得一看的 11 部作品",
+      "summary": "📅本周新预告《泥面人》首支预告 4月23日，DC 新片《泥面人》发布了首支预告，将于 10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯、娜奥米·阿基、麦克思·明格拉等主演，一位 B 级片演员给自 ... 查看全文",
+      "url": "https://sspai.com/post/109050",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-24T01:54:28.000Z",
+      "publishedAt": "2026-04-24T10:17:33.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 88,
       "sourceType": "rss",
       "cover": "",
-      "author": "Microhoo"
-    }
-  ],
-  "featuredTools": [
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "964f81cb99d587fa",
+      "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
+      "summary": "一站式、在线测试屏幕的各项功能。查看全文",
+      "url": "https://sspai.com/post/108455",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-24T07:06:50.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 80,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "码客旅人"
+    },
     {
       "id": "989ffb68abb0977f",
       "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
@@ -181,7 +218,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 115,
+      "score": 77,
       "sourceType": "rss",
       "cover": "",
       "author": "老麦"
@@ -199,7 +236,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
       "author": "Microhoo"
@@ -217,64 +254,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 109,
+      "score": 71,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "481c8580bbef07b5",
-      "title": "一口春鲜，半是江河半是海",
-      "summary": "都说「人间四月鲜，尝鲜好时节」，说的不仅是各种时令蔬菜上市了，还有经过了一个冬季蛰伏后，开始出现在了菜市场海鲜档口的海鲜与河鲜。虽说现如今，随着时代的发展和科技的进步，我们的人工养殖水平已经日益见长，... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/recipes-for-spring",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-23T10:38:26.000Z",
+      "id": "044e727c3601828a",
+      "title": "Codex 3.0 by OpenAI",
+      "titleZh": "OpenAI Codex 3.0",
+      "summary": "Codex 现在可以在自动驾驶仪上构建、测试和调试",
+      "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-23T18:48:21.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 89,
+      "score": 59,
       "sourceType": "rss",
       "cover": "",
-      "author": "潘誉晗"
-    },
-    {
-      "id": "820b2fbfa230878a",
-      "title": "新玩意 239｜少数派的编辑们最近买了啥？",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
-      "url": "https://sspai.com/post/109007",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-23T09:42:33.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 87,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "2cf8e35ac2603f03",
-      "title": "Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议",
-      "summary": "Notion 的优缺点 Notion 的门槛在于，当一个页面被创建，在 Notion 的整套叙事里，你需要尽快为这个页面找到它在系统中的位置和关系，它是什么、属于哪里、是否和某个具体的任务或项目有关系？尽管你可 ... 查看全文",
-      "url": "https://sspai.com/post/108971",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-23T07:12:16.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 83,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "二一的笔记"
+      "author": "Rohan Chaubey"
     }
   ],
   "sections": [
@@ -296,7 +298,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 116,
+          "score": 78,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202604/bg2026042008.webp",
           "author": "阮一峰"
@@ -315,7 +317,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 99,
+          "score": 67,
           "sourceType": "rss",
           "cover": "https://css-tricks.com/wp-content/uploads/2026/03/AppleSite.mov",
           "author": ""
@@ -404,6 +406,25 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "8cd0ed58c8370fa8",
+          "title": "DeepSeek-V4: a million-token context that agents can actually use",
+          "titleZh": "DeepSeek-V4：代理可以实际使用的百万代币上下文",
+          "summary": "",
+          "url": "https://huggingface.co/blog/deepseekv4",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-04-24T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 71,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "801a6bd469e01e9c",
           "title": "Introducing GPT-5.5",
           "titleZh": "GPT-5.5 简介",
@@ -417,7 +438,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 98,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -436,7 +457,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 96,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -455,7 +476,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 96,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -474,7 +495,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 96,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -493,26 +514,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 96,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "4ce73fa3b4626b51",
-          "title": "GPT-5.5 System Card",
-          "titleZh": "GPT-5.5 系统卡",
-          "summary": "",
-          "url": "https://openai.com/index/gpt-5-5-system-card",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-04-23T11:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 92,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -525,14 +527,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "61241c940662e58d",
-          "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
-          "titleZh": "保时捷正在为其产品阵容增加一款全电动 Cayenne 双门轿跑车",
-          "summary": "保时捷将于夏末开始销售 Cayenne Coupe Electric。",
-          "url": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
+          "id": "dee248d1a7aeb2a3",
+          "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+          "titleZh": "消息人士称，Lachy Groom 将以 2亿美元的估值支持印度初创公司 Pronto",
+          "summary": "如果发生这种情况，这轮融资将在几周内使房屋帮助初创公司的估值翻番。",
+          "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-24T04:01:00.000Z",
+          "publishedAt": "2026-04-25T03:30:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -544,33 +546,33 @@
           "author": ""
         },
         {
-          "id": "f069cb0dc0a3ebd4",
-          "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
-          "titleZh": "Bob Iger 在迪士尼退出后重新加入 Thrive Capital 担任顾问",
-          "summary": "这位前迪士尼首席执行官持有 Thrive 的股份，此前曾在该公司担任风险合伙人。",
-          "url": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+          "id": "36bf6ac2f072eda7",
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+          "titleZh": "史蒂夫·鲍尔默（Steve Ballmer）抨击了他支持的创始人，他承认犯有欺诈罪：“我被骗了，觉得自己很愚蠢”",
+          "summary": "史蒂夫·鲍尔默（Steve Ballmer）在判决不光彩的创始人约瑟夫·桑伯格（Joseph Sanberg）时写了一封火热的信，记录了他作为投资者遭受的所有伤害。",
+          "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-24T00:11:25.000Z",
+          "publishedAt": "2026-04-24T23:32:11.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "19713ce14f0e6ad9",
-          "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
-          "titleZh": "当局逮捕了涉嫌在涉及马杜罗行动的 Polymarket 投注中赚取 40 万美元的特种部队士兵",
-          "summary": "该士兵被指控使用机密政府信息在预测市场 Polymarket 上下注。",
-          "url": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
+          "id": "a219e5683b8ca260",
+          "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+          "titleZh": "Cohere 收购并合并德国初创公司，打造“跨大西洋人工智能强国”",
+          "summary": "Cohere 是一家总部位于加拿大的人工智能公司，为受监管行业的企业提供人工智能工具，该公司周五宣布将与德国公司 Aleph Alpha 合并。",
+          "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-23T23:32:33.000Z",
+          "publishedAt": "2026-04-24T21:35:30.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -582,39 +584,39 @@
           "author": ""
         },
         {
-          "id": "e0bbf2ccb34f8b38",
-          "title": "Redwood Materials loses COO amid layoffs, restructuring",
-          "titleZh": "Redwood Materials 在裁员、重组中失去首席运营官",
-          "summary": "TechCrunch 了解到，特斯拉前高管克里斯·利斯特（Chris Lister）即将退休，至少还有另外三位副总裁在最近的重组中离开了 Redwood。",
-          "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+          "id": "a9856154a9f91ba0",
+          "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+          "titleZh": "两名大学生筹集了 510 万美元的预种子资金，用于在 iMessage 中构建人工智能社交网络",
+          "summary": "在大学校园里越来越流行的社交网络应用程序 Series 宣布了来自一些科技巨头的 510 万美元种子前融资。",
+          "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-23T22:44:12.000Z",
+          "publishedAt": "2026-04-24T21:05:59.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "f0eae70970ce08b8",
-          "title": "These are the countries moving to ban social media for children",
-          "titleZh": "这些国家正在禁止面向儿童的社交媒体",
-          "summary": "澳大利亚是 2025年底发布禁令的第一个国家，旨在减少年轻用户在社交媒体上可能面临的压力和风险，包括网络欺凌……",
-          "url": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+          "id": "f82c579b9613ffb6",
+          "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+          "titleZh": "据报道，Palantir 正在帮助美国国税局调查金融犯罪",
+          "summary": "据 The Intercept 报道，美国国税局至少从 2018年开始使用 Palantir 的软件。",
+          "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-23T21:33:51.000Z",
+          "publishedAt": "2026-04-24T21:53:44.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -632,7 +634,7 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 94,
+          "score": 56,
           "sourceType": "rss",
           "cover": "https://api.substack.com/feed/podcast/195268116/ef7bdd08e44371615ff27091bfdf87ae.mp3",
           "author": ""
@@ -645,9 +647,28 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
+          "id": "b4da1236e2e698bb",
+          "title": "The rulebook for designing AI experiences",
+          "titleZh": "设计人工智能体验的规则手册",
+          "summary": "",
+          "url": "https://uxdesign.cc/the-rulebook-for-designing-ai-experiences-a22a50bb063c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-04-24T22:06:51.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "c6b4d2b275df03dd",
           "title": "Designing with AI without losing your mind",
-          "titleZh": "使用人工智能进行设计而不会失去理智",
+          "titleZh": "使用人工智能进行设计，而不会失去理智",
           "summary": "",
           "url": "https://uxdesign.cc/designing-with-ai-without-losing-your-mind-0cfba48f6309?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -658,7 +679,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 102,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -677,7 +698,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 80,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -686,7 +707,7 @@
           "id": "aa3312f398f1feb8",
           "title": "What improv taught me about why innovation falls out of sync",
           "titleZh": "即兴表演教会了我为什么创新会失去同步",
-          "summary": "当适应变得不协调时，旅程就会失去同步--就像即兴喜剧出现了可怕的错误一样。继续阅读 UX Collective »",
+          "summary": "当适应变得不协调时，旅程就会失去同步--就像即兴喜剧出错一样。继续阅读 UX Collective »",
           "url": "https://uxdesign.cc/what-improv-taught-me-about-why-innovation-falls-out-of-sync-1e3961fa2083?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
@@ -696,7 +717,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*fCnWasttdW8XNqYQcLPFrg.jpeg",
           "author": ""
@@ -704,7 +725,7 @@
         {
           "id": "a81ee68324aa84fd",
           "title": "Working in the open",
-          "titleZh": "露天工作",
+          "titleZh": "在露天工作",
           "summary": "",
           "url": "https://uxdesign.cc/working-in-the-open-learnings-from-designing-open-source-technology-67a7f71bc450?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -715,28 +736,9 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 62,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
-          "author": ""
-        },
-        {
-          "id": "13898fd5b49fd267",
-          "title": "How to mitigate the risk of AI implementation in enterprise environments",
-          "titleZh": "如何降低企业环境中实施人工智能的风险",
-          "summary": "多年来，我一直专注于企业领域。2022年 ChatGPT 革命之后，我目睹了一场关于自制 AI 的大规模炒作……继续阅读 UX Collect……",
-          "url": "https://uxdesign.cc/how-to-mitigate-the-risk-of-ai-implementation-in-enterprise-environments-74d3bd7f9e65?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-04-21T11:31:47.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 61,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/700/1*_SrLdFiij_L8efw4huzi-Q.png",
           "author": ""
         },
         {
@@ -766,31 +768,31 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "7b9d00c20957d9a1",
-          "title": "只能说 DeepSeek V4 Pro 继续努力吧，天气卡片效果一般",
-          "summary": "简单试了下天气卡片，中文英文都试了，太简陋了：中文：创建一个包含 CSS 和 JavaScript 的单一 HTML 文件，用于生成动画天气卡片。卡片应该通过不同的动画直观地表示以下天气状况：风：（例如，移动的云朵、摇摆的树木或风线） 雨：（例如，下落的雨滴、形成的水坑） 阳光：（例如，闪耀的光线、明亮的背景） 雪：（例如，下…",
-          "url": "https://www.v2ex.com/t/1208250#reply29",
+          "id": "138cf4c7caec35e8",
+          "title": "希望 AGO 三大厂商持续竞争",
+          "summary": "gpt5.5 一发布，claude 降智问题就被修复了，gemini cli 里面的 3.1 也变得可用了(虽然很慢 是不是说明了市场竞争对我们小老百姓可太重要了啊 没啥主题，就是感慨一下",
+          "url": "https://www.v2ex.com/t/1208452#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-24T03:45:41.000Z",
+          "publishedAt": "2026-04-25T04:16:56.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 113,
           "sourceType": "rss",
-          "cover": "https://s3.bmp.ovh/2026/04/24/useViXUw.png",
-          "author": "dingawm"
+          "cover": "",
+          "author": "ljstao"
         },
         {
-          "id": "5ad4eff313b80bf8",
-          "title": "Vibe coding 有什么意义？",
-          "summary": "除了做 demo，任何一个需要稳定性的系统都不应该使用 vibe coding 实现。全黑盒，完全不可控。之前的一家公司，PM 开始自己 vibe coding，推到上线后结果完全不可维护，到最后还是研发来擦屁股。产品爽了，最后烂摊子研发全接走？",
-          "url": "https://www.v2ex.com/t/1208240#reply23",
+          "id": "f1b9e3f6501ad0d1",
+          "title": "OpenCode GO 已上线 deepseek v4",
+          "summary": "5小时限额 pro 1300 次, flash 7450 次 理论上可以用于其他工具比如 claude code，opencode 说 go 可以用于第三方。",
+          "url": "https://www.v2ex.com/t/1208454#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-24T03:28:38.000Z",
+          "publishedAt": "2026-04-25T04:21:21.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -799,82 +801,81 @@
           "score": 112,
           "sourceType": "rss",
           "cover": "",
-          "author": "chuchen023"
+          "author": "defaw"
         },
         {
-          "id": "deae7158a40d6311",
-          "title": "DeepSeek v4",
-          "titleZh": "DeepSeek v4",
-          "summary": "Hacker News 热帖，当前积分 277，评论 89。",
-          "url": "https://api-docs.deepseek.com/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-24T03:01:21.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "cb8fa12d90609f56",
-          "title": "A quick look at Mythos run on Firefox: too much hype?",
-          "titleZh": "快速浏览在 Firefox 上运行的 Mythos：过度炒作？",
-          "summary": "Hacker News 热帖，当前积分 18，评论 3。",
-          "url": "https://xark.es/b/mythos-firefox-150",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-24T03:12:30.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "15c27e0b15fc9813",
-          "title": "Why I Write (1946)",
-          "titleZh": "《我为什么写作》（1946年）",
-          "summary": "Hacker News 热帖，当前积分 81，评论 17。",
-          "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-24T02:26:23.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 110,
-          "sourceType": "api"
-        },
-        {
-          "id": "a36037c7244b0642",
-          "title": "DeepSeek V4 终于出来了。。不知道强不强",
-          "summary": "",
-          "url": "https://www.v2ex.com/t/1208225#reply27",
+          "id": "81e0f7231cdd478a",
+          "title": "vscode 中 codex 插件加载不出来的问题",
+          "summary": "我在最新版本中使用 GPT-5.5 的 Codex 插件时，遇到加载对话内容不出来的问题。具体情况如下：在服务器和 WSL2 中都会出现。我已更新到最新的 VSCode 版本，更新后 VSCode 自带了一个“聊天”选项。点开“聊天”再切回 Codex，有时能让 codex 之前加载不出来的对话显示出来。网络状况正常，看起来…",
+          "url": "https://www.v2ex.com/t/1208422#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-24T03:07:59.000Z",
+          "publishedAt": "2026-04-25T01:25:40.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 107,
+          "score": 111,
           "sourceType": "rss",
-          "cover": "https://img.tianjiyao.com/v2ex/0002.png",
-          "author": "tianjiyao"
+          "cover": "",
+          "author": "Saunak"
+        },
+        {
+          "id": "7696dc118e7ff43e",
+          "title": "大项目中大家真的会用 Spec-Driven Development 吗？",
+          "summary": "https://openai.com/zh-Hans-CN/index/harness-engineering/ 中提到要把 Spec & Planning & Tasks 进度放进 git 仓库中，大家实践中真的会这么做吗？但是我看 codex 仓库内根本没这些东西，而且很多 Spec 他们都是放在的 Issue 中讨论的。我自…",
+          "url": "https://www.v2ex.com/t/1208418#reply14",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-04-25T00:22:27.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "CodeY99"
+        },
+        {
+          "id": "991115b5dfc7548a",
+          "title": "Replace IBM Quantum back end with /dev/urandom",
+          "titleZh": "将 IBM Quantum 后端替换为/dev/urandom",
+          "summary": "Hacker News 热帖，当前积分 61，评论 7。",
+          "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-04-25T00:58:38.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
+          "sourceType": "api"
+        },
+        {
+          "id": "763af4b77d3c04fb",
+          "title": "Education must go beyond the mere production of words",
+          "titleZh": "教育必须超越单纯的文字生产",
+          "summary": "Hacker News 热帖，当前积分 37，评论 7。",
+          "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-04-25T00:11:43.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 107,
+          "sourceType": "api"
         }
       ]
     }
@@ -885,7 +886,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -905,7 +906,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "产品/商业",
@@ -913,26 +914,18 @@
     },
     {
       "tag": "工程效率",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "讨论",
-      "count": 7
-    },
-    {
-      "tag": "效率",
-      "count": 6
-    },
-    {
-      "tag": "开发者社区",
-      "count": 6
+      "count": 8
     },
     {
       "tag": "交互设计",
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "效率",
       "count": 6
     },
     {
@@ -940,16 +933,24 @@
       "count": 6
     },
     {
+      "tag": "模型产品",
+      "count": 6
+    },
+    {
+      "tag": "开发者社区",
+      "count": 5
+    },
+    {
       "tag": "科技公司",
+      "count": 5
+    },
+    {
+      "tag": "新产品",
       "count": 5
     },
     {
       "tag": "开发平台",
       "count": 5
-    },
-    {
-      "tag": "新产品",
-      "count": 4
     },
     {
       "tag": "技术周刊",
