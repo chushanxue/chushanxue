@@ -1,51 +1,87 @@
 {
-  "generatedAt": "2026-04-26T04:57:57.526Z",
+  "generatedAt": "2026-04-27T05:21:31.253Z",
   "headline": {
-    "id": "86453daede780f6e",
-    "title": "还得是 Claude",
-    "summary": "我之前并不是 claude 的忠粉，用过一个月 pro，也同时订阅 gpt plus，glm pro，因为 cc 价格高，之后一直在国产 glm5.1 为主力，实话实说日常大部分线性开发都没大问题，最近在给一个 app 的（ios 相机类）修美颜功能的 bug，给了给多参考文章，codex5.5 最高思考，glm5.1 都…",
-    "url": "https://www.v2ex.com/t/1208589#reply1",
+    "id": "09a8fc6eef1403af",
+    "title": "claude 安排了 6 个子 agent 干活，开始研究新东西",
+    "summary": "5 个子 opus 4.7 high agent 写产品功能，一个 QA 4.7high 做测试 等待中，似乎没啥事干了……20X 周额度到 85%了…… 准备研究一下 opencode+OMO，有没有 V 友玩过这个，干活质量如何？多 agent 多角色架构实用性高吗？",
+    "url": "https://www.v2ex.com/t/1208790#reply2",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-04-26T04:26:28.000Z",
+    "publishedAt": "2026-04-27T04:50:25.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 115,
+    "score": 114,
     "sourceType": "rss",
-    "cover": "",
-    "author": "onedge"
+    "cover": "https://i.imgur.com/iqA3MFc.png",
+    "author": "reitao"
   },
   "latest": [
     {
-      "id": "86453daede780f6e",
-      "title": "还得是 Claude",
-      "summary": "我之前并不是 claude 的忠粉，用过一个月 pro，也同时订阅 gpt plus，glm pro，因为 cc 价格高，之后一直在国产 glm5.1 为主力，实话实说日常大部分线性开发都没大问题，最近在给一个 app 的（ios 相机类）修美颜功能的 bug，给了给多参考文章，codex5.5 最高思考，glm5.1 都…",
-      "url": "https://www.v2ex.com/t/1208589#reply1",
+      "id": "09a8fc6eef1403af",
+      "title": "claude 安排了 6 个子 agent 干活，开始研究新东西",
+      "summary": "5 个子 opus 4.7 high agent 写产品功能，一个 QA 4.7high 做测试 等待中，似乎没啥事干了……20X 周额度到 85%了…… 准备研究一下 opencode+OMO，有没有 V 友玩过这个，干活质量如何？多 agent 多角色架构实用性高吗？",
+      "url": "https://www.v2ex.com/t/1208790#reply2",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-26T04:26:28.000Z",
+      "publishedAt": "2026-04-27T04:50:25.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/iqA3MFc.png",
+      "author": "reitao"
+    },
+    {
+      "id": "9480a89882a4971c",
+      "title": "有国外的实体银行卡，但账单地址是中国的，如何订阅 Claude？",
+      "summary": "银行卡是 Velo，我的梯子是日本的，就按照 IP 填了日本的地址，但付款失败。查了一下好像它会验证银行卡的账单地址。这好像就无解了，银行卡账单地址是中国的，而选项里没办法选中国",
+      "url": "https://www.v2ex.com/t/1208793#reply4",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-04-27T04:52:47.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "fancy2020"
+    },
+    {
+      "id": "9c00fb6bdc28f185",
+      "title": "关于流感和疫苗，你需要知道哪些信息？",
+      "summary": "冬天往往是传染病肆虐的季节。除了在全世界范围内流行已久的新冠病毒，引起季节性流感的流感病毒也不可小视。想要预防流感带来的后果，最简单的方法就是接种流感疫苗。本文就将介绍在打流感疫苗之前，关于流感和疫苗，你需要知道什么。查看全文",
+      "url": "https://sspai.com/post/76945",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-27T03:30:55.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
       ],
       "score": 115,
       "sourceType": "rss",
       "cover": "",
-      "author": "onedge"
+      "author": "鸿苓"
     },
     {
-      "id": "6c4e939970e9c53e",
-      "title": "EU Age Control: The trojan horse for digital IDs",
-      "titleZh": "欧盟年龄控制：数字身份证件的特洛伊木马",
-      "summary": "https://web.archive.org/web/20260426040218/https://juraj.bed...",
-      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "id": "07be1cb6fcc35c35",
+      "title": "The Prompt API",
+      "titleZh": "Prompt API",
+      "summary": "Hacker News 热帖，当前积分 48，评论 28。",
+      "url": "https://developer.chrome.com/docs/ai/prompt-api",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-26T03:44:28.000Z",
+      "publishedAt": "2026-04-27T02:18:58.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,123 +89,140 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 113,
+      "score": 109,
       "sourceType": "api"
     },
     {
-      "id": "91e687f245005f3d",
-      "title": "chatgpt 充值 5x pro 前已经订阅了 plus，那 plus 的 20 刀就没了吗",
-      "summary": "我在升级 ChatGPT 5x Pro 前，已经通过 iOS/App Store 订阅了 ChatGPT Plus （扣款 $20）。因为 iOS 端没有看到可以直接订阅 ChatGPT 5x Pro 的入口，所以我先订阅了 Plus。随后我又升级到了 ChatGPT 5x Pro （扣款 $100）。我想确认：我看到之…",
-      "url": "https://www.v2ex.com/t/1208581#reply8",
+      "id": "82aab75f10bf0699",
+      "title": "TurboQuant: A First-Principles Walkthrough",
+      "titleZh": "TurboQuant：第一原理演练",
+      "summary": "Hacker News 热帖，当前积分 60，评论 8。",
+      "url": "https://arkaung.github.io/interactive-turboquant/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-04-27T01:54:32.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "10a88799151698c1",
+      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+      "titleZh": "EvanFlow – Claude Code 的 TDD 驱动反馈循环",
+      "summary": "Hacker News 热帖，当前积分 41，评论 11。",
+      "url": "https://github.com/evanklem/evanflow",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-04-27T01:56:39.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "836e712a7f5d307e",
+      "title": "我公司真的有古法编程程序员",
+      "summary": "我建议他用 AI 他说习惯了 AI 也有搞不定的时候 我暗中观察确认他真的在古法编程 而且还是全栈！",
+      "url": "https://www.v2ex.com/t/1208753#reply79",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-26T03:06:54.000Z",
+      "publishedAt": "2026-04-27T02:50:57.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 113,
+      "score": 108,
       "sourceType": "rss",
       "cover": "",
-      "author": "keep1234"
+      "author": "mightofcode"
     },
     {
-      "id": "fe94c74f44e49fcf",
-      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-      "titleZh": "告诉 HN：一个应用程序每天都在我的 iPhone 上静默安装",
-      "summary": "在过去的 3天里，每天大约美国东部时间下午 1 点左右，“Headspace”应用程序一直在我的 iPhone （13 Pro）上无声地出现。自动下载已关闭，我已更新…",
-      "url": "https://news.ycombinator.com/item?id=47906253",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-26T00:50:56.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "e0e11ef08ea0f31b",
-      "title": "各位推荐一个 32G Macbook air M5 可以跑的 moe 模型",
-      "summary": "27B/31B 甚至 35B 的 4bit 都可以, 测试了好久, 也下载了几十个了,都不太行, 感觉降智了, 这些刚出来的时候我这个配置能跑到 35tokens/s. 准备直接抄作业, 请给 huggingface 连接, 我的本地推理框架是 omlx, 感谢感谢.",
-      "url": "https://www.v2ex.com/t/1208567#reply10",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-04-26T00:16:06.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 107,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Hermitist"
-    },
-    {
-      "id": "4cd11d6f4e8b2a2f",
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "titleZh": "为什么阿尔茨海默病的进展如此之小？",
-      "summary": "Hacker News 热帖，当前积分 141，评论 66。",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-26T00:12:47.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 106,
-      "sourceType": "api"
-    },
-    {
-      "id": "84b8b014b40ecbe0",
-      "title": "USB Cheat Sheet (2022)",
-      "titleZh": "USB 备忘单（2022）",
-      "summary": "Hacker News 热帖，当前积分 216，评论 49。",
-      "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-04-25T21:51:18.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 102,
-      "sourceType": "api"
-    },
-    {
-      "id": "3067a7bf9925333e",
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "titleZh": "Anthropic 为代理商创建了一个测试市场",
-      "summary": "在最近的一项实验中，Anthropic 创建了一个分类市场，在这个市场中，人工智能代理代表买家和卖家，为真实商品和真实市场达成真实交易。",
-      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "id": "ac62f5ebd2fe3a3f",
+      "title": "Truecaller faces mounting pressures as its growth matures",
+      "titleZh": "随着其增长的成熟，Truecaller 面临着越来越大的压力",
+      "summary": "随着增长放缓，Truecaller 依靠订阅、商业服务和新功能来维持印度以外的发展势头。",
+      "url": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-04-25T21:43:37.000Z",
+      "publishedAt": "2026-04-27T03:00:00.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 97,
+      "score": 103,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "9c00fb6bdc28f185",
+      "title": "关于流感和疫苗，你需要知道哪些信息？",
+      "summary": "冬天往往是传染病肆虐的季节。除了在全世界范围内流行已久的新冠病毒，引起季节性流感的流感病毒也不可小视。想要预防流感带来的后果，最简单的方法就是接种流感疫苗。本文就将介绍在打流感疫苗之前，关于流感和疫苗，你需要知道什么。查看全文",
+      "url": "https://sspai.com/post/76945",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-27T03:30:55.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "鸿苓"
+    },
+    {
+      "id": "e1d701bf0d403a73",
+      "title": "派早报：X 推出聊天软件 XChat",
+      "summary": "X 推出聊天软件 XChat 美国要求外交人员向他国警告中国 AI 蒸馏行为 国内 AI 公司被要求不接受未经批准的美国投资 香港在黄金周前加强电子烟禁令的内地宣传 FILCO 键盘母公司关停 官方回应豆包提前查到 2026 山东事业编成绩 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/109114",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-26T23:40:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "a6730f7983e8743e",
+      "title": "App+1 | 谈谈网页浏览器中的一个异类：qutebrowser",
+      "summary": "对以键盘操作为优先的用户来说，一旦学会了如何退出 Vim，可能不消多久，便想在肉眼可见之处使用 Vim 的这套模态编辑。多年来，不少软件都内置了 Vim 风格的按键绑定，来迎合这类用户的肌肉记忆。其中，更有一些 ... 查看全文",
+      "url": "https://sspai.com/post/98931",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-04-26T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 82,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Cheech"
+    },
     {
       "id": "3f743e7bc20f1592",
       "title": "掌控专注力，你需要做的和没必要做的",
@@ -183,100 +236,48 @@
         "工具/网站",
         "效率"
       ],
-      "score": 88,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "知道分子吴先先"
     },
     {
-      "id": "35b9448fc52b0e9a",
-      "title": "本周看什么 | 最近值得一看的 11 部作品",
-      "summary": "📅本周新预告《泥面人》首支预告 4月23日，DC 新片《泥面人》发布了首支预告，将于 10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯、娜奥米·阿基、麦克思·明格拉等主演，一位 B 级片演员给自 ... 查看全文",
-      "url": "https://sspai.com/post/109050",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-24T10:17:33.000Z",
+      "id": "76a2c38b9ab9573a",
+      "title": "GPT-5.5 by OpenAI",
+      "titleZh": "OpenAI 的 GPT-5.5",
+      "summary": "OpenAI 迄今为止最智能、最直观的模型使用方式",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-25T03:54:05.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 60,
+      "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "少数派编辑部"
+      "author": "Rohan Chaubey"
     },
     {
-      "id": "964f81cb99d587fa",
-      "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
-      "summary": "一站式、在线测试屏幕的各项功能。查看全文",
-      "url": "https://sspai.com/post/108455",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-24T07:06:50.000Z",
+      "id": "2297802e897c519c",
+      "title": "Claude Connectors",
+      "titleZh": "Claude 连接器",
+      "summary": "Claude 全新连接器，适合日常生活",
+      "url": "https://www.producthunt.com/products/claude-connectors",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-04-25T04:15:20.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 57,
+      "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "码客旅人"
-    },
-    {
-      "id": "989ffb68abb0977f",
-      "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-      "summary": "4月24日-4月26日，新一届 2050 大会将在云栖小镇如期举行。期间，少数派将会组织《少数派的共创时代》社区交流活动，围绕 AI 降低创造门槛后，从想法到产品落地的真实路径展开讨论。以下是活动的详细信息：... 查看全文",
-      "url": "https://sspai.com/post/108202",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-24T03:25:15.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "老麦"
-    },
-    {
-      "id": "2f5009b9201ca88a",
-      "title": "手机和平板间的新品类：华为 Pura X Max 漫谈",
-      "summary": "折叠屏手机这两年并不太好过。按照 IDC 的年度报告，2025年中国折叠屏手机市场出货约 1001 万台，同比增速 9.2%，而 2024年这个数字还是 30.8%——一年之间，增速接近腰斩。而折叠屏手机在全球智能 ... 查看全文",
-      "url": "https://sspai.com/post/109024",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-24T01:54:28.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Microhoo"
-    },
-    {
-      "id": "e667cd2069aa7383",
-      "title": "派早报：OpenAI 发布 GPT-5.5 系列模型等",
-      "summary": "汉王发布 Clear7C 彩色墨水屏电纸书、文石发布 Leaf5+ 黑白墨水屏电纸书等。查看全文",
-      "url": "https://sspai.com/post/109032",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-24T00:52:21.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 58,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
+      "author": "Rohan Chaubey"
     }
   ],
   "sections": [
@@ -406,6 +407,25 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "8e24698c5a05db8a",
+          "title": "Our principles",
+          "titleZh": "我们的准则",
+          "summary": "我们的使命是确保 AGI 造福全人类。Sam Altman 分享了指导我们工作的五项原则。",
+          "url": "https://openai.com/index/our-principles",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-04-26T16:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "8cd0ed58c8370fa8",
           "title": "DeepSeek-V4: a million-token context that agents can actually use",
           "titleZh": "DeepSeek-V4：代理可以实际使用的百万代币上下文",
@@ -463,11 +483,11 @@
           "author": ""
         },
         {
-          "id": "1a177a4927e34774",
-          "title": "Top 10 uses for Codex at work",
-          "titleZh": "Codex 在工作中的十大用途",
-          "summary": "探索 10 个实用的 Codex 用例，以实现任务自动化、创建可交付成果，并将真实输入转化为跨工具、文件和工作流的输出。",
-          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "id": "4b6fa208132aa029",
+          "title": "How to get started with Codex",
+          "titleZh": "如何开始使用 Codex",
+          "summary": "通过逐步指导，了解如何通过设置项目、创建线程和完成第一个任务来开始使用 Codex。",
+          "url": "https://openai.com/academy/codex-how-to-start",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-23T10:00:00.000Z",
@@ -482,30 +502,11 @@
           "author": ""
         },
         {
-          "id": "1fce3202fe45959c",
-          "title": "Plugins and skills",
-          "titleZh": "插件和技能",
-          "summary": "了解如何使用 Codex 插件和技能连接工具、访问数据并遵循可重复的工作流程，以实现任务自动化并改进结果。",
-          "url": "https://openai.com/academy/codex-plugins-and-skills",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-04-23T10:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "537fc475d303ecc2",
-          "title": "Working with Codex",
-          "titleZh": "使用 Codex",
-          "summary": "了解如何在逐步指导下设置 Codex 工作区、创建线程和项目、管理文件并开始完成任务。",
-          "url": "https://openai.com/academy/working-with-codex",
+          "id": "fdc60cafb5879e3d",
+          "title": "What is Codex?",
+          "titleZh": "什么是法典？",
+          "summary": "了解 Codex 如何通过自动化任务、连接工具以及生成文档和仪表板等真实输出，帮助您超越聊天。",
+          "url": "https://openai.com/academy/what-is-codex",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
           "publishedAt": "2026-04-23T10:00:00.000Z",
@@ -527,116 +528,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "3067a7bf9925333e",
-          "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-          "titleZh": "Anthropic 为代理商创建了一个测试市场",
-          "summary": "在最近的一项实验中，Anthropic 创建了一个分类市场，在这个市场中，人工智能代理代表买家和卖家，为真实商品和真实市场达成真实交易。",
-          "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+          "id": "ac62f5ebd2fe3a3f",
+          "title": "Truecaller faces mounting pressures as its growth matures",
+          "titleZh": "随着其增长的成熟，Truecaller 面临着越来越大的压力",
+          "summary": "随着增长放缓，Truecaller 依靠订阅、商业服务和新功能来维持印度以外的发展势头。",
+          "url": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-25T21:43:37.000Z",
+          "publishedAt": "2026-04-27T03:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 103,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "48bcabc89705a839",
-          "title": "Maine’s governor vetoes data center moratorium",
-          "titleZh": "缅因州州长否决数据中心暂停",
-          "summary": "L.D. 307 将实施该国首个全州范围的新数据中心暂停令--在这种情况下，暂停令将持续到 2027年11月1日。",
-          "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+          "id": "9e592567d38a6ecf",
+          "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
+          "titleZh": "想要统治世界的斯坦福大学新生……可能会阅读这本书，并更加努力",
+          "summary": "这样的书真的能改变什么吗？还是像往常一样，聚光灯会把更多的学生送到那个地方？",
+          "url": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-25T20:57:08.000Z",
+          "publishedAt": "2026-04-26T22:00:46.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 95,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "8761af95907576b6",
-          "title": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
-          "titleZh": "🧠 社区智慧：优秀的产品领导者的不同之处，Claude vs. ChatGPT，在工作两周后收到硬反馈，加入 PMF 前创业公司的提示等",
-          "summary": "社区智慧 182",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
+          "id": "5935c16d029e5c24",
+          "title": "Amazon’s new podcast strategy: Monetize everything",
+          "titleZh": "亚马逊的新播客策略：将所有内容货币化",
+          "summary": "亚马逊的播客业务似乎在过去六个月里发生了变化。",
+          "url": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-04-26T21:38:08.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 93,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "5d3d133026602a90",
+          "title": "What Tim Cook built",
+          "titleZh": "蒂姆·库克（Tim Cook）",
+          "summary": "在最新一期的《Equity》中，我们讨论了自库克于 2011年担任首席执行官以来苹果的变化，以及即将上任的首席执行官约翰·特纳斯（John Ternus）将面临的挑战。",
+          "url": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-04-26T20:22:51.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "59c737733ddf19f5",
+          "title": "TechCrunch Mobility: Elon’s admission",
+          "titleZh": "TechCrunch Mobility：Elon 的录取",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您获取有关未来交通的新闻和见解的中心枢纽。",
+          "url": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-04-26T16:03:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "97a2a7e4bc626d8a",
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "titleZh": "Snapchat 首席执行官：为什么分销已成为最重要的护城河| Evan Spiegel",
+          "summary": "立即聆听| Snap 的联合创始人谈谈为什么 15年来只有两个消费类应用突破，Snapchat 的每一个主要功能是如何克隆的，为什么硬件是唯一真正的护城河……",
+          "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-04-25T19:51:00.000Z",
+          "publishedAt": "2026-04-26T12:31:49.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 89,
+          "score": 82,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "0624ff0b3241a61c",
-          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-          "titleZh": "OpenAI 首席执行官向 Tumbler Ridge 社区道歉",
-          "summary": "在给加拿大 Tumbler Ridge 居民的一封信中，OpenAI 首席执行官 Sam Altman 表示，他“深感遗憾”，他的公司未能向执法部门通报悬案……",
-          "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-25T17:17:56.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 90,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "08f1b8e9c4fe9cba",
-          "title": "The climate tech IPO window could finally be cracking open",
-          "titleZh": "气候科技 IPO 窗口终于可以打开了",
-          "summary": "核能初创公司 X-energy 上市，地热初创公司 Fervo 即将上市。这可能是气候技术投资者一直在等待的时刻吗？",
-          "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-25T16:33:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 88,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "4b5a4db7bafca07e",
-          "title": "Why Cohere is merging with Aleph Alpha",
-          "titleZh": "Cohere 为何与 Aleph Alpha 合并",
-          "summary": "加拿大人工智能初创公司 Cohere 将在 Lidl 的所有者 Schwarz Group 的支持下收购总部位于德国的 Aleph Alpha。在他们政府的祝福下，这位同伴……",
-          "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-04-25T16:00:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 88,
-          "sourceType": "rss",
-          "cover": "",
+          "cover": "https://api.substack.com/feed/podcast/194544019/6bbbbe2dd22da90f7f4c93ba900884b9.mp3",
           "author": ""
         }
       ]
@@ -660,7 +661,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 63,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -768,106 +769,50 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "86453daede780f6e",
-          "title": "还得是 Claude",
-          "summary": "我之前并不是 claude 的忠粉，用过一个月 pro，也同时订阅 gpt plus，glm pro，因为 cc 价格高，之后一直在国产 glm5.1 为主力，实话实说日常大部分线性开发都没大问题，最近在给一个 app 的（ios 相机类）修美颜功能的 bug，给了给多参考文章，codex5.5 最高思考，glm5.1 都…",
-          "url": "https://www.v2ex.com/t/1208589#reply1",
+          "id": "09a8fc6eef1403af",
+          "title": "claude 安排了 6 个子 agent 干活，开始研究新东西",
+          "summary": "5 个子 opus 4.7 high agent 写产品功能，一个 QA 4.7high 做测试 等待中，似乎没啥事干了……20X 周额度到 85%了…… 准备研究一下 opencode+OMO，有没有 V 友玩过这个，干活质量如何？多 agent 多角色架构实用性高吗？",
+          "url": "https://www.v2ex.com/t/1208790#reply2",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-26T04:26:28.000Z",
+          "publishedAt": "2026-04-27T04:50:25.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 114,
           "sourceType": "rss",
-          "cover": "",
-          "author": "onedge"
+          "cover": "https://i.imgur.com/iqA3MFc.png",
+          "author": "reitao"
         },
         {
-          "id": "6c4e939970e9c53e",
-          "title": "EU Age Control: The trojan horse for digital IDs",
-          "titleZh": "欧盟年龄控制：数字身份证件的特洛伊木马",
-          "summary": "https://web.archive.org/web/20260426040218/https://juraj.bed...",
-          "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-26T03:44:28.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 113,
-          "sourceType": "api"
-        },
-        {
-          "id": "91e687f245005f3d",
-          "title": "chatgpt 充值 5x pro 前已经订阅了 plus，那 plus 的 20 刀就没了吗",
-          "summary": "我在升级 ChatGPT 5x Pro 前，已经通过 iOS/App Store 订阅了 ChatGPT Plus （扣款 $20）。因为 iOS 端没有看到可以直接订阅 ChatGPT 5x Pro 的入口，所以我先订阅了 Plus。随后我又升级到了 ChatGPT 5x Pro （扣款 $100）。我想确认：我看到之…",
-          "url": "https://www.v2ex.com/t/1208581#reply8",
+          "id": "9480a89882a4971c",
+          "title": "有国外的实体银行卡，但账单地址是中国的，如何订阅 Claude？",
+          "summary": "银行卡是 Velo，我的梯子是日本的，就按照 IP 填了日本的地址，但付款失败。查了一下好像它会验证银行卡的账单地址。这好像就无解了，银行卡账单地址是中国的，而选项里没办法选中国",
+          "url": "https://www.v2ex.com/t/1208793#reply4",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-26T03:06:54.000Z",
+          "publishedAt": "2026-04-27T04:52:47.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "keep1234"
-        },
-        {
-          "id": "fe94c74f44e49fcf",
-          "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-          "titleZh": "告诉 HN：一个应用程序每天都在我的 iPhone 上静默安装",
-          "summary": "在过去的 3天里，每天大约美国东部时间下午 1 点左右，“Headspace”应用程序一直在我的 iPhone （13 Pro）上无声地出现。自动下载已关闭，我已更新…",
-          "url": "https://news.ycombinator.com/item?id=47906253",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-26T00:50:56.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
           ],
           "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "e0e11ef08ea0f31b",
-          "title": "各位推荐一个 32G Macbook air M5 可以跑的 moe 模型",
-          "summary": "27B/31B 甚至 35B 的 4bit 都可以, 测试了好久, 也下载了几十个了,都不太行, 感觉降智了, 这些刚出来的时候我这个配置能跑到 35tokens/s. 准备直接抄作业, 请给 huggingface 连接, 我的本地推理框架是 omlx, 感谢感谢.",
-          "url": "https://www.v2ex.com/t/1208567#reply10",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-04-26T00:16:06.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 107,
           "sourceType": "rss",
           "cover": "",
-          "author": "Hermitist"
+          "author": "fancy2020"
         },
         {
-          "id": "4cd11d6f4e8b2a2f",
-          "title": "Why has there been so little progress on Alzheimer's disease?",
-          "titleZh": "为什么阿尔茨海默病的进展如此之小？",
-          "summary": "Hacker News 热帖，当前积分 141，评论 66。",
-          "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+          "id": "07be1cb6fcc35c35",
+          "title": "The Prompt API",
+          "titleZh": "Prompt API",
+          "summary": "Hacker News 热帖，当前积分 48，评论 28。",
+          "url": "https://developer.chrome.com/docs/ai/prompt-api",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-04-26T00:12:47.000Z",
+          "publishedAt": "2026-04-27T02:18:58.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -875,8 +820,64 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 106,
+          "score": 109,
           "sourceType": "api"
+        },
+        {
+          "id": "82aab75f10bf0699",
+          "title": "TurboQuant: A First-Principles Walkthrough",
+          "titleZh": "TurboQuant：第一原理演练",
+          "summary": "Hacker News 热帖，当前积分 60，评论 8。",
+          "url": "https://arkaung.github.io/interactive-turboquant/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-04-27T01:54:32.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
+          "sourceType": "api"
+        },
+        {
+          "id": "10a88799151698c1",
+          "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+          "titleZh": "EvanFlow – Claude Code 的 TDD 驱动反馈循环",
+          "summary": "Hacker News 热帖，当前积分 41，评论 11。",
+          "url": "https://github.com/evanklem/evanflow",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-04-27T01:56:39.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
+          "sourceType": "api"
+        },
+        {
+          "id": "836e712a7f5d307e",
+          "title": "我公司真的有古法编程程序员",
+          "summary": "我建议他用 AI 他说习惯了 AI 也有搞不定的时候 我暗中观察确认他真的在古法编程 而且还是全栈！",
+          "url": "https://www.v2ex.com/t/1208753#reply79",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-04-27T02:50:57.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "mightofcode"
         }
       ]
     }
@@ -887,7 +888,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 85,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -902,15 +903,15 @@
       "count": 19
     },
     {
+      "tag": "工具/网站",
+      "count": 12
+    },
+    {
       "tag": "设计/UI",
       "count": 12
     },
     {
       "tag": "产品/商业",
-      "count": 10
-    },
-    {
-      "tag": "工具/网站",
       "count": 10
     },
     {
@@ -930,15 +931,19 @@
       "count": 6
     },
     {
+      "tag": "模型产品",
+      "count": 6
+    },
+    {
+      "tag": "新产品",
+      "count": 6
+    },
+    {
       "tag": "交互设计",
       "count": 6
     },
     {
       "tag": "开源模型",
-      "count": 6
-    },
-    {
-      "tag": "模型产品",
       "count": 6
     },
     {
@@ -948,10 +953,6 @@
     {
       "tag": "开发平台",
       "count": 5
-    },
-    {
-      "tag": "新产品",
-      "count": 4
     },
     {
       "tag": "技术周刊",
