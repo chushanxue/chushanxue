@@ -1,126 +1,87 @@
 {
-  "generatedAt": "2026-05-02T04:57:13.151Z",
+  "generatedAt": "2026-05-03T05:28:57.091Z",
   "headline": {
-    "id": "36920a78111a60b2",
-    "title": "CollectWise (YC F24) Is Hiring",
-    "titleZh": "CollectWise (YC F24)正在招聘",
-    "summary": "Hacker News 热帖，当前积分 1，评论 0。",
-    "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "publishedAt": "2026-05-02T04:43:20.000Z",
-    "category": "industry",
+    "id": "8d6faf40ca921218",
+    "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
+    "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+    "url": "https://sspai.com/post/100006",
+    "source": "少数派",
+    "sourceUrl": "https://sspai.com/",
+    "publishedAt": "2026-05-03T04:19:32.000Z",
+    "category": "tools",
     "tags": [
-      "行业热点",
-      "工程效率",
-      "Hacker News",
-      "招聘"
+      "工具/网站",
+      "效率"
     ],
-    "score": 113,
-    "sourceType": "api"
+    "score": 116,
+    "sourceType": "rss",
+    "cover": "",
+    "author": "桌沿奇思"
   },
   "latest": [
     {
-      "id": "36920a78111a60b2",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "titleZh": "CollectWise (YC F24)正在招聘",
-      "summary": "Hacker News 热帖，当前积分 1，评论 0。",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-02T04:43:20.000Z",
-      "category": "industry",
+      "id": "8d6faf40ca921218",
+      "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/100006",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-03T04:19:32.000Z",
+      "category": "tools",
       "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "招聘"
+        "工具/网站",
+        "效率"
       ],
-      "score": 113,
-      "sourceType": "api"
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "桌沿奇思"
     },
     {
-      "id": "8d153cf1597f431c",
-      "title": "Codex 每个会话里的 Context 满了，自动压缩总是过不去",
-      "summary": "提示 Error running remote compact task: stream disconnected before completion: error sending request for url ( https://chatgpt.com/backend-api/codex/responses/compact )…",
-      "url": "https://www.v2ex.com/t/1209947#reply8",
+      "id": "cf1577ededd0517b",
+      "title": "个人项目找 golang 长期兼职",
+      "summary": "之前站上找了运维，现在稳定合作中 项目是量化机器人 懂钱包策略交易的最好",
+      "url": "https://www.v2ex.com/t/1210076#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-02T03:23:51.000Z",
+      "publishedAt": "2026-05-03T05:12:27.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 113,
+      "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "orcx"
+      "author": "holyfinger"
     },
     {
-      "id": "fd64d40b59e6b828",
-      "title": "Ask.com has closed",
-      "titleZh": "Ask.com 已关闭",
-      "summary": "Hacker News 热帖，当前积分 74，评论 35。",
-      "url": "https://www.ask.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-02T04:12:35.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "4e59b5ae62babdc9",
-      "title": "Codex 5x 5 小时额度大概能用多少 Token 呢？想对比一下中转站和官方订阅",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1209955#reply4",
+      "id": "6c3c4c94ab60d09e",
+      "title": "升级到 fedora 44 后在 konsole 里打字时 cpu 占用很高的问题有 v 友也遇到了吗？",
+      "summary": "fedora 42 在 konsole 打字时 konsole 进程的 cpu 占用是正常的，在按着按键不松的情况下连续输入同一个字符 konsole 进程的 cpu 占用只有百分之十几，升级到 fedora 44 后就变成将近百分之百了，我用 perf record 分析了一下 cpu 占用高的原因，结果如下：Samples:…",
+      "url": "https://www.v2ex.com/t/1210067#reply5",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-02T04:13:47.000Z",
+      "publishedAt": "2026-05-03T04:04:58.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 109,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "unianx"
+      "author": "wniming"
     },
     {
-      "id": "d2d16777b93e2e29",
-      "title": "cc 用 mimo2.5pro 和 deepseekv4pro 哪个好一点呀，用得快嘛",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1209956#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-02T04:19:50.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "207524zyD"
-    },
-    {
-      "id": "eaf64f5a10ea4e38",
-      "title": "Job Postings for Software Engineers Are Rapidly Rising",
-      "titleZh": "软件工程师的职位空缺正在迅速增加",
-      "summary": "Hacker News 热帖，当前积分 47，评论 11。",
-      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "id": "e3bda1ae4bb453b8",
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "titleZh": "Kimi K2.6 刚刚在编码挑战赛中击败了 Claude、GPT-5.5 和 Gemini",
+      "summary": "Hacker News 热帖，当前积分 90，评论 35。",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-02T01:46:24.000Z",
+      "publishedAt": "2026-05-03T04:05:28.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -128,47 +89,104 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 109,
+      "score": 111,
       "sourceType": "api"
     },
     {
-      "id": "eca3e6cee8bea669",
-      "title": "5.5 codex 模型是不是更耗流量了......",
-      "summary": "我感覺燒的比 5.4 更快，但是我的提升不是很明顯，你們感覺呢。",
-      "url": "https://www.v2ex.com/t/1209935#reply16",
+      "id": "affe55e6d77f5a44",
+      "title": "我是如何用 Codex-cli 蹬 XIAOMI-MIMO 的",
+      "summary": "TLDR; 5 句内讲完。1，官网的教程太旧了，https://platform.xiaomimimo.com/docs/en-US/integration/codex，给 @openai/codex@0.80.0，这个用户体验一般。2，介绍一下，我自己用 0.116.0 版本，因为我一堆 MCP 手手脚脚。code…",
+      "url": "https://www.v2ex.com/t/1210054#reply5",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-02T01:50:08.000Z",
+      "publishedAt": "2026-05-03T02:10:05.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 106,
+      "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "joye1230"
+      "author": "enrolls"
     },
     {
-      "id": "4a66ef732b0981ea",
-      "title": "glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？",
-      "summary": "真的假的？",
-      "url": "https://www.v2ex.com/t/1209926#reply13",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-01T23:38:05.000Z",
+      "id": "af7f74b8ea7188a9",
+      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "titleZh": "秘密网络将 Starlink 技术走私到伊朗，以打击互联网停电",
+      "summary": "Hacker News 热帖，当前积分 110，评论 45。",
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-03T01:22:41.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发者社区"
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 102,
+      "score": 107,
+      "sourceType": "api"
+    },
+    {
+      "id": "d37766565dd48910",
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "titleZh": "几百万条 Haskell 生产线：Mercury 的生产工程",
+      "summary": "Hacker News 热帖，当前积分 120，评论 43。",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-03T00:01:14.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 105,
+      "sourceType": "api"
+    },
+    {
+      "id": "a95133b9db07e659",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "titleZh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
+      "summary": "对 Tilly Norwood 来说是个坏消息。",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-02T21:54:58.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 92,
       "sourceType": "rss",
-      "cover": "https://i.v2ex.co/7ksTRf68.png",
-      "author": "malagebidi"
+      "cover": "",
+      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "8d6faf40ca921218",
+      "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/100006",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-03T04:19:32.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "桌沿奇思"
+    },
     {
       "id": "92c07422cf46b436",
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -182,29 +200,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 86,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "36b2389fc3829e4a",
-      "title": "PeekFocus",
-      "titleZh": "PeekFocus",
-      "summary": "一键模糊活动窗口后面的所有内容",
-      "url": "https://www.producthunt.com/products/peekfocus",
+      "id": "677d1488507509e2",
+      "title": "Cloud Computer by Manus",
+      "titleZh": "Manus 的云计算机",
+      "summary": "用于机器人和软件的专用云机器",
+      "url": "https://www.producthunt.com/products/manus",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-01T04:57:56.000Z",
+      "publishedAt": "2026-04-30T15:50:18.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 75,
+      "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "Sulochanal Chellian"
+      "author": "Aleksandar Blazhev"
     },
     {
       "id": "ab30edd7027f0943",
@@ -259,24 +277,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "知道分子吴先先"
-    },
-    {
-      "id": "6915a17f1a315af6",
-      "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
-      "summary": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。查看全文",
-      "url": "https://sspai.com/post/109235",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-04-30T01:16:28.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 58,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -299,7 +299,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 100,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -318,7 +318,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 89,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
           "author": "hello@smashingmagazine.com (Joas Pambou)"
@@ -528,116 +528,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "10f6e81a59a73e84",
-          "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-          "titleZh": "复制 Amjad Masad 的 Cursor 交易，与 Apple 对抗，以及他为什么宁愿不卖",
-          "summary": "在周四晚上在旧金山举行的 TechCrunch 售罄的 StrictlyVC 活动中，我们在很短的时间内涵盖了很多领域，首先是每个人都在...",
-          "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+          "id": "a95133b9db07e659",
+          "title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "titleZh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
+          "summary": "对 Tilly Norwood 来说是个坏消息。",
+          "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-01T23:06:50.000Z",
+          "publishedAt": "2026-05-02T21:54:58.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "f885065ae02051c6",
-          "title": "Musely secures $360M from General Catalyst without giving up equity",
-          "titleZh": "在不放弃股权的情况下，稳步从 General Catalyst 获得 3.6亿美元 $",
-          "summary": "DTC 皮肤、头发和更年期护理品牌将使用非稀释性资本来超额收购客户。",
-          "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+          "id": "85ca2111ff63992b",
+          "title": "Farewell, Jeeves: Ask.com shuts down",
+          "titleZh": "再见，Jeeves：Ask.com 关闭",
+          "summary": "业主 IAC 表示，它将停止其搜索业务。",
+          "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-01T22:39:05.000Z",
+          "publishedAt": "2026-05-02T21:11:28.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 91,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "77c2beb02c4fc52b",
-          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-          "titleZh": "Meta 收购机器人初创公司，以加强其人形 AI 野心",
-          "summary": "该公司表示，Meta 收购了人形初创公司 Assured Robot Intelligence，以加强其针对机器人的人工智能模型。",
-          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+          "id": "9bbf7ad450559082",
+          "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+          "titleZh": "Netflix 推迟了 Greta Gerwig 的“纳尼亚”电影，以便在 2027年大放异彩",
+          "summary": "《魔术师的外甥》看起来是 Netflix 与电影院解冻关系的重要一步。",
+          "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-01T22:13:27.000Z",
+          "publishedAt": "2026-05-02T17:05:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 87,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "008338036023f400",
-          "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-          "titleZh": "Coatue 计划为数据中心购买土地，可能为 Anthropic",
-          "summary": "Coatue 是风险投资界最大的品牌之一，据报道，该公司正在购买大型电源附近的土地。",
-          "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-01T18:23:04.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 90,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "dbe5f8d6135c4bb0",
-          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-          "titleZh": "五角大楼与英伟达、微软和 AWS 达成协议，在机密网络上部署人工智能",
-          "summary": "这些交易是在国防部与 Anthropic 就其 A……的使用条款发生争议后，将其与人工智能供应商的敞口多样化加倍之际达成的。",
-          "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-01T16:02:36.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 88,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "083be769f4841dc4",
-          "title": "Your Couch-to-5K for AI",
-          "titleZh": "适用于 AI 的沙发到 5000",
-          "summary": "建立坚持不懈的人工智能习惯的分步指南",
-          "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
+          "id": "53b4bc21223390a2",
+          "title": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
+          "titleZh": "🧠 社区智慧：针对多动症用户的 Claude Code 提示、管理资源、从公司到初创公司、厌倦成为公司的人工智能布道者等",
+          "summary": "社区智慧 184",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-04-28T15:31:24.000Z",
+          "publishedAt": "2026-05-02T18:02:57.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 47,
+          "score": 85,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!dU7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5169166-0761-408f-83da-a55070a2c78d_1456x970.png",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "6f6672bd18fe8aaa",
+          "title": "The best AI dictation apps, tested and ranked",
+          "titleZh": "经过测试和排名的最佳人工智能听写应用程序",
+          "summary": "人工智能驱动的听写应用程序用于回复电子邮件、做笔记，甚至通过语音进行编码",
+          "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-02T16:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "1694b7de070c9997",
+          "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+          "titleZh": "Beyond Lovable 和 Mistral：值得关注的 21 家欧洲初创公司",
+          "summary": "这并不是说欧洲初创公司从未受到关注--Lovable 和 Mistral AI 就是证明。但业内人士正在追踪的更多信息。",
+          "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-02T14:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -647,6 +647,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "c00f39d350433c28",
+          "title": "Can AI make your dating life better?",
+          "titleZh": "人工智能能让你的约会生活更美好吗？",
+          "summary": "",
+          "url": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-02T13:56:18.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "460dd8b261806d1f",
           "title": "Usability, accessibility, and the human-AI paradigm",
@@ -661,7 +680,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 84,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -680,7 +699,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 84,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -699,7 +718,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1974/1*AtXaI85VlaJttF6KBveZnw.png",
           "author": ""
@@ -741,25 +760,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "6468c43b0efac17b",
-          "title": "The interface that responds",
-          "titleZh": "响应的接口",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-most-dangerous-pronoun-in-design-a9fc721a685a?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-04-28T21:59:10.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -769,106 +769,50 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "36920a78111a60b2",
-          "title": "CollectWise (YC F24) Is Hiring",
-          "titleZh": "CollectWise (YC F24)正在招聘",
-          "summary": "Hacker News 热帖，当前积分 1，评论 0。",
-          "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-02T04:43:20.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "招聘"
-          ],
-          "score": 113,
-          "sourceType": "api"
-        },
-        {
-          "id": "8d153cf1597f431c",
-          "title": "Codex 每个会话里的 Context 满了，自动压缩总是过不去",
-          "summary": "提示 Error running remote compact task: stream disconnected before completion: error sending request for url ( https://chatgpt.com/backend-api/codex/responses/compact )…",
-          "url": "https://www.v2ex.com/t/1209947#reply8",
+          "id": "cf1577ededd0517b",
+          "title": "个人项目找 golang 长期兼职",
+          "summary": "之前站上找了运维，现在稳定合作中 项目是量化机器人 懂钱包策略交易的最好",
+          "url": "https://www.v2ex.com/t/1210076#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-02T03:23:51.000Z",
+          "publishedAt": "2026-05-03T05:12:27.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 113,
+          "score": 111,
           "sourceType": "rss",
           "cover": "",
-          "author": "orcx"
+          "author": "holyfinger"
         },
         {
-          "id": "fd64d40b59e6b828",
-          "title": "Ask.com has closed",
-          "titleZh": "Ask.com 已关闭",
-          "summary": "Hacker News 热帖，当前积分 74，评论 35。",
-          "url": "https://www.ask.com/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-02T04:12:35.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "4e59b5ae62babdc9",
-          "title": "Codex 5x 5 小时额度大概能用多少 Token 呢？想对比一下中转站和官方订阅",
-          "summary": "",
-          "url": "https://www.v2ex.com/t/1209955#reply4",
+          "id": "6c3c4c94ab60d09e",
+          "title": "升级到 fedora 44 后在 konsole 里打字时 cpu 占用很高的问题有 v 友也遇到了吗？",
+          "summary": "fedora 42 在 konsole 打字时 konsole 进程的 cpu 占用是正常的，在按着按键不松的情况下连续输入同一个字符 konsole 进程的 cpu 占用只有百分之十几，升级到 fedora 44 后就变成将近百分之百了，我用 perf record 分析了一下 cpu 占用高的原因，结果如下：Samples:…",
+          "url": "https://www.v2ex.com/t/1210067#reply5",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-02T04:13:47.000Z",
+          "publishedAt": "2026-05-03T04:04:58.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 109,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "unianx"
+          "author": "wniming"
         },
         {
-          "id": "d2d16777b93e2e29",
-          "title": "cc 用 mimo2.5pro 和 deepseekv4pro 哪个好一点呀，用得快嘛",
-          "summary": "",
-          "url": "https://www.v2ex.com/t/1209956#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-02T04:19:50.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 109,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "207524zyD"
-        },
-        {
-          "id": "eaf64f5a10ea4e38",
-          "title": "Job Postings for Software Engineers Are Rapidly Rising",
-          "titleZh": "软件工程师的职位空缺正在迅速增加",
-          "summary": "Hacker News 热帖，当前积分 47，评论 11。",
-          "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+          "id": "e3bda1ae4bb453b8",
+          "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+          "titleZh": "Kimi K2.6 刚刚在编码挑战赛中击败了 Claude、GPT-5.5 和 Gemini",
+          "summary": "Hacker News 热帖，当前积分 90，评论 35。",
+          "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-02T01:46:24.000Z",
+          "publishedAt": "2026-05-03T04:05:28.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -876,7 +820,63 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "affe55e6d77f5a44",
+          "title": "我是如何用 Codex-cli 蹬 XIAOMI-MIMO 的",
+          "summary": "TLDR; 5 句内讲完。1，官网的教程太旧了，https://platform.xiaomimimo.com/docs/en-US/integration/codex，给 @openai/codex@0.80.0，这个用户体验一般。2，介绍一下，我自己用 0.116.0 版本，因为我一堆 MCP 手手脚脚。code…",
+          "url": "https://www.v2ex.com/t/1210054#reply5",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-03T02:10:05.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "enrolls"
+        },
+        {
+          "id": "af7f74b8ea7188a9",
+          "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+          "titleZh": "秘密网络将 Starlink 技术走私到伊朗，以打击互联网停电",
+          "summary": "Hacker News 热帖，当前积分 110，评论 45。",
+          "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-03T01:22:41.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 107,
+          "sourceType": "api"
+        },
+        {
+          "id": "d37766565dd48910",
+          "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+          "titleZh": "几百万条 Haskell 生产线：Mercury 的生产工程",
+          "summary": "Hacker News 热帖，当前积分 120，评论 43。",
+          "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-03T00:01:14.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 105,
           "sourceType": "api"
         }
       ]
@@ -888,7 +888,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 81,
+    "totalItems": 80,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -900,7 +900,7 @@
     },
     {
       "tag": "行业热点",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "设计/UI",
@@ -911,16 +911,20 @@
       "count": 10
     },
     {
-      "tag": "工程效率",
-      "count": 8
-    },
-    {
       "tag": "工具/网站",
       "count": 8
     },
     {
+      "tag": "工程效率",
+      "count": 7
+    },
+    {
       "tag": "讨论",
       "count": 7
+    },
+    {
+      "tag": "效率",
+      "count": 6
     },
     {
       "tag": "开发者社区",
@@ -928,10 +932,6 @@
     },
     {
       "tag": "交互设计",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
