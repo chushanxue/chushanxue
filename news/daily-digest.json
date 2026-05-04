@@ -1,87 +1,34 @@
 {
-  "generatedAt": "2026-05-03T05:28:57.091Z",
+  "generatedAt": "2026-05-04T05:32:29.652Z",
   "headline": {
-    "id": "8d6faf40ca921218",
-    "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
-    "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-    "url": "https://sspai.com/post/100006",
-    "source": "少数派",
-    "sourceUrl": "https://sspai.com/",
-    "publishedAt": "2026-05-03T04:19:32.000Z",
-    "category": "tools",
+    "id": "04d8f1f0ddacb88c",
+    "title": "Humanoid Robot Actuators: The Complete Engineering Guide",
+    "titleZh": "人形机器人执行器：完整的工程指南",
+    "summary": "Hacker News 热帖，当前积分 26，评论 1。",
+    "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "publishedAt": "2026-05-04T03:42:09.000Z",
+    "category": "industry",
     "tags": [
-      "工具/网站",
-      "效率"
+      "行业热点",
+      "工程效率",
+      "Hacker News",
+      "讨论"
     ],
-    "score": 116,
-    "sourceType": "rss",
-    "cover": "",
-    "author": "桌沿奇思"
+    "score": 111,
+    "sourceType": "api"
   },
   "latest": [
     {
-      "id": "8d6faf40ca921218",
-      "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/100006",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-03T04:19:32.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 116,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "桌沿奇思"
-    },
-    {
-      "id": "cf1577ededd0517b",
-      "title": "个人项目找 golang 长期兼职",
-      "summary": "之前站上找了运维，现在稳定合作中 项目是量化机器人 懂钱包策略交易的最好",
-      "url": "https://www.v2ex.com/t/1210076#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-03T05:12:27.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "holyfinger"
-    },
-    {
-      "id": "6c3c4c94ab60d09e",
-      "title": "升级到 fedora 44 后在 konsole 里打字时 cpu 占用很高的问题有 v 友也遇到了吗？",
-      "summary": "fedora 42 在 konsole 打字时 konsole 进程的 cpu 占用是正常的，在按着按键不松的情况下连续输入同一个字符 konsole 进程的 cpu 占用只有百分之十几，升级到 fedora 44 后就变成将近百分之百了，我用 perf record 分析了一下 cpu 占用高的原因，结果如下：Samples:…",
-      "url": "https://www.v2ex.com/t/1210067#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-03T04:04:58.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "wniming"
-    },
-    {
-      "id": "e3bda1ae4bb453b8",
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "titleZh": "Kimi K2.6 刚刚在编码挑战赛中击败了 Claude、GPT-5.5 和 Gemini",
-      "summary": "Hacker News 热帖，当前积分 90，评论 35。",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "id": "04d8f1f0ddacb88c",
+      "title": "Humanoid Robot Actuators: The Complete Engineering Guide",
+      "titleZh": "人形机器人执行器：完整的工程指南",
+      "summary": "Hacker News 热帖，当前积分 26，评论 1。",
+      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-03T04:05:28.000Z",
+      "publishedAt": "2026-05-04T03:42:09.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -93,70 +40,71 @@
       "sourceType": "api"
     },
     {
-      "id": "affe55e6d77f5a44",
-      "title": "我是如何用 Codex-cli 蹬 XIAOMI-MIMO 的",
-      "summary": "TLDR; 5 句内讲完。1，官网的教程太旧了，https://platform.xiaomimimo.com/docs/en-US/integration/codex，给 @openai/codex@0.80.0，这个用户体验一般。2，介绍一下，我自己用 0.116.0 版本，因为我一堆 MCP 手手脚脚。code…",
-      "url": "https://www.v2ex.com/t/1210054#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-03T02:10:05.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "enrolls"
-    },
-    {
-      "id": "af7f74b8ea7188a9",
-      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "titleZh": "秘密网络将 Starlink 技术走私到伊朗，以打击互联网停电",
-      "summary": "Hacker News 热帖，当前积分 110，评论 45。",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-03T01:22:41.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 107,
-      "sourceType": "api"
-    },
-    {
-      "id": "d37766565dd48910",
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "titleZh": "几百万条 Haskell 生产线：Mercury 的生产工程",
-      "summary": "Hacker News 热帖，当前积分 120，评论 43。",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-03T00:01:14.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 105,
-      "sourceType": "api"
-    },
-    {
-      "id": "a95133b9db07e659",
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "titleZh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "summary": "对 Tilly Norwood 来说是个坏消息。",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "id": "cbd1260cdb4b6c99",
+      "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+      "titleZh": "我们接受：TikToker 在周末突然崩溃后集会承诺收购 Spirit Airlines",
+      "summary": "几小时之内，他就建立了一个网站--一个笨拙的一小时工作，他自己也承认了这一点--到周日，36,000 名“创始顾客”认捐了近 2300 万美元，崩溃了……",
+      "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-02T21:54:58.000Z",
+      "publishedAt": "2026-05-04T02:02:25.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 103,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "90287a7c6726393a",
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "titleZh": "伟大抽象的“隐藏”成本",
+      "summary": "Hacker News 热帖，当前积分 115，评论 28。",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-03T23:12:02.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 104,
+      "sourceType": "api"
+    },
+    {
+      "id": "c1e1797695d18c55",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "titleZh": "DeepClaude –使用 DeepSeek V4 Pro 的 Claude Code 代理循环，便宜 17 倍",
+      "summary": "Hacker News 热帖，当前积分 290，评论 116。",
+      "url": "https://github.com/aattaran/deepclaude",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-03T22:13:20.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 102,
+      "sourceType": "api"
+    },
+    {
+      "id": "88b5c494bfcc10c4",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "titleZh": "“这很好”的创作者说，人工智能初创公司偷了他的艺术品",
+      "summary": "这则广告来自广告牌背后的人工智能初创公司 Artisan，该公司敦促企业“停止雇用人类”。",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-03T20:16:51.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
@@ -166,6 +114,62 @@
       "sourceType": "rss",
       "cover": "",
       "author": ""
+    },
+    {
+      "id": "74ecd573012b1ae4",
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "titleZh": "BYOMesh –新的 LoRa 网状无线电提供 100 倍的带宽",
+      "summary": "Hacker News 热帖，当前积分 324，评论 105。",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-03T18:03:14.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 95,
+      "sourceType": "api"
+    },
+    {
+      "id": "ddb118f78b4d8fe6",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "titleZh": "在哈佛大学的研究中，人工智能提供的急诊室诊断比两名人类医生更准确",
+      "summary": "一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室病例—其中至少有一个模型似乎是……",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-03T18:00:09.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 90,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "df84f03c9283b0c4",
+      "title": "DGX Spark、ASUS GX10、MSI EdgeXpert 看起来都像是一个母胎的产品，用起来有差别吗？",
+      "summary": "Spark 最贵，和后两者价钱有点儿区别，不过看起来都像是同一个方案，只是公版和各家自己牌子的区别而已？Spark 自带开箱即用的工具集，会有老黄家在 Spark 上才能用的工具吗？用线对联 Spark 也能和另外两个机型，扩展使用 LLM？三者有什么产品硬件上的差异区别？",
+      "url": "https://www.v2ex.com/t/1210145#reply5",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-03T15:15:04.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 92,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "SzgSw5zGyN1iy"
     }
   ],
   "featuredTools": [
@@ -182,7 +186,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 116,
+      "score": 77,
       "sourceType": "rss",
       "cover": "",
       "author": "桌沿奇思"
@@ -206,14 +210,14 @@
       "author": "少数派编辑部"
     },
     {
-      "id": "677d1488507509e2",
-      "title": "Cloud Computer by Manus",
-      "titleZh": "Manus 的云计算机",
-      "summary": "用于机器人和软件的专用云机器",
-      "url": "https://www.producthunt.com/products/manus",
+      "id": "2cd9bd007c9107a2",
+      "title": "Aximote In-Car App",
+      "titleZh": "Aximote 车载应用",
+      "summary": "适用于您车辆的健身追踪器",
+      "url": "https://www.producthunt.com/products/aximote-in-car-app",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-04-30T15:50:18.000Z",
+      "publishedAt": "2026-04-30T14:04:40.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -222,7 +226,7 @@
       "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "Aleksandar Blazhev"
+      "author": "Laurenz Hinterholzer"
     },
     {
       "id": "ab30edd7027f0943",
@@ -528,14 +532,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "a95133b9db07e659",
-          "title": "AI-generated actors and scripts are now ineligible for Oscars",
-          "titleZh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-          "summary": "对 Tilly Norwood 来说是个坏消息。",
-          "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+          "id": "cbd1260cdb4b6c99",
+          "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+          "titleZh": "我们接受：TikToker 在周末突然崩溃后集会承诺收购 Spirit Airlines",
+          "summary": "几小时之内，他就建立了一个网站--一个笨拙的一小时工作，他自己也承认了这一点--到周日，36,000 名“创始顾客”认捐了近 2300 万美元，崩溃了……",
+          "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-02T21:54:58.000Z",
+          "publishedAt": "2026-05-04T02:02:25.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "88b5c494bfcc10c4",
+          "title": "‘This is fine’ creator says AI startup stole his art",
+          "titleZh": "“这很好”的创作者说，人工智能初创公司偷了他的艺术品",
+          "summary": "这则广告来自广告牌背后的人工智能初创公司 Artisan，该公司敦促企业“停止雇用人类”。",
+          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-03T20:16:51.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -547,95 +570,76 @@
           "author": ""
         },
         {
-          "id": "85ca2111ff63992b",
-          "title": "Farewell, Jeeves: Ask.com shuts down",
-          "titleZh": "再见，Jeeves：Ask.com 关闭",
-          "summary": "业主 IAC 表示，它将停止其搜索业务。",
-          "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+          "id": "ddb118f78b4d8fe6",
+          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+          "titleZh": "在哈佛大学的研究中，人工智能提供的急诊室诊断比两名人类医生更准确",
+          "summary": "一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室病例—其中至少有一个模型似乎是……",
+          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-02T21:11:28.000Z",
+          "publishedAt": "2026-05-03T18:00:09.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 91,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "9bbf7ad450559082",
-          "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-          "titleZh": "Netflix 推迟了 Greta Gerwig 的“纳尼亚”电影，以便在 2027年大放异彩",
-          "summary": "《魔术师的外甥》看起来是 Netflix 与电影院解冻关系的重要一步。",
-          "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+          "id": "0044dc777f5f3170",
+          "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+          "titleZh": "TechCrunch Mobility：如何向机器人出租车开票？",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您获取有关未来交通的新闻和见解的中心枢纽。",
+          "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-02T17:05:41.000Z",
+          "publishedAt": "2026-05-03T16:05:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 87,
+          "score": 85,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "53b4bc21223390a2",
-          "title": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
-          "titleZh": "🧠 社区智慧：针对多动症用户的 Claude Code 提示、管理资源、从公司到初创公司、厌倦成为公司的人工智能布道者等",
-          "summary": "社区智慧 184",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
+          "id": "6cd03fbb019349c5",
+          "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+          "titleZh": "为什么在人工智能时代，培养能动性比培养技能更重要| Max Schoening （产品主管，Notion）",
+          "summary": "Notion 在设计和产品方面的领先优势：为什么代理商在人工智能时代击败了技能，为什么 vibe 编码制造了更多的软件而不是更好的软件，以及 Notion 如何“驱动……",
+          "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-02T18:02:57.000Z",
+          "publishedAt": "2026-05-03T12:30:59.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 85,
+          "score": 81,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "cover": "https://api.substack.com/feed/podcast/194566669/8c3ce52ca7701678fcc138723bce503c.mp3",
           "author": ""
         },
         {
-          "id": "6f6672bd18fe8aaa",
-          "title": "The best AI dictation apps, tested and ranked",
-          "titleZh": "经过测试和排名的最佳人工智能听写应用程序",
-          "summary": "人工智能驱动的听写应用程序用于回复电子邮件、做笔记，甚至通过语音进行编码",
-          "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+          "id": "63277c8e5d9d6e4e",
+          "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
+          "titleZh": "这个微小的磁性电子阅读器可以阻止你",
+          "summary": "Xteink X3 是一款非常小巧、兼容 MagSafe 的电子墨水阅读器，可以像 Pop Socket 一样连接到手机背面。",
+          "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-02T16:00:00.000Z",
+          "publishedAt": "2026-05-03T13:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 85,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "1694b7de070c9997",
-          "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-          "titleZh": "Beyond Lovable 和 Mistral：值得关注的 21 家欧洲初创公司",
-          "summary": "这并不是说欧洲初创公司从未受到关注--Lovable 和 Mistral AI 就是证明。但业内人士正在追踪的更多信息。",
-          "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-02T14:00:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 83,
+          "score": 81,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -648,20 +652,39 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
-          "id": "c00f39d350433c28",
-          "title": "Can AI make your dating life better?",
-          "titleZh": "人工智能能让你的约会生活更美好吗？",
+          "id": "8f703ba10283ceac",
+          "title": "Don’t simply bolt on AI. Rethink from the ground up.",
+          "titleZh": "不要简单地依靠人工智能。从头开始重新思考。",
           "summary": "",
-          "url": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
+          "url": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-02T13:56:18.000Z",
+          "publishedAt": "2026-05-03T10:54:04.000Z",
           "category": "design",
           "tags": [
             "设计/UI",
             "交互设计"
           ],
-          "score": 88,
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "14132d42e716a700",
+          "title": "The basketball playbook for AI builder teams",
+          "titleZh": "人工智能建设者团队的篮球攻略",
+          "summary": "",
+          "url": "https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-03T10:53:24.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 83,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -741,25 +764,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "9ead845bd9a0f649",
-          "title": "What is AI really costing the planet?",
-          "titleZh": "人工智能到底让地球付出了什么代价？",
-          "summary": "",
-          "url": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-04-28T21:59:12.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -769,50 +773,14 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "cf1577ededd0517b",
-          "title": "个人项目找 golang 长期兼职",
-          "summary": "之前站上找了运维，现在稳定合作中 项目是量化机器人 懂钱包策略交易的最好",
-          "url": "https://www.v2ex.com/t/1210076#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-03T05:12:27.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "holyfinger"
-        },
-        {
-          "id": "6c3c4c94ab60d09e",
-          "title": "升级到 fedora 44 后在 konsole 里打字时 cpu 占用很高的问题有 v 友也遇到了吗？",
-          "summary": "fedora 42 在 konsole 打字时 konsole 进程的 cpu 占用是正常的，在按着按键不松的情况下连续输入同一个字符 konsole 进程的 cpu 占用只有百分之十几，升级到 fedora 44 后就变成将近百分之百了，我用 perf record 分析了一下 cpu 占用高的原因，结果如下：Samples:…",
-          "url": "https://www.v2ex.com/t/1210067#reply5",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-03T04:04:58.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 114,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "wniming"
-        },
-        {
-          "id": "e3bda1ae4bb453b8",
-          "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-          "titleZh": "Kimi K2.6 刚刚在编码挑战赛中击败了 Claude、GPT-5.5 和 Gemini",
-          "summary": "Hacker News 热帖，当前积分 90，评论 35。",
-          "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+          "id": "04d8f1f0ddacb88c",
+          "title": "Humanoid Robot Actuators: The Complete Engineering Guide",
+          "titleZh": "人形机器人执行器：完整的工程指南",
+          "summary": "Hacker News 热帖，当前积分 26，评论 1。",
+          "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-03T04:05:28.000Z",
+          "publishedAt": "2026-05-04T03:42:09.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -824,60 +792,97 @@
           "sourceType": "api"
         },
         {
-          "id": "affe55e6d77f5a44",
-          "title": "我是如何用 Codex-cli 蹬 XIAOMI-MIMO 的",
-          "summary": "TLDR; 5 句内讲完。1，官网的教程太旧了，https://platform.xiaomimimo.com/docs/en-US/integration/codex，给 @openai/codex@0.80.0，这个用户体验一般。2，介绍一下，我自己用 0.116.0 版本，因为我一堆 MCP 手手脚脚。code…",
-          "url": "https://www.v2ex.com/t/1210054#reply5",
+          "id": "90287a7c6726393a",
+          "title": "The 'Hidden' Costs of Great Abstractions",
+          "titleZh": "伟大抽象的“隐藏”成本",
+          "summary": "Hacker News 热帖，当前积分 115，评论 28。",
+          "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-03T23:12:02.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 104,
+          "sourceType": "api"
+        },
+        {
+          "id": "c1e1797695d18c55",
+          "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+          "titleZh": "DeepClaude –使用 DeepSeek V4 Pro 的 Claude Code 代理循环，便宜 17 倍",
+          "summary": "Hacker News 热帖，当前积分 290，评论 116。",
+          "url": "https://github.com/aattaran/deepclaude",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-03T22:13:20.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 102,
+          "sourceType": "api"
+        },
+        {
+          "id": "74ecd573012b1ae4",
+          "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+          "titleZh": "BYOMesh –新的 LoRa 网状无线电提供 100 倍的带宽",
+          "summary": "Hacker News 热帖，当前积分 324，评论 105。",
+          "url": "https://partyon.xyz/@nullagent/116499715071759135",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-03T18:03:14.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 95,
+          "sourceType": "api"
+        },
+        {
+          "id": "df84f03c9283b0c4",
+          "title": "DGX Spark、ASUS GX10、MSI EdgeXpert 看起来都像是一个母胎的产品，用起来有差别吗？",
+          "summary": "Spark 最贵，和后两者价钱有点儿区别，不过看起来都像是同一个方案，只是公版和各家自己牌子的区别而已？Spark 自带开箱即用的工具集，会有老黄家在 Spark 上才能用的工具吗？用线对联 Spark 也能和另外两个机型，扩展使用 LLM？三者有什么产品硬件上的差异区别？",
+          "url": "https://www.v2ex.com/t/1210145#reply5",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-03T02:10:05.000Z",
+          "publishedAt": "2026-05-03T15:15:04.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 111,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
-          "author": "enrolls"
+          "author": "SzgSw5zGyN1iy"
         },
         {
-          "id": "af7f74b8ea7188a9",
-          "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-          "titleZh": "秘密网络将 Starlink 技术走私到伊朗，以打击互联网停电",
-          "summary": "Hacker News 热帖，当前积分 110，评论 45。",
-          "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-03T01:22:41.000Z",
+          "id": "27a87fde5ff28745",
+          "title": "ubuntu 24.04 今天点击更新后，蓝牙鼠标不能用了。",
+          "summary": "如题，更新完右上角的蓝牙图标和其他图标不断闪烁，蓝牙模式不能用，2.4G 可以，这是啥问题，是自动更新内核导致蓝牙驱动崩溃了吗，这时候 V2EX 怎么能发图片呢。",
+          "url": "https://www.v2ex.com/t/1210138#reply8",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-03T13:52:11.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
+            "开发者社区"
           ],
-          "score": 107,
-          "sourceType": "api"
-        },
-        {
-          "id": "d37766565dd48910",
-          "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-          "titleZh": "几百万条 Haskell 生产线：Mercury 的生产工程",
-          "summary": "Hacker News 热帖，当前积分 120，评论 43。",
-          "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-03T00:01:14.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 105,
-          "sourceType": "api"
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "azhi2007"
         }
       ]
     }
@@ -888,7 +893,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 80,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -900,31 +905,27 @@
     },
     {
       "tag": "行业热点",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "设计/UI",
       "count": 12
     },
     {
+      "tag": "工具/网站",
+      "count": 11
+    },
+    {
       "tag": "产品/商业",
       "count": 10
     },
     {
-      "tag": "工具/网站",
+      "tag": "工程效率",
       "count": 8
     },
     {
-      "tag": "工程效率",
-      "count": 7
-    },
-    {
       "tag": "讨论",
-      "count": 7
-    },
-    {
-      "tag": "效率",
-      "count": 6
+      "count": 8
     },
     {
       "tag": "开发者社区",
@@ -932,6 +933,10 @@
     },
     {
       "tag": "交互设计",
+      "count": 6
+    },
+    {
+      "tag": "效率",
       "count": 6
     },
     {
@@ -951,11 +956,11 @@
       "count": 5
     },
     {
-      "tag": "CSS相关",
-      "count": 3
+      "tag": "新产品",
+      "count": 5
     },
     {
-      "tag": "技术周刊",
+      "tag": "CSS相关",
       "count": 3
     }
   ]
