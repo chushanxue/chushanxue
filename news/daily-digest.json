@@ -1,108 +1,105 @@
 {
-  "generatedAt": "2026-05-05T04:59:00.209Z",
+  "generatedAt": "2026-05-06T05:27:34.829Z",
   "headline": {
-    "id": "8cc457fa38e5178e",
-    "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-    "titleZh": "大约 10%的 AMC 电影放映零售门票。此网站找到它们",
-    "summary": "Hacker News 热帖，当前积分 16，评论 3。",
-    "url": "https://walzr.com/empty-screenings",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "publishedAt": "2026-05-05T04:33:22.000Z",
+    "id": "6af625e11a844ce0",
+    "title": "让 AI 去 mjj， AI 会掉进营销陷阱吗？问 GPT-5.5 $7/y 服务器选型，它推荐家人云。",
+    "summary": "问 GPT-5.5 $7/y 服务器选型，它推荐了家人云 BitsFlowCloud。",
+    "url": "https://www.v2ex.com/t/1210526#reply1",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-05-06T05:09:21.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "工程效率",
-      "Hacker News",
-      "讨论"
+      "开发者社区"
     ],
-    "score": 113,
-    "sourceType": "api"
+    "score": 111,
+    "sourceType": "rss",
+    "cover": "https://i.imgur.com/kRU7mTC.png",
+    "author": "longxinglink"
   },
   "latest": [
     {
-      "id": "8cc457fa38e5178e",
-      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-      "titleZh": "大约 10%的 AMC 电影放映零售门票。此网站找到它们",
-      "summary": "Hacker News 热帖，当前积分 16，评论 3。",
-      "url": "https://walzr.com/empty-screenings",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-05T04:33:22.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 113,
-      "sourceType": "api"
-    },
-    {
-      "id": "c1a4e10f97f54b13",
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "titleZh": "CVE-2026-31431：复制失败与无根容器",
-      "summary": "Hacker News 热帖，当前积分 33，评论 10。",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-05T03:43:08.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "06bb2e93515dcfd3",
-      "title": "Train Your Own LLM from Scratch",
-      "titleZh": "从零开始培训自己的 LLM",
-      "summary": "Hacker News 热帖，当前积分 15，评论 1。",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-05T04:09:17.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "6f1c0970f838e4b6",
-      "title": "gpt-sovits 跑 colab 能让人崩溃",
-      "summary": "弄得我都崩溃",
-      "url": "https://www.v2ex.com/t/1210285#reply0",
+      "id": "6af625e11a844ce0",
+      "title": "让 AI 去 mjj， AI 会掉进营销陷阱吗？问 GPT-5.5 $7/y 服务器选型，它推荐家人云。",
+      "summary": "问 GPT-5.5 $7/y 服务器选型，它推荐了家人云 BitsFlowCloud。",
+      "url": "https://www.v2ex.com/t/1210526#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-05T04:43:11.000Z",
+      "publishedAt": "2026-05-06T05:09:21.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 110,
+      "score": 111,
       "sourceType": "rss",
-      "cover": "",
-      "author": "orochix"
+      "cover": "https://i.imgur.com/kRU7mTC.png",
+      "author": "longxinglink"
     },
     {
-      "id": "d67cf54e066b7446",
-      "title": "听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑",
-      "summary": "来听歌。查看全文",
-      "url": "https://sspai.com/post/109014",
+      "id": "0124d0be7152e526",
+      "title": "opencode go 的 deepseek v4 flash 也开始 429 了？",
+      "summary": "，今天调用报 bad response status code 429, message: Error from provider (DeepSeek): Too many requests. Please pace your requests reasonably. Your current concurrency: 2000,…",
+      "url": "https://www.v2ex.com/t/1210501#reply7",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-06T03:57:02.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "lynn1su"
+    },
+    {
+      "id": "a2392f4f98e09402",
+      "title": "自研开源跨平台音乐播放器 xmusic",
+      "summary": "基于 SOUI5 开发了一款开源绿色跨平台音乐播放器:xmusic,支持 mp3,flac,wav,wma,m4a 等格式。官网：https://soui.com.cn/xmusic 下载：win64: https://soui.com.cn/xmusic/download/XMusic.win64.1.0.zip linux…",
+      "url": "https://www.v2ex.com/t/1210463#reply4",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-06T02:50:37.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "https://soui.com.cn/xmusic/assets/screenshots/main.png",
+      "author": "soui"
+    },
+    {
+      "id": "97c416107b62953b",
+      "title": "Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping",
+      "titleZh": "业界领先的 245TB Micron 6600 离子数据中心固态硬盘现已发货",
+      "summary": "Hacker News 热帖，当前积分 17，评论 7。",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-06T03:37:51.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "f51d2c6c803fa432",
+      "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
+      "summary": "强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文",
+      "url": "https://sspai.com/post/109288",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-05T03:00:00.000Z",
+      "publishedAt": "2026-05-06T02:49:30.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -111,36 +108,17 @@
       "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "北鸮"
+      "author": "小胡小胡0009"
     },
     {
-      "id": "c05d6cef70cd5466",
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-      "titleZh": "随着工人们对人工智能的担忧，英伟达的 Jensen Huang 表示，人工智能正在“创造大量的工作岗位”",
-      "summary": "这位英伟达首席执行官似乎认为，人工智能杀人潜力的说法被大大夸大了。",
-      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-05T03:31:54.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 104,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "4f4b4e20b060f5e9",
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "titleZh": "我听到的关于认知债务的消息（到目前为止）",
-      "summary": "Hacker News 热帖，当前积分 113，评论 50。",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "id": "debb4ad66d674578",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "titleZh": "代理现在可以创建 Cloudflare 帐户、购买域和部署",
+      "summary": "Hacker News 热帖，当前积分 123，评论 50。",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-05T02:08:21.000Z",
+      "publishedAt": "2026-05-06T03:10:33.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -148,18 +126,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 109,
+      "score": 110,
       "sourceType": "api"
     },
     {
-      "id": "6d759717e416581d",
-      "title": "Pulitzer Prize Winner in International Reporting",
-      "titleZh": "普利策国际报道奖得主",
-      "summary": "Hacker News 热帖，当前积分 48，评论 2。",
-      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "id": "36b7ecda858f4fd5",
+      "title": "StarFighter 16-Inch",
+      "titleZh": "StarFighter 16 英寸",
+      "summary": "Hacker News 热帖，当前积分 154，评论 81。",
+      "url": "https://us.starlabs.systems/pages/starfighter",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-05T02:22:21.000Z",
+      "publishedAt": "2026-05-06T02:03:44.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -167,12 +145,86 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 109,
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "6850a6d0d8a7f4f6",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "titleZh": "Telus 使用人工智能来改变呼叫代理的口音",
+      "summary": "Hacker News 热帖，当前积分 87，评论 52。",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-06T01:38:44.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
     {
+      "id": "f51d2c6c803fa432",
+      "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
+      "summary": "强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文",
+      "url": "https://sspai.com/post/109288",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-06T02:49:30.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "小胡小胡0009"
+    },
+    {
+      "id": "98c2d63476167f96",
+      "title": "派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等",
+      "summary": "M4 Mac mini 256GB 版本下架，豆包确认将推出付费版本等。查看全文",
+      "url": "https://sspai.com/post/109410",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-06T00:12:58.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 107,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "4374af849fe169ab",
+      "title": "Steam Controller",
+      "titleZh": "蒸汽控制器",
+      "summary": "使用 TMR 棒、双触觉触控板+陀螺仪控制的游戏",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-05T03:25:17.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 72,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
+    {
       "id": "d67cf54e066b7446",
       "title": "听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑",
       "summary": "来听歌。查看全文",
@@ -185,94 +237,39 @@
         "工具/网站",
         "效率"
       ],
-      "score": 111,
+      "score": 72,
       "sourceType": "rss",
       "cover": "",
       "author": "北鸮"
     },
     {
-      "id": "7b9a3b541d1e7bda",
-      "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
-      "summary": "作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文",
-      "url": "https://sspai.com/post/109277",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-04T07:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 83,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "旋转的陀螺"
-    },
-    {
-      "id": "76a2c38b9ab9573a",
-      "title": "Codex Pets",
-      "titleZh": "Codex Pets",
-      "summary": "Codex 工作流程的动画伴侣",
-      "url": "https://www.producthunt.com/products/openai",
+      "id": "552398c9530c7419",
+      "title": "Openclick",
+      "titleZh": "Openclick",
+      "summary": "将提示转换为自动点击的 macOS 代理",
+      "url": "https://www.producthunt.com/products/openclick",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-04T03:02:40.000Z",
+      "publishedAt": "2026-05-04T20:45:55.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 71,
+      "score": 61,
       "sourceType": "rss",
       "cover": "",
-      "author": "Zac Zuo"
+      "author": "Riccardo Arvizzigno"
     },
     {
-      "id": "e4d6c69953e9bca5",
-      "title": "Aaavatar",
-      "titleZh": "Aaavatar",
-      "summary": "一举打造品牌团队头像",
-      "url": "https://www.producthunt.com/products/aaavatar",
+      "id": "48e15f74a10d4d6c",
+      "title": "Airbyte Agents",
+      "titleZh": "Airbyte 代理",
+      "summary": "生产级 AI 代理的上下文层",
+      "url": "https://www.producthunt.com/products/airbyte-agents",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-03T23:39:06.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 65,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Thierry Emmery"
-    },
-    {
-      "id": "8d6faf40ca921218",
-      "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/100006",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-03T04:19:32.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "桌沿奇思"
-    },
-    {
-      "id": "38982d09c7fe06be",
-      "title": "Panels Store",
-      "titleZh": "面板商店",
-      "summary": "购买无 DRM 漫画，并在面板中即时阅读",
-      "url": "https://www.producthunt.com/products/panels-store",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-01T21:00:27.000Z",
+      "publishedAt": "2026-05-04T15:40:19.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -281,7 +278,7 @@
       "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "Victor Baro"
+      "author": "Garry Tan"
     }
   ],
   "sections": [
@@ -290,6 +287,25 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "d682aa5790e1754c",
+          "title": "Rethinking The Experience Of System Tools",
+          "titleZh": "重新思考系统工具的体验",
+          "summary": "设计始终从功能开始--功能塑造形式。但是，如果该功能不能完全不可见，并人们仍然必须与其交互，那么它......",
+          "url": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-05-05T08:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 89,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
+          "author": "hello@smashingmagazine.com (Kyrylo Levashov)"
+        },
         {
           "id": "427cb672a819a0a4",
           "title": "Fixed-Height Cards: More Fragile Than They Look",
@@ -304,7 +320,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 100,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -384,25 +400,6 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
           "author": "hello@smashingmagazine.com (Cosima Mielke)"
-        },
-        {
-          "id": "0c574eaa1126b517",
-          "title": "contrast-color()",
-          "titleZh": "对比色",
-          "summary": "Contrast-color ()函数采用并返回黑色或白色，以该值对比度最高的颜色为准。contrast-color ()最初是手写的…",
-          "url": "https://css-tricks.com/almanac/functions/c/contrast-color/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-04-29T14:57:48.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -411,6 +408,63 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "f7359ee67b3a16c8",
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "titleZh": "GPT-5.5 即时：更智能、更清晰、更个性化",
+          "summary": "GPT-5.5 即时更新 ChatGPT 的默认模型，提供更智能、更准确的答案，减少幻觉，并改进个性化控制。",
+          "url": "https://openai.com/index/gpt-5-5-instant",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-05T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "5abe82fcc6fcd4a1",
+          "title": "GPT-5.5 Instant System Card",
+          "titleZh": "GPT-5.5 即时系统卡",
+          "summary": "",
+          "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-05T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "d8f253b18b03f4cd",
+          "title": "New ways to buy ChatGPT ads",
+          "titleZh": "购买 ChatGPT 广告的新方法",
+          "summary": "OpenAI 通过测试版自助广告管理器、CPC 出价和增强的测量工具扩展了 ChatGPT 广告，旨在保护隐私并保持对话独立于……",
+          "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-05T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 80,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "d8a4f41b240e64ec",
           "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
@@ -425,7 +479,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 114,
+          "score": 75,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -444,7 +498,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 79,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -467,63 +521,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "f6127eeb45b41ee1",
-          "title": "Where the goblins came from",
-          "titleZh": "哥布林从何而来",
-          "summary": "妖精输出如何在人工智能模型中传播：时间线、根本原因以及 GPT-5 行为中人格驱动怪癖背后的修复。",
-          "url": "https://openai.com/index/where-the-goblins-came-from",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-04-29T20:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e8eabde5627694af",
-          "title": "AI evals are becoming the new compute bottleneck",
-          "titleZh": "人工智能正在成为新的计算瓶颈",
-          "summary": "",
-          "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-04-29T16:45:09.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "9aeb6116b081084a",
-          "title": "Building the compute infrastructure for the Intelligence Age",
-          "titleZh": "构建智能时代的计算基础设施",
-          "summary": "OpenAI 扩展 Stargate 以构建支持 AGI 的计算基础设施，增加新的数据中心容量以满足不断增长的 AI 需求。",
-          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-04-29T15:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -533,71 +530,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "c05d6cef70cd5466",
-          "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-          "titleZh": "随着工人们对人工智能的担忧，英伟达的 Jensen Huang 表示，人工智能正在“创造大量的工作岗位”",
-          "summary": "这位英伟达首席执行官似乎认为，人工智能杀人潜力的说法被大大夸大了。",
-          "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+          "id": "0c666abc0a4c3692",
+          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+          "titleZh": "SAP 在 18 个月大的德国人工智能实验室下注 11.6亿美元，并对 NemoClaw 说“是”",
+          "summary": "SAP 计划收购德国人工智能初创公司 Prior Labs，并投入巨资。它还禁止客户的代理使用像 Nvidia 的 NemoClaw 这样的少数产品。",
+          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-05T03:31:54.000Z",
+          "publishedAt": "2026-05-05T23:50:10.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 104,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "2eda59805cbeba81",
-          "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
-          "titleZh": "地热初创公司 Fervo Energy 将在 IPO 中筹集高达 13亿美元的资金",
-          "summary": "强化地热初创公司 Fervo Energy 的 IPO 可能使该公司的估值高达 65亿美元（$）。",
-          "url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+          "id": "808da29c571058cc",
+          "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+          "titleZh": "Nuro 在推出机器人出租车服务前获得无人驾驶测试许可",
+          "summary": "这家硅谷 AV 初创公司尚未开始无人驾驶测试。",
+          "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-05T00:13:30.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 98,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "44baafbdc45343b8",
-          "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
-          "titleZh": "美国政府警告严重的 CopyFail 漏洞影响 Linux 的主要版本",
-          "summary": "美国网络安全机构 CISA 表示，CopyFail 漏洞正被积极用于黑客活动，并对依赖 Linux 的服务器和数据中心构成重大风险。",
-          "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-04T22:21:32.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 98,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "c244755b21e52f5b",
-          "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-          "titleZh": "OpenAI 舒适的合作伙伴 Cerebras 正在进行一场轰动一时的首次公开募股",
-          "summary": "人工智能芯片制造商 Cerebras 正在进行一场轰动一时的 IPO，其估值可能达到 266亿美元或更高。它与 OpenAI 的关系深厚而丰富。",
-          "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-04T21:53:21.000Z",
+          "publishedAt": "2026-05-06T00:07:47.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -609,40 +568,78 @@
           "author": ""
         },
         {
-          "id": "36d5243d134ed253",
-          "title": "Image AI models now drive app growth, beating chatbot upgrades",
-          "titleZh": "Image AI 模型现在推动应用程序增长，击败聊天机器人升级",
-          "summary": "Appfigures 发现，视觉模型的发布产生了 6.5 倍的下载量，但大多数都不会将其转化为收入。",
-          "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+          "id": "94b30a553466d03a",
+          "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+          "titleZh": "Bumble 的付费用户正在下滑，因为它押注今年晚些时候进行大修",
+          "summary": "该公司正在大力打赌，滑动模型已经过时，大多数匹配永远不会变成实际日期。该公司希望通过重新设计配置文件来解决这个问题……",
+          "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-04T19:12:49.000Z",
+          "publishedAt": "2026-05-05T23:05:50.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 91,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "58688e877fd69ca3",
-          "title": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
-          "titleZh": "🎙️ 本周关于如何使用人工智能：改变 Stripe 设计产品方式的内部人工智能工具",
-          "summary": "您的每周收听《How I AI》，这是 Lenny 播客网络的一部分",
-          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+          "id": "c5d10669b891ff60",
+          "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+          "titleZh": "Altara 获得了 700 万 $的资金，以弥补拖慢物理科学发展的数据鸿沟",
+          "summary": "Altara 的人工智能旨在通过跨电子表格和遗留系统统一孤立的数据来诊断故障并帮助加快研发速度。",
+          "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-05T22:57:41.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 97,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f4efe211eb664ec0",
+          "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+          "titleZh": "Lucid Motors 不知道今年将生产多少辆电动汽车",
+          "summary": "Lucid Motors 在处理不断膨胀的库存和全公司范围的成本削减措施时，撤销了今年的指导方针。",
+          "url": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-05T22:31:57.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "cc1450c5930c5e82",
+          "title": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
+          "titleZh": "为什么 SaaS 免费增值剧本在人工智能中不起作用，以及该怎么做",
+          "summary": "如何构建真正有效的人工智能货币化策略",
+          "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-04T15:01:56.000Z",
+          "publishedAt": "2026-05-05T13:03:32.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 83,
+          "score": 79,
           "sourceType": "rss",
-          "cover": "https://substack-post-media.s3.amazonaws.com/public/images/27c437f2-554e-417a-bf8e-b3387d17f189_1456x1048.png",
+          "cover": "https://substackcdn.com/image/fetch/$s_!jX4T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dbe470a-3caf-43dd-ab76-118d515e409f_1456x970.png",
           "author": ""
         }
       ]
@@ -652,6 +649,44 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "6dd54b2ec038f4bc",
+          "title": "The trick to designing agentic AI is learning how to think like a manager",
+          "titleZh": "设计代理人工智能的诀窍是学习如何像经理一样思考",
+          "summary": "设定界限（并建立信任）是代理项目的要求继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-trick-to-designing-agentic-ai-is-learning-how-to-think-like-a-manager-9945b028aac7?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-05T11:12:25.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*XeOtoqjZiImMRShO9fbPug.jpeg",
+          "author": ""
+        },
+        {
+          "id": "0d176d5a291e3ed7",
+          "title": "The psychological fine print of AI",
+          "titleZh": "人工智能的心理细则",
+          "summary": "",
+          "url": "https://uxdesign.cc/the-psychological-fine-print-of-ai-fe419edcff73?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-05T11:12:28.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "a241fe5810dc4b54",
           "title": "St. Augustine and AI’s false promise",
@@ -666,7 +701,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 103,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -685,7 +720,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 103,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -704,7 +739,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 103,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -723,45 +758,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "9a4bbe9634edd31e",
-          "title": "Collected consciousness, exhausting moment, UX Research with AI",
-          "titleZh": "收集的意识，疲惫的时刻，AI 的用户体验研究",
-          "summary": "",
-          "url": "https://uxdesign.cc/collected-consciousness-exhausting-moment-ux-research-with-ai-3c94aef9268e?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-04T08:34:23.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 80,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "8f703ba10283ceac",
-          "title": "Don’t simply bolt on AI. Rethink from the ground up.",
-          "titleZh": "不要简单地依靠人工智能。从头开始重新思考。",
-          "summary": "",
-          "url": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-03T10:54:04.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -774,89 +771,68 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "8cc457fa38e5178e",
-          "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-          "titleZh": "大约 10%的 AMC 电影放映零售门票。此网站找到它们",
-          "summary": "Hacker News 热帖，当前积分 16，评论 3。",
-          "url": "https://walzr.com/empty-screenings",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-05T04:33:22.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 113,
-          "sourceType": "api"
-        },
-        {
-          "id": "c1a4e10f97f54b13",
-          "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-          "titleZh": "CVE-2026-31431：复制失败与无根容器",
-          "summary": "Hacker News 热帖，当前积分 33，评论 10。",
-          "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-05T03:43:08.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "06bb2e93515dcfd3",
-          "title": "Train Your Own LLM from Scratch",
-          "titleZh": "从零开始培训自己的 LLM",
-          "summary": "Hacker News 热帖，当前积分 15，评论 1。",
-          "url": "https://github.com/angelos-p/llm-from-scratch",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-05T04:09:17.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "6f1c0970f838e4b6",
-          "title": "gpt-sovits 跑 colab 能让人崩溃",
-          "summary": "弄得我都崩溃",
-          "url": "https://www.v2ex.com/t/1210285#reply0",
+          "id": "6af625e11a844ce0",
+          "title": "让 AI 去 mjj， AI 会掉进营销陷阱吗？问 GPT-5.5 $7/y 服务器选型，它推荐家人云。",
+          "summary": "问 GPT-5.5 $7/y 服务器选型，它推荐了家人云 BitsFlowCloud。",
+          "url": "https://www.v2ex.com/t/1210526#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-05T04:43:11.000Z",
+          "publishedAt": "2026-05-06T05:09:21.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 110,
+          "score": 111,
           "sourceType": "rss",
-          "cover": "",
-          "author": "orochix"
+          "cover": "https://i.imgur.com/kRU7mTC.png",
+          "author": "longxinglink"
         },
         {
-          "id": "4f4b4e20b060f5e9",
-          "title": "What I'm Hearing About Cognitive Debt (So Far)",
-          "titleZh": "我听到的关于认知债务的消息（到目前为止）",
-          "summary": "Hacker News 热帖，当前积分 113，评论 50。",
-          "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+          "id": "0124d0be7152e526",
+          "title": "opencode go 的 deepseek v4 flash 也开始 429 了？",
+          "summary": "，今天调用报 bad response status code 429, message: Error from provider (DeepSeek): Too many requests. Please pace your requests reasonably. Your current concurrency: 2000,…",
+          "url": "https://www.v2ex.com/t/1210501#reply7",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-06T03:57:02.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "lynn1su"
+        },
+        {
+          "id": "a2392f4f98e09402",
+          "title": "自研开源跨平台音乐播放器 xmusic",
+          "summary": "基于 SOUI5 开发了一款开源绿色跨平台音乐播放器:xmusic,支持 mp3,flac,wav,wma,m4a 等格式。官网：https://soui.com.cn/xmusic 下载：win64: https://soui.com.cn/xmusic/download/XMusic.win64.1.0.zip linux…",
+          "url": "https://www.v2ex.com/t/1210463#reply4",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-06T02:50:37.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "https://soui.com.cn/xmusic/assets/screenshots/main.png",
+          "author": "soui"
+        },
+        {
+          "id": "97c416107b62953b",
+          "title": "Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping",
+          "titleZh": "业界领先的 245TB Micron 6600 离子数据中心固态硬盘现已发货",
+          "summary": "Hacker News 热帖，当前积分 17，评论 7。",
+          "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-05T02:08:21.000Z",
+          "publishedAt": "2026-05-06T03:37:51.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -864,18 +840,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
+          "score": 111,
           "sourceType": "api"
         },
         {
-          "id": "6d759717e416581d",
-          "title": "Pulitzer Prize Winner in International Reporting",
-          "titleZh": "普利策国际报道奖得主",
-          "summary": "Hacker News 热帖，当前积分 48，评论 2。",
-          "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+          "id": "debb4ad66d674578",
+          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+          "titleZh": "代理现在可以创建 Cloudflare 帐户、购买域和部署",
+          "summary": "Hacker News 热帖，当前积分 123，评论 50。",
+          "url": "https://blog.cloudflare.com/agents-stripe-projects/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-05T02:22:21.000Z",
+          "publishedAt": "2026-05-06T03:10:33.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -883,7 +859,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
+          "score": 110,
+          "sourceType": "api"
+        },
+        {
+          "id": "36b7ecda858f4fd5",
+          "title": "StarFighter 16-Inch",
+          "titleZh": "StarFighter 16 英寸",
+          "summary": "Hacker News 热帖，当前积分 154，评论 81。",
+          "url": "https://us.starlabs.systems/pages/starfighter",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-06T02:03:44.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
           "sourceType": "api"
         }
       ]
@@ -895,7 +890,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -914,12 +909,12 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
-      "tag": "工具/网站",
-      "count": 9
+      "tag": "产品/商业",
+      "count": 10
     },
     {
       "tag": "工程效率",
@@ -959,7 +954,7 @@
     },
     {
       "tag": "新产品",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "CSS相关",
