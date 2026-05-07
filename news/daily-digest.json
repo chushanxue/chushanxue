@@ -1,124 +1,89 @@
 {
-  "generatedAt": "2026-05-06T05:27:34.829Z",
+  "generatedAt": "2026-05-07T05:29:57.359Z",
   "headline": {
-    "id": "6af625e11a844ce0",
-    "title": "让 AI 去 mjj， AI 会掉进营销陷阱吗？问 GPT-5.5 $7/y 服务器选型，它推荐家人云。",
-    "summary": "问 GPT-5.5 $7/y 服务器选型，它推荐了家人云 BitsFlowCloud。",
-    "url": "https://www.v2ex.com/t/1210526#reply1",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-05-06T05:09:21.000Z",
-    "category": "industry",
+    "id": "1f4b23dd392bd995",
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "titleZh": "人工智能经济的五位架构师解释了车轮在哪里脱落",
+    "summary": "本周早些时候，在比佛利山庄举行的米尔肯全球会议上，接触人工智能供应链每一层的五个人坐了下来，在那里他们与 TechCrunc 进行了交谈……",
+    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/",
+    "publishedAt": "2026-05-07T05:25:10.000Z",
+    "category": "product",
     "tags": [
-      "行业热点",
-      "开发者社区"
+      "产品/商业",
+      "科技公司"
     ],
-    "score": 111,
+    "score": 109,
     "sourceType": "rss",
-    "cover": "https://i.imgur.com/kRU7mTC.png",
-    "author": "longxinglink"
+    "cover": "",
+    "author": ""
   },
   "latest": [
     {
-      "id": "6af625e11a844ce0",
-      "title": "让 AI 去 mjj， AI 会掉进营销陷阱吗？问 GPT-5.5 $7/y 服务器选型，它推荐家人云。",
-      "summary": "问 GPT-5.5 $7/y 服务器选型，它推荐了家人云 BitsFlowCloud。",
-      "url": "https://www.v2ex.com/t/1210526#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-06T05:09:21.000Z",
-      "category": "industry",
+      "id": "1f4b23dd392bd995",
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "titleZh": "人工智能经济的五位架构师解释了车轮在哪里脱落",
+      "summary": "本周早些时候，在比佛利山庄举行的米尔肯全球会议上，接触人工智能供应链每一层的五个人坐了下来，在那里他们与 TechCrunc 进行了交谈……",
+      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-07T05:25:10.000Z",
+      "category": "product",
       "tags": [
-        "行业热点",
-        "开发者社区"
+        "产品/商业",
+        "科技公司"
       ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/kRU7mTC.png",
-      "author": "longxinglink"
-    },
-    {
-      "id": "0124d0be7152e526",
-      "title": "opencode go 的 deepseek v4 flash 也开始 429 了？",
-      "summary": "，今天调用报 bad response status code 429, message: Error from provider (DeepSeek): Too many requests. Please pace your requests reasonably. Your current concurrency: 2000,…",
-      "url": "https://www.v2ex.com/t/1210501#reply7",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-06T03:57:02.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
+      "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "lynn1su"
+      "author": ""
     },
     {
-      "id": "a2392f4f98e09402",
-      "title": "自研开源跨平台音乐播放器 xmusic",
-      "summary": "基于 SOUI5 开发了一款开源绿色跨平台音乐播放器:xmusic,支持 mp3,flac,wav,wma,m4a 等格式。官网：https://soui.com.cn/xmusic 下载：win64: https://soui.com.cn/xmusic/download/XMusic.win64.1.0.zip linux…",
-      "url": "https://www.v2ex.com/t/1210463#reply4",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-06T02:50:37.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "https://soui.com.cn/xmusic/assets/screenshots/main.png",
-      "author": "soui"
-    },
-    {
-      "id": "97c416107b62953b",
-      "title": "Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping",
-      "titleZh": "业界领先的 245TB Micron 6600 离子数据中心固态硬盘现已发货",
-      "summary": "Hacker News 热帖，当前积分 17，评论 7。",
-      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-06T03:37:51.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "f51d2c6c803fa432",
-      "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
-      "summary": "强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文",
-      "url": "https://sspai.com/post/109288",
+      "id": "fbc4e994b46f138b",
+      "title": "甘南秘境，大白高国：我的甘南自由行记",
+      "summary": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文",
+      "url": "https://sspai.com/post/109367",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-06T02:49:30.000Z",
+      "publishedAt": "2026-05-07T03:00:10.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "PJHubs"
+    },
+    {
+      "id": "85b2e3d20c49dd73",
+      "title": "长期在 github 给开源项目提 pr 的 git 规范流程是什么样的？",
+      "summary": "我使用的一个开源项目工具，发现它有 bug，于是 fork 了一份，然后 git clone 到本地，直接在 main 分支上改了一下，push 之后，然后在 github 开了一个 pr，最终代码被 merge 了。这个项目是 macOS 的一个 app，只要 xcode 打开，就会改动一些配置文件。虽然 git 提交时候…",
+      "url": "https://www.v2ex.com/t/1210765#reply6",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-07T02:14:29.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
       "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "小胡小胡0009"
+      "author": "ethusdt"
     },
     {
-      "id": "debb4ad66d674578",
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "titleZh": "代理现在可以创建 Cloudflare 帐户、购买域和部署",
-      "summary": "Hacker News 热帖，当前积分 123，评论 50。",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "id": "1614062a233c4c93",
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "titleZh": "使用 ZFS、iSCSI 和 PXE 的无磁盘 Linux 引导",
+      "summary": "Hacker News 热帖，当前积分 33，评论 3。",
+      "url": "https://aniket.foo/posts/20260505-netboot/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-06T03:10:33.000Z",
+      "publishedAt": "2026-05-07T03:13:24.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -130,33 +95,68 @@
       "sourceType": "api"
     },
     {
-      "id": "36b7ecda858f4fd5",
-      "title": "StarFighter 16-Inch",
-      "titleZh": "StarFighter 16 英寸",
-      "summary": "Hacker News 热帖，当前积分 154，评论 81。",
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-06T02:03:44.000Z",
+      "id": "d2865ac00d55a9d9",
+      "title": "怎么破 codex 的手机号码验证？",
+      "summary": "51 回来之后发现使用 codex 必须要通过手机号验证了 试过 google voice 提示“这似乎是个虚拟号码（也称为 VoIP）。请提供有效的非虚拟电话号码以继续。” 你们有碰到这个问题吗？是怎么解决的 急，在线等",
+      "url": "https://www.v2ex.com/t/1210789#reply16",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-07T03:03:28.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
-      "score": 108,
-      "sourceType": "api"
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "ben548"
     },
     {
-      "id": "6850a6d0d8a7f4f6",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "titleZh": "Telus 使用人工智能来改变呼叫代理的口音",
-      "summary": "Hacker News 热帖，当前积分 87，评论 52。",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "id": "1d85a06cb08c9bdc",
+      "title": "如何在外面调用家里的本地算力，大佬们来个方案",
+      "summary": "如何在外面调用家里的本地算力，大佬们来个方案，我玩一玩",
+      "url": "https://www.v2ex.com/t/1210806#reply10",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-07T03:39:26.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 108,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "babymonster"
+    },
+    {
+      "id": "b5a2bacc16495622",
+      "title": "有人知道现在的大学生在学什么么，不会还是当年我学到 struct2 spring mvc 吧",
+      "summary": "如题。学生一代又一代，老师还是那一批",
+      "url": "https://www.v2ex.com/t/1210801#reply15",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-07T03:22:48.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 107,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "DeepSIeep"
+    },
+    {
+      "id": "4c168404757ec4bf",
+      "title": "Permacomputing Principles",
+      "titleZh": "Permacomputing 原理",
+      "summary": "Hacker News 热帖，当前积分 68，评论 7。",
+      "url": "https://permacomputing.net/principles/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-06T01:38:44.000Z",
+      "publishedAt": "2026-05-07T02:18:23.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -164,11 +164,83 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 109,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "fbc4e994b46f138b",
+      "title": "甘南秘境，大白高国：我的甘南自由行记",
+      "summary": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文",
+      "url": "https://sspai.com/post/109367",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-07T03:00:10.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "PJHubs"
+    },
+    {
+      "id": "cb8715ff79f417bf",
+      "title": "派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等",
+      "summary": "Apple 同意和解 Siri 延期的集体诉讼、Valve 开源 Steam Controller 的外壳 CAD 文件等。查看全文",
+      "url": "https://sspai.com/post/109448",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-07T00:25:37.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 108,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "9bf69279a770eb16",
+      "title": "返工怎能不烦恼，打工人片单总有一部是你的「嘴替」",
+      "summary": "假期总是结束得猝不及防，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视作品，讲述着普通打工人的命运，为打 ... 查看全文",
+      "url": "https://sspai.com/post/88578",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-06T09:30:05.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "5bc321b9bdca197f",
+      "title": "为了让「上厕所」更健康，我做了一个小工具",
+      "summary": "朋友们，浴室真的是一个灵感迸发的地方。在某天洗澡前的如厕时间，我突然想到，现在有许多人在上厕所的时候刷手机，导致如厕时间变长，进而容易增加痔疮等疾病的风险。那么，有没有可能做一个工具，像 AppleWa ... 查看全文",
+      "url": "https://sspai.com/post/109296",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-06T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 82,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Tp"
+    },
     {
       "id": "f51d2c6c803fa432",
       "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
@@ -182,7 +254,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 111,
+      "score": 73,
       "sourceType": "rss",
       "cover": "",
       "author": "小胡小胡0009"
@@ -200,85 +272,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 107,
+      "score": 68,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "4374af849fe169ab",
-      "title": "Steam Controller",
-      "titleZh": "蒸汽控制器",
-      "summary": "使用 TMR 棒、双触觉触控板+陀螺仪控制的游戏",
-      "url": "https://www.producthunt.com/products/steam-machine",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-05T03:25:17.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 72,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Zac Zuo"
-    },
-    {
-      "id": "d67cf54e066b7446",
-      "title": "听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑",
-      "summary": "来听歌。查看全文",
-      "url": "https://sspai.com/post/109014",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-05T03:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 72,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "北鸮"
-    },
-    {
-      "id": "552398c9530c7419",
-      "title": "Openclick",
-      "titleZh": "Openclick",
-      "summary": "将提示转换为自动点击的 macOS 代理",
-      "url": "https://www.producthunt.com/products/openclick",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-04T20:45:55.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 61,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Riccardo Arvizzigno"
-    },
-    {
-      "id": "48e15f74a10d4d6c",
-      "title": "Airbyte Agents",
-      "titleZh": "Airbyte 代理",
-      "summary": "生产级 AI 代理的上下文层",
-      "url": "https://www.producthunt.com/products/airbyte-agents",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-04T15:40:19.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Garry Tan"
     }
   ],
   "sections": [
@@ -287,6 +284,82 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "7c91855b164d0e23",
+          "title": "Google’s Prompt API",
+          "titleZh": "Google 的 Prompt API",
+          "summary": "谷歌的 Mat Marquis 拉动了相当于 U2 专辑营销的网络标准：作为 Chrome 用户，您将以 4GB 传输录制的形式收到 Gemini Nano……",
+          "url": "https://css-tricks.com/googles-prompt-api/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-05-06T19:41:29.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "9b3d4e26db085a15",
+          "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
+          "titleZh": "使用网格+变换技巧制作 Zigzag CSS 布局",
+          "summary": "大多数网格布局排列整齐，完美对齐，就像编队中的士兵一样。但有时你想要更有节奏的东西，比如说，锯齿形图案。这里……",
+          "url": "https://css-tricks.com/zigzag-css-grid-layouts/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-05-06T13:50:44.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "4eb318c014c80976",
+          "title": "The Architecture Of Local-First Web Development",
+          "titleZh": "本地优先 Web 开发的架构",
+          "summary": "在 2026年构建本地第一个 Web 应用程序的诚实观点，专为那些已经做了足够长的时间而对银弹持怀疑态度的开发人员而编写。",
+          "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-05-06T10:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)"
+        },
+        {
+          "id": "8060d8beaf71f760",
+          "title": "JSON.rawJSON方法的作用是什么？",
+          "summary": "JSON 对象新增了 rawJSON 方法，你知道他的作用是什么吗？",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-05-06T08:49:48.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS",
+            "转义"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/image/blog/202605/2026-5-6_162529.webp",
+          "author": ""
+        },
         {
           "id": "d682aa5790e1754c",
           "title": "Rethinking The Experience Of System Tools",
@@ -301,7 +374,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 89,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
           "author": "hello@smashingmagazine.com (Kyrylo Levashov)"
@@ -324,82 +397,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "dec05e4a17cab752",
-          "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
-          "titleZh": "What's! important # 10：HTML 画布、十六进制地图、电子墨迹优化等",
-          "summary": "开发人员一直在尝试 HTML-in-Canvas，这是一种六边形世界地图分析功能，是一种基于 Web 的电子墨水设备操作系统，它使用…",
-          "url": "https://css-tricks.com/whats-important-10/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-01T13:43:26.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "cfd2e914e9315f32",
-          "title": "Designing Stable Interfaces For Streaming Content",
-          "titleZh": "为流媒体内容设计稳定的界面",
-          "summary": "流式 UI 在表面上是一个简单的概念，但在实践中相当复杂。有许多需要考虑的因素，从布局转变……",
-          "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-05-01T08:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-          "author": "hello@smashingmagazine.com (Joas Pambou)"
-        },
-        {
-          "id": "0f1728a8be2659a0",
-          "title": "The Importance of Native Randomness in CSS",
-          "titleZh": "CSS 中原生随机的重要性",
-          "summary": "我们正在获得在 CSS 中生成随机数的新函数！但到达这里的道路漫长而曲折。CSS 中原生随机的重要性……",
-          "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-04-30T15:26:18.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "84da1579a47e5f85",
-          "title": "A Fresh View In May (2026 Wallpapers Edition)",
-          "titleZh": "五月清新景观（2026年壁纸版）",
-          "summary": "让我们以全新的桌面壁纸系列迎接 May 吧！按照我们每月的传统，壁纸是由社区为社区创建的，可以......",
-          "url": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-04-30T11:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)"
         }
       ]
     },
@@ -409,52 +406,33 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "f7359ee67b3a16c8",
-          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-          "titleZh": "GPT-5.5 即时：更智能、更清晰、更个性化",
-          "summary": "GPT-5.5 即时更新 ChatGPT 的默认模型，提供更智能、更准确的答案，减少幻觉，并改进个性化控制。",
-          "url": "https://openai.com/index/gpt-5-5-instant",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-05T10:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 95,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "5abe82fcc6fcd4a1",
-          "title": "GPT-5.5 Instant System Card",
-          "titleZh": "GPT-5.5 即时系统卡",
+          "id": "8d304fcf3120f7bd",
+          "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+          "titleZh": "vLLM V0 至 V1：RL 校正前的正确性",
           "summary": "",
-          "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-05T10:00:00.000Z",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-05-06T19:06:55.000Z",
           "category": "ai",
           "tags": [
             "AI",
-            "模型产品"
+            "开源模型"
           ],
-          "score": 90,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "d8f253b18b03f4cd",
-          "title": "New ways to buy ChatGPT ads",
-          "titleZh": "购买 ChatGPT 广告的新方法",
-          "summary": "OpenAI 通过测试版自助广告管理器、CPC 出价和增强的测量工具扩展了 ChatGPT 广告，旨在保护隐私并保持对话独立于……",
-          "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+          "id": "560719e1be947515",
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "titleZh": "推出 ChatGPT 期货：2026 级",
+          "summary": "认识 2026-26年 ChatGPT 期货课程的学生创新者，他们使用人工智能来构建、研究和推动现实世界的影响。了解这一代人如何重新定义学习……",
+          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-05T00:00:00.000Z",
+          "publishedAt": "2026-05-06T00:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
@@ -466,58 +444,77 @@
           "author": ""
         },
         {
-          "id": "d8a4f41b240e64ec",
-          "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-          "titleZh": "OpenAI 和普华永道合作重塑首席财务官办公室",
-          "summary": "OpenAI 和普华永道正在合作，帮助企业使用人工智能代理来自动化财务工作流程、改进预测、加强控制并实现首席财务官职能的现代化。",
-          "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+          "id": "8df18918fe911372",
+          "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+          "titleZh": "Singular Bank 通过 ChatGPT 和 Codex 帮助银行家快速行动",
+          "summary": "Singular Bank 创建了 Singularity，这是一个使用 ChatGPT 和 Codex 的内部助理，帮助银行家每天节省 60–90分钟的会议准备、投资组合分析和跟踪……",
+          "url": "https://openai.com/index/singular-bank",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-04T21:00:00.000Z",
+          "publishedAt": "2026-05-06T00:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "模型产品"
           ],
-          "score": 75,
+          "score": 80,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "8dfbc1b735881bfd",
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "titleZh": "OpenAI 如何大规模提供低延迟语音 AI",
-          "summary": "OpenAI 如何重建其 WebRTC 堆栈，以低延迟、全局规模和无缝对话轮流的方式为实时语音 AI 提供支持。",
-          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+          "id": "c7922d6caa0de35a",
+          "title": "Uber uses OpenAI to help people earn smarter and book faster",
+          "titleZh": "优步使用 OpenAI 帮助人们更聪明地赚钱并更快地预订",
+          "summary": "优步使用 OpenAI 为人工智能助手和语音功能提供支持，帮助合作车主在全球实时平台上更智能地赚取收入，并加快乘客的预订速度。",
+          "url": "https://openai.com/index/uber",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-04T00:00:00.000Z",
+          "publishedAt": "2026-05-06T00:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "模型产品"
           ],
-          "score": 68,
+          "score": 79,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "d85e1ef950d7aed2",
-          "title": "Introducing Advanced Account Security",
-          "titleZh": "隆重推出高级账号安全功能",
-          "summary": "推出高级账号安全功能：防钓鱼登录、更强大的恢复功能和增强的保护措施，以保护敏感数据并防止账号被盗用。",
-          "url": "https://openai.com/index/advanced-account-security",
+          "id": "820b1e807305158d",
+          "title": "How frontier enterprises are building an AI advantage",
+          "titleZh": "前沿企业如何打造人工智能优势",
+          "summary": "OpenAI 的 B2B Signals 研究显示了前沿企业如何深化人工智能的采用，扩展由 Codex 驱动的代理工作流程，并建立持久的竞争优势。",
+          "url": "https://openai.com/index/introducing-b2b-signals",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-04-30T00:00:00.000Z",
+          "publishedAt": "2026-05-06T00:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "模型产品"
           ],
-          "score": 69,
+          "score": 79,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "077143e255a6724f",
+          "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+          "titleZh": "将 Benchmaxxer Repellant 添加到 Open ASR 排行榜",
+          "summary": "",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-05-06T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 70,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -530,90 +527,51 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "0c666abc0a4c3692",
-          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-          "titleZh": "SAP 在 18 个月大的德国人工智能实验室下注 11.6亿美元，并对 NemoClaw 说“是”",
-          "summary": "SAP 计划收购德国人工智能初创公司 Prior Labs，并投入巨资。它还禁止客户的代理使用像 Nvidia 的 NemoClaw 这样的少数产品。",
-          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+          "id": "1f4b23dd392bd995",
+          "title": "Five architects of the AI economy explain where the wheels are coming off",
+          "titleZh": "人工智能经济的五位架构师解释了车轮在哪里脱落",
+          "summary": "本周早些时候，在比佛利山庄举行的米尔肯全球会议上，接触人工智能供应链每一层的五个人坐了下来，在那里他们与 TechCrunc 进行了交谈……",
+          "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-05T23:50:10.000Z",
+          "publishedAt": "2026-05-07T05:25:10.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "c10532da0df8ab08",
+          "title": "Code with Claude: The 5 biggest updates explained",
+          "titleZh": "Claude 的代码：5 大更新说明",
+          "summary": "立即观看|与 Claude 一起在 Code 推出的🎙️“人类学的一切”",
+          "url": "https://www.lennysnewsletter.com/p/code-with-claude-the-5-biggest-updates",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-05-07T01:39:47.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业"
           ],
           "score": 99,
           "sourceType": "rss",
-          "cover": "",
+          "cover": "https://api.substack.com/feed/podcast/196728261/2c412304feddf5649ce035be28268a69.mp3",
           "author": ""
         },
         {
-          "id": "808da29c571058cc",
-          "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-          "titleZh": "Nuro 在推出机器人出租车服务前获得无人驾驶测试许可",
-          "summary": "这家硅谷 AV 初创公司尚未开始无人驾驶测试。",
-          "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+          "id": "896d4d0922187785",
+          "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+          "titleZh": "20分钟的投球赢得了来自 Lachy Groom 的印度初创公司 Pronto 的支持",
+          "summary": "投资之际，Pronto 每日预订量达到 26,000 笔，市场规模可能达到 180亿美元 $。",
+          "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-06T00:07:47.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "94b30a553466d03a",
-          "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
-          "titleZh": "Bumble 的付费用户正在下滑，因为它押注今年晚些时候进行大修",
-          "summary": "该公司正在大力打赌，滑动模型已经过时，大多数匹配永远不会变成实际日期。该公司希望通过重新设计配置文件来解决这个问题……",
-          "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-05T23:05:50.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "c5d10669b891ff60",
-          "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-          "titleZh": "Altara 获得了 700 万 $的资金，以弥补拖慢物理科学发展的数据鸿沟",
-          "summary": "Altara 的人工智能旨在通过跨电子表格和遗留系统统一孤立的数据来诊断故障并帮助加快研发速度。",
-          "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-05T22:57:41.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f4efe211eb664ec0",
-          "title": "Lucid Motors doesn’t know how many EVs it will build this year",
-          "titleZh": "Lucid Motors 不知道今年将生产多少辆电动汽车",
-          "summary": "Lucid Motors 在处理不断膨胀的库存和全公司范围的成本削减措施时，撤销了今年的指导方针。",
-          "url": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-05T22:31:57.000Z",
+          "publishedAt": "2026-05-06T22:30:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -625,21 +583,60 @@
           "author": ""
         },
         {
-          "id": "cc1450c5930c5e82",
-          "title": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
-          "titleZh": "为什么 SaaS 免费增值剧本在人工智能中不起作用，以及该怎么做",
-          "summary": "如何构建真正有效的人工智能货币化策略",
-          "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-05T13:03:32.000Z",
+          "id": "5fba2ca6fd3d33e9",
+          "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+          "titleZh": "Barry Diller 信任 Sam Altman。但他说，随着 AGI 的临近，“信任无关紧要”。",
+          "summary": "Barry Diller 为 OpenAI 首席执行官 Sam Altman 辩护，同时警告说 AGI 仍然是一种需要护栏的不可预测的力量。",
+          "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-06T21:57:56.000Z",
           "category": "product",
           "tags": [
-            "产品/商业"
+            "产品/商业",
+            "科技公司"
           ],
-          "score": 79,
+          "score": 95,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!jX4T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dbe470a-3caf-43dd-ab76-118d515e409f_1456x970.png",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "47efc33b216fc1bd",
+          "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+          "titleZh": "Snap 表示，与 Perplexity 的 4亿美元交易“友好结束”",
+          "summary": "去年11月宣布的这笔交易将使 Perplexity 的人工智能搜索引擎直接集成到 Snapchat 中。",
+          "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-06T21:43:24.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "eb59a9062827d68b",
+          "title": "Is xAI a neocloud now?",
+          "titleZh": "XAI 现在是新云吗？",
+          "summary": "xAI 的真正业务可能更多的是建立数据中心，而不是训练 AI 模型。",
+          "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-06T21:32:55.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 93,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -649,6 +646,44 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "37e22c7c86f37fba",
+          "title": "We built this. Now we own it.",
+          "titleZh": "我们建造了这个。现在我们拥有它。",
+          "summary": "",
+          "url": "https://uxdesign.cc/we-built-this-now-we-own-it-1f8f1ba7c768?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-06T23:00:10.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "aaafd14b1dba1d5a",
+          "title": "Why you need to protect your work more than ever",
+          "titleZh": "为什么您比以往任何时候都更需要保护您的工作",
+          "summary": "",
+          "url": "https://uxdesign.cc/why-you-need-to-protect-your-work-more-than-ever-7d0ac5836540?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-06T11:18:09.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "6dd54b2ec038f4bc",
           "title": "The trick to designing agentic AI is learning how to think like a manager",
@@ -663,7 +698,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 87,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*XeOtoqjZiImMRShO9fbPug.jpeg",
           "author": ""
@@ -682,7 +717,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 83,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -701,7 +736,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 64,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -720,45 +755,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 64,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "61fb214df907f1bf",
-          "title": "You skipped the first question. Now you’re adding AI.",
-          "titleZh": "您跳过了第一个问题。现在您要添加 AI。",
-          "summary": "",
-          "url": "https://uxdesign.cc/you-skipped-the-first-question-now-youre-adding-ai-e3d70fc80e90?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-04T23:04:18.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 64,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "fd025fc2b2409f57",
-          "title": "When AI decides and human signs off",
-          "titleZh": "当人工智能做出决定，人类签字时",
-          "summary": "",
-          "url": "https://uxdesign.cc/when-ai-decides-and-human-signs-off-901e42d07ba5?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-04T23:04:02.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 64,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -771,87 +768,32 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "6af625e11a844ce0",
-          "title": "让 AI 去 mjj， AI 会掉进营销陷阱吗？问 GPT-5.5 $7/y 服务器选型，它推荐家人云。",
-          "summary": "问 GPT-5.5 $7/y 服务器选型，它推荐了家人云 BitsFlowCloud。",
-          "url": "https://www.v2ex.com/t/1210526#reply1",
+          "id": "85b2e3d20c49dd73",
+          "title": "长期在 github 给开源项目提 pr 的 git 规范流程是什么样的？",
+          "summary": "我使用的一个开源项目工具，发现它有 bug，于是 fork 了一份，然后 git clone 到本地，直接在 main 分支上改了一下，push 之后，然后在 github 开了一个 pr，最终代码被 merge 了。这个项目是 macOS 的一个 app，只要 xcode 打开，就会改动一些配置文件。虽然 git 提交时候…",
+          "url": "https://www.v2ex.com/t/1210765#reply6",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-06T05:09:21.000Z",
+          "publishedAt": "2026-05-07T02:14:29.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
           "score": 111,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/kRU7mTC.png",
-          "author": "longxinglink"
-        },
-        {
-          "id": "0124d0be7152e526",
-          "title": "opencode go 的 deepseek v4 flash 也开始 429 了？",
-          "summary": "，今天调用报 bad response status code 429, message: Error from provider (DeepSeek): Too many requests. Please pace your requests reasonably. Your current concurrency: 2000,…",
-          "url": "https://www.v2ex.com/t/1210501#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-06T03:57:02.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "lynn1su"
+          "author": "ethusdt"
         },
         {
-          "id": "a2392f4f98e09402",
-          "title": "自研开源跨平台音乐播放器 xmusic",
-          "summary": "基于 SOUI5 开发了一款开源绿色跨平台音乐播放器:xmusic,支持 mp3,flac,wav,wma,m4a 等格式。官网：https://soui.com.cn/xmusic 下载：win64: https://soui.com.cn/xmusic/download/XMusic.win64.1.0.zip linux…",
-          "url": "https://www.v2ex.com/t/1210463#reply4",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-06T02:50:37.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "https://soui.com.cn/xmusic/assets/screenshots/main.png",
-          "author": "soui"
-        },
-        {
-          "id": "97c416107b62953b",
-          "title": "Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping",
-          "titleZh": "业界领先的 245TB Micron 6600 离子数据中心固态硬盘现已发货",
-          "summary": "Hacker News 热帖，当前积分 17，评论 7。",
-          "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+          "id": "1614062a233c4c93",
+          "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+          "titleZh": "使用 ZFS、iSCSI 和 PXE 的无磁盘 Linux 引导",
+          "summary": "Hacker News 热帖，当前积分 33，评论 3。",
+          "url": "https://aniket.foo/posts/20260505-netboot/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-06T03:37:51.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "debb4ad66d674578",
-          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-          "titleZh": "代理现在可以创建 Cloudflare 帐户、购买域和部署",
-          "summary": "Hacker News 热帖，当前积分 123，评论 50。",
-          "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-06T03:10:33.000Z",
+          "publishedAt": "2026-05-07T03:13:24.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -863,14 +805,68 @@
           "sourceType": "api"
         },
         {
-          "id": "36b7ecda858f4fd5",
-          "title": "StarFighter 16-Inch",
-          "titleZh": "StarFighter 16 英寸",
-          "summary": "Hacker News 热帖，当前积分 154，评论 81。",
-          "url": "https://us.starlabs.systems/pages/starfighter",
+          "id": "d2865ac00d55a9d9",
+          "title": "怎么破 codex 的手机号码验证？",
+          "summary": "51 回来之后发现使用 codex 必须要通过手机号验证了 试过 google voice 提示“这似乎是个虚拟号码（也称为 VoIP）。请提供有效的非虚拟电话号码以继续。” 你们有碰到这个问题吗？是怎么解决的 急，在线等",
+          "url": "https://www.v2ex.com/t/1210789#reply16",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-07T03:03:28.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "ben548"
+        },
+        {
+          "id": "1d85a06cb08c9bdc",
+          "title": "如何在外面调用家里的本地算力，大佬们来个方案",
+          "summary": "如何在外面调用家里的本地算力，大佬们来个方案，我玩一玩",
+          "url": "https://www.v2ex.com/t/1210806#reply10",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-07T03:39:26.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "babymonster"
+        },
+        {
+          "id": "b5a2bacc16495622",
+          "title": "有人知道现在的大学生在学什么么，不会还是当年我学到 struct2 spring mvc 吧",
+          "summary": "如题。学生一代又一代，老师还是那一批",
+          "url": "https://www.v2ex.com/t/1210801#reply15",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-07T03:22:48.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 107,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "DeepSIeep"
+        },
+        {
+          "id": "4c168404757ec4bf",
+          "title": "Permacomputing Principles",
+          "titleZh": "Permacomputing 原理",
+          "summary": "Hacker News 热帖，当前积分 68，评论 7。",
+          "url": "https://permacomputing.net/principles/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-06T02:03:44.000Z",
+          "publishedAt": "2026-05-07T02:18:23.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -878,7 +874,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 108,
+          "score": 109,
           "sourceType": "api"
         }
       ]
@@ -909,11 +905,11 @@
       "count": 12
     },
     {
-      "tag": "工具/网站",
+      "tag": "产品/商业",
       "count": 10
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
@@ -925,11 +921,11 @@
       "count": 8
     },
     {
-      "tag": "开发者社区",
+      "tag": "效率",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "开发者社区",
       "count": 6
     },
     {
@@ -937,11 +933,11 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -957,7 +953,7 @@
       "count": 4
     },
     {
-      "tag": "CSS相关",
+      "tag": "技术周刊",
       "count": 3
     }
   ]
