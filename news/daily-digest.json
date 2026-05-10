@@ -1,107 +1,70 @@
 {
-  "generatedAt": "2026-05-09T05:19:50.849Z",
+  "generatedAt": "2026-05-10T05:35:25.017Z",
   "headline": {
-    "id": "efde2e2f3d720b30",
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "titleZh": "使用 Claude Code：HTML 不合理的效果",
-    "summary": "示例：https://thariqs.github.io/html-effectiveness/相关：https://simonwillison.net/2026/May/8/unreasonable-effectiven...",
-    "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "publishedAt": "2026-05-09T04:53:52.000Z",
+    "id": "63d548dfbe46de8b",
+    "title": "一直用 Opus 4.6.最近听说 claude 加卡了。4.7 能否一战了？",
+    "summary": "我主要是 opus 负责些 plan，codex 负责编码。我个人比较喜欢编码严谨的。然后 opus 再审一遍，最后我个人审 但看到评价 4.7 意志不坚定，你一反驳他就认同你。这就很难绷啊。。",
+    "url": "https://www.v2ex.com/t/1211614#reply1",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-05-10T04:57:29.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "工程效率",
-      "Hacker News",
-      "讨论"
+      "开发者社区"
     ],
-    "score": 116,
-    "sourceType": "api"
+    "score": 112,
+    "sourceType": "rss",
+    "cover": "",
+    "author": "sampeng"
   },
   "latest": [
     {
-      "id": "efde2e2f3d720b30",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "titleZh": "使用 Claude Code：HTML 不合理的效果",
-      "summary": "示例：https://thariqs.github.io/html-effectiveness/相关：https://simonwillison.net/2026/May/8/unreasonable-effectiven...",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "id": "63d548dfbe46de8b",
+      "title": "一直用 Opus 4.6.最近听说 claude 加卡了。4.7 能否一战了？",
+      "summary": "我主要是 opus 负责些 plan，codex 负责编码。我个人比较喜欢编码严谨的。然后 opus 再审一遍，最后我个人审 但看到评价 4.7 意志不坚定，你一反驳他就认同你。这就很难绷啊。。",
+      "url": "https://www.v2ex.com/t/1211614#reply1",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-10T04:57:29.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "sampeng"
+    },
+    {
+      "id": "ab4ab68a2b6b394b",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "titleZh": "Show HN：在汇编中构建 Web 服务器，赋予我的生活（缺乏）意义",
+      "summary": "这是 ymawky，一个完全用 ARM64 程序集编写的 MacOS 静态文件 Web 服务器。它支持 GET、PUT、DELETE、HEAD 和 OPTIONS 请求，并支持 Range：by…",
+      "url": "https://github.com/imtomt/ymawky",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-09T04:53:52.000Z",
+      "publishedAt": "2026-05-10T03:01:44.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "工程效率",
         "Hacker News",
         "讨论"
-      ],
-      "score": 116,
-      "sourceType": "api"
-    },
-    {
-      "id": "1eef8cc4f12fc858",
-      "title": "这个年龄，有点迷茫",
-      "summary": "rt，先说一下自己的情况吧 00年，老家三四线小城市(内蒙包头 这里透露一下应该也没什么问题吧)，双非本，父母都是打工人，无社保 我现在在上海一家小公司，每月到手一万出头，23年毕业到现在一直在这家公司，月光无存款 有一个女朋友，北京的，年龄相仿，认识快 5年了，谈了有 3年多了 公司\"可能\"算的上是小而美吧 一家游戏公司…",
-      "url": "https://www.v2ex.com/t/1211423#reply7",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-09T04:35:25.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
       ],
       "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "lemonshuo"
+      "sourceType": "api"
     },
     {
-      "id": "739bdaf7e994e6ed",
-      "title": "求推荐稳定的虚拟卡用于绑定 openai anthropic 支付",
-      "summary": "求推荐稳定的虚拟卡用于绑定 openai anthropic 支付！支持 okx 线上或者国内支付的最好！！",
-      "url": "https://www.v2ex.com/t/1211428#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-09T05:12:02.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "genuifx"
-    },
-    {
-      "id": "ee1b3b89a8093687",
-      "title": "基于 AI 的 Chrome 爬虫辅助插件",
-      "summary": "基于 AI 的 Chrome 爬虫辅助插件，自动监听网络请求并解析 API 逻辑。之前爬虫每次都去抓 API 然后丢给 AI 分析，很麻烦，写了个 Chrome 插件，直接去抓请求，然后丢给 AI 分析这个接口是做什么的，以及一些字段分析。功能 自动抓取：实时捕获浏览器 Fetch/XHR 请求及其 Response。AI…",
-      "url": "https://www.v2ex.com/t/1211407#reply4",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-09T03:34:13.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "mikawang"
-    },
-    {
-      "id": "65e3528e34fb2742",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "titleZh": "最近使用 ChatGPT 5.5 Pro 的体验",
-      "summary": "https://twitter.com/wtgowers/status/2052830948685676605 https://xcancel.com/wtgowers/status/2052830948685676605",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "id": "c85f4625ae49ce46",
+      "title": "Gemini API File Search is now multimodal",
+      "titleZh": "Gemini API 文件搜索现在是多模态的",
+      "summary": "Hacker News 热帖，当前积分 40，评论 2。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-09T02:41:42.000Z",
+      "publishedAt": "2026-05-10T03:22:02.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -109,66 +72,140 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 112,
+      "score": 110,
       "sourceType": "api"
     },
     {
-      "id": "0aae86a6777f18a0",
-      "title": "分析一个技巧让同事不知道我使用了 ai ： git 忽略本地改动文件，实现不提交",
-      "summary": "git 库中不存在的文件 可以修改 项目路径下的 .git/info/exclude 添加忽略规则，和 .gitignore 效果一致，但是不会被提交到 git 已经被提交的文件 例如如果你使用了我的 vite-plugin-pilot 插件，而不想被人知道的话可以通过如下命令实现 ## 添加忽略 git update-index…",
-      "url": "https://www.v2ex.com/t/1211377#reply6",
+      "id": "3bcc30734f54156d",
+      "title": "登录 codex 需要手机验证到成功登录的经历",
+      "summary": "昨天下午第一次下载 codex，我有两个账号，一个是 22年用手机号（接码平台）注册的账号，一个是前几月用 Google 账号注册的，我先使用新账号进行登录，提示要手机验证，打算切换老账号，但是在没有输入账号之前也需要手机验证，此时我使用的节点是 cf 的，后来我又换了谷歌云的节点，也试过退出 codex 重新打开，还是需要先验…",
+      "url": "https://www.v2ex.com/t/1211590#reply4",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-09T02:51:13.000Z",
+      "publishedAt": "2026-05-10T02:13:32.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 112,
+      "score": 110,
       "sourceType": "rss",
       "cover": "",
-      "author": "llej"
+      "author": "Henryable"
     },
     {
-      "id": "a540f33eee837c78",
-      "title": "Rebased, 一个 git 客户端",
-      "summary": "将 IntelliJ IDEA 内置的 Git 客户端剥离出来，做了一个精简版。对于习惯了 IntelliJ 的 Git 的用户估计会是一个好的选择。https://github.com/detachhead/rebased rebased, fork, 这些 app name 取得也挺好的。当然，作者不是我。",
-      "url": "https://www.v2ex.com/t/1211364#reply10",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-09T02:19:04.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "nathanw"
-    },
-    {
-      "id": "bccefba340816d7b",
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "titleZh": "被解雇的甲骨文员工试图通过谈判获得更好的遣散费。甲骨文拒绝了。",
-      "summary": "有些人发现，由于公司将他们归类为远程工作者，他们不符合 WARN 法案的保护条件，例如提前两个月通知。",
-      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "id": "483e3c70f4bf28f9",
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "titleZh": "语音人工智能在印度很难。无论如何，Wispr Flow 都在押注它。",
+      "summary": "Wispr Flow 表示，在 Hinglish 推出后，印度的增长速度加快，尽管语音人工智能产品仍面临挑战。",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-08T22:59:05.000Z",
+      "publishedAt": "2026-05-10T02:00:00.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 98,
+      "score": 101,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "d6e1bc0e435e6d24",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "titleZh": "所以你已经听过这些人工智能术语并点了点头；让我们来解决这个问题",
+      "summary": "人工智能的崛起带来了大量的新术语和俚语。以下是您可能遇到的一些最重要的单词和短语的定义词汇表。",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-09T21:45:00.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 96,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "69820fa465fd9bc1",
+      "title": "如果有这样一个 agent 框架，大家怎么选择？",
+      "summary": "最近 agent 相关开发的时候遇到个问题，然后想到的。想和各位讨论下。现在很多 agent sdk，核心好像基本都是：agent loop + ReAct + tools + 一些 harness 工程 memory / rag / provider 这些无关的先不讨论 我最近的感觉是，普通 agent loop 在开放场景…",
+      "url": "https://www.v2ex.com/t/1211570#reply7",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-09T19:38:27.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 100,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "imdoge"
+    },
+    {
+      "id": "d1a14e7d031becbb",
+      "title": "Fintech startup Parker files for bankruptcy",
+      "titleZh": "金融科技初创公司 Parker 申请破产",
+      "summary": "Parker 是一家资金充足的初创公司，提供企业信用卡和银行服务，已申请破产，据广泛报道已关闭。",
+      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-09T20:32:17.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 94,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "8839e69fa2586094",
+      "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
+      "summary": "Brave 推出官方「纯净版」@PlatyHsu:Brave 在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
+      "url": "https://sspai.com/prime/story/inside-release-notes-260509",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-09T10:40:53.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "70733967252a08f0",
+      "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
+      "summary": "母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ... 查看全文",
+      "url": "https://sspai.com/post/98902",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-09T07:06:21.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 82,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Matrix机器人"
+    },
     {
       "id": "65c00be03c7a97cb",
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -182,7 +219,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 87,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -200,10 +237,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 86,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "waychane"
+    },
+    {
+      "id": "71a47718752562b5",
+      "title": "Zappy by ZapDigits",
+      "titleZh": "Zappy by ZapDigits",
+      "summary": "您的人工智能报告分析师",
+      "url": "https://www.producthunt.com/products/zapdigits",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-08T09:57:19.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 54,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "fmerian"
     },
     {
       "id": "aa3560b526054d25",
@@ -218,65 +274,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 73,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "江哗啦啦"
-    },
-    {
-      "id": "b1a8a594d2fa2cd0",
-      "title": "派早报：Google 发布 Fitbit Air 等",
-      "summary": "高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文",
-      "url": "https://sspai.com/post/109489",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-08T00:51:39.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 70,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "e9e4dd7cccac1685",
-      "title": "Operations",
-      "titleZh": "运营",
-      "summary": "将每个新标签页变成您的个人控制面板",
-      "url": "https://www.producthunt.com/products/operations",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-07T19:53:10.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 59,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Bas Fijneman"
-    },
-    {
-      "id": "676fb16026401e83",
-      "title": "新玩意 240｜少数派的编辑们最近买了啥？",
-      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡 G7Pro 天 ... 查看全文",
-      "url": "https://sspai.com/post/109474",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-07T09:03:10.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -299,7 +300,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 99,
+          "score": 67,
           "sourceType": "rss",
           "cover": "https://css-tricks.com/wp-content/uploads/2026/04/corner-shape-fold-5-1.mp4",
           "author": ""
@@ -317,7 +318,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 76,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202605/bg2026050602.webp",
           "author": "阮一峰"
@@ -406,20 +407,20 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "c15c059bf2f9a115",
-          "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-          "titleZh": "CyberSecQwen-4B：为什么防御性网络需要小型、专业、本地运行的模型",
+          "id": "afc9e8737a9b4d0e",
+          "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+          "titleZh": "“OncoAgent：保护隐私的肿瘤临床决策支持双层多代理框架”",
           "summary": "",
-          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
           "source": "Hugging Face Blog",
           "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-05-08T17:41:05.000Z",
+          "publishedAt": "2026-05-09T18:09:28.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "开源模型"
           ],
-          "score": 98,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -438,7 +439,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 96,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -457,7 +458,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 100,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,90 +528,71 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "bccefba340816d7b",
-          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-          "titleZh": "被解雇的甲骨文员工试图通过谈判获得更好的遣散费。甲骨文拒绝了。",
-          "summary": "有些人发现，由于公司将他们归类为远程工作者，他们不符合 WARN 法案的保护条件，例如提前两个月通知。",
-          "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+          "id": "483e3c70f4bf28f9",
+          "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+          "titleZh": "语音人工智能在印度很难。无论如何，Wispr Flow 都在押注它。",
+          "summary": "Wispr Flow 表示，在 Hinglish 推出后，印度的增长速度加快，尽管语音人工智能产品仍面临挑战。",
+          "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-08T22:59:05.000Z",
+          "publishedAt": "2026-05-10T02:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "5f458cb60091e2dc",
-          "title": "San Francisco’s housing market has lost its mind",
-          "titleZh": "旧金山的房地产市场已经失去理智",
-          "summary": "对于关注这座城市科技经济的人来说，这一切背后的无形力量并不神秘。旧金山是一些最有价值的私人住宅……",
-          "url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+          "id": "d6e1bc0e435e6d24",
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "titleZh": "所以你已经听过这些人工智能术语并点了点头；让我们来解决这个问题",
+          "summary": "人工智能的崛起带来了大量的新术语和俚语。以下是您可能遇到的一些最重要的单词和短语的定义词汇表。",
+          "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-08T22:32:31.000Z",
+          "publishedAt": "2026-05-09T21:45:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "dfcc254dcdce4e4c",
-          "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-          "titleZh": "Prime Video 跟随 Netflix 和迪士尼，在其应用程序中添加了类似 TikTok 的“Clips” Feed",
-          "summary": "剪辑摘要旨在通过为用户提供可滚动的摘要和简短的节目和电影片段来实现发现。",
-          "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
+          "id": "d1a14e7d031becbb",
+          "title": "Fintech startup Parker files for bankruptcy",
+          "titleZh": "金融科技初创公司 Parker 申请破产",
+          "summary": "Parker 是一家资金充足的初创公司，提供企业信用卡和银行服务，已申请破产，据广泛报道已关闭。",
+          "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-08T20:50:03.000Z",
+          "publishedAt": "2026-05-09T20:32:17.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "f3a6f6cd91398303",
-          "title": "Intel’s comeback story is even wilder than it seems",
-          "titleZh": "英特尔的复出故事比看起来更疯狂",
-          "summary": "英特尔股价在过去一年中上涨了惊人的 490%，这是华尔街的一个押注，可能远远领先于该公司的实际扭亏为盈。",
-          "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+          "id": "60e2fc0415c7d26f",
+          "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+          "titleZh": "通用汽车同意支付 $1275 万加州司机隐私和解费",
+          "summary": "通用汽车已与加利福尼亚州总检察长 Rob Bonta 领导的一组执法机构达成与隐私相关的和解。",
+          "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-08T20:02:52.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 93,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f59de7a12a0262c8",
-          "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-          "titleZh": "Cloudflare 表示，人工智能使 1100 个工作岗位过时，尽管收入创下历史新高",
-          "summary": "Cloudflare 宣布首次大规模裁员。首席执行官马修·普林斯（Matthew Prince）表示，由于人工智能效率的提高，该公司不需要那么多支持角色。",
-          "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-08T18:33:21.000Z",
+          "publishedAt": "2026-05-09T19:05:30.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -622,21 +604,40 @@
           "author": ""
         },
         {
-          "id": "c10532da0df8ab08",
-          "title": "Code with Claude: The 5 biggest updates explained",
-          "titleZh": "Claude 的代码：5 大更新说明",
-          "summary": "立即观看|与 Claude 一起在 Code 推出的🎙️“人类学的一切”",
-          "url": "https://www.lennysnewsletter.com/p/code-with-claude-the-5-biggest-updates",
+          "id": "1e99f0e69be12486",
+          "title": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
+          "titleZh": "🧠 社区智慧：当非 PM 开始直接运送到生产时该怎么办，关于 Claude Code 的定价 A/B 测试的想法，在游戏中使用 gen AI 等等",
+          "summary": "社区智慧 185",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-07T01:39:47.000Z",
+          "publishedAt": "2026-05-09T18:18:35.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 47,
+          "score": 85,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/196728261/2c412304feddf5649ce035be28268a69.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "c59399eb1506c6e2",
+          "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
+          "titleZh": "Instax Wide 400 建立在即时摄影的简单性之上，并从字面上拉伸它",
+          "summary": "在人工智能和数字世界中，模拟即时胶片和复古风格的相机在怀旧和新奇的混合推动下继续流行。",
+          "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-09T15:45:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 86,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -646,6 +647,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "6e229156370428f0",
+          "title": "The left-handed rope",
+          "titleZh": "左手绳",
+          "summary": "关于神圣的设计模式，以及小逆转的长期影响继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-09T09:48:25.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*SpjPFOg1_zo2XIGkVIvFyA.jpeg",
+          "author": ""
+        },
         {
           "id": "1e7d74b7b7b91261",
           "title": "Everything I know about AI, I learned from a genie",
@@ -660,7 +680,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 99,
+          "score": 60,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -679,7 +699,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 64,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -698,7 +718,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 64,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -717,7 +737,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 64,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -736,28 +756,9 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 64,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
-          "author": ""
-        },
-        {
-          "id": "4a3cb7c077511318",
-          "title": "The first taste of Joy",
-          "titleZh": "喜悦的第一味",
-          "summary": "几份薯条、一块鸡肉和一个初学者的想法成为了我在 Joyful Design 的第一课。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/the-first-taste-of-joy-02f81408ac8a?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-07T05:57:29.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 60,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/810/1*NXqDGQagm-3OSfclOnFD8A.jpeg",
           "author": ""
         }
       ]
@@ -768,87 +769,51 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "efde2e2f3d720b30",
-          "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-          "titleZh": "使用 Claude Code：HTML 不合理的效果",
-          "summary": "示例：https://thariqs.github.io/html-effectiveness/相关：https://simonwillison.net/2026/May/8/unreasonable-effectiven...",
-          "url": "https://twitter.com/trq212/status/2052809885763747935",
+          "id": "63d548dfbe46de8b",
+          "title": "一直用 Opus 4.6.最近听说 claude 加卡了。4.7 能否一战了？",
+          "summary": "我主要是 opus 负责些 plan，codex 负责编码。我个人比较喜欢编码严谨的。然后 opus 再审一遍，最后我个人审 但看到评价 4.7 意志不坚定，你一反驳他就认同你。这就很难绷啊。。",
+          "url": "https://www.v2ex.com/t/1211614#reply1",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-10T04:57:29.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "sampeng"
+        },
+        {
+          "id": "ab4ab68a2b6b394b",
+          "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+          "titleZh": "Show HN：在汇编中构建 Web 服务器，赋予我的生活（缺乏）意义",
+          "summary": "这是 ymawky，一个完全用 ARM64 程序集编写的 MacOS 静态文件 Web 服务器。它支持 GET、PUT、DELETE、HEAD 和 OPTIONS 请求，并支持 Range：by…",
+          "url": "https://github.com/imtomt/ymawky",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-09T04:53:52.000Z",
+          "publishedAt": "2026-05-10T03:01:44.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "工程效率",
             "Hacker News",
             "讨论"
-          ],
-          "score": 116,
-          "sourceType": "api"
-        },
-        {
-          "id": "1eef8cc4f12fc858",
-          "title": "这个年龄，有点迷茫",
-          "summary": "rt，先说一下自己的情况吧 00年，老家三四线小城市(内蒙包头 这里透露一下应该也没什么问题吧)，双非本，父母都是打工人，无社保 我现在在上海一家小公司，每月到手一万出头，23年毕业到现在一直在这家公司，月光无存款 有一个女朋友，北京的，年龄相仿，认识快 5年了，谈了有 3年多了 公司\"可能\"算的上是小而美吧 一家游戏公司…",
-          "url": "https://www.v2ex.com/t/1211423#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-09T04:35:25.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
           ],
           "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "lemonshuo"
+          "sourceType": "api"
         },
         {
-          "id": "739bdaf7e994e6ed",
-          "title": "求推荐稳定的虚拟卡用于绑定 openai anthropic 支付",
-          "summary": "求推荐稳定的虚拟卡用于绑定 openai anthropic 支付！支持 okx 线上或者国内支付的最好！！",
-          "url": "https://www.v2ex.com/t/1211428#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-09T05:12:02.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "genuifx"
-        },
-        {
-          "id": "ee1b3b89a8093687",
-          "title": "基于 AI 的 Chrome 爬虫辅助插件",
-          "summary": "基于 AI 的 Chrome 爬虫辅助插件，自动监听网络请求并解析 API 逻辑。之前爬虫每次都去抓 API 然后丢给 AI 分析，很麻烦，写了个 Chrome 插件，直接去抓请求，然后丢给 AI 分析这个接口是做什么的，以及一些字段分析。功能 自动抓取：实时捕获浏览器 Fetch/XHR 请求及其 Response。AI…",
-          "url": "https://www.v2ex.com/t/1211407#reply4",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-09T03:34:13.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "mikawang"
-        },
-        {
-          "id": "65e3528e34fb2742",
-          "title": "A recent experience with ChatGPT 5.5 Pro",
-          "titleZh": "最近使用 ChatGPT 5.5 Pro 的体验",
-          "summary": "https://twitter.com/wtgowers/status/2052830948685676605 https://xcancel.com/wtgowers/status/2052830948685676605",
-          "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+          "id": "c85f4625ae49ce46",
+          "title": "Gemini API File Search is now multimodal",
+          "titleZh": "Gemini API 文件搜索现在是多模态的",
+          "summary": "Hacker News 热帖，当前积分 40，评论 2。",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-09T02:41:42.000Z",
+          "publishedAt": "2026-05-10T03:22:02.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -856,26 +821,63 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 112,
+          "score": 110,
           "sourceType": "api"
         },
         {
-          "id": "0aae86a6777f18a0",
-          "title": "分析一个技巧让同事不知道我使用了 ai ： git 忽略本地改动文件，实现不提交",
-          "summary": "git 库中不存在的文件 可以修改 项目路径下的 .git/info/exclude 添加忽略规则，和 .gitignore 效果一致，但是不会被提交到 git 已经被提交的文件 例如如果你使用了我的 vite-plugin-pilot 插件，而不想被人知道的话可以通过如下命令实现 ## 添加忽略 git update-index…",
-          "url": "https://www.v2ex.com/t/1211377#reply6",
+          "id": "3bcc30734f54156d",
+          "title": "登录 codex 需要手机验证到成功登录的经历",
+          "summary": "昨天下午第一次下载 codex，我有两个账号，一个是 22年用手机号（接码平台）注册的账号，一个是前几月用 Google 账号注册的，我先使用新账号进行登录，提示要手机验证，打算切换老账号，但是在没有输入账号之前也需要手机验证，此时我使用的节点是 cf 的，后来我又换了谷歌云的节点，也试过退出 codex 重新打开，还是需要先验…",
+          "url": "https://www.v2ex.com/t/1211590#reply4",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-09T02:51:13.000Z",
+          "publishedAt": "2026-05-10T02:13:32.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 110,
           "sourceType": "rss",
           "cover": "",
-          "author": "llej"
+          "author": "Henryable"
+        },
+        {
+          "id": "69820fa465fd9bc1",
+          "title": "如果有这样一个 agent 框架，大家怎么选择？",
+          "summary": "最近 agent 相关开发的时候遇到个问题，然后想到的。想和各位讨论下。现在很多 agent sdk，核心好像基本都是：agent loop + ReAct + tools + 一些 harness 工程 memory / rag / provider 这些无关的先不讨论 我最近的感觉是，普通 agent loop 在开放场景…",
+          "url": "https://www.v2ex.com/t/1211570#reply7",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-09T19:38:27.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 100,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "imdoge"
+        },
+        {
+          "id": "559566a93bb97003",
+          "title": "I’ve banned query strings",
+          "titleZh": "我已禁止查询字符串",
+          "summary": "相关：https://susam.net/no-query-strings.html",
+          "url": "https://chrismorgan.info/no-query-strings",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-09T16:28:36.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 93,
+          "sourceType": "api"
         }
       ]
     }
@@ -886,7 +888,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 81,
+    "totalItems": 82,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -909,6 +911,10 @@
       "count": 10
     },
     {
+      "tag": "工具/网站",
+      "count": 9
+    },
+    {
       "tag": "工程效率",
       "count": 8
     },
@@ -917,15 +923,7 @@
       "count": 8
     },
     {
-      "tag": "工具/网站",
-      "count": 8
-    },
-    {
       "tag": "开发者社区",
-      "count": 6
-    },
-    {
-      "tag": "交互设计",
       "count": 6
     },
     {
@@ -933,11 +931,15 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "效率",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "交互设计",
+      "count": 6
+    },
+    {
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -949,12 +951,12 @@
       "count": 5
     },
     {
-      "tag": "技术周刊",
+      "tag": "新产品",
       "count": 3
     },
     {
-      "tag": "新产品",
-      "count": 2
+      "tag": "技术周刊",
+      "count": 3
     }
   ]
 }
