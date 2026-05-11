@@ -1,51 +1,93 @@
 {
-  "generatedAt": "2026-05-10T05:35:25.017Z",
+  "generatedAt": "2026-05-11T05:56:47.946Z",
   "headline": {
-    "id": "63d548dfbe46de8b",
-    "title": "一直用 Opus 4.6.最近听说 claude 加卡了。4.7 能否一战了？",
-    "summary": "我主要是 opus 负责些 plan，codex 负责编码。我个人比较喜欢编码严谨的。然后 opus 再审一遍，最后我个人审 但看到评价 4.7 意志不坚定，你一反驳他就认同你。这就很难绷啊。。",
-    "url": "https://www.v2ex.com/t/1211614#reply1",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-05-10T04:57:29.000Z",
-    "category": "industry",
+    "id": "02527cb1ed5fab91",
+    "title": "How enterprises are scaling AI",
+    "titleZh": "企业如何扩展人工智能",
+    "summary": "企业如何扩展人工智能：从早期实验到通过信任、治理、工作流程设计和大规模质量来复合影响。",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "source": "OpenAI News",
+    "sourceUrl": "https://openai.com/news/",
+    "publishedAt": "2026-05-11T10:00:00.000Z",
+    "category": "ai",
     "tags": [
-      "行业热点",
-      "开发者社区"
+      "AI",
+      "模型产品"
     ],
-    "score": 112,
+    "score": 126,
     "sourceType": "rss",
     "cover": "",
-    "author": "sampeng"
+    "author": ""
   },
   "latest": [
     {
-      "id": "63d548dfbe46de8b",
-      "title": "一直用 Opus 4.6.最近听说 claude 加卡了。4.7 能否一战了？",
-      "summary": "我主要是 opus 负责些 plan，codex 负责编码。我个人比较喜欢编码严谨的。然后 opus 再审一遍，最后我个人审 但看到评价 4.7 意志不坚定，你一反驳他就认同你。这就很难绷啊。。",
-      "url": "https://www.v2ex.com/t/1211614#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-10T04:57:29.000Z",
-      "category": "industry",
+      "id": "02527cb1ed5fab91",
+      "title": "How enterprises are scaling AI",
+      "titleZh": "企业如何扩展人工智能",
+      "summary": "企业如何扩展人工智能：从早期实验到通过信任、治理、工作流程设计和大规模质量来复合影响。",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news/",
+      "publishedAt": "2026-05-11T10:00:00.000Z",
+      "category": "ai",
       "tags": [
-        "行业热点",
-        "开发者社区"
+        "AI",
+        "模型产品"
       ],
-      "score": 112,
+      "score": 126,
       "sourceType": "rss",
       "cover": "",
-      "author": "sampeng"
+      "author": ""
     },
     {
-      "id": "ab4ab68a2b6b394b",
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "titleZh": "Show HN：在汇编中构建 Web 服务器，赋予我的生活（缺乏）意义",
-      "summary": "这是 ymawky，一个完全用 ARM64 程序集编写的 MacOS 静态文件 Web 服务器。它支持 GET、PUT、DELETE、HEAD 和 OPTIONS 请求，并支持 Range：by…",
-      "url": "https://github.com/imtomt/ymawky",
+      "id": "15c7312927caaabc",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "titleZh": "OpenAI 校园网络：学生俱乐部兴趣表",
+      "summary": "加入 OpenAI 校园网络，连接世界各地的学生俱乐部，访问人工智能工具，举办活动，并建立一个人工智能驱动的校园社区。",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news/",
+      "publishedAt": "2026-05-11T10:00:00.000Z",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "模型产品"
+      ],
+      "score": 126,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "aa759e30fe32ef08",
+      "title": "pretext与文字四面环绕效果的实现",
+      "summary": "前端开发这么多年，有个心心念念的文字排版布局一直想要实现，那就是四面文字环绕效果，嘿，我发现，最近横空出世的 pretext 可以轻松实现这样的排版效果。",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/",
+      "source": "张鑫旭博客",
+      "sourceUrl": "https://www.zhangxinxu.com/",
+      "publishedAt": "2026-05-11T03:53:06.000Z",
+      "category": "frontend",
+      "tags": [
+        "前端技术",
+        "CSS",
+        "CSS相关",
+        "文字",
+        "文字排版"
+      ],
+      "score": 119,
+      "sourceType": "rss",
+      "cover": "https://image.zhangxinxu.com/image/blog/202605/2026-5-11_114830.webp",
+      "author": ""
+    },
+    {
+      "id": "301a3e5dde64bfb8",
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "titleZh": "7 行代码，3分钟：实现编程语言（2010年）",
+      "summary": "Hacker News 热帖，当前积分 16，评论 0。",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-10T03:01:44.000Z",
+      "publishedAt": "2026-05-11T04:34:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,123 +95,175 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 115,
+      "score": 111,
       "sourceType": "api"
     },
     {
-      "id": "c85f4625ae49ce46",
-      "title": "Gemini API File Search is now multimodal",
-      "titleZh": "Gemini API 文件搜索现在是多模态的",
-      "summary": "Hacker News 热帖，当前积分 40，评论 2。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-10T03:22:02.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "3bcc30734f54156d",
-      "title": "登录 codex 需要手机验证到成功登录的经历",
-      "summary": "昨天下午第一次下载 codex，我有两个账号，一个是 22年用手机号（接码平台）注册的账号，一个是前几月用 Google 账号注册的，我先使用新账号进行登录，提示要手机验证，打算切换老账号，但是在没有输入账号之前也需要手机验证，此时我使用的节点是 cf 的，后来我又换了谷歌云的节点，也试过退出 codex 重新打开，还是需要先验…",
-      "url": "https://www.v2ex.com/t/1211590#reply4",
+      "id": "01c211d7cbc5560e",
+      "title": "有没有好用一点、支持中转的 image2 生图客户端？",
+      "summary": "想找个 image2 生图客户端，最好能支持中转 API。试了下 Cherry Studio，感觉不太好用。大家有没有在用的、体验比较好的客户端推荐？",
+      "url": "https://www.v2ex.com/t/1211850#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-10T02:13:32.000Z",
+      "publishedAt": "2026-05-11T04:39:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 110,
+      "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "Henryable"
+      "author": "ccziwe"
     },
     {
-      "id": "483e3c70f4bf28f9",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "titleZh": "语音人工智能在印度很难。无论如何，Wispr Flow 都在押注它。",
-      "summary": "Wispr Flow 表示，在 Hinglish 推出后，印度的增长速度加快，尽管语音人工智能产品仍面临挑战。",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-10T02:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 101,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "d6e1bc0e435e6d24",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "titleZh": "所以你已经听过这些人工智能术语并点了点头；让我们来解决这个问题",
-      "summary": "人工智能的崛起带来了大量的新术语和俚语。以下是您可能遇到的一些最重要的单词和短语的定义词汇表。",
-      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-09T21:45:00.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 96,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "69820fa465fd9bc1",
-      "title": "如果有这样一个 agent 框架，大家怎么选择？",
-      "summary": "最近 agent 相关开发的时候遇到个问题，然后想到的。想和各位讨论下。现在很多 agent sdk，核心好像基本都是：agent loop + ReAct + tools + 一些 harness 工程 memory / rag / provider 这些无关的先不讨论 我最近的感觉是，普通 agent loop 在开放场景…",
-      "url": "https://www.v2ex.com/t/1211570#reply7",
+      "id": "a507e65d2b2f808a",
+      "title": "AI plan 求推荐",
+      "summary": "我现在用的是 codex 预约 20 刀，自从出了 5.5 额度直接不够用了。有啥备选方案么，直接上 pro 100 刀一月有点贵",
+      "url": "https://www.v2ex.com/t/1211841#reply12",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-09T19:38:27.000Z",
+      "publishedAt": "2026-05-11T04:04:06.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 100,
+      "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "imdoge"
+      "author": "DeepSIeep"
     },
     {
-      "id": "d1a14e7d031becbb",
-      "title": "Fintech startup Parker files for bankruptcy",
-      "titleZh": "金融科技初创公司 Parker 申请破产",
-      "summary": "Parker 是一家资金充足的初创公司，提供企业信用卡和银行服务，已申请破产，据广泛报道已关闭。",
-      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-09T20:32:17.000Z",
-      "category": "product",
+      "id": "f4f9a8248abfbf40",
+      "title": "监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到",
+      "summary": "五年前，我们做了一只水獭造型的玩偶挂件。我们希望桌面上能有这样一个小东西：不闪光光、不发声、不吵吵你，只是趴在那里，偶尔被你眼角扫到一眼，心情突然就柔软几秒。首批监工水獭用户返图首批监工水獭做出来后反 ... 查看全文",
+      "url": "https://sspai.com/post/109542",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-11T03:01:36.000Z",
+      "category": "tools",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "工具/网站",
+        "效率"
       ],
-      "score": 94,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "Microhoo"
+    },
+    {
+      "id": "b78ff6b6b694b0e5",
+      "title": "有 V 友尝试 DeepSeek-TUI 那个项目吗？效果怎么样？",
+      "summary": "简单来说就是一个专门为 DeepSeek 做的 CC/Codex 项目地址：https://github.com/Hmbown/DeepSeek-TUI 以及，很有节目效果的作者推文 https://x.com/goodhunt/status/2050044127656489095",
+      "url": "https://www.v2ex.com/t/1211773#reply13",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-11T01:59:07.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/5lSI3hW.png",
+      "author": "shineonme"
     }
   ],
   "featuredTools": [
+    {
+      "id": "f4f9a8248abfbf40",
+      "title": "监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到",
+      "summary": "五年前，我们做了一只水獭造型的玩偶挂件。我们希望桌面上能有这样一个小东西：不闪光光、不发声、不吵吵你，只是趴在那里，偶尔被你眼角扫到一眼，心情突然就柔软几秒。首批监工水獭用户返图首批监工水獭做出来后反 ... 查看全文",
+      "url": "https://sspai.com/post/109542",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-11T03:01:36.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Microhoo"
+    },
+    {
+      "id": "ed8c3f37f6bcd14a",
+      "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
+      "summary": "苹果与英特尔就芯片代工达成初步协议 芯片缺货导致主板厂商出货暴跌 人形机器人在韩国受戒入佛门 AI 儿童玩具泛滥引发担忧 特朗普政府通过 ChatGPT 做出的停止拨款决定被判无效 谷歌验证码将检查 Play 框架，非原版 Android 用户或受阻 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/109610",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-10T23:12:39.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "d4194e71bc906446",
+      "title": "寻找你身边的电波——如何上中继",
+      "summary": "无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。查看全文",
+      "url": "https://sspai.com/post/87897",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-10T06:57:38.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 79,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "休伯利安"
+    },
+    {
+      "id": "3c0fbaf1d6755ada",
+      "title": "Better Sol",
+      "titleZh": "Better Sol",
+      "summary": "使用 TypeScript 端到端开发 Solana 应用程序",
+      "url": "https://www.producthunt.com/products/better-sol",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-10T03:07:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 70,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "pow"
+    },
+    {
+      "id": "0403e94a6671d871",
+      "title": "AgentPeek",
+      "titleZh": "AgentPeek",
+      "summary": "Mac 缺口中的 Claude Code 和 Codex",
+      "url": "https://www.producthunt.com/products/agentpeek",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-09T22:27:11.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 62,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Bren Huber"
+    },
     {
       "id": "8839e69fa2586094",
       "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
@@ -183,101 +277,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 88,
+      "score": 61,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "70733967252a08f0",
-      "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
-      "summary": "母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ... 查看全文",
-      "url": "https://sspai.com/post/98902",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-09T07:06:21.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 82,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Matrix机器人"
-    },
-    {
-      "id": "65c00be03c7a97cb",
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "summary": "📅本周新预告《奥德赛》正式预告 5月5日，克里斯托弗·诺兰导演新作《奥德赛》发布了正式预告，将于 7月17日在北美上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特·帕丁森、查理 ... 查看全文",
-      "url": "https://sspai.com/post/109525",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-08T10:04:50.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "6a277800117d91fd",
-      "title": "在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛",
-      "summary": "新一届 WWDC26 全球开发者大会还有一个月时间就要开幕，作为每年 WWDC 大会的「前菜」，第七届 Swift 学生挑战赛也一如以往在大会开幕前夕圆满收官。在这场一年一度的全球性 Apple 编程竞赛中，今年共有 ... 查看全文",
-      "url": "https://sspai.com/post/109521",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-08T09:31:36.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "waychane"
-    },
-    {
-      "id": "71a47718752562b5",
-      "title": "Zappy by ZapDigits",
-      "titleZh": "Zappy by ZapDigits",
-      "summary": "您的人工智能报告分析师",
-      "url": "https://www.producthunt.com/products/zapdigits",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-08T09:57:19.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 54,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "fmerian"
-    },
-    {
-      "id": "aa3560b526054d25",
-      "title": "万字复盘我家的装修过程，希望可以帮你避避坑",
-      "summary": "从 0 开始装修新家，这些事项值得你避坑。查看全文",
-      "url": "https://sspai.com/post/109397",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-08T03:30:57.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "江哗啦啦"
     }
   ],
   "sections": [
@@ -286,6 +289,27 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "aa759e30fe32ef08",
+          "title": "pretext与文字四面环绕效果的实现",
+          "summary": "前端开发这么多年，有个心心念念的文字排版布局一直想要实现，那就是四面文字环绕效果，嘿，我发现，最近横空出世的 pretext 可以轻松实现这样的排版效果。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-05-11T03:53:06.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS",
+            "CSS相关",
+            "文字",
+            "文字排版"
+          ],
+          "score": 119,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/image/blog/202605/2026-5-11_114830.webp",
+          "author": ""
+        },
         {
           "id": "162c9108525f07a9",
           "title": "Using CSS corner-shape For Folded Corners",
@@ -379,25 +403,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "4eb318c014c80976",
-          "title": "The Architecture Of Local-First Web Development",
-          "titleZh": "本地优先 Web 开发的架构",
-          "summary": "在 2026年构建本地第一个 Web 应用程序的诚实观点，专为那些已经做了足够长的时间而对银弹持怀疑态度的开发人员而编写。",
-          "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-05-06T10:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)"
         }
       ]
     },
@@ -407,14 +412,52 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "afc9e8737a9b4d0e",
-          "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-          "titleZh": "“OncoAgent：保护隐私的肿瘤临床决策支持双层多代理框架”",
+          "id": "02527cb1ed5fab91",
+          "title": "How enterprises are scaling AI",
+          "titleZh": "企业如何扩展人工智能",
+          "summary": "企业如何扩展人工智能：从早期实验到通过信任、治理、工作流程设计和大规模质量来复合影响。",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-11T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 126,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "15c7312927caaabc",
+          "title": "OpenAI Campus Network: Student club interest form",
+          "titleZh": "OpenAI 校园网络：学生俱乐部兴趣表",
+          "summary": "加入 OpenAI 校园网络，连接世界各地的学生俱乐部，访问人工智能工具，举办活动，并建立一个人工智能驱动的校园社区。",
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-11T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 126,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f1781759ba54a6c0",
+          "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+          "titleZh": "MachinaCheck：在 AMD MI300X 上构建多代理数控制造系统",
           "summary": "",
-          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
           "source": "Hugging Face Blog",
           "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-05-09T18:09:28.000Z",
+          "publishedAt": "2026-05-10T18:44:11.000Z",
           "category": "ai",
           "tags": [
             "AI",
@@ -481,44 +524,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "98575c8d95dcd7d6",
-          "title": "Parloa builds service agents customers want to talk to",
-          "titleZh": "Parloa 构建客户希望与之交谈的服务代理",
-          "summary": "Parloa 利用 OpenAI 模型为可扩展、语音驱动的 AI 客户服务代理提供支持，使企业能够设计、模拟和部署可靠的实时...",
-          "url": "https://openai.com/index/parloa",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-07T11:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "7aaf827db0030c6e",
-          "title": "Advancing voice intelligence with new models in the API",
-          "titleZh": "借助 API 中的新型号推进语音智能",
-          "summary": "在 OpenAI API 中探索新的实时语音模型，可以推理、翻译和转录语音，实现更自然、更智能的语音体验。",
-          "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-07T10:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -528,116 +533,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "483e3c70f4bf28f9",
-          "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-          "titleZh": "语音人工智能在印度很难。无论如何，Wispr Flow 都在押注它。",
-          "summary": "Wispr Flow 表示，在 Hinglish 推出后，印度的增长速度加快，尽管语音人工智能产品仍面临挑战。",
-          "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+          "id": "41a56f12325f0244",
+          "title": "Get ready for the whisper-filled office of the future",
+          "titleZh": "为未来充满低语的办公室做好准备",
+          "summary": "如果我们花越来越多的时间与电脑交谈，工作设置将如何变化？",
+          "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-10T02:00:00.000Z",
+          "publishedAt": "2026-05-10T21:15:30.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "d6e1bc0e435e6d24",
-          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-          "titleZh": "所以你已经听过这些人工智能术语并点了点头；让我们来解决这个问题",
-          "summary": "人工智能的崛起带来了大量的新术语和俚语。以下是您可能遇到的一些最重要的单词和短语的定义词汇表。",
-          "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "id": "11b6d977ec1e95f0",
+          "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+          "titleZh": "Anthropic 说，对人工智能的“邪恶”描绘是克劳德试图勒索的原因",
+          "summary": "根据 Anthropic 的说法，对人工智能的虚构描绘可以对人工智能模型产生真正的影响。",
+          "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-09T21:45:00.000Z",
+          "publishedAt": "2026-05-10T20:40:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "d1a14e7d031becbb",
-          "title": "Fintech startup Parker files for bankruptcy",
-          "titleZh": "金融科技初创公司 Parker 申请破产",
-          "summary": "Parker 是一家资金充足的初创公司，提供企业信用卡和银行服务，已申请破产，据广泛报道已关闭。",
-          "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+          "id": "9318aea2cd353500",
+          "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+          "titleZh": "优步一直想不仅仅是提供接载服务，现在我们有理由抓紧时间",
+          "summary": "该公司一直试图将自己融入 AV 行业--作为数据提供商、投资者和分销平台--但面向消费者的赌注可能是……",
+          "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-09T20:32:17.000Z",
+          "publishedAt": "2026-05-10T18:08:54.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 94,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "60e2fc0415c7d26f",
-          "title": "GM agrees to pay $12.75M in California driver privacy settlement",
-          "titleZh": "通用汽车同意支付 $1275 万加州司机隐私和解费",
-          "summary": "通用汽车已与加利福尼亚州总检察长 Rob Bonta 领导的一组执法机构达成与隐私相关的和解。",
-          "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
+          "id": "fad1dc9a24dd5097",
+          "title": "TechCrunch Mobility: Lime’s IPO gamble",
+          "titleZh": "TechCrunch Mobility：Lime 的 IPO 赌博",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您未来交通的枢纽，现在，人工智能比以往任何时候都更能发挥作用。",
+          "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-09T19:05:30.000Z",
+          "publishedAt": "2026-05-10T16:05:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 91,
+          "score": 85,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "1e99f0e69be12486",
-          "title": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
-          "titleZh": "🧠 社区智慧：当非 PM 开始直接运送到生产时该怎么办，关于 Claude Code 的定价 A/B 测试的想法，在游戏中使用 gen AI 等等",
-          "summary": "社区智慧 185",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
+          "id": "f717128ad776fb97",
+          "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+          "titleZh": "我们对 xAI 与 Anthropic 的重大交易感到愤世嫉俗",
+          "summary": "在 Equity 播客的最新一集中，我们讨论了 xAI 与 Anthropic 的交易对母公司 SpaceX 可能意味着什么。",
+          "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-10T15:34:25.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 84,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "055840569b2dcd9e",
+          "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+          "titleZh": "如何建立一家经得起任何时代考验的公司|精益创业作家 Eric Ries",
+          "summary": "立即倾听|精益创业公司的作者为什么大多数以任务为导向的公司只是使命- “充满希望”，为什么只有 20 ％的创始人在 IPO 三年后继续担任首席执行官，以及……",
+          "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-09T18:18:35.000Z",
+          "publishedAt": "2026-05-10T12:03:32.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 85,
+          "score": 80,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "c59399eb1506c6e2",
-          "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
-          "titleZh": "Instax Wide 400 建立在即时摄影的简单性之上，并从字面上拉伸它",
-          "summary": "在人工智能和数字世界中，模拟即时胶片和复古风格的相机在怀旧和新奇的混合推动下继续流行。",
-          "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-09T15:45:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 86,
-          "sourceType": "rss",
-          "cover": "",
+          "cover": "https://api.substack.com/feed/podcast/196468137/3118efc439c0b8e3ebe3cf7ba547c97b.mp3",
           "author": ""
         }
       ]
@@ -661,7 +666,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 85,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*SpjPFOg1_zo2XIGkVIvFyA.jpeg",
           "author": ""
@@ -680,7 +685,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 60,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -769,32 +774,14 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "63d548dfbe46de8b",
-          "title": "一直用 Opus 4.6.最近听说 claude 加卡了。4.7 能否一战了？",
-          "summary": "我主要是 opus 负责些 plan，codex 负责编码。我个人比较喜欢编码严谨的。然后 opus 再审一遍，最后我个人审 但看到评价 4.7 意志不坚定，你一反驳他就认同你。这就很难绷啊。。",
-          "url": "https://www.v2ex.com/t/1211614#reply1",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-10T04:57:29.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "sampeng"
-        },
-        {
-          "id": "ab4ab68a2b6b394b",
-          "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-          "titleZh": "Show HN：在汇编中构建 Web 服务器，赋予我的生活（缺乏）意义",
-          "summary": "这是 ymawky，一个完全用 ARM64 程序集编写的 MacOS 静态文件 Web 服务器。它支持 GET、PUT、DELETE、HEAD 和 OPTIONS 请求，并支持 Range：by…",
-          "url": "https://github.com/imtomt/ymawky",
+          "id": "301a3e5dde64bfb8",
+          "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+          "titleZh": "7 行代码，3分钟：实现编程语言（2010年）",
+          "summary": "Hacker News 热帖，当前积分 16，评论 0。",
+          "url": "https://matt.might.net/articles/implementing-a-programming-language/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-10T03:01:44.000Z",
+          "publishedAt": "2026-05-11T04:34:40.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -802,18 +789,72 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 115,
+          "score": 111,
           "sourceType": "api"
         },
         {
-          "id": "c85f4625ae49ce46",
-          "title": "Gemini API File Search is now multimodal",
-          "titleZh": "Gemini API 文件搜索现在是多模态的",
-          "summary": "Hacker News 热帖，当前积分 40，评论 2。",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+          "id": "01c211d7cbc5560e",
+          "title": "有没有好用一点、支持中转的 image2 生图客户端？",
+          "summary": "想找个 image2 生图客户端，最好能支持中转 API。试了下 Cherry Studio，感觉不太好用。大家有没有在用的、体验比较好的客户端推荐？",
+          "url": "https://www.v2ex.com/t/1211850#reply1",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-11T04:39:40.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "ccziwe"
+        },
+        {
+          "id": "a507e65d2b2f808a",
+          "title": "AI plan 求推荐",
+          "summary": "我现在用的是 codex 预约 20 刀，自从出了 5.5 额度直接不够用了。有啥备选方案么，直接上 pro 100 刀一月有点贵",
+          "url": "https://www.v2ex.com/t/1211841#reply12",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-11T04:04:06.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "DeepSIeep"
+        },
+        {
+          "id": "b78ff6b6b694b0e5",
+          "title": "有 V 友尝试 DeepSeek-TUI 那个项目吗？效果怎么样？",
+          "summary": "简单来说就是一个专门为 DeepSeek 做的 CC/Codex 项目地址：https://github.com/Hmbown/DeepSeek-TUI 以及，很有节目效果的作者推文 https://x.com/goodhunt/status/2050044127656489095",
+          "url": "https://www.v2ex.com/t/1211773#reply13",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-11T01:59:07.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "https://i.imgur.com/5lSI3hW.png",
+          "author": "shineonme"
+        },
+        {
+          "id": "75966ec37c3e9997",
+          "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+          "titleZh": "电视上最伟大的镜头：詹姆斯·伯克有一次机会钉上这个场景（2024年）",
+          "summary": "Hacker News 热帖，当前积分 81，评论 29。",
+          "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-10T03:22:02.000Z",
+          "publishedAt": "2026-05-11T02:43:34.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -821,63 +862,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 110,
+          "score": 108,
           "sourceType": "api"
         },
         {
-          "id": "3bcc30734f54156d",
-          "title": "登录 codex 需要手机验证到成功登录的经历",
-          "summary": "昨天下午第一次下载 codex，我有两个账号，一个是 22年用手机号（接码平台）注册的账号，一个是前几月用 Google 账号注册的，我先使用新账号进行登录，提示要手机验证，打算切换老账号，但是在没有输入账号之前也需要手机验证，此时我使用的节点是 cf 的，后来我又换了谷歌云的节点，也试过退出 codex 重新打开，还是需要先验…",
-          "url": "https://www.v2ex.com/t/1211590#reply4",
+          "id": "02ca06beb2653425",
+          "title": "请教一下，各位 V 佬上班的公司都是在推广哪个模型进行编程",
+          "summary": "之前负责在公司内部推广 AI 编程，在 3月前国产的 MiniMax 还算能打，没特别大的问题。我看了内部近一个月的 MiniMax 的使用 token 使用量，用的非常少，大家都反馈弱智、限流、429，还不如自己写。我试过 GLM 官网上抢套餐，一个多星期了，每次都是 9 点 50 几的时候就开始人数过多，10 点多的时…",
+          "url": "https://www.v2ex.com/t/1211754#reply32",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-10T02:13:32.000Z",
+          "publishedAt": "2026-05-11T01:27:54.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 110,
+          "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "Henryable"
-        },
-        {
-          "id": "69820fa465fd9bc1",
-          "title": "如果有这样一个 agent 框架，大家怎么选择？",
-          "summary": "最近 agent 相关开发的时候遇到个问题，然后想到的。想和各位讨论下。现在很多 agent sdk，核心好像基本都是：agent loop + ReAct + tools + 一些 harness 工程 memory / rag / provider 这些无关的先不讨论 我最近的感觉是，普通 agent loop 在开放场景…",
-          "url": "https://www.v2ex.com/t/1211570#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-09T19:38:27.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 100,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "imdoge"
-        },
-        {
-          "id": "559566a93bb97003",
-          "title": "I’ve banned query strings",
-          "titleZh": "我已禁止查询字符串",
-          "summary": "相关：https://susam.net/no-query-strings.html",
-          "url": "https://chrismorgan.info/no-query-strings",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-09T16:28:36.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 93,
-          "sourceType": "api"
+          "author": "ddpyjqtd"
         }
       ]
     }
@@ -888,7 +892,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -907,12 +911,12 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
-      "tag": "工具/网站",
-      "count": 9
+      "tag": "产品/商业",
+      "count": 10
     },
     {
       "tag": "工程效率",
@@ -923,11 +927,11 @@
       "count": 8
     },
     {
-      "tag": "开发者社区",
+      "tag": "模型产品",
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "开发者社区",
       "count": 6
     },
     {
@@ -935,11 +939,11 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -952,7 +956,7 @@
     },
     {
       "tag": "新产品",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "技术周刊",
