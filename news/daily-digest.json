@@ -1,125 +1,86 @@
 {
-  "generatedAt": "2026-05-15T05:52:50.970Z",
+  "generatedAt": "2026-05-16T05:25:08.627Z",
   "headline": {
-    "id": "a1314883acbbe9c8",
-    "title": "你真的需要墨水屏设备吗？",
-    "summary": "如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文",
-    "url": "https://sspai.com/post/109550",
-    "source": "少数派",
-    "sourceUrl": "https://sspai.com/",
-    "publishedAt": "2026-05-15T03:33:05.000Z",
-    "category": "tools",
+    "id": "dbde266629b3e955",
+    "title": "开发用 Claude desktop 还是 Codex？",
+    "summary": "这里不对两种选择做好坏评价。从工具设计来说，Claude Desktop 设计思路是把所有东西塞进一个地方，「 Chat, Cowork, and Claude Code, all in one place 」，聊天、协作、终端，你坐在那儿和 AI 一起干活，它做一步你看一步，随时插手。用这类工具的人，天然喜欢盯着过程，不太放心把…",
+    "url": "https://www.v2ex.com/t/1213136#reply4",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-05-16T03:33:39.000Z",
+    "category": "industry",
     "tags": [
-      "工具/网站",
-      "效率"
+      "行业热点",
+      "开发者社区"
     ],
-    "score": 112,
+    "score": 113,
     "sourceType": "rss",
     "cover": "",
-    "author": "知道分子吴先先"
+    "author": "longxinglink"
   },
   "latest": [
     {
-      "id": "a1314883acbbe9c8",
-      "title": "你真的需要墨水屏设备吗？",
-      "summary": "如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文",
-      "url": "https://sspai.com/post/109550",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-15T03:33:05.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "知道分子吴先先"
-    },
-    {
-      "id": "98bd8d86b1f3f5c5",
-      "title": "How Claude Code works in large codebases",
-      "titleZh": "Claude Code 在大型代码库中的工作原理",
-      "summary": "Hacker News 热帖，当前积分 71，评论 40。",
-      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-15T04:15:31.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "abad4cb76a4305d9",
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "titleZh": "特里斯坦达库尼亚大胆空投的详细信息",
-      "summary": "Hacker News 热帖，当前积分 32，评论 3。",
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-15T03:56:14.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "c9f70acb82d96b8b",
-      "title": "Mullvad exit IPs are surprisingly identifying",
-      "titleZh": "Mullvad 出口 IP 出人意料地识别",
-      "summary": "Hacker News 热帖，当前积分 215，评论 93。",
-      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-15T02:35:35.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 108,
-      "sourceType": "api"
-    },
-    {
-      "id": "a77b3a6d2e1d55e0",
-      "title": "几个国产大模型，用来对接用在 cc 上编程，哪家性价比高？",
-      "summary": "codex 登录要手机号，加上之前的某境外大厂的账号莫名其妙被 ban，想着用国产的得了，至少登录啥的省事不少。现在国内的哪家好用点？",
-      "url": "https://www.v2ex.com/t/1212916#reply4",
+      "id": "dbde266629b3e955",
+      "title": "开发用 Claude desktop 还是 Codex？",
+      "summary": "这里不对两种选择做好坏评价。从工具设计来说，Claude Desktop 设计思路是把所有东西塞进一个地方，「 Chat, Cowork, and Claude Code, all in one place 」，聊天、协作、终端，你坐在那儿和 AI 一起干活，它做一步你看一步，随时插手。用这类工具的人，天然喜欢盯着过程，不太放心把…",
+      "url": "https://www.v2ex.com/t/1213136#reply4",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-15T03:20:22.000Z",
+      "publishedAt": "2026-05-16T03:33:39.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 108,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "libasten"
+      "author": "longxinglink"
     },
     {
-      "id": "ef680bc9c882b8a8",
-      "title": "KIMI code 偷偷改 token 计量",
-      "summary": "买个 Allegretto 套餐之前根本用不完，现在 3天跑满了，还不是之前重型业务仓库全扫迁移这种。感知太明显。合着不显示 token 用量和模型原来在这等着。微信问客服，直接装死不回复，nb。和智谱真是云泥之分，智谱最开始的套餐是不限制 token，根本不会动老用户权益。",
-      "url": "https://www.v2ex.com/t/1212874#reply20",
+      "id": "6e24ed7ed7b7b91b",
+      "title": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+      "summary": "",
+      "url": "https://www.v2ex.com/t/1213129#reply13",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-15T01:57:02.000Z",
+      "publishedAt": "2026-05-16T02:52:24.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 106,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "289396212"
+    },
+    {
+      "id": "645e20a096136034",
+      "title": "codex 是通过本地安装 cc swithc 还是 newapi/sub2api 接入 deekpseek v4 更好",
+      "summary": "有人用过吗? 可否说下哪个方式更好?",
+      "url": "https://www.v2ex.com/t/1213127#reply6",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-16T02:40:30.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 106,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Hermitist"
+    },
+    {
+      "id": "b7ca4e675dd89728",
+      "title": "一个稍稍严肃的 Infra 开发， 200 刀 Codex 周消耗量",
+      "summary": "5月12日下午 3 时刷新了一周用量，到 5月15日下午用完，下次刷新要等到 5月19日了，套餐是 ChatGPT 200 刀，模型是 gpt-5.5 high fast。Infra 开发进入中后期（加模块），习惯是 Codex 主程（一个长期的 session，token 使用量已经有 3.3B 左右），然…",
+      "url": "https://www.v2ex.com/t/1213114#reply16",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-16T00:56:12.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -128,17 +89,17 @@
       "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "xiejay97"
+      "author": "Had"
     },
     {
-      "id": "d595ec4e7fee4458",
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "titleZh": "进入前沿人工智能很快将受到经济和安全限制的限制",
-      "summary": "Hacker News 热帖，当前积分 67，评论 33。",
-      "url": "https://writing.antonleicht.me/p/cut-off",
+      "id": "7b3f4fcc16d0b922",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "titleZh": "关于 P2P 甲基苯丙胺的主要事情是它有这么多（2021）",
+      "summary": "Hacker News 热帖，当前积分 89，评论 76。",
+      "url": "https://dynomight.net/p2p-meth/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-15T01:08:04.000Z",
+      "publishedAt": "2026-05-15T23:37:32.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -146,73 +107,111 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 106,
+      "score": 104,
       "sourceType": "api"
     },
     {
-      "id": "e9671993b6eac895",
-      "title": "科技爱好者周刊（第 396 期）：互联网通信的替代方案",
-      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-      "url": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html",
-      "source": "阮一峰的网络日志",
-      "sourceUrl": "https://www.ruanyifeng.com/blog/",
-      "publishedAt": "2026-05-15T00:01:51.000Z",
-      "category": "frontend",
+      "id": "5e858d651699e72a",
+      "title": "请教一下各位， claude code 怎么像 codex 那样 branch in a new chat?",
+      "summary": "请教一下各位，claude code 怎么像 codex 那样 branch in a new chat?",
+      "url": "https://www.v2ex.com/t/1213109#reply8",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-15T22:28:50.000Z",
+      "category": "industry",
       "tags": [
-        "前端技术",
-        "技术周刊"
+        "行业热点",
+        "开发者社区"
       ],
-      "score": 114,
+      "score": 101,
       "sourceType": "rss",
-      "cover": "https://cdn.beekka.com/blogimg/asset/202605/bg2026051414.webp",
-      "author": "阮一峰"
+      "cover": "",
+      "author": "409164"
+    },
+    {
+      "id": "a47b01beaf268c68",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "titleZh": "我相信现在有整个公司都处于人工智能精神病之中",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578 https://hachyderm.io/ @ mitchellh/116580433508108130",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-15T20:26:47.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 102,
+      "sourceType": "api"
+    },
+    {
+      "id": "d059a56052e4c270",
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+      "titleZh": "RJ Scaringe 在三家初创公司筹集了超过 120亿美元的资金，投资者仍然希望",
+      "summary": "投资者似乎对 RJ Scaringe 或他的想法了解不够。根据加入 Rivian 的 Jiten Behl 的说法，讲故事和沟通是他的超级大国之一。",
+      "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-15T20:30:20.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 94,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
     }
   ],
   "featuredTools": [
     {
-      "id": "a1314883acbbe9c8",
-      "title": "你真的需要墨水屏设备吗？",
-      "summary": "如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文",
-      "url": "https://sspai.com/post/109550",
+      "id": "0509d5ba4338b0ce",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "summary": "📅本周新预告《攻壳机动队 THEGHOSTINTHESHELL》新预告 5月11日，TV 动画《攻壳机动队 THEGHOSTINTHESHELL》发布了新预告，定档 7月7日开始播出。木村翔马执导，圆城塔编剧，... 查看全文",
+      "url": "https://sspai.com/post/109825",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-15T03:33:05.000Z",
+      "publishedAt": "2026-05-15T10:00:00.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "知道分子吴先先"
-    },
-    {
-      "id": "52e99cbd814d8bdf",
-      "title": "派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等",
-      "summary": "少数派的近期动态可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款 MBTI 定制墨水屏「口袋先知」预售进行中，一按知运势。立刻预购麦金獭钢化膜单膜补充装已上线，替换装，更划算。立即抢购你可能错过 ... 查看全文",
-      "url": "https://sspai.com/post/109787",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-15T00:25:21.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 109,
+      "score": 87,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "cf80599c86475455",
-      "title": "新玩意 241｜少数派的编辑们最近买了啥？",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
-      "url": "https://sspai.com/post/109771",
+      "id": "3147c477ca9f7d1d",
+      "title": "装了啥：编辑部用什么转写音视频内容？",
+      "summary": "按：从播客访谈到深度长视频，越来越多的内容创作者把表达重心放到了音视频里；「先转录、再阅读」也因此成了不少重度信息消费者的日常工作流。本期「装了啥」，我们请编辑部几位同事分享各自正在使用的转录方案，希 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
+      "url": "https://sspai.com/prime/story/zhuanglesha-260515",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-14T09:17:27.000Z",
+      "publishedAt": "2026-05-15T09:56:34.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 87,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "25b0d75cf8dda80e",
+      "title": "[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看",
+      "summary": "北京时间 6月9日凌晨，WWDC26 全球开发者大会首日 Keynote 主题演讲活动即将揭幕。届时，我们将迎来 iOS27、iPadOS27、macOS27、watchOS27、visionOS27 等新一代操 ... 查看全文",
+      "url": "https://sspai.com/post/109816",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-15T08:59:44.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -224,58 +223,59 @@
       "author": "少数派编辑部"
     },
     {
-      "id": "fc98d1325b3bff5c",
-      "title": "在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）",
-      "summary": "因为和 ChromeOS 中的 Linux 虚拟机开发环境有着千丝万缕的联系，2025年作为实验性功能登录 Google 自家 Pixel 机型的 Linux 虚拟机，发布后不仅没有就此在开发者选项中闲置，反倒通过不断迭 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/linux-vm-on-android",
+      "id": "50ddac75ee0829b2",
+      "title": "快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验",
+      "summary": "我真的非常喜欢快捷指令，它让我学会去缕析一件事的脉络、链路，动手去改写、制定新的规则和流程，让工作和生活都接近我想要的理性，跳脱出很多无形的枷锁。查看全文",
+      "url": "https://sspai.com/post/109708",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-14T07:45:31.000Z",
+      "publishedAt": "2026-05-15T06:54:44.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 83,
+      "score": 80,
       "sourceType": "rss",
       "cover": "",
-      "author": "化学心情下2"
+      "author": "Linery"
     },
     {
-      "id": "2211240cc093c785",
-      "title": "用 Obsidian Web Clipper，让豆瓣种草更容易",
-      "summary": "对于现阶段知识管理的工作流而言，使用者已经无需和工具「将就」了。与其花时间适应别人的工具思路和设置，不如利用手头的工具（包括 AI）自己「手搓」一套自己的方案。从长期来看，自己用得顺手才会让自己持续用下去，而开发、适应所需要的时间和精力也会明显少于以前「削足适履」的经历。查看全文",
-      "url": "https://sspai.com/post/109318",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-14T07:15:55.000Z",
+      "id": "12da476a88f5db83",
+      "title": "Kimi WebBridge",
+      "titleZh": "Kimi WebBridge",
+      "summary": "将人工智能代理连接到实时网页的桥梁",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-15T05:16:54.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 83,
+      "score": 74,
       "sourceType": "rss",
       "cover": "",
-      "author": "Log924"
+      "author": "Zac Zuo"
     },
     {
-      "id": "5d9cedc8d3f59bf0",
-      "title": "AI 潮来，翻译何为",
-      "summary": "AI 醒来了，那就 let it be——「让它是」，是其所应是的，我们就「顺其自然」。查看全文",
-      "url": "https://sspai.com/post/108816",
+      "id": "a1314883acbbe9c8",
+      "title": "你真的需要墨水屏设备吗？",
+      "summary": "如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文",
+      "url": "https://sspai.com/post/109550",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-14T03:34:56.000Z",
+      "publishedAt": "2026-05-15T03:33:05.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 73,
+      "score": 74,
       "sourceType": "rss",
       "cover": "",
-      "author": "Binich"
+      "author": "知道分子吴先先"
     }
   ],
   "sections": [
@@ -284,6 +284,44 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "a9c1eb0bd3ef9eb4",
+          "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
+          "titleZh": "What's! important # 11：3D 体素场景、飞行焦点、CSS 语法等",
+          "summary": "如果 3D 体素场景（您可以设置样式）、飞行焦点动画或新的 CSS 语法听起来像您喜欢的东西，那么这个 What's! important 的问题肯定是 f…",
+          "url": "https://css-tricks.com/whats-important-11/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-05-15T13:16:34.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "dd0825c42aa998de",
+          "title": "Ten Data-Backed Truths Of User Experience ROI",
+          "titleZh": "用户体验投资回报的十大数据真相",
+          "summary": "每多一秒的摩擦都会带来可衡量的业务成本。Carrie Webster 分享了十个数据支持的用户体验事实，用户体验直接关系到收入、留存率……",
+          "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-05-15T10:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
+          "author": "hello@smashingmagazine.com (Carrie Webster)"
+        },
         {
           "id": "e9671993b6eac895",
           "title": "科技爱好者周刊（第 396 期）：互联网通信的替代方案",
@@ -297,7 +335,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 114,
+          "score": 76,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202605/bg2026051414.webp",
           "author": "阮一峰"
@@ -316,7 +354,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 99,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -358,44 +396,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "0b940c05fef467b3",
-          "title": "rotateZ()",
-          "titleZh": "Z 轴旋转",
-          "summary": "RotateZ ()函数围绕其 z 轴旋转元素，因此顺时针或逆时针旋转。rotateZ ()最初是手写的，并在 CSS-Tricks 上发布。…",
-          "url": "https://css-tricks.com/almanac/functions/r/rotatez/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-13T14:33:03.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f4f305d3a1813fed",
-          "title": "rotate()",
-          "titleZh": "旋转",
-          "summary": "Rotate ()函数在 2D 平面中顺时针或逆时针旋转元素。rotate ()最初是在 CSS-Tricks 上手写和发布的。你…",
-          "url": "https://css-tricks.com/almanac/functions/r/rotate/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-13T14:32:47.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -404,6 +404,44 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "54d8063ff27922e3",
+          "title": "A new personal finance experience in ChatGPT",
+          "titleZh": "ChatGPT 的全新个人理财体验",
+          "summary": "在 ChatGPT 中为美国的 Pro 用户预览新的个人理财体验安全地连接您的财务账户，并获得人工智能驱动的见解和指导……",
+          "url": "https://openai.com/index/personal-finance-chatgpt",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-15T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 80,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "000af1bc0e245422",
+          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "titleZh": "Databricks 将 GPT-5.5 引入企业代理工作流程",
+          "summary": "在模型为 OfficeQA Pro 基准设置了新的最先进技术后，Databricks 将 GPT-5.5 用于企业代理工作流程。",
+          "url": "https://openai.com/index/databricks",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-15T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 78,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "1f7745a47b2b8b0e",
           "title": "Sea's View on the Future of Agentic Software Development with Codex",
@@ -418,7 +456,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 111,
+          "score": 73,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -437,7 +475,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 99,
+          "score": 62,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -456,7 +494,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 99,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -475,45 +513,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 78,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f352273db1f71bbe",
-          "title": "Unlocking asynchronicity in continuous batching",
-          "titleZh": "解锁连续批处理中的异步性",
-          "summary": "",
-          "url": "https://huggingface.co/blog/continuous_async",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-05-14T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "964111ce8da84773",
-          "title": "Building a safe, effective sandbox to enable Codex on Windows",
-          "titleZh": "构建安全、有效的沙箱，以在 Windows 上启用 Codex",
-          "summary": "了解 OpenAI 如何在 Windows 上为 Codex 构建安全的沙箱，通过受控文件访问和网络限制实现安全、高效的编码代理。",
-          "url": "https://openai.com/index/building-codex-windows-sandbox",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-13T11:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -526,14 +526,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "87db2c55863435d5",
-          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-          "titleZh": "在 Elon Musk 诉 Sam Altman 的案件中，陪审团实际上会做出什么决定",
-          "summary": "以下是今年最大的技术法庭案件。",
-          "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+          "id": "d059a56052e4c270",
+          "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+          "titleZh": "RJ Scaringe 在三家初创公司筹集了超过 120亿美元的资金，投资者仍然希望",
+          "summary": "投资者似乎对 RJ Scaringe 或他的想法了解不够。根据加入 Rivian 的 Jiten Behl 的说法，讲故事和沟通是他的超级大国之一。",
+          "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-14T22:47:51.000Z",
+          "publishedAt": "2026-05-15T20:30:20.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -545,77 +545,77 @@
           "author": ""
         },
         {
-          "id": "3f5dc02f700c46c5",
-          "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-          "titleZh": "埃隆·马斯克（Elon Musk）的 SpaceXAI 自合并以来一直在流血",
-          "summary": "据报道，自 2月份以来，已有 50 多名员工离开了伊隆·马斯克（Elon Musk）新合并的 SpaceXAI，引发了有关职业倦怠、领导层变动、人才掠夺和……",
-          "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "id": "743c0a59a4004e55",
+          "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+          "titleZh": "通用催化剂发布了 VC 愤怒诱饵，它起作用了，特别是在 a16z 上",
+          "summary": "强迫症 X 用户马克·安德森（Marc Andreessen）自己也忍不住回应了很多很多次。",
+          "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-14T21:30:44.000Z",
+          "publishedAt": "2026-05-15T20:25:35.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 95,
+          "score": 91,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "fccd82deb003c0a7",
-          "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-          "titleZh": "Lovable 刚刚支持了一家希望将 vibe 编码引入硬件的公司",
-          "summary": "硬件公司 Atech 筹集了 80 万美元的种子前资金，其中包括 a16z 的侦察基金、红杉侦察基金和北欧制造商。",
-          "url": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+          "id": "467b9e48bb61d7f7",
+          "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
+          "titleZh": "酒店办理入住手续的系统使 100 万本护照和驾照开放给任何人查看",
+          "summary": "维护酒店登记系统的科技公司将其云存储设置为公开，允许任何人在没有密码的情况下访问客户的数据。",
+          "url": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-14T20:43:03.000Z",
+          "publishedAt": "2026-05-15T18:51:33.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 91,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "ea266581c8e2c6e0",
-          "title": "OpenAI says Codex is coming to your phone",
-          "titleZh": "OpenAI 称 Codex 即将登陆您的手机",
-          "summary": "此更新为用户提供了更大的灵活性，让他们可以更好地管理工作流程。",
-          "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "id": "df1f6b264550b3b8",
+          "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+          "titleZh": "硅谷的度假胜地需要一个新的能源供应商，正如人工智能正在推动价格上涨一样",
+          "summary": "随着人工智能推动电力需求，硅谷最受欢迎的度假胜地太浩湖即将受到能源价格上涨的打击。",
+          "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-14T20:58:55.000Z",
+          "publishedAt": "2026-05-15T18:14:44.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 92,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "63c0553be54f077d",
-          "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
-          "titleZh": "Cerebras 的 IPO 为 Benchmark 赚了数十亿美元，但 VC Eric Vishria 几乎没有参加会议",
-          "summary": "Benchmark 几乎从不支持硬件初创公司。因此，10年前，埃里克·维什里亚（Eric Vishria）在同意听取塞雷布拉斯（Cerebras）的投球之前拖着脚步。",
-          "url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+          "id": "2f694e75c9115925",
+          "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+          "titleZh": "特斯拉披露两起涉及远程操作员的机器人出租车事故",
+          "summary": "最近未经编辑的车祸报告显示，特斯拉在尝试扩展其机器人出租车时遇到了一些麻烦。",
+          "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-14T20:23:03.000Z",
+          "publishedAt": "2026-05-15T17:13:26.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 92,
+          "score": 87,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -659,7 +659,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*BaYlAoeVq4OIucPC9spiWQ.jpeg",
           "author": ""
@@ -678,7 +678,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 102,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -697,7 +697,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 77,
+          "score": 58,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2000/0*s0pM-xh1N3SgzNJL.jpg",
           "author": ""
@@ -767,88 +767,67 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "98bd8d86b1f3f5c5",
-          "title": "How Claude Code works in large codebases",
-          "titleZh": "Claude Code 在大型代码库中的工作原理",
-          "summary": "Hacker News 热帖，当前积分 71，评论 40。",
-          "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-15T04:15:31.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "abad4cb76a4305d9",
-          "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-          "titleZh": "特里斯坦达库尼亚大胆空投的详细信息",
-          "summary": "Hacker News 热帖，当前积分 32，评论 3。",
-          "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-15T03:56:14.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 110,
-          "sourceType": "api"
-        },
-        {
-          "id": "c9f70acb82d96b8b",
-          "title": "Mullvad exit IPs are surprisingly identifying",
-          "titleZh": "Mullvad 出口 IP 出人意料地识别",
-          "summary": "Hacker News 热帖，当前积分 215，评论 93。",
-          "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-15T02:35:35.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 108,
-          "sourceType": "api"
-        },
-        {
-          "id": "a77b3a6d2e1d55e0",
-          "title": "几个国产大模型，用来对接用在 cc 上编程，哪家性价比高？",
-          "summary": "codex 登录要手机号，加上之前的某境外大厂的账号莫名其妙被 ban，想着用国产的得了，至少登录啥的省事不少。现在国内的哪家好用点？",
-          "url": "https://www.v2ex.com/t/1212916#reply4",
+          "id": "dbde266629b3e955",
+          "title": "开发用 Claude desktop 还是 Codex？",
+          "summary": "这里不对两种选择做好坏评价。从工具设计来说，Claude Desktop 设计思路是把所有东西塞进一个地方，「 Chat, Cowork, and Claude Code, all in one place 」，聊天、协作、终端，你坐在那儿和 AI 一起干活，它做一步你看一步，随时插手。用这类工具的人，天然喜欢盯着过程，不太放心把…",
+          "url": "https://www.v2ex.com/t/1213136#reply4",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-15T03:20:22.000Z",
+          "publishedAt": "2026-05-16T03:33:39.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 108,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "libasten"
+          "author": "longxinglink"
         },
         {
-          "id": "ef680bc9c882b8a8",
-          "title": "KIMI code 偷偷改 token 计量",
-          "summary": "买个 Allegretto 套餐之前根本用不完，现在 3天跑满了，还不是之前重型业务仓库全扫迁移这种。感知太明显。合着不显示 token 用量和模型原来在这等着。微信问客服，直接装死不回复，nb。和智谱真是云泥之分，智谱最开始的套餐是不限制 token，根本不会动老用户权益。",
-          "url": "https://www.v2ex.com/t/1212874#reply20",
+          "id": "6e24ed7ed7b7b91b",
+          "title": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+          "summary": "",
+          "url": "https://www.v2ex.com/t/1213129#reply13",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-15T01:57:02.000Z",
+          "publishedAt": "2026-05-16T02:52:24.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "289396212"
+        },
+        {
+          "id": "645e20a096136034",
+          "title": "codex 是通过本地安装 cc swithc 还是 newapi/sub2api 接入 deekpseek v4 更好",
+          "summary": "有人用过吗? 可否说下哪个方式更好?",
+          "url": "https://www.v2ex.com/t/1213127#reply6",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-16T02:40:30.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "Hermitist"
+        },
+        {
+          "id": "b7ca4e675dd89728",
+          "title": "一个稍稍严肃的 Infra 开发， 200 刀 Codex 周消耗量",
+          "summary": "5月12日下午 3 时刷新了一周用量，到 5月15日下午用完，下次刷新要等到 5月19日了，套餐是 ChatGPT 200 刀，模型是 gpt-5.5 high fast。Infra 开发进入中后期（加模块），习惯是 Codex 主程（一个长期的 session，token 使用量已经有 3.3B 左右），然…",
+          "url": "https://www.v2ex.com/t/1213114#reply16",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-16T00:56:12.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -857,17 +836,17 @@
           "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "xiejay97"
+          "author": "Had"
         },
         {
-          "id": "d595ec4e7fee4458",
-          "title": "Access to frontier AI will soon be limited by economic and security constraints",
-          "titleZh": "进入前沿人工智能很快将受到经济和安全限制的限制",
-          "summary": "Hacker News 热帖，当前积分 67，评论 33。",
-          "url": "https://writing.antonleicht.me/p/cut-off",
+          "id": "7b3f4fcc16d0b922",
+          "title": "The main thing about P2P meth is that there's so much of it (2021)",
+          "titleZh": "关于 P2P 甲基苯丙胺的主要事情是它有这么多（2021）",
+          "summary": "Hacker News 热帖，当前积分 89，评论 76。",
+          "url": "https://dynomight.net/p2p-meth/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-15T01:08:04.000Z",
+          "publishedAt": "2026-05-15T23:37:32.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -875,8 +854,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 106,
+          "score": 104,
           "sourceType": "api"
+        },
+        {
+          "id": "5e858d651699e72a",
+          "title": "请教一下各位， claude code 怎么像 codex 那样 branch in a new chat?",
+          "summary": "请教一下各位，claude code 怎么像 codex 那样 branch in a new chat?",
+          "url": "https://www.v2ex.com/t/1213109#reply8",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-15T22:28:50.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 101,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "409164"
         }
       ]
     }
@@ -887,7 +884,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -899,7 +896,7 @@
     },
     {
       "tag": "行业热点",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "设计/UI",
@@ -907,7 +904,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "产品/商业",
@@ -922,11 +919,11 @@
       "count": 8
     },
     {
-      "tag": "效率",
+      "tag": "开发者社区",
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "效率",
       "count": 6
     },
     {
@@ -934,11 +931,15 @@
       "count": 6
     },
     {
+      "tag": "交互设计",
+      "count": 6
+    },
+    {
       "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "开发者社区",
+      "tag": "科技公司",
       "count": 5
     },
     {
@@ -946,12 +947,8 @@
       "count": 5
     },
     {
-      "tag": "科技公司",
-      "count": 5
-    },
-    {
       "tag": "新产品",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "技术周刊",
