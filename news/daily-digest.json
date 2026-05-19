@@ -1,50 +1,32 @@
 {
-  "generatedAt": "2026-05-18T03:10:08.581Z",
+  "generatedAt": "2026-05-19T03:09:16.331Z",
   "headline": {
-    "id": "c08044e9f7c2a851",
-    "title": "gemini 昨夜悄悄更新了",
-    "summary": "昨天在家写了半天项目，用的是 Antigraty，白天速度也就正常，晚上正在用，突然速度提升了好几倍，刚敲完回车就改完了。上下文也支持很长，感觉是平时的三倍以上。我用的是 3.0 flash。",
-    "url": "https://www.v2ex.com/t/1213417#reply13",
+    "id": "24f36ffd17192b2a",
+    "title": "请教 国产化服务器如果里面要加显卡，是否要求显卡也得国产化呢",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1213726#reply3",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-05-18T02:12:26.000Z",
+    "publishedAt": "2026-05-19T02:42:04.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 112,
+    "score": 109,
     "sourceType": "rss",
     "cover": "",
-    "author": "randm"
+    "author": "yiyiniu"
   },
   "latest": [
     {
-      "id": "c08044e9f7c2a851",
-      "title": "gemini 昨夜悄悄更新了",
-      "summary": "昨天在家写了半天项目，用的是 Antigraty，白天速度也就正常，晚上正在用，突然速度提升了好几倍，刚敲完回车就改完了。上下文也支持很长，感觉是平时的三倍以上。我用的是 3.0 flash。",
-      "url": "https://www.v2ex.com/t/1213417#reply13",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-18T02:12:26.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "randm"
-    },
-    {
-      "id": "1bd401cbadb7f4e9",
-      "title": "为啥 LangChain4j, spring ai 都支持 skills 了 langchain langgraph 不支持。。。",
+      "id": "24f36ffd17192b2a",
+      "title": "请教 国产化服务器如果里面要加显卡，是否要求显卡也得国产化呢",
       "summary": "",
-      "url": "https://www.v2ex.com/t/1213438#reply3",
+      "url": "https://www.v2ex.com/t/1213726#reply3",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-18T02:49:24.000Z",
+      "publishedAt": "2026-05-19T02:42:04.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,71 +35,71 @@
       "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "layman3612"
+      "author": "yiyiniu"
     },
     {
-      "id": "7ed68cbf6689fbb4",
-      "title": "我把 OpenSpec 揉进开发流程里了，让 Claude Code 自己学着用",
-      "summary": "最近想把 OpenSpec 集成进自己的 coding agent 工作流项目，让 Claude Code 自己用，省得我还得手动调 skill 或者敲命令行（其实就是工具太多了学不过来，丢在工作流里让他自己 drive 哈哈，正好社区里也有呼声把 OpenSpec 支持加进去）。做完感觉挺好使的，给大伙唠唠 之前我自己做了几个月一…",
-      "url": "https://www.v2ex.com/t/1213407#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-18T01:41:46.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "fennu2333"
-    },
-    {
-      "id": "5dacef47c4c39b34",
-      "title": "国产的 AI IDE 矮子头上选将军好像也就 TRAE 好用点",
-      "summary": "对于大多数非科班计算机的同学，感觉目前国产的 Trea 应该是最顺手的 AI IDE 了，以前我也用 Cursor，但是现在这货越来越狗了，比如开 Pro 才能自定义模型地址。像最新更新的 qoder，有的人觉得比较好用，但是积分完全不够用。虽然现在新增了自定义模型功能，但却只能用固定服务商的。TRAE 倒是更加开放一点，可…",
-      "url": "https://www.v2ex.com/t/1213384#reply37",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-18T00:36:20.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "52txr"
-    },
-    {
-      "id": "0f20fb152e7aeb33",
-      "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
-      "summary": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年 OpenAI 与苹果关系紧张，或考虑诉讼 索尼回应 AI 相机助手越改越差，称只是修图建议 Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言 微软重新允许自定义任务栏与开始菜单 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "url": "https://sspai.com/post/109870",
+      "id": "30affc0f44f39b83",
+      "title": "派早报：红魔发布红魔 11S Pro 系列手机等",
+      "summary": "少数派的近期动态可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款 MBTI 定制墨水屏「口袋先知」预售进行中，一按知运势。立刻预购麦金獭钢化膜单膜补充装已上线，替换装，更划算。立即抢购你可能错过 ... 查看全文",
+      "url": "https://sspai.com/post/109908",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-17T22:56:55.000Z",
+      "publishedAt": "2026-05-18T23:57:10.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "f7ed543f01f97d15",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "titleZh": "两架 EA-18 战斗机在 Mountain Home 航展上相撞，飞行员安全弹射",
-      "summary": "Hacker News 热帖，当前积分 117，评论 96。",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "id": "048f8e3356184a32",
+      "title": "Codex 客户端打开慢",
+      "summary": "codex 客户端使用 tun 没有问题。使用.env 的方式配置 http 和 https_proxy 后，能用是能用，为啥每次打开这加载几分钟？",
+      "url": "https://www.v2ex.com/t/1213671#reply3",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-19T00:48:43.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "laoyutang"
+    },
+    {
+      "id": "e2bcc8ea09f218ea",
+      "title": "Gemini 的 Pro 与 Flash 新增了“思考程度”功能，有人来说说使用体验吗？",
+      "summary": "Gemini 的 Pro 与 Flash 新增了“思考程度”功能，分成“标准”与“延长”。https://9to5google.com/2026/05/17/gemini-app-thinking-level/",
+      "url": "https://www.v2ex.com/t/1213667#reply7",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-19T00:20:06.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "qqqfreeboycn"
+    },
+    {
+      "id": "d324f8247606848d",
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "titleZh": "Anthropic 联合创始人将与教皇利奥十四世一起发布 AI 通谕",
+      "summary": "Hacker News 热帖，当前积分 129，评论 81。",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-17T21:45:30.000Z",
+      "publishedAt": "2026-05-18T23:18:10.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -125,43 +107,62 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 105,
+      "score": 108,
       "sourceType": "api"
     },
     {
-      "id": "43034785ec3dea99",
-      "title": "How mobile apps are reshaping screening for cognitive decline",
-      "titleZh": "移动应用如何重塑认知能力下降的筛查",
+      "id": "519d46c31f4d7a1a",
+      "title": "Click (2016)",
+      "titleZh": "Click (2016)",
+      "summary": "Hacker News 热帖，当前积分 218，评论 51。",
+      "url": "https://clickclickclick.click/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-18T23:03:02.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 107,
+      "sourceType": "api"
+    },
+    {
+      "id": "bdccc372f640bca3",
+      "title": "The waiting problem in AI products",
+      "titleZh": "人工智能产品中的等待问题",
       "summary": "",
-      "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-05-17T21:39:23.000Z",
+      "publishedAt": "2026-05-18T22:22:47.000Z",
       "category": "design",
       "tags": [
         "设计/UI",
         "交互设计"
       ],
-      "score": 104,
+      "score": 105,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "5c47d1979b717819",
-      "title": "Two gears, one compass: designing at velocity while sustaining quality",
-      "titleZh": "两个齿轮，一个指南针：在保持质量的同时加速设计",
-      "summary": "",
-      "url": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-05-17T21:38:38.000Z",
-      "category": "design",
+      "id": "2db7412f30d53653",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "titleZh": "SandboxAQ 将其药物发现模型带给 Claude —无需计算机博士学位",
+      "summary": "其他风险投资支持的公司，如 Chai Discovery 和 Isomorphic Labs，都在竞相构建更好的模型。SandboxAQ 押注访问是更大的障碍，并...",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-05-18T21:29:31.000Z",
+      "category": "product",
       "tags": [
-        "设计/UI",
-        "交互设计"
+        "产品/商业",
+        "科技公司"
       ],
-      "score": 104,
+      "score": 100,
       "sourceType": "rss",
       "cover": "",
       "author": ""
@@ -169,31 +170,49 @@
   ],
   "featuredTools": [
     {
-      "id": "0f20fb152e7aeb33",
-      "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
-      "summary": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年 OpenAI 与苹果关系紧张，或考虑诉讼 索尼回应 AI 相机助手越改越差，称只是修图建议 Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言 微软重新允许自定义任务栏与开始菜单 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "url": "https://sspai.com/post/109870",
+      "id": "30affc0f44f39b83",
+      "title": "派早报：红魔发布红魔 11S Pro 系列手机等",
+      "summary": "少数派的近期动态可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款 MBTI 定制墨水屏「口袋先知」预售进行中，一按知运势。立刻预购麦金獭钢化膜单膜补充装已上线，替换装，更划算。立即抢购你可能错过 ... 查看全文",
+      "url": "https://sspai.com/post/109908",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-17T22:56:55.000Z",
+      "publishedAt": "2026-05-18T23:57:10.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "7caeb72d789fcab0",
-      "title": "看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验",
-      "summary": "在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能 QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ... 查看全文",
-      "url": "https://sspai.com/post/64870",
+      "id": "f8d50429acb2ab6d",
+      "title": "派评 | 近期值得关注的 App",
+      "summary": ">下载少数派 2.0 客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "url": "https://sspai.com/post/109886",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-17T04:57:27.000Z",
+      "publishedAt": "2026-05-18T10:05:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "e96d6eac4f392b34",
+      "title": "打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试",
+      "summary": "只需要一个浏览器就能玩，很适合上班时间摸鱼🌝 查看全文",
+      "url": "https://sspai.com/post/109743",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-18T07:00:00.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -202,76 +221,59 @@
       "score": 82,
       "sourceType": "rss",
       "cover": "",
-      "author": "Blanboom"
+      "author": "Tp"
     },
     {
-      "id": "c1094fe0855b77f6",
-      "title": "为什么我觉得好的东西，媒体评测却给了低分？",
-      "summary": "为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文",
-      "url": "https://sspai.com/post/109777",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-16T07:38:00.000Z",
+      "id": "bd3018212a44fc1f",
+      "title": "M1 by Montage",
+      "titleZh": "蒙太奇 M1",
+      "summary": "按需扩展的客服 UI",
+      "url": "https://www.producthunt.com/products/montage-3",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-18T04:05:57.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 58,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
-      "author": "Leobai"
+      "author": "Aarav Makadia"
     },
     {
-      "id": "3147c477ca9f7d1d",
-      "title": "装了啥：编辑部用什么转写音视频内容？",
-      "summary": "按：从播客访谈到深度长视频，越来越多的内容创作者把表达重心放到了音视频里；「先转录、再阅读」也因此成了不少重度信息消费者的日常工作流。本期「装了啥」，我们请编辑部几位同事分享各自正在使用的转录方案，希 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/zhuanglesha-260515",
+      "id": "598838a88fe07af0",
+      "title": "四天三夜，用小长假的时间体验青海湖小环线",
+      "summary": "作为 2025年的年度旅行，本次 4天的青海湖小环线我甚是满意。查看全文",
+      "url": "https://sspai.com/post/103407",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-15T09:56:34.000Z",
+      "publishedAt": "2026-05-18T03:02:10.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 61,
+      "score": 77,
       "sourceType": "rss",
       "cover": "",
-      "author": "少数派编辑部"
+      "author": "别惹小炸毛"
     },
     {
-      "id": "0509d5ba4338b0ce",
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "summary": "📅本周新预告《攻壳机动队 THEGHOSTINTHESHELL》新预告 5月11日，TV 动画《攻壳机动队 THEGHOSTINTHESHELL》发布了新预告，定档 7月7日开始播出。木村翔马执导，圆城塔编剧，... 查看全文",
-      "url": "https://sspai.com/post/109825",
+      "id": "0f20fb152e7aeb33",
+      "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+      "summary": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年 OpenAI 与苹果关系紧张，或考虑诉讼 索尼回应 AI 相机助手越改越差，称只是修图建议 Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言 微软重新允许自定义任务栏与开始菜单 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/109870",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-15T10:00:00.000Z",
+      "publishedAt": "2026-05-17T22:56:55.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "25b0d75cf8dda80e",
-      "title": "[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看",
-      "summary": "北京时间 6月9日凌晨，WWDC26 全球开发者大会首日 Keynote 主题演讲活动即将揭幕。届时，我们将迎来 iOS27、iPadOS27、macOS27、watchOS27、visionOS27 等新一代操 ... 查看全文",
-      "url": "https://sspai.com/post/109816",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-15T08:59:44.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
+      "score": 74,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -283,6 +285,44 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "15f7eb0ad11eda54",
+          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+          "titleZh": "跨文档视图转换：没人提到的抓手",
+          "summary": "这是关于跨文档视图转换的两部分系列的第 1 部分，涵盖了所有的陷阱，从放弃弃弃用的方式来选择它们到小结……",
+          "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-05-18T13:47:19.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "ecf4e296fb5e0e8c",
+          "title": "光标的形状也能设置了，就是CSS caret-shape属性",
+          "summary": "好消息，现在不仅光标的颜色，连光标的形状也能设置了，同时还能控制光标是否闪烁，CSS 特性真是越来越全面了。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-05-18T07:50:42.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS",
+            "CSS相关"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/image/blog/202605/2026-5-18_154828.webp",
+          "author": ""
+        },
         {
           "id": "a9c1eb0bd3ef9eb4",
           "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
@@ -357,44 +397,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "4fd42e7570e2be36",
-          "title": "rotateX()",
-          "titleZh": "旋转",
-          "summary": "RotateX ()函数在三维空间中围绕 x 轴旋转元素 rotateX ()最初是在 CSS-Tricks 上手写和发布的。你…",
-          "url": "https://css-tricks.com/almanac/functions/r/rotatex/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-13T14:36:54.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "b52ebc04baacd699",
-          "title": "rotateY()",
-          "titleZh": "旋转",
-          "summary": "RotateY ()函数围绕垂直 y 轴旋转元素。rotateY ()最初是在 CSS-Tricks 上手写和发布的。你真的应该……",
-          "url": "https://css-tricks.com/almanac/functions/r/rotatey/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-13T14:33:58.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -403,6 +405,82 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "fbc85425d0685693",
+          "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+          "titleZh": "使用 LoRA/DoRA 对 NVIDIA Cosmos Predict 2.5 进行微调，用于机器人视频生成",
+          "summary": "",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-05-18T16:00:21.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "0ccab01bdd39e4b5",
+          "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+          "titleZh": "PaddleOCR 3.5：使用变压器后端运行 OCR 和文档解析任务",
+          "summary": "",
+          "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-05-18T15:12:46.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "4c6b2fa852636536",
+          "title": "The Open Agent Leaderboard",
+          "titleZh": "Open Agent 排行榜",
+          "summary": "",
+          "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-05-18T14:12:58.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "fe2a596381010a70",
+          "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+          "titleZh": "OpenAI 与戴尔合作，将 Codex 引入混合和本地企业环境",
+          "summary": "OpenAI 与戴尔合作，将 Codex 引入混合和本地环境，帮助企业在数据和工作流中安全地部署 AI 编码代理。",
+          "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-05-18T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "33e18fc70afd97a0",
           "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -440,82 +518,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "c75666f521985f89",
-          "title": "How data science teams use Codex",
-          "titleZh": "数据科学团队如何使用 Codex",
-          "summary": "了解数据科学团队如何使用 Codex 从实际工作输入中构建根本原因简报、影响读数、KPI 备忘录、范围分析和仪表板规格。",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-15T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "54d8063ff27922e3",
-          "title": "A new personal finance experience in ChatGPT",
-          "titleZh": "ChatGPT 的全新个人理财体验",
-          "summary": "在 ChatGPT 中为美国的 Pro 用户预览新的个人理财体验安全地连接您的财务账户，并获得人工智能驱动的见解和指导……",
-          "url": "https://openai.com/index/personal-finance-chatgpt",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-15T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "918f62c58acf3372",
-          "title": "How sales teams use Codex",
-          "titleZh": "销售团队如何使用 Codex",
-          "summary": "了解销售团队如何使用 Codex 从实际工作输入中创建管道简报、会议准备包、预测审查、客户计划和停滞交易诊断。",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-15T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "000af1bc0e245422",
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "titleZh": "Databricks 将 GPT-5.5 引入企业代理工作流程",
-          "summary": "在模型为 OfficeQA Pro 基准设置了新的最先进技术后，Databricks 将 GPT-5.5 用于企业代理工作流程。",
-          "url": "https://openai.com/index/databricks",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-05-15T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -525,116 +527,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "0510441b699bfc76",
-          "title": "Apple’s Siri revamp could include auto-deleting chats",
-          "titleZh": "苹果的 Siri 改造可能包括自动删除聊天",
-          "summary": "当苹果推出新版 Siri 时，隐私将是一个重要主题。",
-          "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "id": "2db7412f30d53653",
+          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+          "titleZh": "SandboxAQ 将其药物发现模型带给 Claude —无需计算机博士学位",
+          "summary": "其他风险投资支持的公司，如 Chai Discovery 和 Isomorphic Labs，都在竞相构建更好的模型。SandboxAQ 押注访问是更大的障碍，并...",
+          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-17T20:15:00.000Z",
+          "publishedAt": "2026-05-18T21:29:31.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 94,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c9f71ab89c9d614e",
-          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-          "titleZh": "为什么在 Elon Musk-OpenAI 试验中信任是一个大问题",
-          "summary": "试验最后几天的一个重要主题是 OpenAI 首席执行官 Sam Altman 是否值得信赖。",
-          "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "id": "bb6ff5d280b07d3c",
+          "title": "OSHA probing worker death at SpaceX’s Starbase site",
+          "titleZh": "OSHA 在 SpaceX 的星际基地探测工人死亡",
+          "summary": "死亡是星际基地工厂的最新工人安全问题，该工厂的受伤率高于所有其他 SpaceX 工厂。",
+          "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-17T19:46:34.000Z",
+          "publishedAt": "2026-05-18T21:55:02.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 94,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "14a7b61013aa1053",
-          "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-          "titleZh": "如果你在 2026年发表毕业典礼演讲，也许不要提及人工智能",
-          "summary": "让即将毕业的学生对人工智能塑造的未来感到兴奋是很困难的。",
-          "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+          "id": "b094dd7487fda084",
+          "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+          "titleZh": "Anthropic 已收购 OpenAI、Google 和 Cloudflare 使用的开发工具初创公司",
+          "summary": "Stainless 是一家总部位于纽约的初创公司，成立于 2022年，在新兴的人工智能行业中脱颖而出，实现了软件开发人员的自动化创建和维护……",
+          "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-17T16:32:04.000Z",
+          "publishedAt": "2026-05-18T19:27:52.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 89,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "56452e3513d99f9d",
-          "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-          "titleZh": "TechCrunch Mobility：汽车领域的人工智能技能军备竞赛即将到来",
-          "summary": "欢迎回到 TechCrunch Mobility，这是您获取有关未来交通的新闻和见解的中心枢纽。",
-          "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+          "id": "4df87a293a40cb06",
+          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "titleZh": "Elon Musk 输掉了对 Sam Altman 和 OpenAI 的诉讼",
+          "summary": "埃隆·马斯克（Elon Musk）声称他受到 OpenAI 联合创始人的虐待，但在九名加利福尼亚州陪审员一致裁定他的诉讼已经提起后，这一说法失败了……",
+          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-17T16:05:00.000Z",
+          "publishedAt": "2026-05-18T17:34:43.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 89,
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "ff2284ee21a45d40",
-          "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its physical-world thesis",
-          "titleZh": "对于 Eclipse 来说，$25 亿 Cerebras 的胜利只是实现其物理世界理论的开始",
-          "summary": "10年前，对 Lior Susan 来说，在现实世界中投资是孤独的。现在，他的公司发现自己处于科技界行动的中心。",
-          "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+          "id": "31643b7354c50207",
+          "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+          "titleZh": "NYC Health + Hospitals 表示，黑客在数据泄露期间窃取医疗数据和指纹，影响至少 180 万人",
+          "summary": "纽约公共卫生系统表示，黑客窃取了个人和医疗数据，并扫描了生物识别技术（包括指纹），这是有记录以来规模最大的一次。",
+          "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-17T15:00:00.000Z",
+          "publishedAt": "2026-05-18T16:32:33.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 88,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "72dc47d83a20ad00",
-          "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
-          "titleZh": "为什么我们处于人工智能硬件热潮的起点| Caitlin Kalinowski （前 OpenAI、Meta、Apple）",
-          "summary": "立即倾听| Caitlin Kalinowski 关于供应链漏洞威胁机器人革命、消费者 VR 失败的原因以及她在 App 中构建产品的经验教训……",
-          "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+          "id": "cb1ed62bd38f294a",
+          "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+          "titleZh": "🎙️ 如何使用 AI：HTML 是新的 Markdown：Anthropic 工程师如何使用 Claude Code 构建",
+          "summary": "您的每周收听《How I AI》，这是 Lenny 播客网络的一部分",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-17T12:31:57.000Z",
+          "publishedAt": "2026-05-18T15:00:52.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 85,
+          "score": 86,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/196483701/2f9a6c609377e62db434fdc5c77f8072.mp3",
+          "cover": "https://substack-post-media.s3.amazonaws.com/public/images/b62ea122-e3e4-4fc5-aec6-7c4b92292149_1456x1048.png",
           "author": ""
         }
       ]
@@ -644,6 +646,63 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "bdccc372f640bca3",
+          "title": "The waiting problem in AI products",
+          "titleZh": "人工智能产品中的等待问题",
+          "summary": "",
+          "url": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-18T22:22:47.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 105,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "df04e326662184de",
+          "title": "The big M&M’s color investigation you could’ve totally lived without",
+          "titleZh": "如果没有 M&M 的大型色彩调查，您本可以过上完全没有的生活",
+          "summary": "颜色如何操纵我们的大脑，为什么要改变它们？深入了解 M&M 的产品策略和争议。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-big-m-ms-color-investigation-you-could-ve-totally-lived-without-f836bd2697ec?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-18T12:43:35.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/690/0*pd6AoyfgGQqT_BbI.jpg",
+          "author": ""
+        },
+        {
+          "id": "cea5748cf8ea6c99",
+          "title": "Be like water, The death of the empty state, AI for UX",
+          "titleZh": "像水一样，空状态的死亡，用户体验的人工智能",
+          "summary": "",
+          "url": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-18T12:46:45.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "43034785ec3dea99",
           "title": "How mobile apps are reshaping screening for cognitive decline",
@@ -658,7 +717,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 104,
+          "score": 65,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -677,47 +736,9 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 104,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f5a2ae0792824f00",
-          "title": "Opening your place to the street",
-          "titleZh": "向街道敞开家门",
-          "summary": "为思考人工智能时代的设计师打开通往上游对话─笔记的渠道继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-16T19:10:46.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/1497/1*bBweZM9VrHRYLChi5N5nnw.png",
-          "author": ""
-        },
-        {
-          "id": "8e49b60a003743df",
-          "title": "How to write a DESIGN.md file Claude can actually use",
-          "titleZh": "如何编写 Claude 实际可以使用的 DESIGN.md 文件",
-          "summary": "您的 DESIGN.md 应该讲述您产品的故事继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-16T19:11:22.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 65,
           "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/1*Pu4j11iI1GWB5kCNfLbCfQ.png",
+          "cover": "",
           "author": ""
         },
         {
@@ -734,26 +755,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 61,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "3c217845fafd8dd1",
-          "title": "The undo problem in AI products",
-          "titleZh": "人工智能产品中的撤销问题",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-16T19:08:45.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 61,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -766,31 +768,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "c08044e9f7c2a851",
-          "title": "gemini 昨夜悄悄更新了",
-          "summary": "昨天在家写了半天项目，用的是 Antigraty，白天速度也就正常，晚上正在用，突然速度提升了好几倍，刚敲完回车就改完了。上下文也支持很长，感觉是平时的三倍以上。我用的是 3.0 flash。",
-          "url": "https://www.v2ex.com/t/1213417#reply13",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-18T02:12:26.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "randm"
-        },
-        {
-          "id": "1bd401cbadb7f4e9",
-          "title": "为啥 LangChain4j, spring ai 都支持 skills 了 langchain langgraph 不支持。。。",
+          "id": "24f36ffd17192b2a",
+          "title": "请教 国产化服务器如果里面要加显卡，是否要求显卡也得国产化呢",
           "summary": "",
-          "url": "https://www.v2ex.com/t/1213438#reply3",
+          "url": "https://www.v2ex.com/t/1213726#reply3",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-18T02:49:24.000Z",
+          "publishedAt": "2026-05-19T02:42:04.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -799,53 +783,53 @@
           "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "layman3612"
+          "author": "yiyiniu"
         },
         {
-          "id": "7ed68cbf6689fbb4",
-          "title": "我把 OpenSpec 揉进开发流程里了，让 Claude Code 自己学着用",
-          "summary": "最近想把 OpenSpec 集成进自己的 coding agent 工作流项目，让 Claude Code 自己用，省得我还得手动调 skill 或者敲命令行（其实就是工具太多了学不过来，丢在工作流里让他自己 drive 哈哈，正好社区里也有呼声把 OpenSpec 支持加进去）。做完感觉挺好使的，给大伙唠唠 之前我自己做了几个月一…",
-          "url": "https://www.v2ex.com/t/1213407#reply1",
+          "id": "048f8e3356184a32",
+          "title": "Codex 客户端打开慢",
+          "summary": "codex 客户端使用 tun 没有问题。使用.env 的方式配置 http 和 https_proxy 后，能用是能用，为啥每次打开这加载几分钟？",
+          "url": "https://www.v2ex.com/t/1213671#reply3",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-18T01:41:46.000Z",
+          "publishedAt": "2026-05-19T00:48:43.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 113,
+          "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "fennu2333"
+          "author": "laoyutang"
         },
         {
-          "id": "5dacef47c4c39b34",
-          "title": "国产的 AI IDE 矮子头上选将军好像也就 TRAE 好用点",
-          "summary": "对于大多数非科班计算机的同学，感觉目前国产的 Trea 应该是最顺手的 AI IDE 了，以前我也用 Cursor，但是现在这货越来越狗了，比如开 Pro 才能自定义模型地址。像最新更新的 qoder，有的人觉得比较好用，但是积分完全不够用。虽然现在新增了自定义模型功能，但却只能用固定服务商的。TRAE 倒是更加开放一点，可…",
-          "url": "https://www.v2ex.com/t/1213384#reply37",
+          "id": "e2bcc8ea09f218ea",
+          "title": "Gemini 的 Pro 与 Flash 新增了“思考程度”功能，有人来说说使用体验吗？",
+          "summary": "Gemini 的 Pro 与 Flash 新增了“思考程度”功能，分成“标准”与“延长”。https://9to5google.com/2026/05/17/gemini-app-thinking-level/",
+          "url": "https://www.v2ex.com/t/1213667#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-18T00:36:20.000Z",
+          "publishedAt": "2026-05-19T00:20:06.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "52txr"
+          "author": "qqqfreeboycn"
         },
         {
-          "id": "f7ed543f01f97d15",
-          "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-          "titleZh": "两架 EA-18 战斗机在 Mountain Home 航展上相撞，飞行员安全弹射",
-          "summary": "Hacker News 热帖，当前积分 117，评论 96。",
-          "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+          "id": "d324f8247606848d",
+          "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+          "titleZh": "Anthropic 联合创始人将与教皇利奥十四世一起发布 AI 通谕",
+          "summary": "Hacker News 热帖，当前积分 129，评论 81。",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-17T21:45:30.000Z",
+          "publishedAt": "2026-05-18T23:18:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -853,18 +837,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 105,
+          "score": 108,
           "sourceType": "api"
         },
         {
-          "id": "8d8cd06b993f531a",
-          "title": "Prolog Coding Horror",
-          "titleZh": "Prolog Coding Horror",
-          "summary": "Hacker News 热帖，当前积分 64，评论 23。",
-          "url": "https://www.metalevel.at/prolog/horror",
+          "id": "519d46c31f4d7a1a",
+          "title": "Click (2016)",
+          "titleZh": "Click (2016)",
+          "summary": "Hacker News 热帖，当前积分 218，评论 51。",
+          "url": "https://clickclickclick.click/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-17T21:15:51.000Z",
+          "publishedAt": "2026-05-18T23:03:02.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -872,7 +856,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 104,
+          "score": 107,
+          "sourceType": "api"
+        },
+        {
+          "id": "9ce49f447554e737",
+          "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+          "titleZh": "Hyperpolyglot Lisp：Common Lisp、Racket、Clojure、Emacs Lisp",
+          "summary": "Hacker News 热帖，当前积分 138，评论 28。",
+          "url": "https://hyperpolyglot.org/lisp",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-18T19:27:25.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 101,
           "sourceType": "api"
         }
       ]
@@ -896,27 +899,27 @@
     },
     {
       "tag": "行业热点",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "设计/UI",
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 10
-    },
-    {
       "tag": "产品/商业",
       "count": 10
     },
     {
+      "tag": "工具/网站",
+      "count": 9
+    },
+    {
       "tag": "工程效率",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "讨论",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "开发者社区",
@@ -931,11 +934,11 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -947,11 +950,11 @@
       "count": 5
     },
     {
-      "tag": "新产品",
-      "count": 4
+      "tag": "CSS相关",
+      "count": 3
     },
     {
-      "tag": "技术周刊",
+      "tag": "新产品",
       "count": 3
     }
   ]
