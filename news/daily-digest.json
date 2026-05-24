@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-23T03:07:57.212Z",
+  "generatedAt": "2026-05-24T03:09:08.421Z",
   "headline": {
-    "id": "5e2825a0049a03bc",
-    "title": "这一瞬间感觉被 AI 击中了",
-    "summary": "大家有没有哪一瞬间，感觉到被 AI 击中了？昨晚上在给多 Agent 协作软件，加一个任务功能，就让 小马哥（Agent Team Leader），创建一些假任务来测试。没想到另外一个 Agent 发现了自己的任务，他的做法居然是跑来问小马哥这个是怎么回事，看他们交流，那一瞬间我仿佛被 AI 击中了，呆在那里",
-    "url": "https://www.v2ex.com/t/1214883#reply0",
+    "id": "887d9d223147eca4",
+    "title": "写了个 Claude Code 的 token 用量预警插件，开源",
+    "summary": "每次发 prompt 前自动估算 token 消耗，超出阈值就提醒（或拦截）。核心功能：⚠️ 超阈值自动警告，默认 50K tokens 🚫 可选 block 模式，发送前手动确认 🔧 阈值自由配置，支持 50K / 1M 写法 装完之后对 Claude Code 完全透明，不影响正常使用。https://github.c…",
+    "url": "https://www.v2ex.com/t/1215028#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-05-23T03:04:26.000Z",
+    "publishedAt": "2026-05-24T02:23:40.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
@@ -15,36 +15,18 @@
     ],
     "score": 115,
     "sourceType": "rss",
-    "cover": "https://i.imgur.com/2NWiNj5.png",
-    "author": "AlexaZhou"
+    "cover": "",
+    "author": "chengrui0428"
   },
   "latest": [
     {
-      "id": "5e2825a0049a03bc",
-      "title": "这一瞬间感觉被 AI 击中了",
-      "summary": "大家有没有哪一瞬间，感觉到被 AI 击中了？昨晚上在给多 Agent 协作软件，加一个任务功能，就让 小马哥（Agent Team Leader），创建一些假任务来测试。没想到另外一个 Agent 发现了自己的任务，他的做法居然是跑来问小马哥这个是怎么回事，看他们交流，那一瞬间我仿佛被 AI 击中了，呆在那里",
-      "url": "https://www.v2ex.com/t/1214883#reply0",
+      "id": "887d9d223147eca4",
+      "title": "写了个 Claude Code 的 token 用量预警插件，开源",
+      "summary": "每次发 prompt 前自动估算 token 消耗，超出阈值就提醒（或拦截）。核心功能：⚠️ 超阈值自动警告，默认 50K tokens 🚫 可选 block 模式，发送前手动确认 🔧 阈值自由配置，支持 50K / 1M 写法 装完之后对 Claude Code 完全透明，不影响正常使用。https://github.c…",
+      "url": "https://www.v2ex.com/t/1215028#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-23T03:04:26.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/2NWiNj5.png",
-      "author": "AlexaZhou"
-    },
-    {
-      "id": "7bb49e53537a8e2a",
-      "title": "有一张好卡和一个好 IP，支付订阅确实非常丝滑",
-      "summary": "昨晚发布了 Claude Max 20x 成本号的出售帖子后，咸鱼同步上架商品。半夜正准备睡觉有两位朋友找来下了单，无奈抓紧爬起来做账号。第一个号：恰好前几天开了一个 OVH 美区的 VPS 做测试，就用这个 IP 开始注册订阅，注册没跳手机验证，直接就在注册流程中用给老婆挂的 AE 副卡先开通了 200 刀 Pro 年付（最近挺…",
-      "url": "https://www.v2ex.com/t/1214873#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-23T02:18:19.000Z",
+      "publishedAt": "2026-05-24T02:23:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,35 +35,35 @@
       "score": 115,
       "sourceType": "rss",
       "cover": "",
-      "author": "zhhmax"
+      "author": "chengrui0428"
     },
     {
-      "id": "11611c192941a95b",
-      "title": "阿里云 tokenplan 和 百度 codingplan 慎买",
-      "summary": "百度的问题，价格便宜但限流非常严重，40 块的可以买一个体验看看。刚到公司一点额度都还没用的情况下，一直请求失败，不是断断续续的失败，是直接无法访问了，只有早上可能稍微好一点。阿里云 tokenplan 的问题，积分制，199 买了 25000 积分，但是具体这个积分怎么算没有找到，然后我接入后就发了一个 1，扣了我 160…",
-      "url": "https://www.v2ex.com/t/1214866#reply18",
+      "id": "4fd4b0a025411a70",
+      "title": "更新了一下 VSCode 的 Java 反编译插件。欢迎使用",
+      "summary": "https://marketplace.visualstudio.com/items?itemName=BenjaminSU.decompile-java&ssr=false#overview 新功能如下，欢迎测试提 bug。2026.05 (0.1.3) Dual decompiler engine: Procyon (def…",
+      "url": "https://www.v2ex.com/t/1215023#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-23T01:43:16.000Z",
+      "publishedAt": "2026-05-24T01:20:14.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "zhengmin4516"
+      "author": "BenjaminSu"
     },
     {
-      "id": "fbd09681c012aff2",
-      "title": "Is AI Profitable Yet?",
-      "titleZh": "人工智能是否已经盈利？",
-      "summary": "Hacker News 热帖，当前积分 72，评论 28。",
-      "url": "https://isaiprofitable.com/",
+      "id": "34c9290c626dc765",
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "titleZh": "微软开源“迄今为止发现的最早的 DOS 源代码”",
+      "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-23T02:10:38.000Z",
+      "publishedAt": "2026-05-24T01:21:13.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -93,80 +75,155 @@
       "sourceType": "api"
     },
     {
-      "id": "30119f07fbb462c4",
-      "title": "qwen3.7-max 的代码能力提升非常大",
-      "summary": "高强度用了一天，体感上和 glm-5.1 不相上下了。相对于 3.6 自主分析和解决能力飞跃 如果各位只有国内的稳定接入源的话，可以试试看。",
-      "url": "https://www.v2ex.com/t/1214878#reply3",
+      "id": "107683f881448ffb",
+      "title": "自荐一个适合 AI Coding 的远程会话工具： tssh + tsshd",
+      "summary": "很多人跑 Claude Code、Codex CLI、Gemini CLI 之类的 AI Agent，都会遇到一个问题：SSH 断线后终端状态没了，换设备接着看也不方便。tssh + tsshd 提供了会话预览和 re-attach 能力：查看当前所有会话列表 直接预览每个会话的最新屏幕内容 重新附加到已有会话继续操作 支…",
+      "url": "https://www.v2ex.com/t/1215017#reply7",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-23T02:35:11.000Z",
+      "publishedAt": "2026-05-24T00:34:03.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "cubecube"
-    },
-    {
-      "id": "7901955050f8ddc1",
-      "title": "用同一个手机订阅 Claude 或用同一个 IP 使用 Claude 被连坐的概率大吗？",
-      "summary": "想在部门内推行用 Claude 编程，在考虑费用方案，共用一个账号应该是不行的，估计得订阅多个账号，想知道用同一个手机订阅 Claude 或用同一个 IP 使用 Claude 被连坐的概率大吗？",
-      "url": "https://www.v2ex.com/t/1214863#reply2",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-23T01:39:02.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "ldy619354397"
-    },
-    {
-      "id": "d3c7eabd4357c5ed",
-      "title": "用 Google 礼品卡订阅 Claude 方案可行吗？",
-      "summary": "用 Google 礼品卡订阅 Claude 方案可行吗？毕竟苹果机成本比安卓机高太多了，而且还对 IOS 版本有要求，iphone11 之前手机型号根本安装不了 Claude",
-      "url": "https://www.v2ex.com/t/1214857#reply7",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-23T01:07:13.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "ldy619354397"
-    },
-    {
-      "id": "68cc38879404c6cf",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "titleZh": "使用 Nemotron-Labs 扩散语言模型实现光速文本生成",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-05-23T00:02:03.000Z",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "开源模型"
       ],
       "score": 112,
       "sourceType": "rss",
+      "cover": "https://trzsz.github.io/images/tsshd_attach.gif",
+      "author": "LonnyWong"
+    },
+    {
+      "id": "b8664c2c1e0d6bed",
+      "title": "openai 周限又重置了，已经放弃 claude 了",
+      "summary": "好订阅，不易封号，gpt5.5 和 codex 使用体验顶级，额度量大管饱，还经常找理由重置额度，针对正规订阅的付费用户，体验感觉各方面都比 A\\要好，claudecode 的优势感觉现在也不明显了，codex 已经取消上下文小圆圈显示，让你尽情使用，其自动上下文压缩目前在一众工具默认配置里也是顶尖的，订阅的性价比我觉得比国内一众的…",
+      "url": "https://www.v2ex.com/t/1215013#reply27",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-24T00:04:42.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "layxy"
+    },
+    {
+      "id": "672d8ab78b79b5b2",
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "titleZh": "诈骗者滥用 Microsoft 内部帐户发送垃圾邮件链接",
+      "summary": "Hacker News 热帖，当前积分 41，评论 6。",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-24T00:51:32.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "31b89ff236e79b29",
+      "title": "Wake up! 16b",
+      "titleZh": "醒醒！16B",
+      "summary": "Hacker News 热帖，当前积分 68，评论 6。",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-24T00:30:50.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 109,
+      "sourceType": "api"
+    },
+    {
+      "id": "2094bc70ca7a4419",
+      "title": "OpenAi 到期后还能继续用吗？",
+      "summary": "gptplus 自己谷歌商店信用卡订阅的，商店那边显示昨天到期的（订阅已经取消续订了），但是今天早上起来还可以回答，甚至昨天一周额度都刷的 2%了，今天又回到 100%了，好奇什么机智，能白嫖多久",
+      "url": "https://www.v2ex.com/t/1215012#reply2",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-23T23:54:38.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 108,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "sssblu"
     }
   ],
   "featuredTools": [
+    {
+      "id": "08675e57a23b4896",
+      "title": "这个周末，来深圳文博会和少数派打个卡吧",
+      "summary": "熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ... 查看全文",
+      "url": "https://sspai.com/post/110052",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-23T03:29:35.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 80,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "侧脸君"
+    },
+    {
+      "id": "2fce48d223fbadcb",
+      "title": "SignalLEMO - Ai Outreach Made Simple",
+      "titleZh": "SignalLEMO -让 Ai Outreach 变得简单",
+      "summary": "为现场服务承包商提供人工智能驱动的潜在客户外联",
+      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-23T02:56:16.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 74,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Shaquille Adams"
+    },
+    {
+      "id": "72c5f4adac7ca059",
+      "title": "Command A+",
+      "titleZh": "命令 A +",
+      "summary": "Cohere 的开放式企业主力",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-22T14:16:45.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
     {
       "id": "26c3da64aa34c59b",
       "title": "本周看什么 | 最近值得一看的 7 部作品",
@@ -180,7 +237,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 91,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -198,29 +255,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "克莱德"
-    },
-    {
-      "id": "8112db8fcf021385",
-      "title": "Shroomie",
-      "titleZh": "Shroomie",
-      "summary": "人工智能驱动的新闻变得有趣并养成习惯",
-      "url": "https://www.producthunt.com/products/shroomie",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-22T06:49:14.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 80,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Chenglai Huang"
     },
     {
       "id": "72c219eb9620deb8",
@@ -235,47 +273,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 77,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "heyheyiann"
-    },
-    {
-      "id": "f1bcd13ca953e394",
-      "title": "派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等",
-      "summary": "绿联推出 NAS 新品 DXP4800 GT、哈博森黑鹰 4 号无人机发布等。查看全文",
-      "url": "https://sspai.com/post/110020",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-22T00:30:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 73,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "58566d48b54cd3c8",
-      "title": "Zero Assist",
-      "titleZh": "零辅助",
-      "summary": "技术面试实时 AI 作弊检测",
-      "url": "https://www.producthunt.com/products/zero-assist",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-21T15:06:30.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Vaibhav Devere"
     }
   ],
   "sections": [
@@ -284,25 +285,6 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
-        {
-          "id": "20fd0ad44c9c2773",
-          "title": "The State of CSS Centering in 2026",
-          "titleZh": "2026年 CSS 中心的现状",
-          "summary": "尽管有无数的在线资源，但在尝试将元素居中时，很容易感到困惑。有记录的解决方案，但您是否真的了解……",
-          "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-22T13:44:40.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
         {
           "id": "88a79766ff8ef2ad",
           "title": "Four Levels Of Customer Understanding",
@@ -317,7 +299,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 100,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
@@ -335,7 +317,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 80,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202605/bg2026051711.webp",
           "author": "阮一峰"
@@ -360,42 +342,60 @@
           "author": "hello@smashingmagazine.com (Durgesh Pawar)"
         },
         {
-          "id": "919867aa4921a1ef",
-          "title": "Stack Overflow: When We Stop Asking",
-          "titleZh": "堆栈溢出：当我们停止询问时",
-          "summary": "它仍然像一吨砖头一样，看到堆栈溢出问题的急剧下降。这对我们行业的学习意味着什么？堆栈溢出：当我们…",
-          "url": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-20T13:51:34.000Z",
+          "id": "ecf4e296fb5e0e8c",
+          "title": "光标的形状也能设置了，就是CSS caret-shape属性",
+          "summary": "好消息，现在不仅光标的颜色，连光标的形状也能设置了，同时还能控制光标是否闪烁，CSS 特性真是越来越全面了。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-05-18T07:50:42.000Z",
           "category": "frontend",
           "tags": [
             "前端技术",
-            "CSS"
+            "CSS",
+            "CSS相关"
           ],
-          "score": 67,
+          "score": 63,
           "sourceType": "rss",
-          "cover": "",
+          "cover": "https://image.zhangxinxu.com/image/blog/202605/2026-5-18_154828.webp",
           "author": ""
         },
         {
-          "id": "15f7eb0ad11eda54",
-          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
-          "titleZh": "跨文档视图转换：没人提到的抓手",
-          "summary": "这是关于跨文档视图转换的两部分系列的第 1 部分，涵盖了所有的陷阱，从放弃弃弃用的方式来选择它们到小结……",
-          "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-05-18T13:47:19.000Z",
+          "id": "dd0825c42aa998de",
+          "title": "Ten Data-Backed Truths Of User Experience ROI",
+          "titleZh": "用户体验投资回报的十大数据真相",
+          "summary": "每多一秒的摩擦都会带来可衡量的业务成本。Carrie Webster 分享了十个数据支持的用户体验事实，用户体验直接关系到收入、留存率……",
+          "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-05-15T10:00:00.000Z",
           "category": "frontend",
           "tags": [
             "前端技术",
-            "CSS"
+            "设计/UI"
           ],
-          "score": 67,
+          "score": 65,
           "sourceType": "rss",
-          "cover": "",
-          "author": ""
+          "cover": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
+          "author": "hello@smashingmagazine.com (Carrie Webster)"
+        },
+        {
+          "id": "e9671993b6eac895",
+          "title": "科技爱好者周刊（第 396 期）：互联网通信的替代方案",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-05-15T00:01:51.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 66,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202605/bg2026051414.webp",
+          "author": "阮一峰"
         }
       ]
     },
@@ -418,7 +418,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 112,
+          "score": 74,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -437,7 +437,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 98,
+          "score": 60,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -456,7 +456,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 83,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -475,7 +475,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 83,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -526,90 +526,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "18ab4eb575001f0b",
-          "title": "AI is being used to resurrect the voices of dead pilots",
-          "titleZh": "人工智能正在被用来复活死去的飞行员的声音",
-          "summary": "人们在驾驶舱记录的频谱图图像上使用人工智能来重建它们，迫使 NTSB 暂时阻止对其记录系统的访问。",
-          "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+          "id": "990c1d69fa7a80f2",
+          "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+          "titleZh": "SolarSquare 正在洽谈筹集高达 6000 万美元 $，因为印度的屋顶太阳能市场吸引了大量风险投资",
+          "summary": "SolarSquare 预计将在下个月完成高达 5亿美元的融资。",
+          "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-22T23:03:33.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 101,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "4e8727793cbec72e",
-          "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-          "titleZh": "SpaceX 首次发射 Starship V3，但在返回时失去了助推器",
-          "summary": "该公司首次成功推出了升级的 Starship V3，它需要在未来几年为其许多雄心勃勃的目标提供支持。",
-          "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-22T22:55:57.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 101,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "57548f5565331d67",
-          "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-          "titleZh": "Blue Origin 在 4月事故后获准飞行 New Glenn 巨型火箭",
-          "summary": "杰夫·贝索斯（Jeff Bezos）的火箭公司证实，发动机故障导致上个月 AST SpaceMobile 卫星丢失，但几乎没有提供任何细节。",
-          "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-22T21:37:17.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "b835e1776276b647",
-          "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-          "titleZh": "风投和创始人如何使用膨胀的“ARR”来引领人工智能初创企业",
-          "summary": "一些人工智能初创公司在公开谈论进度时，正在扩展传统的收入指标。他们的投资者非常清楚。",
-          "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-22T20:40:48.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e1fe4c910a61e411",
-          "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-          "titleZh": "谷歌推出带有迪斯科球图标的闪光灯：“你们确定还想要这个吗？”",
-          "summary": "Google 表示，您现在可以将整个 Pixel 主屏幕迪斯科球化。",
-          "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-22T21:02:36.000Z",
+          "publishedAt": "2026-05-23T20:03:13.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -621,21 +545,97 @@
           "author": ""
         },
         {
-          "id": "3f4392a009267cb5",
-          "title": "Goodbye, Lenny's Reads!",
-          "titleZh": "再见，Lenny's Reads！",
-          "summary": "在为您带来这些音频版本的时事通讯一年后，我决定是时候结束这项实验了。",
-          "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
+          "id": "bc75b877e02a20d1",
+          "title": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
+          "titleZh": "🧠 社区智慧：最佳 AI 冷推广应用程序，为对 PM 感兴趣的大学生提供建议，设计中的 AI 状态，2026年 QA 的相关性等",
+          "summary": "社区智慧 186",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-22T15:41:05.000Z",
+          "publishedAt": "2026-05-23T20:33:09.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 89,
+          "score": 93,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/198858883/9331d22606bfe8b81688db81d2fec487.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "96921396fcc185b5",
+          "title": "These special phone and app features can help protect you from spyware",
+          "titleZh": "这些特殊的手机和应用程序功能可以帮助保护您免受间谍软件的侵害",
+          "summary": "Apple、Meta 和 Google 提供特殊的安全模式，让您的设备更安全地抵御有针对性的间谍软件攻击。以下是这些模式的工作原理，它们的功能……",
+          "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-23T16:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "526b9e90cbdd4e66",
+          "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+          "titleZh": "核能初创公司 Deep Fission 说它又要上市了，我有问题",
+          "summary": "Deep Fission 正在寻求可能筹集 1.57亿美元的 IPO，尽管投资者可能难以购买这家核创业公司的故事。",
+          "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-23T14:50:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "2a74708eaf8187cd",
+          "title": "Ferrari is using IBM’s AI to create F1 superfans",
+          "titleZh": "法拉利正在使用 IBM 的人工智能打造 F1 超级粉丝",
+          "summary": "IBM 和 Scuderia Ferrari HP 将 TechCrunch 带入了他们如何重新定义粉丝体验的内部。",
+          "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-23T15:08:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "ee9006e7d36994d3",
+          "title": "Elon Musk has given up on solar power (on Earth)",
+          "titleZh": "埃隆·马斯克（Elon Musk）放弃了太阳能（在地球上）",
+          "summary": "埃隆·穆克斯（Elon Muks）的 xAI 已经全力投入天然气，而 SpaceX 则痴迷于轨道数据中心。他承诺的“太阳能电力经济”怎么了？",
+          "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-23T13:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 86,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -645,6 +645,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "87b5c36fb6703ecb",
+          "title": "Designing how designers master AI",
+          "titleZh": "设计师如何掌握人工智能",
+          "summary": "",
+          "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-05-23T20:42:12.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "da4245a5cb2cbd6e",
           "title": "AI UX debt: A new bottleneck",
@@ -739,25 +758,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "e3de50675955a43b",
-          "title": "Most AI tools make users faster. The best AI tools make users better.",
-          "titleZh": "大多数人工智能工具都能让用户更快。最好的人工智能工具让用户变得更好。",
-          "summary": "",
-          "url": "https://uxdesign.cc/most-ai-tools-make-users-faster-the-best-ai-tools-make-users-better-471bac7c7f86?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-05-19T21:53:49.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -767,31 +767,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "5e2825a0049a03bc",
-          "title": "这一瞬间感觉被 AI 击中了",
-          "summary": "大家有没有哪一瞬间，感觉到被 AI 击中了？昨晚上在给多 Agent 协作软件，加一个任务功能，就让 小马哥（Agent Team Leader），创建一些假任务来测试。没想到另外一个 Agent 发现了自己的任务，他的做法居然是跑来问小马哥这个是怎么回事，看他们交流，那一瞬间我仿佛被 AI 击中了，呆在那里",
-          "url": "https://www.v2ex.com/t/1214883#reply0",
+          "id": "887d9d223147eca4",
+          "title": "写了个 Claude Code 的 token 用量预警插件，开源",
+          "summary": "每次发 prompt 前自动估算 token 消耗，超出阈值就提醒（或拦截）。核心功能：⚠️ 超阈值自动警告，默认 50K tokens 🚫 可选 block 模式，发送前手动确认 🔧 阈值自由配置，支持 50K / 1M 写法 装完之后对 Claude Code 完全透明，不影响正常使用。https://github.c…",
+          "url": "https://www.v2ex.com/t/1215028#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-23T03:04:26.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/2NWiNj5.png",
-          "author": "AlexaZhou"
-        },
-        {
-          "id": "7bb49e53537a8e2a",
-          "title": "有一张好卡和一个好 IP，支付订阅确实非常丝滑",
-          "summary": "昨晚发布了 Claude Max 20x 成本号的出售帖子后，咸鱼同步上架商品。半夜正准备睡觉有两位朋友找来下了单，无奈抓紧爬起来做账号。第一个号：恰好前几天开了一个 OVH 美区的 VPS 做测试，就用这个 IP 开始注册订阅，注册没跳手机验证，直接就在注册流程中用给老婆挂的 AE 副卡先开通了 200 刀 Pro 年付（最近挺…",
-          "url": "https://www.v2ex.com/t/1214873#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-23T02:18:19.000Z",
+          "publishedAt": "2026-05-24T02:23:40.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -800,35 +782,35 @@
           "score": 115,
           "sourceType": "rss",
           "cover": "",
-          "author": "zhhmax"
+          "author": "chengrui0428"
         },
         {
-          "id": "11611c192941a95b",
-          "title": "阿里云 tokenplan 和 百度 codingplan 慎买",
-          "summary": "百度的问题，价格便宜但限流非常严重，40 块的可以买一个体验看看。刚到公司一点额度都还没用的情况下，一直请求失败，不是断断续续的失败，是直接无法访问了，只有早上可能稍微好一点。阿里云 tokenplan 的问题，积分制，199 买了 25000 积分，但是具体这个积分怎么算没有找到，然后我接入后就发了一个 1，扣了我 160…",
-          "url": "https://www.v2ex.com/t/1214866#reply18",
+          "id": "4fd4b0a025411a70",
+          "title": "更新了一下 VSCode 的 Java 反编译插件。欢迎使用",
+          "summary": "https://marketplace.visualstudio.com/items?itemName=BenjaminSU.decompile-java&ssr=false#overview 新功能如下，欢迎测试提 bug。2026.05 (0.1.3) Dual decompiler engine: Procyon (def…",
+          "url": "https://www.v2ex.com/t/1215023#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-23T01:43:16.000Z",
+          "publishedAt": "2026-05-24T01:20:14.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "zhengmin4516"
+          "author": "BenjaminSu"
         },
         {
-          "id": "fbd09681c012aff2",
-          "title": "Is AI Profitable Yet?",
-          "titleZh": "人工智能是否已经盈利？",
-          "summary": "Hacker News 热帖，当前积分 72，评论 28。",
-          "url": "https://isaiprofitable.com/",
+          "id": "34c9290c626dc765",
+          "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+          "titleZh": "微软开源“迄今为止发现的最早的 DOS 源代码”",
+          "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...",
+          "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-23T02:10:38.000Z",
+          "publishedAt": "2026-05-24T01:21:13.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -840,31 +822,31 @@
           "sourceType": "api"
         },
         {
-          "id": "30119f07fbb462c4",
-          "title": "qwen3.7-max 的代码能力提升非常大",
-          "summary": "高强度用了一天，体感上和 glm-5.1 不相上下了。相对于 3.6 自主分析和解决能力飞跃 如果各位只有国内的稳定接入源的话，可以试试看。",
-          "url": "https://www.v2ex.com/t/1214878#reply3",
+          "id": "107683f881448ffb",
+          "title": "自荐一个适合 AI Coding 的远程会话工具： tssh + tsshd",
+          "summary": "很多人跑 Claude Code、Codex CLI、Gemini CLI 之类的 AI Agent，都会遇到一个问题：SSH 断线后终端状态没了，换设备接着看也不方便。tssh + tsshd 提供了会话预览和 re-attach 能力：查看当前所有会话列表 直接预览每个会话的最新屏幕内容 重新附加到已有会话继续操作 支…",
+          "url": "https://www.v2ex.com/t/1215017#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-23T02:35:11.000Z",
+          "publishedAt": "2026-05-24T00:34:03.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 111,
+          "score": 112,
           "sourceType": "rss",
-          "cover": "",
-          "author": "cubecube"
+          "cover": "https://trzsz.github.io/images/tsshd_attach.gif",
+          "author": "LonnyWong"
         },
         {
-          "id": "7901955050f8ddc1",
-          "title": "用同一个手机订阅 Claude 或用同一个 IP 使用 Claude 被连坐的概率大吗？",
-          "summary": "想在部门内推行用 Claude 编程，在考虑费用方案，共用一个账号应该是不行的，估计得订阅多个账号，想知道用同一个手机订阅 Claude 或用同一个 IP 使用 Claude 被连坐的概率大吗？",
-          "url": "https://www.v2ex.com/t/1214863#reply2",
+          "id": "b8664c2c1e0d6bed",
+          "title": "openai 周限又重置了，已经放弃 claude 了",
+          "summary": "好订阅，不易封号，gpt5.5 和 codex 使用体验顶级，额度量大管饱，还经常找理由重置额度，针对正规订阅的付费用户，体验感觉各方面都比 A\\要好，claudecode 的优势感觉现在也不明显了，codex 已经取消上下文小圆圈显示，让你尽情使用，其自动上下文压缩目前在一众工具默认配置里也是顶尖的，订阅的性价比我觉得比国内一众的…",
+          "url": "https://www.v2ex.com/t/1215013#reply27",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-23T01:39:02.000Z",
+          "publishedAt": "2026-05-24T00:04:42.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -873,26 +855,46 @@
           "score": 111,
           "sourceType": "rss",
           "cover": "",
-          "author": "ldy619354397"
+          "author": "layxy"
+        },
+        {
+          "id": "672d8ab78b79b5b2",
+          "title": "Scammers are abusing an internal Microsoft account to send spam links",
+          "titleZh": "诈骗者滥用 Microsoft 内部帐户发送垃圾邮件链接",
+          "summary": "Hacker News 热帖，当前积分 41，评论 6。",
+          "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-05-24T00:51:32.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
+          "sourceType": "api"
         }
       ]
     }
   ],
   "sourceFailures": [
+    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 77,
     "totalSources": 18,
-    "succeededSources": 15,
-    "failedSources": 3
+    "succeededSources": 14,
+    "failedSources": 4
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 26
+      "count": 20
     },
     {
       "tag": "行业热点",
@@ -923,7 +925,7 @@
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -931,11 +933,11 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "模型产品",
       "count": 6
     },
     {
