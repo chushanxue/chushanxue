@@ -1,51 +1,105 @@
 {
-  "generatedAt": "2026-05-30T03:08:13.191Z",
+  "generatedAt": "2026-05-31T03:10:22.493Z",
   "headline": {
-    "id": "35264cc885e15d11",
-    "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
-    "summary": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（1587 个）被证实为有效漏洞，62.4%（…",
-    "url": "https://www.v2ex.com/t/1216615#reply9",
+    "id": "e560333609b75276",
+    "title": "消费级显卡(16G A 卡)是不是不适合运行 vllm 和 sglang，好像使用 transformer 推理都比这两个框架快，并且占用显存低",
+    "summary": "如题，wsl 配 rocm 下，sglang 没跑起来，vllm 跑起来了，但是动不动爆显存，只有跑个 2b 的模型才比较稳定，而且推理首字速度体感感觉比纯用 transformer 还慢。transformer 我试了可以成功跑个 9b 的 gptq 模型(vllm 这个模型跑不成功报错 qwen3.5 什么 config 有问…",
+    "url": "https://www.v2ex.com/t/1216752#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-05-30T02:02:10.000Z",
+    "publishedAt": "2026-05-31T02:41:52.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 114,
+    "score": 115,
     "sourceType": "rss",
     "cover": "",
-    "author": "GG5332"
+    "author": "zhengfan2016"
   },
   "latest": [
     {
-      "id": "35264cc885e15d11",
-      "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
-      "summary": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（1587 个）被证实为有效漏洞，62.4%（…",
-      "url": "https://www.v2ex.com/t/1216615#reply9",
+      "id": "e560333609b75276",
+      "title": "消费级显卡(16G A 卡)是不是不适合运行 vllm 和 sglang，好像使用 transformer 推理都比这两个框架快，并且占用显存低",
+      "summary": "如题，wsl 配 rocm 下，sglang 没跑起来，vllm 跑起来了，但是动不动爆显存，只有跑个 2b 的模型才比较稳定，而且推理首字速度体感感觉比纯用 transformer 还慢。transformer 我试了可以成功跑个 9b 的 gptq 模型(vllm 这个模型跑不成功报错 qwen3.5 什么 config 有问…",
+      "url": "https://www.v2ex.com/t/1216752#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-30T02:02:10.000Z",
+      "publishedAt": "2026-05-31T02:41:52.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 115,
       "sourceType": "rss",
       "cover": "",
-      "author": "GG5332"
+      "author": "zhengfan2016"
     },
     {
-      "id": "27abbd90256483af",
-      "title": "Naphtha Shortages Having a Growing Impact in Japan",
-      "titleZh": "石脑油短缺对日本的影响越来越大",
-      "summary": "Hacker News 热帖，当前积分 13，评论 2。",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "id": "88eabbe5ff765d30",
+      "title": "ChatGPT Pro 5X 双倍结束，建议升级 Pro 20X",
+      "summary": "升级 Pro 20x 时之前付款的 Pro 5x 会抵扣，比如我 5月21 号订阅的 pro 5x 100 刀，我 5月31日升级到 pro 20x 只需要再付 73 刀左右就可以，我感觉 gpt 的这种订阅升级降级收费很灵活，需求量高的时候升级按天计算差价和抵扣，不过降的话需要本次订阅到期后才可以 另外说下今天早上重置后…",
+      "url": "https://www.v2ex.com/t/1216742#reply3",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-31T01:17:37.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "layxy"
+    },
+    {
+      "id": "6774f9c6fcb41f39",
+      "title": "edge 浏览器就算使用了 disk cache 有时候还是会卡一两秒的真实原因可能是什么？能不能解决？",
+      "summary": "微软的客服好像是说 chrome 的缓存和连接复用等东西比较激进，所以才比 edge 快。我不太相信，能不能给我来点阴谋论之类的？比如现在的负优化是为将来的“优化”打下基础。如果使用了 disk cache 的话，chrome 都是瞬间就显示了。跟微软的客服聊天结束之后就无法查看聊天内容了，我记不太清具体的说法了。最开始我是在测试…",
+      "url": "https://www.v2ex.com/t/1216735#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-31T00:12:49.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "shendaowu"
+    },
+    {
+      "id": "f8e93c7a994e5b55",
+      "title": "AI 原生开发，大伙能分享一下经验吗？",
+      "summary": "``` - 帮助整理需求和边界 - 帮助生成结构化设计 - 帮助提升编码效率 - 帮助沉淀测试和发布文档 - 帮助减少跨角色协作的信息损耗 大家都用的什么 SKILL 怎么协作的能分享一下吗 ```",
+      "url": "https://www.v2ex.com/t/1216739#reply2",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-05-31T00:51:22.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "longmeier90"
+    },
+    {
+      "id": "c6e497aa817d862d",
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "titleZh": "Microsoft 降级永久许可离线产品的功能",
+      "summary": "Hacker News 热帖，当前积分 471，评论 145。",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-30T02:20:40.000Z",
+      "publishedAt": "2026-05-30T23:26:13.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,92 +107,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 112,
+      "score": 108,
       "sourceType": "api"
     },
     {
-      "id": "736951268815884d",
-      "title": "Codex 移动端连电脑问题",
-      "summary": "如题，我在 iOS 版 ChatGPT 上尝试连接电脑端 codex,它一直在转圈圈，从来没连成功过，报：CodexAppServer.CodexClientError,有遇到过同样问题的么？",
-      "url": "https://www.v2ex.com/t/1216621#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-30T02:25:48.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "aicong2021"
-    },
-    {
-      "id": "6d7f3daa0873d5b0",
-      "title": "iOS 端 Claude App 无法使用， Web 端可用",
-      "summary": "大伙帮看看这是什么情况，iOS 端 Claude App 无法使用，使用 Chrome 可以使用网页端（电脑端 web 端也可用）",
-      "url": "https://www.v2ex.com/t/1216608#reply4",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-05-30T01:19:13.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/jg7IhDa.jpeg",
-      "author": "rikawavi"
-    },
-    {
-      "id": "b3eed1d3d17f5ed8",
-      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
-      "titleZh": "创始人利用印度法院的裁决重启对谷歌广告业务的批评",
-      "summary": "该裁决得到了创始人的支持，而律师表示，这可能会迫使平台重新审视他们如何处理商标关键词。",
-      "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-30T02:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 106,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "169c15fce8ed1c0c",
-      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
-      "titleZh": "我去了所谓的“类固醇奥运会”，了解为什么硅谷痴迷于多肽",
-      "summary": "增强型运动会是一项独特的体育竞赛，大多数运动员都在服用提高成绩的药物，这可能预示着一种新的商业模式，即……",
-      "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-30T00:39:13.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "0204b3c4d184727b",
-      "title": "MCP is dead?",
-      "titleZh": "MCP 死了？",
-      "summary": "Hacker News 热帖，当前积分 105，评论 84。",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "id": "65f738359b7f6088",
+      "title": "Cheese Paper: a text editor specifically designed for writing",
+      "titleZh": "奶酪纸：专为写作而设计的文本编辑器",
+      "summary": "Hacker News 热帖，当前积分 61，评论 9。",
+      "url": "https://brie.gay/cheese-paper/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-05-29T22:56:49.000Z",
+      "publishedAt": "2026-05-30T22:58:41.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -150,26 +130,82 @@
       "sourceType": "api"
     },
     {
-      "id": "0c71886539a51f3c",
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "titleZh": "程序员拒绝在没有人工智能的情况下工作—这可能会回来咬他们",
-      "summary": "研究人员警告说，虽然人工智能正在帮助编码人员更快地生成代码，但它可能无法生成更好的代码。这可能会给他们带来麻烦。",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "id": "9bc5e8fc94cdb9cc",
+      "title": "Shantell Sans (2023)",
+      "titleZh": "Shantell Sans （2023年）",
+      "summary": "Hacker News 热帖，当前积分 112，评论 10。",
+      "url": "https://shantellsans.com/process",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-05-30T22:06:38.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 106,
+      "sourceType": "api"
+    },
+    {
+      "id": "6bcea2feed7f51ec",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "titleZh": "软银表示将投资高达 750亿美元(€750亿美元)建设法国数据中心",
+      "summary": "该公司表示，目标是开发和运营高达 5 千兆瓦的额外数据中心容量。",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-05-29T22:14:22.000Z",
+      "publishedAt": "2026-05-30T21:45:00.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 100,
+      "score": 98,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "ea69854e230b3b08",
+      "title": "AI 如何影响你的审美？",
+      "summary": "去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。查看全文",
+      "url": "https://sspai.com/post/110172",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-05-30T09:04:38.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "AstrianZ"
+    },
+    {
+      "id": "0e7eec57d6312f70",
+      "title": "Step 3.7 Flash",
+      "titleZh": "第 3.7 步闪光灯",
+      "summary": "能够看到并采取行动的闪速代理模型",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-05-29T12:47:02.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
     {
       "id": "d7cdca293dcef7b2",
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -183,7 +219,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 91,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -201,7 +237,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 90,
+      "score": 61,
       "sourceType": "rss",
       "cover": "",
       "author": "程天冲"
@@ -219,29 +255,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "maundytime"
-    },
-    {
-      "id": "20d033124c224091",
-      "title": "PromptLayer",
-      "titleZh": "PromptLayer",
-      "summary": "在一个时间表中跟踪 AI 请求、工作流程和成本",
-      "url": "https://www.producthunt.com/products/promptlayer-2",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-05-29T06:41:50.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 80,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Sam Benson"
     },
     {
       "id": "a37aac50f65336ba",
@@ -256,28 +273,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 78,
+      "score": 59,
       "sourceType": "rss",
       "cover": "",
       "author": "纳兰音韵"
-    },
-    {
-      "id": "2d6d38b38d8c896b",
-      "title": "派早报：Sony 发布 Bravia 2026 款电视产品等",
-      "summary": "Anthropic 发布旗舰模型 Claude Opus 4.8，Intel 发布锐炫 G 系列处理器等。查看全文",
-      "url": "https://sspai.com/post/110425",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-05-29T00:51:34.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -300,7 +299,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 102,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -320,7 +319,7 @@
             "人工智能",
             "用户体验"
           ],
-          "score": 92,
+          "score": 64,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202605/2026-5-29_162016.webp",
           "author": ""
@@ -338,7 +337,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 80,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202605/bg2026052803.webp",
           "author": "阮一峰"
@@ -421,7 +420,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 102,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -440,7 +439,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 100,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -459,7 +458,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 88,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -478,7 +477,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 83,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -497,7 +496,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 74,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -529,90 +528,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "b3eed1d3d17f5ed8",
-          "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
-          "titleZh": "创始人利用印度法院的裁决重启对谷歌广告业务的批评",
-          "summary": "该裁决得到了创始人的支持，而律师表示，这可能会迫使平台重新审视他们如何处理商标关键词。",
-          "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+          "id": "6bcea2feed7f51ec",
+          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+          "titleZh": "软银表示将投资高达 750亿美元(€750亿美元)建设法国数据中心",
+          "summary": "该公司表示，目标是开发和运营高达 5 千兆瓦的额外数据中心容量。",
+          "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-30T02:00:00.000Z",
+          "publishedAt": "2026-05-30T21:45:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 106,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "169c15fce8ed1c0c",
-          "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
-          "titleZh": "我去了所谓的“类固醇奥运会”，了解为什么硅谷痴迷于多肽",
-          "summary": "增强型运动会是一项独特的体育竞赛，大多数运动员都在服用提高成绩的药物，这可能预示着一种新的商业模式，即……",
-          "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+          "id": "b4e9cc44516ca738",
+          "title": "This weekend’s two biggest movies were both directed by YouTubers",
+          "titleZh": "本周末最大的两部电影都是由 YouTubers 执导的",
+          "summary": "YouTube 到声望恐怖的渠道看起来非常强大。",
+          "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-30T00:39:13.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 105,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "0c71886539a51f3c",
-          "title": "Coders are refusing to work without AI — and that could come back to bite them",
-          "titleZh": "程序员拒绝在没有人工智能的情况下工作—这可能会回来咬他们",
-          "summary": "研究人员警告说，虽然人工智能正在帮助编码人员更快地生成代码，但它可能无法生成更好的代码。这可能会给他们带来麻烦。",
-          "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-29T22:14:22.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 100,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "274b9a6257de6352",
-          "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
-          "titleZh": "SpaceX 在 IPO 前授予 $6.45 B 的太空部队合同",
-          "summary": "SpaceX 在其 IPO 文件中透露，其 2025年收入的五分之一来自政府合同。",
-          "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-29T22:21:38.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "716599a2c7042f2b",
-          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-          "titleZh": "所以你已经听过这些人工智能术语并点了点头；让我们来解决这个问题",
-          "summary": "人工智能的崛起带来了大量的新术语和俚语。以下是您可能遇到的一些最重要的单词和短语的定义词汇表。",
-          "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-05-29T18:49:19.000Z",
+          "publishedAt": "2026-05-30T21:12:37.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -624,21 +566,78 @@
           "author": ""
         },
         {
-          "id": "717322ee46abf91a",
-          "title": "Claude Opus 4.8 is here. Is it as good as they say?",
-          "titleZh": "克劳德作品 4.8 在这里。跟他们说的一样好吗？",
-          "summary": "立即观看|🎙️我对 Opus 4.8 的第一印象-它在哪里表现出色，在哪里表现不佳",
-          "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
+          "id": "e9126239a8646441",
+          "title": "Snap alums unveil Ghost Angels fund",
+          "titleZh": "Snap 校友推出 Ghost Angels 基金",
+          "summary": "20 名 Snap 校友聚集在一起，推出了一个名为 Ghost Angels 的基金，以支持下一代社交媒体。",
+          "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-30T17:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "019e2ba7d2c713f5",
+          "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+          "titleZh": "“真是个笑话”：Github Copilot 基于令牌的新计费方式引发了开发人员的惊愕",
+          "summary": "微软 Github Copilot 的黄金时代似乎已经结束。",
+          "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-30T16:30:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "366ca4c67462db92",
+          "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
+          "titleZh": "🧠 社区智慧：在面试过程中吸引使用人工智能的人，当所有内容都集中在一个人的脑海中时进行组织设计，何时重命名您的产品，从护士到健康科技项目经理等",
+          "summary": "社区智慧 187",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-05-28T21:35:07.000Z",
+          "publishedAt": "2026-05-30T16:43:36.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 59,
+          "score": 87,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/199655562/cb791cd4d6fc3c7f98563edcc3339c2e.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "8ebfd671a4c570c6",
+          "title": "Meta is reportedly developing an AI pendant",
+          "titleZh": "据报道，Meta 正在开发一种人工智能吊坠",
+          "summary": "Meta 似乎在人工智能驱动的硬件上下了很大的赌注。",
+          "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-05-30T15:59:58.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -662,7 +661,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 92,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/750/0*zR_bbRlGr7iuHXBj.jpg",
           "author": ""
@@ -681,7 +680,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 70,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -770,32 +769,86 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "35264cc885e15d11",
-          "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
-          "summary": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（1587 个）被证实为有效漏洞，62.4%（…",
-          "url": "https://www.v2ex.com/t/1216615#reply9",
+          "id": "e560333609b75276",
+          "title": "消费级显卡(16G A 卡)是不是不适合运行 vllm 和 sglang，好像使用 transformer 推理都比这两个框架快，并且占用显存低",
+          "summary": "如题，wsl 配 rocm 下，sglang 没跑起来，vllm 跑起来了，但是动不动爆显存，只有跑个 2b 的模型才比较稳定，而且推理首字速度体感感觉比纯用 transformer 还慢。transformer 我试了可以成功跑个 9b 的 gptq 模型(vllm 这个模型跑不成功报错 qwen3.5 什么 config 有问…",
+          "url": "https://www.v2ex.com/t/1216752#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-30T02:02:10.000Z",
+          "publishedAt": "2026-05-31T02:41:52.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 115,
           "sourceType": "rss",
           "cover": "",
-          "author": "GG5332"
+          "author": "zhengfan2016"
         },
         {
-          "id": "27abbd90256483af",
-          "title": "Naphtha Shortages Having a Growing Impact in Japan",
-          "titleZh": "石脑油短缺对日本的影响越来越大",
-          "summary": "Hacker News 热帖，当前积分 13，评论 2。",
-          "url": "https://www.nippon.com/en/japan-data/h02783/",
+          "id": "88eabbe5ff765d30",
+          "title": "ChatGPT Pro 5X 双倍结束，建议升级 Pro 20X",
+          "summary": "升级 Pro 20x 时之前付款的 Pro 5x 会抵扣，比如我 5月21 号订阅的 pro 5x 100 刀，我 5月31日升级到 pro 20x 只需要再付 73 刀左右就可以，我感觉 gpt 的这种订阅升级降级收费很灵活，需求量高的时候升级按天计算差价和抵扣，不过降的话需要本次订阅到期后才可以 另外说下今天早上重置后…",
+          "url": "https://www.v2ex.com/t/1216742#reply3",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-31T01:17:37.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "layxy"
+        },
+        {
+          "id": "6774f9c6fcb41f39",
+          "title": "edge 浏览器就算使用了 disk cache 有时候还是会卡一两秒的真实原因可能是什么？能不能解决？",
+          "summary": "微软的客服好像是说 chrome 的缓存和连接复用等东西比较激进，所以才比 edge 快。我不太相信，能不能给我来点阴谋论之类的？比如现在的负优化是为将来的“优化”打下基础。如果使用了 disk cache 的话，chrome 都是瞬间就显示了。跟微软的客服聊天结束之后就无法查看聊天内容了，我记不太清具体的说法了。最开始我是在测试…",
+          "url": "https://www.v2ex.com/t/1216735#reply0",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-31T00:12:49.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "shendaowu"
+        },
+        {
+          "id": "f8e93c7a994e5b55",
+          "title": "AI 原生开发，大伙能分享一下经验吗？",
+          "summary": "``` - 帮助整理需求和边界 - 帮助生成结构化设计 - 帮助提升编码效率 - 帮助沉淀测试和发布文档 - 帮助减少跨角色协作的信息损耗 大家都用的什么 SKILL 怎么协作的能分享一下吗 ```",
+          "url": "https://www.v2ex.com/t/1216739#reply2",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-05-31T00:51:22.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "longmeier90"
+        },
+        {
+          "id": "c6e497aa817d862d",
+          "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+          "titleZh": "Microsoft 降级永久许可离线产品的功能",
+          "summary": "Hacker News 热帖，当前积分 471，评论 145。",
+          "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-30T02:20:40.000Z",
+          "publishedAt": "2026-05-30T23:26:13.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -803,54 +856,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 112,
+          "score": 108,
           "sourceType": "api"
         },
         {
-          "id": "736951268815884d",
-          "title": "Codex 移动端连电脑问题",
-          "summary": "如题，我在 iOS 版 ChatGPT 上尝试连接电脑端 codex,它一直在转圈圈，从来没连成功过，报：CodexAppServer.CodexClientError,有遇到过同样问题的么？",
-          "url": "https://www.v2ex.com/t/1216621#reply1",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-30T02:25:48.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "aicong2021"
-        },
-        {
-          "id": "6d7f3daa0873d5b0",
-          "title": "iOS 端 Claude App 无法使用， Web 端可用",
-          "summary": "大伙帮看看这是什么情况，iOS 端 Claude App 无法使用，使用 Chrome 可以使用网页端（电脑端 web 端也可用）",
-          "url": "https://www.v2ex.com/t/1216608#reply4",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-05-30T01:19:13.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 109,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/jg7IhDa.jpeg",
-          "author": "rikawavi"
-        },
-        {
-          "id": "0204b3c4d184727b",
-          "title": "MCP is dead?",
-          "titleZh": "MCP 死了？",
-          "summary": "Hacker News 热帖，当前积分 105，评论 84。",
-          "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+          "id": "65f738359b7f6088",
+          "title": "Cheese Paper: a text editor specifically designed for writing",
+          "titleZh": "奶酪纸：专为写作而设计的文本编辑器",
+          "summary": "Hacker News 热帖，当前积分 61，评论 9。",
+          "url": "https://brie.gay/cheese-paper/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-29T22:56:49.000Z",
+          "publishedAt": "2026-05-30T22:58:41.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -859,25 +876,6 @@
             "讨论"
           ],
           "score": 107,
-          "sourceType": "api"
-        },
-        {
-          "id": "6bdfc319f756c08e",
-          "title": "Shift will clean homes for free to train future robots",
-          "titleZh": "SHIFT 将免费清洁房源，为未来的机器人提供培训",
-          "summary": "Hacker News 热帖，当前积分 95，评论 133。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-05-29T19:16:32.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 101,
           "sourceType": "api"
         }
       ]
@@ -901,18 +899,18 @@
     },
     {
       "tag": "行业热点",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "设计/UI",
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 11
+      "tag": "产品/商业",
+      "count": 10
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
@@ -924,6 +922,14 @@
       "count": 8
     },
     {
+      "tag": "开发者社区",
+      "count": 6
+    },
+    {
+      "tag": "效率",
+      "count": 6
+    },
+    {
       "tag": "模型产品",
       "count": 6
     },
@@ -932,28 +938,20 @@
       "count": 6
     },
     {
-      "tag": "效率",
-      "count": 6
-    },
-    {
       "tag": "开源模型",
       "count": 6
-    },
-    {
-      "tag": "开发者社区",
-      "count": 5
     },
     {
       "tag": "科技公司",
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "开发平台",
-      "count": 5
+      "tag": "新产品",
+      "count": 4
     },
     {
       "tag": "技术周刊",
