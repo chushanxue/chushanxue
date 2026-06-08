@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-06-07T03:09:56.893Z",
+  "generatedAt": "2026-06-08T03:11:31.366Z",
   "headline": {
-    "id": "7b147a92ce7affab",
-    "title": "人机 Agent 团队协同：从 Managed Agents 原理到 Multica 实践",
-    "summary": "本文完整内容见（包括 Agent 指令设计）：原文地址 1、Managed Agents 核心理念：解耦\"大脑\"与\"双手\" Managed Agents 定义：一套用于大规模构建、部署和运行 AI Agent 的全托管基础设施，核心设计原理围绕‌组件解耦与分层抽象‌，解决长周期 AI Agent 开发和生产部署的痛点。Mana…",
-    "url": "https://www.v2ex.com/t/1218512#reply0",
+    "id": "7cbf30fb20ae10f1",
+    "title": "ChatGPT 套餐选择",
+    "summary": "借用在海外人员的身份注册和付款(Boss 亲戚)，现在用的是 Business 套餐，目前没有用到 Codex。后面开始使用 Codex，是继续用 Business 呢还是选择 Pro 我看到 Business Codex 套餐无固定席位费；按实际使用量即用即付。会不会产生天价账单。[ Business Codex ] 和…",
+    "url": "https://www.v2ex.com/t/1218700#reply1",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-06-07T02:35:50.000Z",
+    "publishedAt": "2026-06-08T03:04:04.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 115,
+    "score": 116,
     "sourceType": "rss",
-    "cover": "https://www.xuxueli.com/blog/static/images/2026/img_20260606_01.jpg",
-    "author": "xuxueli"
+    "cover": "",
+    "author": "commoccoom"
   },
   "latest": [
     {
-      "id": "7b147a92ce7affab",
-      "title": "人机 Agent 团队协同：从 Managed Agents 原理到 Multica 实践",
-      "summary": "本文完整内容见（包括 Agent 指令设计）：原文地址 1、Managed Agents 核心理念：解耦\"大脑\"与\"双手\" Managed Agents 定义：一套用于大规模构建、部署和运行 AI Agent 的全托管基础设施，核心设计原理围绕‌组件解耦与分层抽象‌，解决长周期 AI Agent 开发和生产部署的痛点。Mana…",
-      "url": "https://www.v2ex.com/t/1218512#reply0",
+      "id": "7cbf30fb20ae10f1",
+      "title": "ChatGPT 套餐选择",
+      "summary": "借用在海外人员的身份注册和付款(Boss 亲戚)，现在用的是 Business 套餐，目前没有用到 Codex。后面开始使用 Codex，是继续用 Business 呢还是选择 Pro 我看到 Business Codex 套餐无固定席位费；按实际使用量即用即付。会不会产生天价账单。[ Business Codex ] 和…",
+      "url": "https://www.v2ex.com/t/1218700#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-07T02:35:50.000Z",
+      "publishedAt": "2026-06-08T03:04:04.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "commoccoom"
+    },
+    {
+      "id": "80bdd5e450ada391",
+      "title": "Claude desktop 对话总是推诿",
+      "summary": "我问了它一个心理层面的问题 10 次里面有 6 次不是深入去解决剖析问题，反而不停的说：今天不聊这个，你好好休息 找个朋友给他打个电话 你们聊了么？你们做了什么？听我的，你先去打个电话好么？卧槽给我搞的火大，非常顽固，不停的把你往外推 哪怕用强制的命令，强硬的语气要求它正面的回答问题，顶多对话 2 句，接下来又不干了。",
+      "url": "https://www.v2ex.com/t/1218696#reply1",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-06-08T03:02:50.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -34,18 +52,37 @@
       ],
       "score": 115,
       "sourceType": "rss",
-      "cover": "https://www.xuxueli.com/blog/static/images/2026/img_20260606_01.jpg",
-      "author": "xuxueli"
+      "cover": "",
+      "author": "kright"
     },
     {
-      "id": "5e7bf67ff4c5eb53",
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "titleZh": "代币经济学：量化代币在代理软件工程中的使用位置",
-      "summary": "Hacker News 热帖，当前积分 22，评论 2。",
-      "url": "https://arxiv.org/abs/2601.14470",
+      "id": "5c4af6ea7f9508aa",
+      "title": "Algorithmic Monocultures in Hiring",
+      "titleZh": "招聘中的算法单一文化",
+      "summary": "Hacker News 热帖，当前积分 18，评论 0。",
+      "url": "https://algorithmichiring.github.io/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-07T01:37:11.000Z",
+      "publishedAt": "2026-06-08T01:54:54.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 112,
+      "sourceType": "api"
+    },
+    {
+      "id": "360ef786be4290ad",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "titleZh": "DeepSeek V4 Pro 在精度上优于 GPT-5.5 Pro",
+      "summary": "Hacker News 热帖，当前积分 100，评论 16。",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-08T01:39:30.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -57,14 +94,14 @@
       "sourceType": "api"
     },
     {
-      "id": "7669836b7a62c569",
-      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-      "titleZh": "俄亥俄河谷 10 万瓦调频信号在光天化日之下被切断–无线电世界",
-      "summary": "Hacker News 热帖，当前积分 54，评论 45。",
-      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+      "id": "fdbcc2c9049b757c",
+      "title": "Teenage Engineering: Introducing APC-2",
+      "titleZh": "青少年工程：介绍 APC-2",
+      "summary": "Hacker News 热帖，当前积分 104，评论 52。",
+      "url": "https://teenage.engineering/products/apc-2",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-07T01:24:15.000Z",
+      "publishedAt": "2026-06-08T01:27:22.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -76,14 +113,51 @@
       "sourceType": "api"
     },
     {
-      "id": "1838232531077688",
-      "title": "Public Domain Image Archive",
-      "titleZh": "公共领域图像存档",
-      "summary": "Hacker News 热帖，当前积分 35，评论 6。",
-      "url": "https://pdimagearchive.org/",
+      "id": "279d0837b8fee8e7",
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "titleZh": "新药“功能性治愈”许多乙型肝炎病毒感染",
+      "summary": "Hacker News 热帖，当前积分 23，评论 1。",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-07T00:22:51.000Z",
+      "publishedAt": "2026-06-08T01:41:42.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "15fe361cc1bdf59c",
+      "title": "程序员不好干，周六日菜市场摆摊卖服装",
+      "summary": "十年 ioser 顶不住啊，周六日拿牛仔裤在菜市场早市卖，拿货价 15 块，卖 30 左右，难啊，一上午卖不了几条，广东的天气太热了，兄弟们有没有啥好的想法啊？",
+      "url": "https://www.v2ex.com/t/1218670#reply19",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-06-08T02:16:59.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "h122"
+    },
+    {
+      "id": "a6a7ff813f9559ef",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "titleZh": "你可以构建的最小的大脑：Python 中的感知器",
+      "summary": "Hacker News 热帖，当前积分 72，评论 8。",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-08T00:28:37.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -93,85 +167,64 @@
       ],
       "score": 109,
       "sourceType": "api"
-    },
-    {
-      "id": "02dd70fadb11693d",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "titleZh": "OpenAI 推出锁定模式，以保护敏感数据免受即时注入攻击",
-      "summary": "即使使用锁定模式，ChatGPT 仍可能容易受到提示注入，但我们的目标是降低敏感数据在流程中被共享的可能性……",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-06-06T20:32:24.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 98,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "c88ba9455ecb61db",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "titleZh": "五个实验室，五个心灵：在小模型上构建多模型金融剧",
-      "summary": "",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-06-06T19:02:33.000Z",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "开源模型"
-      ],
-      "score": 104,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "8c6776657de2fcb3",
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "titleZh": "Ntsc-rs –模拟电视和 VHS 工件的开源视频模拟",
-      "summary": "Hacker News 热帖，当前积分 283，评论 67。",
-      "url": "https://ntsc.rs/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-06T19:17:46.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 101,
-      "sourceType": "api"
-    },
-    {
-      "id": "9f40e50c3ad3b148",
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "titleZh": "Meta 确认数千个 Instagram 帐户被滥用其 AI 聊天机器人入侵",
-      "summary": "Hacker News 热帖，当前积分 458，评论 162。",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-06T18:35:27.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 100,
-      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "bce54ffc35dde08c",
+      "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
+      "summary": "乘用车越造越重，12年增重近 400 公斤 iFixit 拆解华强北山寨苹果产品 Cloudflare 收购 Vite 背后公司 rsync 疑因 AI 参与维护出现 bug，引发争议 OpenAI 与美国政府商讨捐赠股权 美国平均上路车龄达到 13年 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/110847",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-07T22:52:23.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "a4f3de9ca665b5bf",
+      "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
+      "summary": "它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。查看全文",
+      "url": "https://sspai.com/post/110108",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-07T08:34:12.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "休伯利安"
+    },
+    {
+      "id": "42805eca1bb6f64b",
+      "title": "Job Postings API",
+      "titleZh": "此计划已经很活跃，可供您使用。一旦职位数量用尽或计划到期，您可以购买更多此计划。",
+      "summary": "查看、监控和分析 180 多万个美国工作岗位",
+      "url": "https://www.producthunt.com/products/free-job-postings-api",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-06T20:32:22.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 63,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Sam Crombie"
+    },
     {
       "id": "b8655c0444c21d1c",
       "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
@@ -185,7 +238,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 75,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "Voyager_1"
@@ -225,61 +278,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "1981850533e3bd3c",
-      "title": "Navi+ Menu Builder",
-      "titleZh": "导航+菜单生成器",
-      "summary": "将选项卡栏、超级菜单等添加到任何网站—无需代码",
-      "url": "https://www.producthunt.com/products/navi-menu-builder",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-06-05T10:40:09.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Henry Pham"
-    },
-    {
-      "id": "efe45eb2b78b62b2",
-      "title": "31 位普通人，给一只背包开出了成绩单",
-      "summary": "写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？装下两三天的差旅行李之后，它还能让你背得轻松吗？当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？带着 ... 查看全文",
-      "url": "https://sspai.com/post/110666",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-05T08:55:39.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "听歌的水獭"
-    },
-    {
-      "id": "60c0d591741fa7e1",
-      "title": "再谈响度战争：为什么你看的视频越来越「吵」了？",
-      "summary": "「看视频」这件事，本不应该是一场「战争」。查看全文",
-      "url": "https://sspai.com/post/109483",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-05T07:21:14.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Nnnobel"
     }
   ],
   "sections": [
@@ -409,20 +407,20 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "c88ba9455ecb61db",
-          "title": "Five labs, five minds: building a multi-model finance drama on small models",
-          "titleZh": "五个实验室，五个心灵：在小模型上构建多模型金融剧",
+          "id": "e5b49c149c424c8e",
+          "title": "Amazing Digital Dentures (a failed project)",
+          "titleZh": "令人惊叹的数字假牙（一个失败的项目）",
           "summary": "",
-          "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+          "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
           "source": "Hugging Face Blog",
           "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-06-06T19:02:33.000Z",
+          "publishedAt": "2026-06-07T19:44:27.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "开源模型"
           ],
-          "score": 104,
+          "score": 105,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -530,33 +528,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "02dd70fadb11693d",
-          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-          "titleZh": "OpenAI 推出锁定模式，以保护敏感数据免受即时注入攻击",
-          "summary": "即使使用锁定模式，ChatGPT 仍可能容易受到提示注入，但我们的目标是降低敏感数据在流程中被共享的可能性……",
-          "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "id": "8bc0efb233373372",
+          "title": "Is this the dawn of the Tokenpocalypse?",
+          "titleZh": "这是 Tokenpocalypse 的黎明吗？",
+          "summary": "随着大型人工智能公司计划上市，我们可能会看到更多的价格上涨。",
+          "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-06T20:32:24.000Z",
+          "publishedAt": "2026-06-07T20:26:13.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "bff1423ac752ebc0",
-          "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-          "titleZh": "Sriram Krishnan 将辞去白宫人工智能顾问一职",
-          "summary": "据报道，Krishnan 正在启动一个新机构，以继续制定特朗普的人工智能政策。",
-          "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+          "id": "8a76117421cc00a1",
+          "title": "Notion restores access to Anthropic after service disruption",
+          "titleZh": "Notion 在服务中断后恢复对 Anthropic 的访问",
+          "summary": "Notion 的产品负责人表示，他对“有多少人转发此内容”感到“惊讶”。",
+          "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-06T17:42:15.000Z",
+          "publishedAt": "2026-06-07T17:56:22.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -568,33 +566,14 @@
           "author": ""
         },
         {
-          "id": "c14a590196860172",
-          "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-          "titleZh": "对 WWDC 2026 的期待：Siri 备受期待的改造和 Apple Intelligence 更新",
-          "summary": "Apple 的 WWDC 即将到来：以下是您可以期待的内容。",
-          "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "id": "ed32308860702f6b",
+          "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+          "titleZh": "TechCrunch Mobility：在通用汽车 9亿美元的电动汽车电池博弈中",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您获取有关未来交通的新闻和见解的中心枢纽。",
+          "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-06T18:13:36.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 90,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e02fae17c853734c",
-          "title": "The Trump administration might take an equity stake in OpenAI",
-          "titleZh": "特朗普政府可能会收购 OpenAI 的股权",
-          "summary": "唐纳德·特朗普总统表示，他正在讨论“美国人民可以从人工智能的成功中受益”的交易。",
-          "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-06T16:17:21.000Z",
+          "publishedAt": "2026-06-07T16:05:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -606,40 +585,59 @@
           "author": ""
         },
         {
-          "id": "f277ec8d18297f0f",
-          "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
-          "titleZh": "🧠 社区智慧：引导与筹集资金、构建 vibe 编码应用程序的路线图、人工智能代理和数据完整性、作为 APM 的第一个项目等",
-          "summary": "社区智慧 188",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-06-06T17:14:54.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业"
-          ],
-          "score": 88,
-          "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "b5f5fec676322e58",
-          "title": "Beyond Instagram: Introducing the next generation of social apps",
-          "titleZh": "超越 Instagram：推出下一代社交应用",
-          "summary": "这些较新的社交应用程序提供了大型科技公司 Feed 的替代品，专注于兴趣、创造力和社区。",
-          "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+          "id": "7a04c19002ad9f1d",
+          "title": "OpenAI is still working on that ‘super app’",
+          "titleZh": "OpenAI 仍在开发“超级应用”",
+          "summary": "至少根据 OpenAI 的一名高级员工的说法，“聊天已经死了”。",
+          "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-06T15:00:00.000Z",
+          "publishedAt": "2026-06-07T16:23:22.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 87,
+          "score": 88,
           "sourceType": "rss",
           "cover": "",
+          "author": ""
+        },
+        {
+          "id": "ecee6e3abd20b5ce",
+          "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+          "titleZh": "黑客攻击、泄露和勒索赎金：2026年迄今为止最严重的违规行为",
+          "summary": "从大规模的 DOGE 数据泄露、关键能源和水系统的黑客攻击到联邦调查局监控系统的黑客攻击，以下是最具破坏性的安全公司……",
+          "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-06-07T14:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "c6df05a46df6b4a4",
+          "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+          "titleZh": "IPod 和 iPhone 之父，致力于打造人工智能时代的品味、判断力和创造力| Tony Fadell",
+          "summary": "立即聆听| iPod、iPhone 和 Nest 的创造者关于意见与数据决策、营销的重要性、他所运送的一切背后的“三代”规则、……",
+          "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-06-07T12:31:29.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "https://api.substack.com/feed/podcast/198591956/215956b14c5f0b86f14f10e79b7cbc6f.mp3",
           "author": ""
         }
       ]
@@ -649,6 +647,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "a892ab579e488ff1",
+          "title": "You’re still archiving. Your files have already become substrate.",
+          "titleZh": "您仍在存档中。您的文件已成为底物。",
+          "summary": "相同的文件。第二个函数。完全不同的架构。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-06-07T19:19:29.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*_5iklIu_u3aYxA5wHr875g.png",
+          "author": ""
+        },
         {
           "id": "91a941ce2af90d65",
           "title": "Your user doesn’t care about your organization chart",
@@ -663,7 +680,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 93,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1200/1*bUtiGjckzLTRY4I4ZQRUJA.png",
           "author": ""
@@ -682,7 +699,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 89,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -701,7 +718,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 89,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -743,25 +760,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "86bf6aa730bf19e6",
-          "title": "You’re not building a product. You’re running a project",
-          "titleZh": "您不是在构建产品。您正在运行一个项目",
-          "summary": "我在面试中对 £3000 万首席财务官说了这些话。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/youre-not-building-a-product-you-re-running-a-project-a8fdec68788c?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-05T07:39:19.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 58,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/1280/0*K-J20WXrWYdrygtb.png",
-          "author": ""
         }
       ]
     },
@@ -771,13 +769,31 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "7b147a92ce7affab",
-          "title": "人机 Agent 团队协同：从 Managed Agents 原理到 Multica 实践",
-          "summary": "本文完整内容见（包括 Agent 指令设计）：原文地址 1、Managed Agents 核心理念：解耦\"大脑\"与\"双手\" Managed Agents 定义：一套用于大规模构建、部署和运行 AI Agent 的全托管基础设施，核心设计原理围绕‌组件解耦与分层抽象‌，解决长周期 AI Agent 开发和生产部署的痛点。Mana…",
-          "url": "https://www.v2ex.com/t/1218512#reply0",
+          "id": "7cbf30fb20ae10f1",
+          "title": "ChatGPT 套餐选择",
+          "summary": "借用在海外人员的身份注册和付款(Boss 亲戚)，现在用的是 Business 套餐，目前没有用到 Codex。后面开始使用 Codex，是继续用 Business 呢还是选择 Pro 我看到 Business Codex 套餐无固定席位费；按实际使用量即用即付。会不会产生天价账单。[ Business Codex ] 和…",
+          "url": "https://www.v2ex.com/t/1218700#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-07T02:35:50.000Z",
+          "publishedAt": "2026-06-08T03:04:04.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 116,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "commoccoom"
+        },
+        {
+          "id": "80bdd5e450ada391",
+          "title": "Claude desktop 对话总是推诿",
+          "summary": "我问了它一个心理层面的问题 10 次里面有 6 次不是深入去解决剖析问题，反而不停的说：今天不聊这个，你好好休息 找个朋友给他打个电话 你们聊了么？你们做了什么？听我的，你先去打个电话好么？卧槽给我搞的火大，非常顽固，不停的把你往外推 哪怕用强制的命令，强硬的语气要求它正面的回答问题，顶多对话 2 句，接下来又不干了。",
+          "url": "https://www.v2ex.com/t/1218696#reply1",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-06-08T03:02:50.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -785,18 +801,37 @@
           ],
           "score": 115,
           "sourceType": "rss",
-          "cover": "https://www.xuxueli.com/blog/static/images/2026/img_20260606_01.jpg",
-          "author": "xuxueli"
+          "cover": "",
+          "author": "kright"
         },
         {
-          "id": "5e7bf67ff4c5eb53",
-          "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-          "titleZh": "代币经济学：量化代币在代理软件工程中的使用位置",
-          "summary": "Hacker News 热帖，当前积分 22，评论 2。",
-          "url": "https://arxiv.org/abs/2601.14470",
+          "id": "5c4af6ea7f9508aa",
+          "title": "Algorithmic Monocultures in Hiring",
+          "titleZh": "招聘中的算法单一文化",
+          "summary": "Hacker News 热帖，当前积分 18，评论 0。",
+          "url": "https://algorithmichiring.github.io/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-07T01:37:11.000Z",
+          "publishedAt": "2026-06-08T01:54:54.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 112,
+          "sourceType": "api"
+        },
+        {
+          "id": "360ef786be4290ad",
+          "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+          "titleZh": "DeepSeek V4 Pro 在精度上优于 GPT-5.5 Pro",
+          "summary": "Hacker News 热帖，当前积分 100，评论 16。",
+          "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-06-08T01:39:30.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -808,14 +843,14 @@
           "sourceType": "api"
         },
         {
-          "id": "7669836b7a62c569",
-          "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-          "titleZh": "俄亥俄河谷 10 万瓦调频信号在光天化日之下被切断–无线电世界",
-          "summary": "Hacker News 热帖，当前积分 54，评论 45。",
-          "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+          "id": "fdbcc2c9049b757c",
+          "title": "Teenage Engineering: Introducing APC-2",
+          "titleZh": "青少年工程：介绍 APC-2",
+          "summary": "Hacker News 热帖，当前积分 104，评论 52。",
+          "url": "https://teenage.engineering/products/apc-2",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-07T01:24:15.000Z",
+          "publishedAt": "2026-06-08T01:27:22.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -827,14 +862,14 @@
           "sourceType": "api"
         },
         {
-          "id": "1838232531077688",
-          "title": "Public Domain Image Archive",
-          "titleZh": "公共领域图像存档",
-          "summary": "Hacker News 热帖，当前积分 35，评论 6。",
-          "url": "https://pdimagearchive.org/",
+          "id": "279d0837b8fee8e7",
+          "title": "New drug 'functionally cures' many hepatitis B virus infections",
+          "titleZh": "新药“功能性治愈”许多乙型肝炎病毒感染",
+          "summary": "Hacker News 热帖，当前积分 23，评论 1。",
+          "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-07T00:22:51.000Z",
+          "publishedAt": "2026-06-08T01:41:42.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -842,45 +877,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
-          "sourceType": "api"
-        },
-        {
-          "id": "8c6776657de2fcb3",
-          "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-          "titleZh": "Ntsc-rs –模拟电视和 VHS 工件的开源视频模拟",
-          "summary": "Hacker News 热帖，当前积分 283，评论 67。",
-          "url": "https://ntsc.rs/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-06T19:17:46.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 101,
-          "sourceType": "api"
-        },
-        {
-          "id": "9f40e50c3ad3b148",
-          "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-          "titleZh": "Meta 确认数千个 Instagram 帐户被滥用其 AI 聊天机器人入侵",
-          "summary": "Hacker News 热帖，当前积分 458，评论 162。",
-          "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-06T18:35:27.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 100,
+          "score": 111,
           "sourceType": "api"
         }
       ]
@@ -892,7 +889,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 84,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -912,7 +909,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 11
+      "count": 10
     },
     {
       "tag": "产品/商业",
@@ -931,15 +928,15 @@
       "count": 6
     },
     {
+      "tag": "效率",
+      "count": 6
+    },
+    {
       "tag": "开源模型",
       "count": 6
     },
     {
       "tag": "交互设计",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
@@ -951,12 +948,12 @@
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "开发平台",
-      "count": 5
+      "tag": "新产品",
+      "count": 4
     },
     {
       "tag": "CSS相关",
