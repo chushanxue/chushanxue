@@ -1,105 +1,51 @@
 {
-  "generatedAt": "2026-06-19T03:10:59.204Z",
+  "generatedAt": "2026-06-20T03:09:10.827Z",
   "headline": {
-    "id": "739c33504200f47f",
-    "title": "写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训",
-    "summary": "最近闲着没事，自己动手训练了一个网页版的单挑德州扑克机器人（叫它 博弈姬 吧）。本来想写着自己练牌用的，结果现在调教得有点过头，我自己打了几手，目前已经送掉 120+ BB 了……😅 今天摸鱼的时候突然想看看社区里隐藏的德扑大佬多不多，发出来给大家解解闷。免注册即玩，每手自动补满 100BB，但累计盈亏会一直记着。有无聊或者…",
-    "url": "https://www.v2ex.com/t/1221491#reply4",
+    "id": "aecfe3674a07b0e8",
+    "title": "一个全栈独立开发者的自白： FlyEnv 让我找回了对开发的热情",
+    "summary": "作为独立开发者，最怕的不是写代码，而是配环境。接手一个 Laravel 旧项目要 PHP 7.4，新项目用 Node 20，Docker Desktop 一启动风扇狂转、内存飙到 4GB，光等容器就够泡杯咖啡了。直到遇见 FlyEnv，它用原生二进制文件替代了臃肿的容器——同样跑 Nginx+MySQL+Redis，内存…",
+    "url": "https://www.v2ex.com/t/1221602#reply3",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-06-19T02:23:54.000Z",
+    "publishedAt": "2026-06-20T01:54:35.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 115,
+    "score": 114,
     "sourceType": "rss",
     "cover": "",
-    "author": "k114413450"
+    "author": "lwy2mx"
   },
   "latest": [
     {
-      "id": "739c33504200f47f",
-      "title": "写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训",
-      "summary": "最近闲着没事，自己动手训练了一个网页版的单挑德州扑克机器人（叫它 博弈姬 吧）。本来想写着自己练牌用的，结果现在调教得有点过头，我自己打了几手，目前已经送掉 120+ BB 了……😅 今天摸鱼的时候突然想看看社区里隐藏的德扑大佬多不多，发出来给大家解解闷。免注册即玩，每手自动补满 100BB，但累计盈亏会一直记着。有无聊或者…",
-      "url": "https://www.v2ex.com/t/1221491#reply4",
+      "id": "aecfe3674a07b0e8",
+      "title": "一个全栈独立开发者的自白： FlyEnv 让我找回了对开发的热情",
+      "summary": "作为独立开发者，最怕的不是写代码，而是配环境。接手一个 Laravel 旧项目要 PHP 7.4，新项目用 Node 20，Docker Desktop 一启动风扇狂转、内存飙到 4GB，光等容器就够泡杯咖啡了。直到遇见 FlyEnv，它用原生二进制文件替代了臃肿的容器——同样跑 Nginx+MySQL+Redis，内存…",
+      "url": "https://www.v2ex.com/t/1221602#reply3",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-19T02:23:54.000Z",
+      "publishedAt": "2026-06-20T01:54:35.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "k114413450"
+      "author": "lwy2mx"
     },
     {
-      "id": "1cab44d02c6c7392",
-      "title": "Claude 额度又重置了，本周已重置 2 次",
-      "summary": "Claude 额度又重置了，本周已重置 2 次 🟣 Claude 周额度提前回满 比预计早约 22小时 监控样本：可用 9% → 100% 22小时内需要用完, 又会刷新一次 订阅告警 4月增加的 Tg 频道，自动推送 Codex、Claude 提前刷新额度的行为。https://t.me/quota_renew",
-      "url": "https://www.v2ex.com/t/1221492#reply2",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-19T02:32:28.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/cRDK2Dn.jpeg",
-      "author": "mains"
-    },
-    {
-      "id": "b7e2e795ad2b1f9c",
-      "title": "有支持 6000 Ada 使用 deepseek v4 flash 推理 的框架吗",
-      "summary": "显存是够的（多卡），但架构有限制（SM_89）",
-      "url": "https://www.v2ex.com/t/1221496#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-19T02:51:50.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "frankyzf"
-    },
-    {
-      "id": "3d955d69682036d4",
-      "title": "用 Lua 写 Android 应用？ AutoLua 做到了",
-      "summary": "做了个小工具，技术栈 LuaJava + Lua 5.3。核心思路是把完整 Lua 运行时和 Android API 桥接，让脚本能直接调原生能力。技术层面几个点 Lua 5.3 完整运行时，不是阉割版、不是类 Basic 语法。Goto、协程、位运算全有 import \"android.graphics.Bitmap\" 原…",
-      "url": "https://www.v2ex.com/t/1221481#reply4",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-19T01:10:52.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "haikejishu"
-    },
-    {
-      "id": "08893411ba128237",
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "titleZh": "数据集应用程序：在数据集内托管自定义 HTML 应用程序",
-      "summary": "Hacker News 热帖，当前积分 35，评论 9。",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "id": "49f302f44d9414f5",
+      "title": "How to feed a dictator",
+      "titleZh": "如何喂养独裁者",
+      "summary": "Hacker News 热帖，当前积分 72，评论 24。",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-19T01:06:27.000Z",
+      "publishedAt": "2026-06-20T01:16:56.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -107,17 +53,17 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 110,
+      "score": 111,
       "sourceType": "api"
     },
     {
-      "id": "97094113c53912b1",
-      "title": "ChatGPT plus 土区今天 499₺续了一个月，显示下次续费还是 499₺",
-      "summary": "貌似可以不止以涨价前的价格续一个月？你们显示续费多少",
-      "url": "https://www.v2ex.com/t/1221488#reply4",
+      "id": "c509bf821d4c663e",
+      "title": "没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。",
+      "summary": "早知道昨天就把额度给用光了，我还有 60% 没用。我滴个天啊，后悔啊。Claude，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？",
+      "url": "https://www.v2ex.com/t/1221598#reply11",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-19T02:05:09.000Z",
+      "publishedAt": "2026-06-20T00:55:02.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -126,48 +72,180 @@
       "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "Brightt"
+      "author": "emmathoermer"
     },
     {
-      "id": "e69f1f02806c4704",
-      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
-      "titleZh": "印度的 Telegram 禁令引发了对 VPN 和竞争对手应用程序的争夺",
-      "summary": "Telegram 认为，印度应该屏蔽特定内容，而不是数百万人使用的整个平台。",
-      "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "id": "8b1f35bb2328a624",
+      "title": "Aikido Code Audit",
+      "titleZh": "合气道代码审计",
+      "summary": "Hacker News 热帖，当前积分 21，评论 8。",
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-19T23:54:54.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "d7f9b01e36dd5425",
+      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "titleZh": "他让你的免费视频播放器运行顺畅。现在他正在为机器人做这件事。",
+      "summary": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个用于实时控制远程设备的基础设施层。",
+      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-06-19T01:01:00.000Z",
+      "publishedAt": "2026-06-20T00:47:44.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 103,
+      "score": 105,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "61d83d4cb21be84d",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "titleZh": "资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductiveAI",
-      "summary": "DeductiveAI 是一家使用人工智能来捕捉和解决软件错误的初创公司，成立于三年前。",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "id": "e208173284b0f436",
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "titleZh": "加密、间谍软件和现在的神话：历史说明了为什么网络出口管制不起作用",
+      "summary": "在过去的 30年里，阻止网络安全相关软件的流动已被证明是无效的。目前尚不清楚为什么它现在可以与 Anthropic 的网络安全...",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-06-19T00:51:11.000Z",
+      "publishedAt": "2026-06-19T22:40:14.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 103,
+      "score": 102,
       "sourceType": "rss",
       "cover": "",
+      "author": ""
+    },
+    {
+      "id": "8f073f0fbf2efb4e",
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "titleZh": "Go 关注 2026年日本最大 IPO 后的机器人出租车和收购。这就是为什么它很重要",
+      "summary": "Go 的 IPO 是日本今年迄今为止规模最大的 IPO，不仅为该国萎靡不振的上市季节提供了急需的推动力。它还提供了出租车……",
+      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-06-19T21:45:00.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 100,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "60247a0fdf295deb",
+      "title": "Enterprise software is getting personal",
+      "titleZh": "企业软件正在变得个人化",
+      "summary": "三种设计趋势重塑了我们所知的企业软件的用户体验。继续阅读 UX Collective »",
+      "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-06-19T20:33:57.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 106,
+      "sourceType": "rss",
+      "cover": "https://cdn-images-1.medium.com/max/1536/1*0ibSOnEO8BXE2VqfysWaQg.png",
       "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "77e2992cd65c4b27",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "summary": "📅本周新预告《攻壳机动队 THEGHOSTINTHESHELL》正式预告 6月16日，TV 动画《攻壳机动队 THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ... 查看全文",
+      "url": "https://sspai.com/post/111216",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-19T09:30:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 89,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "c432562d4a67e549",
+      "title": "Midjourney Scanner",
+      "titleZh": "旅途中扫描仪",
+      "summary": "60秒超声全身扫描仪，比 MRI 更快",
+      "url": "https://www.producthunt.com/products/midjourney",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-19T03:18:43.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 75,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Chris Messina"
+    },
+    {
+      "id": "7f8b541a1c341ad0",
+      "title": "Ask Ad Manager by Google Ads",
+      "titleZh": "通过 Google Ads 询问广告经理",
+      "summary": "Gemini-powered AI agent 提供洞察力和更快的广告决策",
+      "url": "https://www.producthunt.com/products/ask-ad-manager",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-18T18:48:23.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 61,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Rohan Chaubey"
+    },
+    {
+      "id": "03f570404852bf9d",
+      "title": "Unreal Engine 5.8",
+      "titleZh": "虚幻引擎 5.8",
+      "summary": "与人工智能代理一起构建不真实的游戏",
+      "url": "https://www.producthunt.com/products/unreal-engine",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-18T13:31:58.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
     {
       "id": "dc0d60b3e8517013",
       "title": "新玩意 244｜少数派的编辑们最近买了啥？",
@@ -181,7 +259,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 89,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -199,84 +277,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 59,
       "sourceType": "rss",
       "cover": "",
       "author": "Enc3lMag1k"
-    },
-    {
-      "id": "24c2488c50601122",
-      "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
-      "summary": "新环境、弧形窗口，visionOS 27 中值得关系的新内容。查看全文",
-      "url": "https://sspai.com/post/111198",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-18T03:30:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 77,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "waychane"
-    },
-    {
-      "id": "97131bb53e23ea3a",
-      "title": "AI‑Native eCommerce Infrastructure",
-      "titleZh": "AI 原生电子商务基础设施",
-      "summary": "使用 Claude Code 的 Magento 统一控制面板 WEB",
-      "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-06-18T03:12:56.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Laurentius Judhianto"
-    },
-    {
-      "id": "0087e482582e573b",
-      "title": "Genie Mentions",
-      "titleZh": "Genie 提及",
-      "summary": "让您*和*生活中的人在一起的人工智能",
-      "url": "https://www.producthunt.com/products/genie-mentions",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-06-18T03:22:34.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Jonathan Tzou"
-    },
-    {
-      "id": "bdc36b8a26bddd09",
-      "title": "派早报：Android 17 正式推送、微软发布 Surface 新品等",
-      "summary": "高通发布骁龙 Reality Elite 旗舰 XR 芯片、Grok Imagine Video 1.5 模型正式上线等。查看全文",
-      "url": "https://sspai.com/post/111191",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-18T00:38:25.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -285,6 +289,25 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "d5fb40c214626edb",
+          "title": "A First Look at Scroll-Triggered Animations",
+          "titleZh": "滚动触发动画的第一印象",
+          "summary": "让我们来看看滚动驱动动画和滚动触发动画之间的区别。最初手写和发布的滚动触发动画的第一印象……",
+          "url": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-06-19T13:03:17.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
+          "author": ""
+        },
         {
           "id": "ef5685e740100770",
           "title": "The Siren Song of ariaNotify()",
@@ -379,25 +402,6 @@
           "sourceType": "rss",
           "cover": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
           "author": ""
-        },
-        {
-          "id": "960b92767c06d58d",
-          "title": "There’s no need to include ‘navigation’ in your navigation labels",
-          "titleZh": "无需在导航标签中添加“导航”",
-          "summary": "在为屏幕阅读器写作时，这些细微差别之一应该放在你的后口袋里。无需在导航标签中添加“导航”原始手写……",
-          "url": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-06-12T15:08:38.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -420,7 +424,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 103,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -439,7 +443,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 110,
+          "score": 71,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -458,7 +462,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 101,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -477,7 +481,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 95,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -496,7 +500,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 74,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -515,7 +519,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 74,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -528,96 +532,96 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "e69f1f02806c4704",
-          "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
-          "titleZh": "印度的 Telegram 禁令引发了对 VPN 和竞争对手应用程序的争夺",
-          "summary": "Telegram 认为，印度应该屏蔽特定内容，而不是数百万人使用的整个平台。",
-          "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+          "id": "d7f9b01e36dd5425",
+          "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+          "titleZh": "他让你的免费视频播放器运行顺畅。现在他正在为机器人做这件事。",
+          "summary": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个用于实时控制远程设备的基础设施层。",
+          "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-19T01:01:00.000Z",
+          "publishedAt": "2026-06-20T00:47:44.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 105,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "61d83d4cb21be84d",
-          "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-          "titleZh": "资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductiveAI",
-          "summary": "DeductiveAI 是一家使用人工智能来捕捉和解决软件错误的初创公司，成立于三年前。",
-          "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "id": "e208173284b0f436",
+          "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+          "titleZh": "加密、间谍软件和现在的神话：历史说明了为什么网络出口管制不起作用",
+          "summary": "在过去的 30年里，阻止网络安全相关软件的流动已被证明是无效的。目前尚不清楚为什么它现在可以与 Anthropic 的网络安全...",
+          "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-19T00:51:11.000Z",
+          "publishedAt": "2026-06-19T22:40:14.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e8f6d9ef7bd861b3",
-          "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-          "titleZh": "据报道，人工智能推理初创公司 Baseten 在上一轮大型融资后几个月筹集了 15亿美元 $",
-          "summary": "据报道，随着“推断淘金热”的推进，创业公司 Baseten 即将以 130亿美元的价格完成 15亿美元的融资。",
-          "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "id": "8f073f0fbf2efb4e",
+          "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+          "titleZh": "Go 关注 2026年日本最大 IPO 后的机器人出租车和收购。这就是为什么它很重要",
+          "summary": "Go 的 IPO 是日本今年迄今为止规模最大的 IPO，不仅为该国萎靡不振的上市季节提供了急需的推动力。它还提供了出租车……",
+          "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-18T21:20:13.000Z",
+          "publishedAt": "2026-06-19T21:45:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "3126a3a2aea2884b",
-          "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-          "titleZh": "由于成本原因，SNAP 将 AI 视频团队分拆到新公司 Dotmo",
-          "summary": "Snapchat 制造商正在剥离另一个内部单元。Dotmo 将由现任 Snap 员工组成，他们将离开社交媒体公司，专注于人工智能视频……",
-          "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "id": "f0fbb81ce3ad99fa",
+          "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+          "titleZh": "Aura 令人印象深刻的电子墨水相框甚至看起来都不数字化",
+          "summary": "你可以给亲戚最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在光环完全刷新了……",
+          "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-18T20:30:00.000Z",
+          "publishedAt": "2026-06-19T21:00:34.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "53bbd7049ca9508c",
-          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-          "titleZh": "OpenAI 在首次公开募股之前带来了一些大手笔",
-          "summary": "OpenAI 在 IPO 之前正在扩大规模，同一周，来自谷歌 DeepMind 的变形金刚联合发明人诺姆·沙齐尔（Noam Shazeer）和前特朗普人工智能政策官员迪恩·鲍尔（Dean Ball）登陆。",
-          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "id": "148fcfd66e157098",
+          "title": "Every fusion startup that has raised over $100M",
+          "titleZh": "每家融资超过 $1 亿的融合初创公司",
+          "summary": "迄今为止，融合初创公司已经筹集了 71亿美元，其中大部分流向了少数几家公司。",
+          "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-18T19:59:22.000Z",
+          "publishedAt": "2026-06-19T16:50:58.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -648,6 +652,25 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
+          "id": "60247a0fdf295deb",
+          "title": "Enterprise software is getting personal",
+          "titleZh": "企业软件正在变得个人化",
+          "summary": "三种设计趋势重塑了我们所知的企业软件的用户体验。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-06-19T20:33:57.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1536/1*0ibSOnEO8BXE2VqfysWaQg.png",
+          "author": ""
+        },
+        {
           "id": "0e7ec5d4a5dd780c",
           "title": "We used to know that it was a person who wrote it",
           "titleZh": "我们曾经知道这是一个人写的",
@@ -661,7 +684,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 110,
+          "score": 72,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*M6n7OOjpGJx0eNtnOlqKgQ.jpeg",
           "author": ""
@@ -680,7 +703,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 109,
+          "score": 70,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1400/0*3-YkmgC5ZGo80wYn.jpeg",
           "author": ""
@@ -699,7 +722,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 104,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -718,7 +741,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -737,28 +760,9 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
-          "author": ""
-        },
-        {
-          "id": "1718ad372c096803",
-          "title": "Lord of the TTL chips",
-          "titleZh": "TTL 芯片之王",
-          "summary": "一个史蒂夫统治他们所有人，一个史蒂夫找到他们，一个法案把他们全部带来，并在黑暗中束缚他们（或者，7400 的角色…继续阅读 UX Collect…",
-          "url": "https://uxdesign.cc/lord-of-the-ttl-chips-26657f628126?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-16T23:03:26.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 61,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/0*qSh5wqWlR-NiK3-7",
           "author": ""
         }
       ]
@@ -769,86 +773,32 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "739c33504200f47f",
-          "title": "写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训",
-          "summary": "最近闲着没事，自己动手训练了一个网页版的单挑德州扑克机器人（叫它 博弈姬 吧）。本来想写着自己练牌用的，结果现在调教得有点过头，我自己打了几手，目前已经送掉 120+ BB 了……😅 今天摸鱼的时候突然想看看社区里隐藏的德扑大佬多不多，发出来给大家解解闷。免注册即玩，每手自动补满 100BB，但累计盈亏会一直记着。有无聊或者…",
-          "url": "https://www.v2ex.com/t/1221491#reply4",
+          "id": "aecfe3674a07b0e8",
+          "title": "一个全栈独立开发者的自白： FlyEnv 让我找回了对开发的热情",
+          "summary": "作为独立开发者，最怕的不是写代码，而是配环境。接手一个 Laravel 旧项目要 PHP 7.4，新项目用 Node 20，Docker Desktop 一启动风扇狂转、内存飙到 4GB，光等容器就够泡杯咖啡了。直到遇见 FlyEnv，它用原生二进制文件替代了臃肿的容器——同样跑 Nginx+MySQL+Redis，内存…",
+          "url": "https://www.v2ex.com/t/1221602#reply3",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-19T02:23:54.000Z",
+          "publishedAt": "2026-06-20T01:54:35.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "k114413450"
+          "author": "lwy2mx"
         },
         {
-          "id": "1cab44d02c6c7392",
-          "title": "Claude 额度又重置了，本周已重置 2 次",
-          "summary": "Claude 额度又重置了，本周已重置 2 次 🟣 Claude 周额度提前回满 比预计早约 22小时 监控样本：可用 9% → 100% 22小时内需要用完, 又会刷新一次 订阅告警 4月增加的 Tg 频道，自动推送 Codex、Claude 提前刷新额度的行为。https://t.me/quota_renew",
-          "url": "https://www.v2ex.com/t/1221492#reply2",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-19T02:32:28.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/cRDK2Dn.jpeg",
-          "author": "mains"
-        },
-        {
-          "id": "b7e2e795ad2b1f9c",
-          "title": "有支持 6000 Ada 使用 deepseek v4 flash 推理 的框架吗",
-          "summary": "显存是够的（多卡），但架构有限制（SM_89）",
-          "url": "https://www.v2ex.com/t/1221496#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-19T02:51:50.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "frankyzf"
-        },
-        {
-          "id": "3d955d69682036d4",
-          "title": "用 Lua 写 Android 应用？ AutoLua 做到了",
-          "summary": "做了个小工具，技术栈 LuaJava + Lua 5.3。核心思路是把完整 Lua 运行时和 Android API 桥接，让脚本能直接调原生能力。技术层面几个点 Lua 5.3 完整运行时，不是阉割版、不是类 Basic 语法。Goto、协程、位运算全有 import \"android.graphics.Bitmap\" 原…",
-          "url": "https://www.v2ex.com/t/1221481#reply4",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-19T01:10:52.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "haikejishu"
-        },
-        {
-          "id": "08893411ba128237",
-          "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-          "titleZh": "数据集应用程序：在数据集内托管自定义 HTML 应用程序",
-          "summary": "Hacker News 热帖，当前积分 35，评论 9。",
-          "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+          "id": "49f302f44d9414f5",
+          "title": "How to feed a dictator",
+          "titleZh": "如何喂养独裁者",
+          "summary": "Hacker News 热帖，当前积分 72，评论 24。",
+          "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-19T01:06:27.000Z",
+          "publishedAt": "2026-06-20T01:16:56.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -856,17 +806,17 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 110,
+          "score": 111,
           "sourceType": "api"
         },
         {
-          "id": "97094113c53912b1",
-          "title": "ChatGPT plus 土区今天 499₺续了一个月，显示下次续费还是 499₺",
-          "summary": "貌似可以不止以涨价前的价格续一个月？你们显示续费多少",
-          "url": "https://www.v2ex.com/t/1221488#reply4",
+          "id": "c509bf821d4c663e",
+          "title": "没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。",
+          "summary": "早知道昨天就把额度给用光了，我还有 60% 没用。我滴个天啊，后悔啊。Claude，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？",
+          "url": "https://www.v2ex.com/t/1221598#reply11",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-19T02:05:09.000Z",
+          "publishedAt": "2026-06-20T00:55:02.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -875,7 +825,64 @@
           "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "Brightt"
+          "author": "emmathoermer"
+        },
+        {
+          "id": "8b1f35bb2328a624",
+          "title": "Aikido Code Audit",
+          "titleZh": "合气道代码审计",
+          "summary": "Hacker News 热帖，当前积分 21，评论 8。",
+          "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-06-19T23:54:54.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
+          "sourceType": "api"
+        },
+        {
+          "id": "abaebd496ba1cb97",
+          "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+          "titleZh": "想想孩子们：如何强制所有互联网流量使用真实身份（2023年）",
+          "summary": "Hacker News 热帖，当前积分 132，评论 77。",
+          "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-06-19T20:19:57.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 103,
+          "sourceType": "api"
+        },
+        {
+          "id": "8caeb61e7c1a3ea1",
+          "title": "Surprising Economics of Load-Balanced Systems",
+          "titleZh": "负载均衡系统令人惊讶的经济性",
+          "summary": "Hacker News 热帖，当前积分 53，评论 15。",
+          "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-06-19T20:30:59.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 103,
+          "sourceType": "api"
         }
       ]
     }
@@ -886,7 +893,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 85,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -905,11 +912,11 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
-      "count": 10
+      "tag": "工具/网站",
+      "count": 12
     },
     {
-      "tag": "工具/网站",
+      "tag": "产品/商业",
       "count": 10
     },
     {
@@ -929,15 +936,19 @@
       "count": 6
     },
     {
+      "tag": "效率",
+      "count": 6
+    },
+    {
+      "tag": "新产品",
+      "count": 6
+    },
+    {
       "tag": "开源模型",
       "count": 6
     },
     {
       "tag": "模型产品",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
@@ -947,10 +958,6 @@
     {
       "tag": "开发平台",
       "count": 5
-    },
-    {
-      "tag": "新产品",
-      "count": 4
     },
     {
       "tag": "CSS相关",
