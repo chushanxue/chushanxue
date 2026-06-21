@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-20T03:09:10.827Z",
+  "generatedAt": "2026-06-21T03:11:32.648Z",
   "headline": {
-    "id": "aecfe3674a07b0e8",
-    "title": "一个全栈独立开发者的自白： FlyEnv 让我找回了对开发的热情",
-    "summary": "作为独立开发者，最怕的不是写代码，而是配环境。接手一个 Laravel 旧项目要 PHP 7.4，新项目用 Node 20，Docker Desktop 一启动风扇狂转、内存飙到 4GB，光等容器就够泡杯咖啡了。直到遇见 FlyEnv，它用原生二进制文件替代了臃肿的容器——同样跑 Nginx+MySQL+Redis，内存…",
-    "url": "https://www.v2ex.com/t/1221602#reply3",
+    "id": "2aca36f1a3c7230c",
+    "title": "Codex 的周额度怎么还会增加？",
+    "summary": "codex 5x 用户 昨天高强度 vibe 了一天，两天就把本周的额度用了差不多了（手里有两次 reset 就是不怕） 昨天晚上很明确最后周额度剩了 13% 重置时间是 25 号（但是没有截图啥的） 结果今早起床一看为啥周额度回到了 43%？codex 现在还可以进度条往回走的吗？",
+    "url": "https://www.v2ex.com/t/1221715#reply2",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-06-20T01:54:35.000Z",
+    "publishedAt": "2026-06-21T02:36:01.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
@@ -15,18 +15,18 @@
     ],
     "score": 114,
     "sourceType": "rss",
-    "cover": "",
-    "author": "lwy2mx"
+    "cover": "https://i.imgur.com/JQuWu8N.jpeg",
+    "author": "deplives"
   },
   "latest": [
     {
-      "id": "aecfe3674a07b0e8",
-      "title": "一个全栈独立开发者的自白： FlyEnv 让我找回了对开发的热情",
-      "summary": "作为独立开发者，最怕的不是写代码，而是配环境。接手一个 Laravel 旧项目要 PHP 7.4，新项目用 Node 20，Docker Desktop 一启动风扇狂转、内存飙到 4GB，光等容器就够泡杯咖啡了。直到遇见 FlyEnv，它用原生二进制文件替代了臃肿的容器——同样跑 Nginx+MySQL+Redis，内存…",
-      "url": "https://www.v2ex.com/t/1221602#reply3",
+      "id": "2aca36f1a3c7230c",
+      "title": "Codex 的周额度怎么还会增加？",
+      "summary": "codex 5x 用户 昨天高强度 vibe 了一天，两天就把本周的额度用了差不多了（手里有两次 reset 就是不怕） 昨天晚上很明确最后周额度剩了 13% 重置时间是 25 号（但是没有截图啥的） 结果今早起床一看为啥周额度回到了 43%？codex 现在还可以进度条往回走的吗？",
+      "url": "https://www.v2ex.com/t/1221715#reply2",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-20T01:54:35.000Z",
+      "publishedAt": "2026-06-21T02:36:01.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -34,18 +34,18 @@
       ],
       "score": 114,
       "sourceType": "rss",
-      "cover": "",
-      "author": "lwy2mx"
+      "cover": "https://i.imgur.com/JQuWu8N.jpeg",
+      "author": "deplives"
     },
     {
-      "id": "49f302f44d9414f5",
-      "title": "How to feed a dictator",
-      "titleZh": "如何喂养独裁者",
-      "summary": "Hacker News 热帖，当前积分 72，评论 24。",
-      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "id": "4847e7c7fa811c25",
+      "title": "Developers don't understand CORS (2019)",
+      "titleZh": "开发人员不了解 CORS （2019）",
+      "summary": "Hacker News 热帖，当前积分 18，评论 4。",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-20T01:16:56.000Z",
+      "publishedAt": "2026-06-21T01:35:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -57,32 +57,14 @@
       "sourceType": "api"
     },
     {
-      "id": "c509bf821d4c663e",
-      "title": "没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。",
-      "summary": "早知道昨天就把额度给用光了，我还有 60% 没用。我滴个天啊，后悔啊。Claude，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？",
-      "url": "https://www.v2ex.com/t/1221598#reply11",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-20T00:55:02.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "emmathoermer"
-    },
-    {
-      "id": "8b1f35bb2328a624",
-      "title": "Aikido Code Audit",
-      "titleZh": "合气道代码审计",
-      "summary": "Hacker News 热帖，当前积分 21，评论 8。",
-      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "id": "c0d826bb0521a39a",
+      "title": "Project Fetch: Phase Two",
+      "titleZh": "项目获取：第二阶段",
+      "summary": "Hacker News 热帖，当前积分 37，评论 13。",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-19T23:54:54.000Z",
+      "publishedAt": "2026-06-21T00:00:25.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -90,87 +72,143 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 109,
       "sourceType": "api"
     },
     {
-      "id": "d7f9b01e36dd5425",
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "titleZh": "他让你的免费视频播放器运行顺畅。现在他正在为机器人做这件事。",
-      "summary": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个用于实时控制远程设备的基础设施层。",
-      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-06-20T00:47:44.000Z",
-      "category": "product",
+      "id": "720e6d23f84d7427",
+      "title": "升级后，发现 USB 相关的设备无法启用，可以查下有没有 usbguard 服务",
+      "summary": "最近系统升级后，一开始看到的是所有跟 USB 相关的设备，包括蓝牙，指纹识别，usb camera 都不正常了，看 bios 都没有问题，我一度以为是 bios 升级导致的。问了 gpt 才发现是 usbguard 这个服务捣鬼",
+      "url": "https://www.v2ex.com/t/1221700#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-06-20T23:38:30.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "开发者社区"
       ],
-      "score": 105,
+      "score": 108,
       "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "wuruxu"
     },
     {
-      "id": "e208173284b0f436",
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-      "titleZh": "加密、间谍软件和现在的神话：历史说明了为什么网络出口管制不起作用",
-      "summary": "在过去的 30年里，阻止网络安全相关软件的流动已被证明是无效的。目前尚不清楚为什么它现在可以与 Anthropic 的网络安全...",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-06-19T22:40:14.000Z",
-      "category": "product",
+      "id": "43e3c57893e72943",
+      "title": "Renting a sewing machine from the library",
+      "titleZh": "从图书馆租一台缝纫机",
+      "summary": "Hacker News 热帖，当前积分 123，评论 56。",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-20T22:54:11.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 102,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 107,
+      "sourceType": "api"
     },
     {
-      "id": "8f073f0fbf2efb4e",
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-      "titleZh": "Go 关注 2026年日本最大 IPO 后的机器人出租车和收购。这就是为什么它很重要",
-      "summary": "Go 的 IPO 是日本今年迄今为止规模最大的 IPO，不仅为该国萎靡不振的上市季节提供了急需的推动力。它还提供了出租车……",
-      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-06-19T21:45:00.000Z",
-      "category": "product",
+      "id": "d15a6858803b4738",
+      "title": "Epoll vs. io_uring in Linux",
+      "titleZh": "Linux 中的 Epoll 与 io_uring",
+      "summary": "Hacker News 热帖，当前积分 66，评论 21。",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-20T23:07:09.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 100,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 107,
+      "sourceType": "api"
     },
     {
-      "id": "60247a0fdf295deb",
-      "title": "Enterprise software is getting personal",
-      "titleZh": "企业软件正在变得个人化",
-      "summary": "三种设计趋势重塑了我们所知的企业软件的用户体验。继续阅读 UX Collective »",
-      "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-06-19T20:33:57.000Z",
-      "category": "design",
+      "id": "887089c8334e416e",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "titleZh": "呼吸缓慢会调节大脑功能和风险行为",
+      "summary": "Hacker News 热帖，当前积分 73，评论 14。",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-20T22:22:52.000Z",
+      "category": "industry",
       "tags": [
-        "设计/UI",
-        "交互设计"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
       "score": 106,
+      "sourceType": "api"
+    },
+    {
+      "id": "6906e0448f5f19fa",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "titleZh": "Signal 的 Meredith Whittaker 希望你记住，人工智能聊天机器人“不是你的朋友”",
+      "summary": "“他们不是你的朋友。他们不是有意识的人。他们不是有感情的对话者。”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-06-20T20:32:29.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 96,
       "sourceType": "rss",
-      "cover": "https://cdn-images-1.medium.com/max/1536/1*0ibSOnEO8BXE2VqfysWaQg.png",
+      "cover": "",
       "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "a0078609dba9773d",
+      "title": "Are you in the Weights?",
+      "titleZh": "你是重量级人物吗？",
+      "summary": "看看你是否永远活在 LLM 的大脑中",
+      "url": "https://www.producthunt.com/products/are-you-in-the-weights",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-20T00:56:01.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 71,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Thomas Dimson"
+    },
+    {
+      "id": "55d559096ece4226",
+      "title": "Basedash Access Controls",
+      "titleZh": "Basedash 访问控制",
+      "summary": "准确控制谁可以访问您的公司数据",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-19T16:05:30.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 57,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Max Musing"
+    },
     {
       "id": "77e2992cd65c4b27",
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -184,67 +222,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 89,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "c432562d4a67e549",
-      "title": "Midjourney Scanner",
-      "titleZh": "旅途中扫描仪",
-      "summary": "60秒超声全身扫描仪，比 MRI 更快",
-      "url": "https://www.producthunt.com/products/midjourney",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-06-19T03:18:43.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Chris Messina"
-    },
-    {
-      "id": "7f8b541a1c341ad0",
-      "title": "Ask Ad Manager by Google Ads",
-      "titleZh": "通过 Google Ads 询问广告经理",
-      "summary": "Gemini-powered AI agent 提供洞察力和更快的广告决策",
-      "url": "https://www.producthunt.com/products/ask-ad-manager",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-06-18T18:48:23.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 61,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Rohan Chaubey"
-    },
-    {
-      "id": "03f570404852bf9d",
-      "title": "Unreal Engine 5.8",
-      "titleZh": "虚幻引擎 5.8",
-      "summary": "与人工智能代理一起构建不真实的游戏",
-      "url": "https://www.producthunt.com/products/unreal-engine",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-06-18T13:31:58.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Zac Zuo"
     },
     {
       "id": "dc0d60b3e8517013",
@@ -281,6 +262,24 @@
       "sourceType": "rss",
       "cover": "",
       "author": "Enc3lMag1k"
+    },
+    {
+      "id": "24c2488c50601122",
+      "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
+      "summary": "新环境、弧形窗口，visionOS 27 中值得关系的新内容。查看全文",
+      "url": "https://sspai.com/post/111198",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-18T03:30:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 57,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "waychane"
     }
   ],
   "sections": [
@@ -303,7 +302,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 102,
+          "score": 67,
           "sourceType": "rss",
           "cover": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
           "author": ""
@@ -424,7 +423,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 64,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -443,7 +442,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 71,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -532,116 +531,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "d7f9b01e36dd5425",
-          "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-          "titleZh": "他让你的免费视频播放器运行顺畅。现在他正在为机器人做这件事。",
-          "summary": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个用于实时控制远程设备的基础设施层。",
-          "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+          "id": "6906e0448f5f19fa",
+          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+          "titleZh": "Signal 的 Meredith Whittaker 希望你记住，人工智能聊天机器人“不是你的朋友”",
+          "summary": "“他们不是你的朋友。他们不是有意识的人。他们不是有感情的对话者。”",
+          "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-20T00:47:44.000Z",
+          "publishedAt": "2026-06-20T20:32:29.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e208173284b0f436",
-          "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-          "titleZh": "加密、间谍软件和现在的神话：历史说明了为什么网络出口管制不起作用",
-          "summary": "在过去的 30年里，阻止网络安全相关软件的流动已被证明是无效的。目前尚不清楚为什么它现在可以与 Anthropic 的网络安全...",
-          "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "id": "d41b3509b368c0e0",
+          "title": "In the Weights is your new AI-centric vanity search",
+          "titleZh": "在权重中是您新的以人工智能为中心的虚荣心搜索",
+          "summary": "那么...您的 In the Weights 得分是多少？",
+          "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-19T22:40:14.000Z",
+          "publishedAt": "2026-06-20T19:41:11.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "8f073f0fbf2efb4e",
-          "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-          "titleZh": "Go 关注 2026年日本最大 IPO 后的机器人出租车和收购。这就是为什么它很重要",
-          "summary": "Go 的 IPO 是日本今年迄今为止规模最大的 IPO，不仅为该国萎靡不振的上市季节提供了急需的推动力。它还提供了出租车……",
-          "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+          "id": "8a79c72722f876b4",
+          "title": "This startup built a fish-killing robot and chefs love the results",
+          "titleZh": "这家初创公司建造了一个杀鱼机器人，厨师们喜欢结果",
+          "summary": "Shinkei 制造了一个名为 Poseidon 的冰箱大小的机器人，可以快速而人道地杀死鱼类。",
+          "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-19T21:45:00.000Z",
+          "publishedAt": "2026-06-20T18:26:02.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 100,
+          "score": 92,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "f0fbb81ce3ad99fa",
-          "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-          "titleZh": "Aura 令人印象深刻的电子墨水相框甚至看起来都不数字化",
-          "summary": "你可以给亲戚最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在光环完全刷新了……",
-          "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+          "id": "840f90fab5e74af6",
+          "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+          "titleZh": "诺贝尔奖获得者 John Jumper 将离开 DeepMind，转投竞争对手 Anthropic",
+          "summary": "Jumper 并不是离开 Google DeepMind 的唯一大牌。",
+          "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-19T21:00:34.000Z",
+          "publishedAt": "2026-06-20T16:39:57.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 88,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "148fcfd66e157098",
-          "title": "Every fusion startup that has raised over $100M",
-          "titleZh": "每家融资超过 $1 亿的融合初创公司",
-          "summary": "迄今为止，融合初创公司已经筹集了 71亿美元，其中大部分流向了少数几家公司。",
-          "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+          "id": "897b01ff103392ba",
+          "title": "Every new iOS 27 feature that’s worth knowing about",
+          "titleZh": "每项值得了解的 iOS 27 新功能",
+          "summary": "虽然它不像苹果新的 Siri AI 和 Apple Intelligence 升级那样华而不实，但 iOS 27 仍有许多新增功能值得一看。",
+          "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-19T16:50:58.000Z",
+          "publishedAt": "2026-06-20T15:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 90,
+          "score": 88,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b65072322ddf800e",
-          "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
-          "titleZh": "如何设计 AI 代理循环：Claude Code 和 Codex 中的时间表、目标和子代理",
-          "summary": "立即观看|🎙️每个循环类型的解释：心跳、crons、目标和子代理。此外，还有两个自主运行的实时 Claude Code 和 Codex 版本，因此您永远不会手动……",
-          "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+          "id": "e76d993f6cf2ea7d",
+          "title": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
+          "titleZh": "🧠 社区智慧：部分 CPO 薪酬、免费电子签名工具、为什么有些用户付费但从不使用您的产品、在整个团队中分享 Claude Code 上下文等",
+          "summary": "社区智慧 190",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-06-17T12:04:04.000Z",
+          "publishedAt": "2026-06-20T15:53:05.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 85,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/202288504/bcaf736dba1dcc855294378d2aa12db1.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
           "author": ""
         }
       ]
@@ -665,7 +664,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1536/1*0ibSOnEO8BXE2VqfysWaQg.png",
           "author": ""
@@ -684,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 72,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*M6n7OOjpGJx0eNtnOlqKgQ.jpeg",
           "author": ""
@@ -703,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 70,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1400/0*3-YkmgC5ZGo80wYn.jpeg",
           "author": ""
@@ -722,7 +721,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 66,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -773,13 +772,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "aecfe3674a07b0e8",
-          "title": "一个全栈独立开发者的自白： FlyEnv 让我找回了对开发的热情",
-          "summary": "作为独立开发者，最怕的不是写代码，而是配环境。接手一个 Laravel 旧项目要 PHP 7.4，新项目用 Node 20，Docker Desktop 一启动风扇狂转、内存飙到 4GB，光等容器就够泡杯咖啡了。直到遇见 FlyEnv，它用原生二进制文件替代了臃肿的容器——同样跑 Nginx+MySQL+Redis，内存…",
-          "url": "https://www.v2ex.com/t/1221602#reply3",
+          "id": "2aca36f1a3c7230c",
+          "title": "Codex 的周额度怎么还会增加？",
+          "summary": "codex 5x 用户 昨天高强度 vibe 了一天，两天就把本周的额度用了差不多了（手里有两次 reset 就是不怕） 昨天晚上很明确最后周额度剩了 13% 重置时间是 25 号（但是没有截图啥的） 结果今早起床一看为啥周额度回到了 43%？codex 现在还可以进度条往回走的吗？",
+          "url": "https://www.v2ex.com/t/1221715#reply2",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-20T01:54:35.000Z",
+          "publishedAt": "2026-06-21T02:36:01.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -787,18 +786,18 @@
           ],
           "score": 114,
           "sourceType": "rss",
-          "cover": "",
-          "author": "lwy2mx"
+          "cover": "https://i.imgur.com/JQuWu8N.jpeg",
+          "author": "deplives"
         },
         {
-          "id": "49f302f44d9414f5",
-          "title": "How to feed a dictator",
-          "titleZh": "如何喂养独裁者",
-          "summary": "Hacker News 热帖，当前积分 72，评论 24。",
-          "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+          "id": "4847e7c7fa811c25",
+          "title": "Developers don't understand CORS (2019)",
+          "titleZh": "开发人员不了解 CORS （2019）",
+          "summary": "Hacker News 热帖，当前积分 18，评论 4。",
+          "url": "https://fosterelli.co/developers-dont-understand-cors",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-20T01:16:56.000Z",
+          "publishedAt": "2026-06-21T01:35:40.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -810,32 +809,51 @@
           "sourceType": "api"
         },
         {
-          "id": "c509bf821d4c663e",
-          "title": "没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。",
-          "summary": "早知道昨天就把额度给用光了，我还有 60% 没用。我滴个天啊，后悔啊。Claude，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？",
-          "url": "https://www.v2ex.com/t/1221598#reply11",
+          "id": "c0d826bb0521a39a",
+          "title": "Project Fetch: Phase Two",
+          "titleZh": "项目获取：第二阶段",
+          "summary": "Hacker News 热帖，当前积分 37，评论 13。",
+          "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-06-21T00:00:25.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 109,
+          "sourceType": "api"
+        },
+        {
+          "id": "720e6d23f84d7427",
+          "title": "升级后，发现 USB 相关的设备无法启用，可以查下有没有 usbguard 服务",
+          "summary": "最近系统升级后，一开始看到的是所有跟 USB 相关的设备，包括蓝牙，指纹识别，usb camera 都不正常了，看 bios 都没有问题，我一度以为是 bios 升级导致的。问了 gpt 才发现是 usbguard 这个服务捣鬼",
+          "url": "https://www.v2ex.com/t/1221700#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-20T00:55:02.000Z",
+          "publishedAt": "2026-06-20T23:38:30.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 109,
+          "score": 108,
           "sourceType": "rss",
           "cover": "",
-          "author": "emmathoermer"
+          "author": "wuruxu"
         },
         {
-          "id": "8b1f35bb2328a624",
-          "title": "Aikido Code Audit",
-          "titleZh": "合气道代码审计",
-          "summary": "Hacker News 热帖，当前积分 21，评论 8。",
-          "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+          "id": "43e3c57893e72943",
+          "title": "Renting a sewing machine from the library",
+          "titleZh": "从图书馆租一台缝纫机",
+          "summary": "Hacker News 热帖，当前积分 123，评论 56。",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-19T23:54:54.000Z",
+          "publishedAt": "2026-06-20T22:54:11.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -843,18 +861,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 108,
+          "score": 107,
           "sourceType": "api"
         },
         {
-          "id": "abaebd496ba1cb97",
-          "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-          "titleZh": "想想孩子们：如何强制所有互联网流量使用真实身份（2023年）",
-          "summary": "Hacker News 热帖，当前积分 132，评论 77。",
-          "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+          "id": "d15a6858803b4738",
+          "title": "Epoll vs. io_uring in Linux",
+          "titleZh": "Linux 中的 Epoll 与 io_uring",
+          "summary": "Hacker News 热帖，当前积分 66，评论 21。",
+          "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-19T20:19:57.000Z",
+          "publishedAt": "2026-06-20T23:07:09.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -862,26 +880,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 103,
-          "sourceType": "api"
-        },
-        {
-          "id": "8caeb61e7c1a3ea1",
-          "title": "Surprising Economics of Load-Balanced Systems",
-          "titleZh": "负载均衡系统令人惊讶的经济性",
-          "summary": "Hacker News 热帖，当前积分 53，评论 15。",
-          "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-19T20:30:59.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 103,
+          "score": 107,
           "sourceType": "api"
         }
       ]
@@ -893,7 +892,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 85,
+    "totalItems": 82,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -912,12 +911,12 @@
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 12
-    },
-    {
       "tag": "产品/商业",
       "count": 10
+    },
+    {
+      "tag": "工具/网站",
+      "count": 9
     },
     {
       "tag": "工程效率",
@@ -940,10 +939,6 @@
       "count": 6
     },
     {
-      "tag": "新产品",
-      "count": 6
-    },
-    {
       "tag": "开源模型",
       "count": 6
     },
@@ -962,6 +957,10 @@
     {
       "tag": "CSS相关",
       "count": 4
+    },
+    {
+      "tag": "新产品",
+      "count": 3
     }
   ]
 }
