@@ -1,142 +1,87 @@
 {
-  "generatedAt": "2026-06-24T03:08:58.850Z",
+  "generatedAt": "2026-06-25T03:08:46.054Z",
   "headline": {
-    "id": "dfaac5179c068c72",
-    "title": "GLM-5.2 和 GPT-5.5 架构文档对比",
-    "summary": "GLM-5.2 和 GPT-5.5 生成架构文档。Claude Opus 4.8 对这两份文件进行评分。有点出人意料。一、GLM-5.2 | 维度 | 分数 | 评价 | | ------------ | ---------- | --------------------------------------------------…",
-    "url": "https://www.v2ex.com/t/1222450#reply7",
+    "id": "672875b039ba5d24",
+    "title": "记录又一次被入侵的挖矿程序",
+    "summary": "之前我提到过，电脑被挖矿程序入侵过，今天又发现了一次。很早之前是因为这台电脑的 redis 是免密的，最后给 redis 增加了密码解决这问题。现在还在找原因。等我找到之后给大家贴个结果",
+    "url": "https://www.v2ex.com/t/1222706#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-06-24T02:45:04.000Z",
+    "publishedAt": "2026-06-25T02:56:21.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 115,
+    "score": 113,
     "sourceType": "rss",
-    "cover": "",
-    "author": "anlitechnet"
+    "cover": "https://i.imgur.com/kju0cbQ.png",
+    "author": "rwecho"
   },
   "latest": [
     {
-      "id": "dfaac5179c068c72",
-      "title": "GLM-5.2 和 GPT-5.5 架构文档对比",
-      "summary": "GLM-5.2 和 GPT-5.5 生成架构文档。Claude Opus 4.8 对这两份文件进行评分。有点出人意料。一、GLM-5.2 | 维度 | 分数 | 评价 | | ------------ | ---------- | --------------------------------------------------…",
-      "url": "https://www.v2ex.com/t/1222450#reply7",
+      "id": "672875b039ba5d24",
+      "title": "记录又一次被入侵的挖矿程序",
+      "summary": "之前我提到过，电脑被挖矿程序入侵过，今天又发现了一次。很早之前是因为这台电脑的 redis 是免密的，最后给 redis 增加了密码解决这问题。现在还在找原因。等我找到之后给大家贴个结果",
+      "url": "https://www.v2ex.com/t/1222706#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-24T02:45:04.000Z",
+      "publishedAt": "2026-06-25T02:56:21.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 113,
       "sourceType": "rss",
-      "cover": "",
-      "author": "anlitechnet"
+      "cover": "https://i.imgur.com/kju0cbQ.png",
+      "author": "rwecho"
     },
     {
-      "id": "981ee04d9de4c27b",
-      "title": "How the war on terror primed America for autocracy",
-      "titleZh": "反恐战争如何使美国走向专制",
-      "summary": "Hacker News 热帖，当前积分 25，评论 3。",
-      "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-24T02:23:39.000Z",
+      "id": "192040b7e458b2f5",
+      "title": "是不是又该送重置次数了",
+      "summary": "今早在隔壁看到不少人的 GPT Pro 订阅额度被降级到了 Plus 和 free，还有人 Plus 订阅变成 Pro 的，我的 Pro 5x 也变成 20x 了",
+      "url": "https://www.v2ex.com/t/1222704#reply4",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-06-25T02:55:07.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
       "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "30d0c420787e74dc",
-      "title": "有没有需要拼 20x pro 的 两个人拼根本用不完",
-      "summary": "开了 9天，剩余的折价差不多 300 块吧，有没有要来一起拼的",
-      "url": "https://www.v2ex.com/t/1222456#reply4",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-24T03:02:53.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "NakanoAzure"
+      "author": "karasushin"
     },
     {
-      "id": "3b21c54441e63ce1",
-      "title": "Xiaomi 智能存储(NAS)开启众筹， 4TB 2299 起",
-      "summary": "这价格，带硬盘，什么水平？",
-      "url": "https://www.v2ex.com/t/1222453#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-24T02:54:24.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/FP0rz7H.jpeg",
-      "author": "lchkid"
-    },
-    {
-      "id": "7b00af1882365643",
-      "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
-      "summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。查看全文",
-      "url": "https://sspai.com/post/111438",
+      "id": "ec2cfc8994b63a97",
+      "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
+      "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。查看全文",
+      "url": "https://sspai.com/post/111476",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-23T23:49:32.000Z",
+      "publishedAt": "2026-06-25T00:51:49.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 110,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "04044c3174ca2c02",
-      "title": "独立开发之路折戟，苹果开发者直接封号！在线求助",
-      "summary": "待终止通知 经进一步审查与您的 Apple 开发者计划会员资格相关的活动，我们发现您的会员资格或与您的帐户关联的会员资格已被用于不诚实或欺诈活动，违反了 Apple 开发者计划许可协议。鉴于已发现问题的严重性，与您的 Apple 开发者计划帐户关联的所有应用均已从 App Store 下架，并您的帐户已被标记为待移除。由于您的帐户…",
-      "url": "https://www.v2ex.com/t/1222395#reply57",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-23T23:38:37.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "RmondJone"
-    },
-    {
-      "id": "3b31c99bca7b69a3",
-      "title": "Vulnerability reports are not special anymore",
-      "titleZh": "漏洞报告不再特殊",
-      "summary": "Hacker News 热帖，当前积分 101，评论 35。",
-      "url": "https://words.filippo.io/vuln-reports/",
+      "id": "61d2b8efde2bfd58",
+      "title": "Ending All Respiratory Infections",
+      "titleZh": "终止所有呼吸道感染",
+      "summary": "Hacker News 热帖，当前积分 39，评论 17。",
+      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-23T23:42:46.000Z",
+      "publishedAt": "2026-06-25T01:14:23.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -144,91 +89,166 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 111,
       "sourceType": "api"
     },
     {
-      "id": "e311ece1ac8f40ec",
-      "title": "为什么 google pay 上订阅的 GhatGPT Pro 价格比官方的 20 美元贵这么多，用礼品卡就只要 20 美元吗？",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1222396#reply18",
+      "id": "a9cfd82a118d559f",
+      "title": "Exploring the internal representations of Pangram 3.3.2",
+      "titleZh": "探索 Pangram 3.3.2 的内部表示",
+      "summary": "Hacker News 热帖，当前积分 12，评论 4。",
+      "url": "https://www.pangram.com/pangram-space",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-25T01:36:45.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "c0f501c71c68d592",
+      "title": "早上 plus 号被杀了",
+      "summary": "正价 google play 冲的, 能申诉回来吗",
+      "url": "https://www.v2ex.com/t/1222679#reply22",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-23T23:39:00.000Z",
+      "publishedAt": "2026-06-25T01:45:34.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 104,
+      "score": 109,
       "sourceType": "rss",
-      "cover": "https://i.imgant.com/v2/gISVbKv.jpeg",
-      "author": "wzyuliyang"
+      "cover": "",
+      "author": "pk78823"
+    },
+    {
+      "id": "d4f5ec2ae3d4826e",
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "titleZh": "LuaJIT 3.0 提出语法扩展",
+      "summary": "Hacker News 热帖，当前积分 73，评论 36。",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-25T00:41:43.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "1f1a4c618239e884",
+      "title": "穷屌丝心理：想三天内蹬完 Claude 100%额度，可是又心里没底",
+      "summary": "Claude 额度现在是不是每周五所有订阅用户都会额外重置一次？我是每周二重置额度，所以想搞清楚是不是每周五会额外重置一次，这样我前面 3天就可以大胆蹬完 100%等重置。",
+      "url": "https://www.v2ex.com/t/1222666#reply15",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-06-25T00:47:13.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "emmathoermer"
     }
   ],
   "featuredTools": [
     {
-      "id": "7b00af1882365643",
-      "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
-      "summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。查看全文",
-      "url": "https://sspai.com/post/111438",
+      "id": "ec2cfc8994b63a97",
+      "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
+      "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。查看全文",
+      "url": "https://sspai.com/post/111476",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-23T23:49:32.000Z",
+      "publishedAt": "2026-06-25T00:51:49.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 110,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "96177fc23e1699d7",
-      "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
-      "url": "https://sspai.com/post/111410",
+      "id": "9533e6b4ac8bf453",
+      "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
+      "summary": "Enco Clip2 作为耳夹品类里定位相对中高端的产品，我们一起来看看它的表现吧。查看全文",
+      "url": "https://sspai.com/post/111289",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-23T09:00:00.000Z",
+      "publishedAt": "2026-06-24T09:30:00.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 89,
+      "score": 87,
       "sourceType": "rss",
       "cover": "",
-      "author": "Matrix机器人"
+      "author": "KingTsui"
     },
     {
-      "id": "666fd3aead63941e",
-      "title": "运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源",
-      "summary": "2026年让我们再谈 macOS 的画面缩放机制。查看全文",
-      "url": "https://sspai.com/post/111261",
+      "id": "a933384c76cd8a70",
+      "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
+      "summary": "前言今年是我加入 TEDxShenzhen 的第三年，经历了 2024年和 2025年的两次年度大会，我们迎来了 2026年的纳新和年度大会筹备。今年纳新时，有几位朋友问我是如何加入 Tedx 的，刚好编辑也问我有 ... 查看全文",
+      "url": "https://sspai.com/post/111428",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 83,
+      "score": 85,
       "sourceType": "rss",
       "cover": "",
-      "author": "Nnnobel"
+      "author": "许万里Alva"
     },
     {
-      "id": "e0e6135928b634cc",
-      "title": "把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP",
-      "summary": "当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。查看全文",
-      "url": "https://sspai.com/post/110947",
+      "id": "2a00c9d43e1d21f7",
+      "title": "FUTO Swipe",
+      "titleZh": "FUTO Swipe",
+      "summary": "打开设备上滑动键入的模型",
+      "url": "https://www.producthunt.com/products/futo-swipe",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-24T03:19:25.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 74,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
+    {
+      "id": "e6c9b63e0e0d6ea1",
+      "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
+      "summary": "2026年是 AI agent 的第一年，2026年也是 FireWire 的最后一年。查看全文",
+      "url": "https://sspai.com/post/111223",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-23T03:00:18.000Z",
+      "publishedAt": "2026-06-24T02:11:37.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -237,44 +257,25 @@
       "score": 76,
       "sourceType": "rss",
       "cover": "",
-      "author": "鸿苓"
+      "author": "XiNGRZ"
     },
     {
-      "id": "395412bde92674d9",
-      "title": "派早报：荣耀发布 X80 Pro Max 等新品等",
-      "summary": "少数派的近期动态少数派×AKKO 联合共创带屏键盘功能共创计划开启。参与众测招募尝鲜 27 系列新系统的朋友，你的满意度如何？来一派投票少数派正版软件、付费教程 618 促销活动限时开启。点击省钱可爱又好玩的经 ... 查看全文",
-      "url": "https://sspai.com/post/111385",
+      "id": "7b00af1882365643",
+      "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
+      "summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。查看全文",
+      "url": "https://sspai.com/post/111438",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-23T00:49:30.000Z",
+      "publishedAt": "2026-06-23T23:49:32.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 75,
+      "score": 72,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "42c753de183bf468",
-      "title": "Bluerails Discovery",
-      "titleZh": "Bluerails 探索之旅",
-      "summary": "RAILS AI 代理用于查找和支付您的费用",
-      "url": "https://www.producthunt.com/products/bluerails-discovery",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-06-22T14:12:05.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Ben Lang"
     }
   ],
   "sections": [
@@ -283,6 +284,25 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "863a2393534c669d",
+          "title": "CSS color-scheme属性与light-dark()颜色函数",
+          "summary": "之前 prefers-color-scheme 实现深色模式效果的方案实在是太鸡肋了，脱离现实，原理用户，体验不佳，CSS light-dark()函数才是真正的解决之道。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-06-24T12:05:10.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS",
+            "CSS相关"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/image/blog/202606/2026-6-24_200116.webp",
+          "author": ""
+        },
         {
           "id": "e48d03f713420b0a",
           "title": "全是好东西！HTML command属性和JS toggle事件",
@@ -377,25 +397,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "3cdfa72e6ca56bd2",
-          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-          "titleZh": "不确定性设计：人工智能如何增强概率思维",
-          "summary": "在人工智能为更多设计选择提供信息的世界里，人们很容易将预测误认为是确定的。本文介绍了概率设计，这是一种…",
-          "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-06-16T15:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-          "author": "hello@smashingmagazine.com (Pratik Joglekar)"
         }
       ]
     },
@@ -404,6 +405,63 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "10eed3b735c8f05e",
+          "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+          "titleZh": "使用 NVIDIA NeMo AutoModel 加速变压器微调",
+          "summary": "",
+          "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-06-24T16:00:13.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "9c019647d5dfd5ad",
+          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "titleZh": "OpenAI 和 Broadcom 推出 LLM 优化推理芯片",
+          "summary": "OpenAI 和 Broadcom 推出了 Jalapeño，这是一款专为 LLM 推理而构建的定制 AI 芯片，旨在提高 AI 系统的性能、效率和规模。",
+          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-06-24T06:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "fb1737918715dbe2",
+          "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+          "titleZh": "推出 FFASR 排行榜：在现实世界中对 ASR 进行基准测试",
+          "summary": "",
+          "url": "https://huggingface.co/blog/ffasr-leaderboard",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-06-24T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 74,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "4607d3761d6cd86a",
           "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -418,7 +476,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 110,
+          "score": 72,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -437,7 +495,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 104,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -456,64 +514,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 94,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "3ad9dc76a75c7aeb",
-          "title": "How Omio is building the future of conversational travel",
-          "titleZh": "Omio 如何打造对话式旅行的未来",
-          "summary": "了解 Omio 如何利用 OpenAI 为对话式旅行体验提供支持，加速产品开发，并转型为 AI 原生公司。",
-          "url": "https://openai.com/index/omio",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-06-23T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 83,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "4010e96b44491a5c",
-          "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-          "titleZh": "每周使用人工智能、开放式工具和人工智能出货 HUGGINGFACE_HUB",
-          "summary": "",
-          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-06-23T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 74,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "032ca1d54352c0ae",
-          "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-          "titleZh": "在 Transformers.js 中试验提出的跨源存储 API",
-          "summary": "",
-          "url": "https://huggingface.co/blog/cross-origin-storage",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-06-23T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 74,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -526,33 +527,71 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "9e4c0de4963bea73",
-          "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-          "titleZh": "随着亚马逊在印度的扩张，沃尔玛支持的 Flipkart 扩大了快速商务推广",
-          "summary": "沃尔玛支持的 Flipkart 已经跨越了 1000 个微履行中心，因为亚马逊加快了其在印度的快速商务推进。",
-          "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+          "id": "74ef8052b4b15c05",
+          "title": "Europe is pushing back on Washington’s chip war",
+          "titleZh": "欧洲正在抵制华盛顿的芯片战争",
+          "summary": "正如 ASML 首席执行官 Christophe Fouquet 在 5月份告诉 TechCrunch 的那样，中国目前可以购买的是老一代深紫外线工具--大约十年前首次发货的齿轮……",
+          "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-24T00:30:00.000Z",
+          "publishedAt": "2026-06-25T00:08:36.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 104,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b8546ec288e6da77",
-          "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-          "titleZh": "印度的 MoEngage 押注营销的未来是数以百万计的人工智能代理",
-          "summary": "全现金交易使 MoEngage 能够访问将 AI 代理分配给个人客户的技术。",
-          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+          "id": "555c3f07166673ad",
+          "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+          "titleZh": "Infosys 前首席执行官成立了一家新初创公司，希望挑战 IT 服务世界",
+          "summary": "在 Mayfield 和 Aramco Ventures 的支持下，Vishal Sikka 的新合资企业汇集了来自 SAP、Infosys 和 VianAI 的资深人士。",
+          "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-23T23:30:00.000Z",
+          "publishedAt": "2026-06-24T23:26:52.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 101,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "7268a9de449ea342",
+          "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+          "titleZh": "Cerebras 股票在盈利后暴跌，因为首席执行官表示利润率前景被误解",
+          "summary": "在自上市以来的首份盈利报告中，这家 AI 芯片制造商预测其核心业务的毛利率将收窄，令投资者感到恐慌。",
+          "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-06-24T22:41:41.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 101,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "6da496bf9e6501f2",
+          "title": "Elon suffers another day short of trillionaire status",
+          "titleZh": "Elon 又缺少一天万亿富翁的身份",
+          "summary": "根据彭博社的亿万富翁指数，他现在只是几千亿富翁。",
+          "url": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-06-24T23:09:39.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -564,78 +603,40 @@
           "author": ""
         },
         {
-          "id": "015a4009a14288d3",
-          "title": "Superhuman acquires AI detection startup GPTZero",
-          "titleZh": "超人收购人工智能检测初创公司 GPTZero",
-          "summary": "作为 Grammarly 的一部分，Superhuman 还拥有人工智能检测工具，它已经抢购了 GPTZero。",
-          "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+          "id": "12287c0dae8e56b9",
+          "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+          "titleZh": "人工智能本应扼杀工程工作，但新数据表明，它们是最具弹性的",
+          "summary": "根据 SignalFire 的数据，虽然人工智能在裁员方面占据主导地位，但工程师实际上在新员工中占据了更大的份额。",
+          "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-23T21:48:23.000Z",
+          "publishedAt": "2026-06-24T21:56:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "acd6386e34b0f48f",
-          "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
-          "titleZh": "Klue 表示，黑客窃取了 2022年的凭据，导致客户数据泄露",
-          "summary": "目前尚不清楚为什么 Klue 在有限试点之后没有撤销凭据，黑客随后利用该凭据破坏了持有访问客户数据密钥的系统。",
-          "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-23T19:43:56.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a0ee270c6b36d138",
-          "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-          "titleZh": "在将公司押注于 Anthropic 之后，Menlo Ventures 筹集了胜利的 $3B 基金",
-          "summary": "Menlo 作为人工智能投资者为自己创造了一个坚实的声誉，所有这些都是基于 2024年一次勇敢的 7.5亿美元举动。",
-          "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-23T19:49:55.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 95,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "8d957b5290dce8c6",
-          "title": "The new inner game: Your unfair advantage in the age of AI",
-          "titleZh": "新的内心游戏：你在人工智能时代的不公平优势",
-          "summary": "我们一生中将看到的最大工作动荡的剧本",
-          "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+          "id": "616644751f49e744",
+          "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+          "titleZh": "GLM 5.2：为什么我要用这种新模式取代 Claude Code 中的 Opus",
+          "summary": "立即观看|🎙️我运行了 Z.AI 的开放权重模型 GLM-5.2，通过代码库审计、UI 重新设计，以及在 Cursor 和 Claude 中执行 45分钟的自主漏洞寻找任务……",
+          "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-06-23T12:45:59.000Z",
+          "publishedAt": "2026-06-24T12:03:52.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 82,
+          "score": 85,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!8QDo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5c60fad-a124-4ad1-adf0-7e9743dfb824_1456x970.png",
+          "cover": "https://api.substack.com/feed/podcast/203168823/b822175a80b54f3ee429cb674704290e.mp3",
           "author": ""
         }
       ]
@@ -645,6 +646,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "c61a5d76325570e4",
+          "title": "Your design system runs on one person’s judgment-AI is about to prove it",
+          "titleZh": "你的设计系统运行在一个人的判断上--人工智能即将证明这一点",
+          "summary": "",
+          "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-06-24T22:38:19.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 105,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "75ef21dd274804b2",
           "title": "Your banking app is lying to you",
@@ -659,7 +679,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 92,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1988/1*uLu56arUUlJ1NMazdD9hkA.png",
           "author": ""
@@ -678,7 +698,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 91,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*Nr_aQE4ARJdxXac0y7K1sQ.jpeg",
           "author": ""
@@ -697,7 +717,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 62,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*_gcZ55UrFSuS0eRBp4CNNA.png",
           "author": ""
@@ -716,7 +736,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 58,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -739,25 +759,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "cc03e7e79188c745",
-          "title": "What sits on the engawa",
-          "titleZh": "Engawa 上有什么",
-          "summary": "在为愿望而设计时，我们还不能独自实现愿望。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-22T09:46:11.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 58,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/1*bxrlII6C3cm2lgyW8ywbBQ.png",
-          "author": ""
         }
       ]
     },
@@ -767,32 +768,50 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "dfaac5179c068c72",
-          "title": "GLM-5.2 和 GPT-5.5 架构文档对比",
-          "summary": "GLM-5.2 和 GPT-5.5 生成架构文档。Claude Opus 4.8 对这两份文件进行评分。有点出人意料。一、GLM-5.2 | 维度 | 分数 | 评价 | | ------------ | ---------- | --------------------------------------------------…",
-          "url": "https://www.v2ex.com/t/1222450#reply7",
+          "id": "672875b039ba5d24",
+          "title": "记录又一次被入侵的挖矿程序",
+          "summary": "之前我提到过，电脑被挖矿程序入侵过，今天又发现了一次。很早之前是因为这台电脑的 redis 是免密的，最后给 redis 增加了密码解决这问题。现在还在找原因。等我找到之后给大家贴个结果",
+          "url": "https://www.v2ex.com/t/1222706#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-24T02:45:04.000Z",
+          "publishedAt": "2026-06-25T02:56:21.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 113,
           "sourceType": "rss",
-          "cover": "",
-          "author": "anlitechnet"
+          "cover": "https://i.imgur.com/kju0cbQ.png",
+          "author": "rwecho"
         },
         {
-          "id": "981ee04d9de4c27b",
-          "title": "How the war on terror primed America for autocracy",
-          "titleZh": "反恐战争如何使美国走向专制",
-          "summary": "Hacker News 热帖，当前积分 25，评论 3。",
-          "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+          "id": "192040b7e458b2f5",
+          "title": "是不是又该送重置次数了",
+          "summary": "今早在隔壁看到不少人的 GPT Pro 订阅额度被降级到了 Plus 和 free，还有人 Plus 订阅变成 Pro 的，我的 Pro 5x 也变成 20x 了",
+          "url": "https://www.v2ex.com/t/1222704#reply4",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-06-25T02:55:07.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "karasushin"
+        },
+        {
+          "id": "61d2b8efde2bfd58",
+          "title": "Ending All Respiratory Infections",
+          "titleZh": "终止所有呼吸道感染",
+          "summary": "Hacker News 热帖，当前积分 39，评论 17。",
+          "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-24T02:23:39.000Z",
+          "publishedAt": "2026-06-25T01:14:23.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -800,72 +819,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 112,
+          "score": 111,
           "sourceType": "api"
         },
         {
-          "id": "30d0c420787e74dc",
-          "title": "有没有需要拼 20x pro 的 两个人拼根本用不完",
-          "summary": "开了 9天，剩余的折价差不多 300 块吧，有没有要来一起拼的",
-          "url": "https://www.v2ex.com/t/1222456#reply4",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-24T03:02:53.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "NakanoAzure"
-        },
-        {
-          "id": "3b21c54441e63ce1",
-          "title": "Xiaomi 智能存储(NAS)开启众筹， 4TB 2299 起",
-          "summary": "这价格，带硬盘，什么水平？",
-          "url": "https://www.v2ex.com/t/1222453#reply5",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-24T02:54:24.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/FP0rz7H.jpeg",
-          "author": "lchkid"
-        },
-        {
-          "id": "04044c3174ca2c02",
-          "title": "独立开发之路折戟，苹果开发者直接封号！在线求助",
-          "summary": "待终止通知 经进一步审查与您的 Apple 开发者计划会员资格相关的活动，我们发现您的会员资格或与您的帐户关联的会员资格已被用于不诚实或欺诈活动，违反了 Apple 开发者计划许可协议。鉴于已发现问题的严重性，与您的 Apple 开发者计划帐户关联的所有应用均已从 App Store 下架，并您的帐户已被标记为待移除。由于您的帐户…",
-          "url": "https://www.v2ex.com/t/1222395#reply57",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-23T23:38:37.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "RmondJone"
-        },
-        {
-          "id": "3b31c99bca7b69a3",
-          "title": "Vulnerability reports are not special anymore",
-          "titleZh": "漏洞报告不再特殊",
-          "summary": "Hacker News 热帖，当前积分 101，评论 35。",
-          "url": "https://words.filippo.io/vuln-reports/",
+          "id": "a9cfd82a118d559f",
+          "title": "Exploring the internal representations of Pangram 3.3.2",
+          "titleZh": "探索 Pangram 3.3.2 的内部表示",
+          "summary": "Hacker News 热帖，当前积分 12，评论 4。",
+          "url": "https://www.pangram.com/pangram-space",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-23T23:42:46.000Z",
+          "publishedAt": "2026-06-25T01:36:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -873,7 +838,44 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 108,
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "c0f501c71c68d592",
+          "title": "早上 plus 号被杀了",
+          "summary": "正价 google play 冲的, 能申诉回来吗",
+          "url": "https://www.v2ex.com/t/1222679#reply22",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-06-25T01:45:34.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "pk78823"
+        },
+        {
+          "id": "d4f5ec2ae3d4826e",
+          "title": "LuaJIT 3.0 proposed syntax extensions",
+          "titleZh": "LuaJIT 3.0 提出语法扩展",
+          "summary": "Hacker News 热帖，当前积分 73，评论 36。",
+          "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-06-25T00:41:43.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
           "sourceType": "api"
         }
       ]
@@ -885,7 +887,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 84,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -905,7 +907,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 11
+      "count": 10
     },
     {
       "tag": "产品/商业",
@@ -928,7 +930,7 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -936,7 +938,7 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -948,11 +950,11 @@
       "count": 5
     },
     {
-      "tag": "新产品",
-      "count": 5
+      "tag": "CSS相关",
+      "count": 4
     },
     {
-      "tag": "CSS相关",
+      "tag": "新产品",
       "count": 4
     }
   ]
