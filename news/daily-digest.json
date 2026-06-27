@@ -1,32 +1,69 @@
 {
-  "generatedAt": "2026-06-26T03:09:33.806Z",
+  "generatedAt": "2026-06-27T03:08:10.403Z",
   "headline": {
-    "id": "331d1ca3e3186c99",
-    "title": "是 macbook 隐藏的功能还是 bug",
-    "summary": "一台 macbook m1pro，一台 macbook air 都在公司同一个 wifi 网络里面，m1pro 的触摸板快速滑动可以操控 air 屏幕🖥了。两台电脑没有任何端口连接",
-    "url": "https://www.v2ex.com/t/1223009#reply0",
+    "id": "cad538d2f23c0a54",
+    "title": "梯子坏了 vless 加 reality 突然就坏了",
+    "summary": "xray 上 vless reality 之前看了说很隐蔽了，突然就坏了。现在还有什么方案更好的吗？AI 自己写协议如何？",
+    "url": "https://www.v2ex.com/t/1223266#reply7",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-06-26T03:00:41.000Z",
+    "publishedAt": "2026-06-27T02:23:23.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 113,
+    "score": 111,
     "sourceType": "rss",
     "cover": "",
-    "author": "zhenlit"
+    "author": "lol173"
   },
   "latest": [
     {
-      "id": "331d1ca3e3186c99",
-      "title": "是 macbook 隐藏的功能还是 bug",
-      "summary": "一台 macbook m1pro，一台 macbook air 都在公司同一个 wifi 网络里面，m1pro 的触摸板快速滑动可以操控 air 屏幕🖥了。两台电脑没有任何端口连接",
-      "url": "https://www.v2ex.com/t/1223009#reply0",
+      "id": "cad538d2f23c0a54",
+      "title": "梯子坏了 vless 加 reality 突然就坏了",
+      "summary": "xray 上 vless reality 之前看了说很隐蔽了，突然就坏了。现在还有什么方案更好的吗？AI 自己写协议如何？",
+      "url": "https://www.v2ex.com/t/1223266#reply7",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-26T03:00:41.000Z",
+      "publishedAt": "2026-06-27T02:23:23.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "lol173"
+    },
+    {
+      "id": "cbdd2055b701d70b",
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "titleZh": "在火车站风格的翻转板上显示 HN：黑客新闻",
+      "summary": "虽然页面本身更有趣（我喜欢翻转的声音），但有趣的是我是如何验证（我讨厌这么说）氛围的……",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-27T00:43:39.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 115,
+      "sourceType": "api"
+    },
+    {
+      "id": "b1c272bb14aa4e79",
+      "title": "VIBE CODING 时代，应用开发是否应该使用 ORM ？",
+      "summary": "我认为 ORM 是有存在价值的，原因如下：ORM 提供了标准的数据库迁移脚手架 能在一定程度上规避 SQL 注入攻击（不知道现在大模型写的代码是否容易出现这些漏洞） 提供标准的数据库操作方法 能通过 LSP 将数据库操作纳入大模型调试闭环 高性能的操作也可以手写 SQL，有一定的灵活性 大家在开发中是否用 ORM 呢？用的都是哪…",
+      "url": "https://www.v2ex.com/t/1223254#reply8",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-06-27T01:21:08.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -35,34 +72,16 @@
       "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "zhenlit"
+      "author": "Leon6868"
     },
     {
-      "id": "fb9e6c4f4ad233c8",
-      "title": "大家在 AI 编程的时候，比如 AI 会思考很长时间才给答案，这个时间大家一般都在干啥",
-      "summary": "因为有的时候 AI 编程特别费时间，可能要等好久，这个时间有点无聊，大家一般是用来干啥的？",
-      "url": "https://www.v2ex.com/t/1223002#reply10",
+      "id": "8a5443e9b660dac8",
+      "title": "ClaudeCode 稳定的美国出口 IP 都能被封",
+      "summary": "今天突然就 400 This organization has been disabled. 我刚用了 20天都不到，一个稳定的硅谷出口 IP 没有任何通知消息。。。。算了准备转战 gpt 去了",
+      "url": "https://www.v2ex.com/t/1223262#reply7",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-26T02:45:17.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "gdb"
-    },
-    {
-      "id": "e1891ffe2eab6ec5",
-      "title": "早上刚上班，发了一条消息返回 401，心一凉😂",
-      "summary": "老账号，去年10月份就使用美区 Apple ID 订阅过两个月，后来停止了。今年5月又开始使用，是用的尼日利亚 Apple ID 订阅的，但是 6月想要续订的时候发现尼日利亚的礼品卡都没有了，就又使用美区 Apple ID 订阅了。才续订几天就封了，不知道是不是这个原因。",
-      "url": "https://www.v2ex.com/t/1222963#reply11",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-26T01:32:45.000Z",
+      "publishedAt": "2026-06-27T02:09:15.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -70,104 +89,178 @@
       ],
       "score": 112,
       "sourceType": "rss",
-      "cover": "https://i.v2ex.co/8VC1dDg9.png",
-      "author": "oouz"
+      "cover": "",
+      "author": "matthewgao"
     },
     {
-      "id": "1fb10f6aaa24b0cb",
-      "title": "AI children's books, body horror edition",
-      "titleZh": "AI 儿童书籍，身体恐怖版",
-      "summary": "Hacker News 热帖，当前积分 117，评论 33。",
-      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-26T01:15:14.000Z",
-      "category": "industry",
+      "id": "346cbdb86d27bd77",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "titleZh": "特朗普政府发布《人类神话》，供 100 多家美国公司和机构使用",
+      "summary": "据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，包括他们的非美国员工。",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-06-27T01:01:37.000Z",
+      "category": "product",
       "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "产品/商业",
+        "科技公司"
       ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "a2b48f3235a9b1df",
-      "title": "A data race that doesn't compile",
-      "titleZh": "无法编译的数据竞赛",
-      "summary": "Hacker News 热帖，当前积分 17，评论 5。",
-      "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-26T01:33:15.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "313937ce8b027151",
-      "title": "TypeScript 还是直接 JavaScript",
-      "summary": "数据显示，使用 TypeScript 的公司越来越多，直接用 JavaScript 的越来越少 (source: hacker-job.com/trends )",
-      "url": "https://www.v2ex.com/t/1222984#reply9",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-06-26T02:19:43.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
+      "score": 104,
       "sourceType": "rss",
-      "cover": "https://i.v2ex.co/JJ56tdJM.jpeg",
-      "author": "timqian"
+      "cover": "",
+      "author": ""
     },
     {
-      "id": "4b063cafec759b46",
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "titleZh": "Framework 的 10G 以太网模块暴露了 USB-C 的复杂性",
-      "summary": "Hacker News 热帖，当前积分 44，评论 14。",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-06-26T01:10:52.000Z",
-      "category": "industry",
+      "id": "59e0ad3217d3ee93",
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "titleZh": "FTC 批准马斯克收购 SpaceX 校友创业公司 Mesh",
+      "summary": "Mesh 在 2月份以 5000 万美元的 A 轮融资 $脱颖而出。",
+      "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-06-27T00:38:34.000Z",
+      "category": "product",
       "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 101,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "b729ea0bb146455c",
+      "title": "The boundary between philosophy and design: Leveraging pure thought",
+      "titleZh": "哲学与设计的界限：利用纯粹的思维",
+      "summary": "从柏拉图的 Forms 到 iPod，以及它揭示了伟大的设计真正开始的地方。继续阅读 UX Collective »",
+      "url": "https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-06-26T21:58:37.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
       ],
       "score": 110,
-      "sourceType": "api"
+      "sourceType": "rss",
+      "cover": "https://cdn-images-1.medium.com/max/700/0*T17tevZVSpYhGKch.png",
+      "author": ""
     },
     {
-      "id": "135682219284048d",
-      "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
-      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-      "url": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-      "source": "阮一峰的网络日志",
-      "sourceUrl": "https://www.ruanyifeng.com/blog/",
-      "publishedAt": "2026-06-26T00:05:38.000Z",
-      "category": "frontend",
+      "id": "526f535e07badbaa",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "titleZh": "美国允许 Anthropic 向“值得信赖的合作伙伴”发布 Mythos",
+      "summary": "Hacker News 热帖，当前积分 237，评论 228。",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-06-26T22:48:28.000Z",
+      "category": "industry",
       "tags": [
-        "前端技术",
-        "技术周刊"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 118,
-      "sourceType": "rss",
-      "cover": "https://cdn.beekka.com/blogimg/asset/202606/bg2026060403.webp",
-      "author": "阮一峰"
+      "score": 107,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "311e2688928ba397",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "summary": "📅本周新预告《克拉拉与太阳》首支预告 6月23日，电影《克拉拉与太阳》发布了首支预告，将于 10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ... 查看全文",
+      "url": "https://sspai.com/post/111562",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-26T10:16:38.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 91,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "a9e804d55cc7d8c6",
+      "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
+      "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone 的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
+      "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-26T08:29:05.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 89,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Linery"
+    },
+    {
+      "id": "92d43fdc57a0c13d",
+      "title": "空调续命之外的清凉：这是我们的夏日降温「新」方案",
+      "summary": "当夏天的热浪席卷城市，北方在烈日下承受着如烤箱般的双面炙烤，南方在骄阳下忍受着如蒸笼般的闷湿高温，能够每天陪伴我们的「降温好物」成为必需。又是一年盛夏时，我们邀请了 6 位少数派作者，聊聊那些真正融入日常 ... 查看全文",
+      "url": "https://sspai.com/post/100319",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-26T07:02:38.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 85,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "6c425fba8ba5ed1e",
+      "title": "林檎越东瀛：苹果的日本之旅",
+      "summary": "当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。查看全文",
+      "url": "https://sspai.com/post/111297",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-06-26T03:29:29.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 77,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "WangMT"
+    },
+    {
+      "id": "43b21dc16138f2bc",
+      "title": "Group Subscriptions by beehiiv",
+      "titleZh": "按 beehiiv 分组订阅",
+      "summary": "向团队、公司和组织销售订阅。",
+      "url": "https://www.producthunt.com/products/beehiiv",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-06-26T01:59:59.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 73,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Tyler Denk"
+    },
     {
       "id": "ac76a5756a4a8bdf",
       "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
@@ -181,97 +274,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "3df9f0d278648646",
-      "title": "新玩意 245｜少数派的编辑们最近买了啥？",
-      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ... 查看全文",
-      "url": "https://sspai.com/post/111518",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-25T10:49:19.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 91,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "9205fba47f1610e0",
-      "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
-      "summary": "《手记》是 Apple 在 iOS17.2 中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记，... 查看全文",
-      "url": "https://sspai.com/post/111421",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-25T07:40:12.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 86,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "ElijahLee"
-    },
-    {
-      "id": "c799cbc14b170144",
-      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-      "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ... 查看全文",
-      "url": "https://sspai.com/post/111483",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-25T06:08:44.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 84,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "M00Nface"
-    },
-    {
-      "id": "cb0dec179ec75230",
-      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
-      "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文",
-      "url": "https://sspai.com/post/111349",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-25T03:02:42.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 79,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "PJHubs"
-    },
-    {
-      "id": "ec2cfc8994b63a97",
-      "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
-      "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。查看全文",
-      "url": "https://sspai.com/post/111476",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-25T00:51:49.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
+      "score": 73,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -296,10 +299,86 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 118,
+          "score": 80,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202606/bg2026060403.webp",
           "author": "阮一峰"
+        },
+        {
+          "id": "f94ed3dc6ca1b037",
+          "title": "translateZ()",
+          "titleZh": "平移 Z",
+          "summary": "TranslateZ ()函数将元素移动到离用户更近或更远的地方。translateZ ()最初是在 CSS-Tricks 上手写和发布的。你应该……",
+          "url": "https://css-tricks.com/almanac/functions/t/translatez/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-06-25T13:18:56.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "164d6765ec33e09e",
+          "title": "translateX()",
+          "titleZh": "平移 X",
+          "summary": "TranslateX ()函数将元素水平移动指定的量。translateX ()最初是在 CSS-Tricks 上手写和发布的。你应该…",
+          "url": "https://css-tricks.com/almanac/functions/t/translatex/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-06-25T13:16:01.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "39c44872bf5c1042",
+          "title": "translate()",
+          "titleZh": "翻译",
+          "summary": "CSS translate ()函数将元素从二维平面上的默认位置移动到最初在 CSS-Tri 上手写和发布的 translate () …",
+          "url": "https://css-tricks.com/almanac/functions/t/translate/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-06-25T13:15:05.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "24fb064621fc3830",
+          "title": "translateY()",
+          "titleZh": "平移 Y",
+          "summary": "TranslateY ()函数将元素垂直移动指定的量。translateY ()最初是在 CSS-Tricks 上手写和发布的。你应该…",
+          "url": "https://css-tricks.com/almanac/functions/t/translatey/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-06-25T13:17:56.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 66,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
         },
         {
           "id": "863a2393534c669d",
@@ -319,81 +398,6 @@
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202606/2026-6-24_200116.webp",
           "author": ""
-        },
-        {
-          "id": "e48d03f713420b0a",
-          "title": "全是好东西！HTML command属性和JS toggle事件",
-          "summary": "介绍两个我觉得相当实用的 HTML 和 DOM 新特性，自此，无 JS 交互的场景再次丰富了一层，有兴趣的可以进来了解一番。",
-          "url": "https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/",
-          "source": "张鑫旭博客",
-          "sourceUrl": "https://www.zhangxinxu.com/",
-          "publishedAt": "2026-06-22T13:39:35.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS",
-            "CSS相关"
-          ],
-          "score": 64,
-          "sourceType": "rss",
-          "cover": "https://image.zhangxinxu.com/image/blog/202606/2026-6-22_213822.webp",
-          "author": ""
-        },
-        {
-          "id": "3cdfa72e6ca56bd2",
-          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-          "titleZh": "不确定性设计：人工智能如何增强概率思维",
-          "summary": "在人工智能为更多设计选择提供信息的世界里，人们很容易将预测误认为是确定的。本文介绍了概率设计，这是一种…",
-          "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-06-16T15:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-          "author": "hello@smashingmagazine.com (Pratik Joglekar)"
-        },
-        {
-          "id": "94eb4e1e6e40f57e",
-          "title": "The Impact Of Humanoid Robots On Humanity",
-          "titleZh": "人形机器人对人类的影响",
-          "summary": "我们已经正式超越了人形机器人的时代，成为了纯粹的公关特技。随着他们变得越来越栩栩如生，社会可能很快就会面临深刻的社会问题，……",
-          "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-06-12T08:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-          "author": "hello@smashingmagazine.com (Carrie Webster)"
-        },
-        {
-          "id": "de35da9942e726d2",
-          "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
-          "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周端午假期，周刊休息。）...",
-          "url": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
-          "source": "阮一峰的网络日志",
-          "sourceUrl": "https://www.ruanyifeng.com/blog/",
-          "publishedAt": "2026-06-11T23:26:08.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "技术周刊"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn.beekka.com/blogimg/asset/202606/bg2026060505.webp",
-          "author": "阮一峰"
         }
       ]
     },
@@ -402,6 +406,25 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "b58347acb571b3dd",
+          "title": "Previewing GPT-5.6 Sol: a next-generation model",
+          "titleZh": "预览 GPT-5.6 SOL：下一代型号",
+          "summary": "OpenAI 预览了 GPT-5.6 SOL，这是一种下一代型号，在编码、科学和网络安全方面具有更强的功能，并配有最先进的安全堆栈。",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-06-26T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "6dba637600809002",
           "title": "Run a vLLM Server on HF Jobs in One Command",
@@ -416,7 +439,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 112,
+          "score": 74,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -435,7 +458,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 99,
+          "score": 61,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -454,7 +477,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 86,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -473,7 +496,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 61,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -496,25 +519,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "fb1737918715dbe2",
-          "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-          "titleZh": "推出 FFASR 排行榜：在现实世界中对 ASR 进行基准测试",
-          "summary": "",
-          "url": "https://huggingface.co/blog/ffasr-leaderboard",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-06-24T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -524,96 +528,96 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "f6d263b8a2a1ebcb",
-          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-          "titleZh": "白宫要求 OpenAI 出于安全考虑，放慢推出新车型的步伐",
-          "summary": "据报道，penAI 计划与部分合作伙伴而不是更广泛的公众分享其最新型号 GPT 5.6。原因是：特朗普政府告诉……",
-          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "id": "346cbdb86d27bd77",
+          "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+          "titleZh": "特朗普政府发布《人类神话》，供 100 多家美国公司和机构使用",
+          "summary": "据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，包括他们的非美国员工。",
+          "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-25T23:34:39.000Z",
+          "publishedAt": "2026-06-27T01:01:37.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 104,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e61efad5a63d3037",
-          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-          "titleZh": "YouTube 短片越来越短，其更新可让您将播放速度提高一倍",
-          "summary": "YouTube 短片正在进行改造。",
-          "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+          "id": "59e0ad3217d3ee93",
+          "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+          "titleZh": "FTC 批准马斯克收购 SpaceX 校友创业公司 Mesh",
+          "summary": "Mesh 在 2月份以 5000 万美元的 A 轮融资 $脱颖而出。",
+          "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-25T22:02:12.000Z",
+          "publishedAt": "2026-06-27T00:38:34.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "52f7818b21a9e539",
-          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-          "titleZh": "Patronus AI 获得 $5000 万美元，用于构建对 AI 智能体进行压力测试的“数字世界”",
-          "summary": "其投资者表示，由前 Meta AI 研究人员创立的代理测试初创公司 Patronus AI 正在经历几乎无法满足的需求。",
-          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "id": "bb18d0807a0a4d03",
+          "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+          "titleZh": "Y Combinator 支持的保险科技初创公司 Corgi 表示，它没有窃取开源产品",
+          "summary": "当 Papermark 指控 Corgi 窃取其软件时，Corgi 陷入了争议。Corgi 表示没有，这引发了有关 vibe 编码的新问题。",
+          "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-25T20:19:25.000Z",
+          "publishedAt": "2026-06-26T22:00:37.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "76cf00986566f92d",
-          "title": "Xbox follows Apple with price increases",
-          "titleZh": "Xbox 跟随苹果涨价",
-          "summary": "该公司表示，增长是由内存和控制台存储价格上涨推动的，成本比以前的水平高出 2.5 倍以上。",
-          "url": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+          "id": "5a096f6387e99024",
+          "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+          "titleZh": "OpenAI 在政府要求后限制 GPT-5.6 的推出，并表示限制不应成为常态",
+          "summary": "OpenAI 表示：“我们不认为这种政府访问程序应该成为长期默认设置。” “它为用户、开发人员、企业保留了最好的工具……",
+          "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-25T19:39:55.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 96,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "bd83e27bbb83f054",
-          "title": "Polymarket says hackers stole users’ funds",
-          "titleZh": "Polymarket 称黑客窃取了用户的资金",
-          "summary": "预测市场巨头 Polymarket 表示，它正在退还因第三方违规行为而被盗资金的用户。",
-          "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-06-25T19:58:46.000Z",
+          "publishedAt": "2026-06-26T18:32:14.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
           "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f0635999cea4f525",
+          "title": "Novak Djokovic has a new job — advisor to private equity firm General Atlantic",
+          "titleZh": "诺瓦克·德约科维奇（Novak Djokovic）找到了一份新工作--私募股权公司 General Atlantic 的顾问",
+          "summary": "General Atlantic 聘请了网球传奇人物诺瓦克·德约科维奇（Novak Djokovic）担任全球战略顾问。",
+          "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-06-26T19:13:40.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -644,8 +648,84 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
+          "id": "b729ea0bb146455c",
+          "title": "The boundary between philosophy and design: Leveraging pure thought",
+          "titleZh": "哲学与设计的界限：利用纯粹的思维",
+          "summary": "从柏拉图的 Forms 到 iPod，以及它揭示了伟大的设计真正开始的地方。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-06-26T21:58:37.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/700/0*T17tevZVSpYhGKch.png",
+          "author": ""
+        },
+        {
+          "id": "a3c56577bc0bf9c1",
+          "title": "Discovery is a capability, not a phase",
+          "titleZh": "发现是一种能力，而不是一个阶段",
+          "summary": "",
+          "url": "https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-06-26T21:58:55.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "51a52b84e9520968",
+          "title": "Someone designed this",
+          "titleZh": "有人设计了这个",
+          "summary": "",
+          "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-06-26T11:09:43.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "dc7b85f56ebcb1e4",
+          "title": "How to stop re-explaining yourself to Claude",
+          "titleZh": "如何停止向 Claude 重新解释自己",
+          "summary": "",
+          "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-06-26T07:50:16.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 82,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "18e73c67c2706cfb",
-          "title": "Rethinking Figma in an AI World",
+          "title": "Rethinking Figma in an AI world",
           "titleZh": "在人工智能世界中重新思考 Figma",
           "summary": "",
           "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
@@ -657,7 +737,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -676,82 +756,6 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "75ef21dd274804b2",
-          "title": "Your banking app is lying to you",
-          "titleZh": "您的银行应用程序欺骗了您",
-          "summary": "它向您展示了平衡。它不会向你展示未来。以下是当人工智能开始说实话时会发生的事情。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-23T11:09:13.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 60,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/1988/1*uLu56arUUlJ1NMazdD9hkA.png",
-          "author": ""
-        },
-        {
-          "id": "673110f692c40c54",
-          "title": "How DesignOps roles are changing with new priorities",
-          "titleZh": "DesignOps 角色如何随着新的优先事项而变化",
-          "summary": "当 AI 与设计集成时，设计愿景比以往任何时候都更重要继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-23T11:11:43.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/1*Nr_aQE4ARJdxXac0y7K1sQ.jpeg",
-          "author": ""
-        },
-        {
-          "id": "5baf0659d85d1d6f",
-          "title": "Better search, worse web",
-          "titleZh": "更好的搜索，更糟糕的网页",
-          "summary": "每个数字都说谷歌人工智能搜索更好。他们都看不到成本。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-22T16:45:25.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/1*_gcZ55UrFSuS0eRBp4CNNA.png",
-          "author": ""
-        },
-        {
-          "id": "cfdeea32cbffa710",
-          "title": "The organizational cost of low taste",
-          "titleZh": "低品味的组织成本",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-22T16:46:04.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 55,
           "sourceType": "rss",
           "cover": "",
@@ -765,13 +769,50 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "331d1ca3e3186c99",
-          "title": "是 macbook 隐藏的功能还是 bug",
-          "summary": "一台 macbook m1pro，一台 macbook air 都在公司同一个 wifi 网络里面，m1pro 的触摸板快速滑动可以操控 air 屏幕🖥了。两台电脑没有任何端口连接",
-          "url": "https://www.v2ex.com/t/1223009#reply0",
+          "id": "cad538d2f23c0a54",
+          "title": "梯子坏了 vless 加 reality 突然就坏了",
+          "summary": "xray 上 vless reality 之前看了说很隐蔽了，突然就坏了。现在还有什么方案更好的吗？AI 自己写协议如何？",
+          "url": "https://www.v2ex.com/t/1223266#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-26T03:00:41.000Z",
+          "publishedAt": "2026-06-27T02:23:23.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "lol173"
+        },
+        {
+          "id": "cbdd2055b701d70b",
+          "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+          "titleZh": "在火车站风格的翻转板上显示 HN：黑客新闻",
+          "summary": "虽然页面本身更有趣（我喜欢翻转的声音），但有趣的是我是如何验证（我讨厌这么说）氛围的……",
+          "url": "https://popflame.quickish.space/hn-flipboard/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-06-27T00:43:39.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 115,
+          "sourceType": "api"
+        },
+        {
+          "id": "b1c272bb14aa4e79",
+          "title": "VIBE CODING 时代，应用开发是否应该使用 ORM ？",
+          "summary": "我认为 ORM 是有存在价值的，原因如下：ORM 提供了标准的数据库迁移脚手架 能在一定程度上规避 SQL 注入攻击（不知道现在大模型写的代码是否容易出现这些漏洞） 提供标准的数据库操作方法 能通过 LSP 将数据库操作纳入大模型调试闭环 高性能的操作也可以手写 SQL，有一定的灵活性 大家在开发中是否用 ORM 呢？用的都是哪…",
+          "url": "https://www.v2ex.com/t/1223254#reply8",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-06-27T01:21:08.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -780,34 +821,16 @@
           "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "zhenlit"
+          "author": "Leon6868"
         },
         {
-          "id": "fb9e6c4f4ad233c8",
-          "title": "大家在 AI 编程的时候，比如 AI 会思考很长时间才给答案，这个时间大家一般都在干啥",
-          "summary": "因为有的时候 AI 编程特别费时间，可能要等好久，这个时间有点无聊，大家一般是用来干啥的？",
-          "url": "https://www.v2ex.com/t/1223002#reply10",
+          "id": "8a5443e9b660dac8",
+          "title": "ClaudeCode 稳定的美国出口 IP 都能被封",
+          "summary": "今天突然就 400 This organization has been disabled. 我刚用了 20天都不到，一个稳定的硅谷出口 IP 没有任何通知消息。。。。算了准备转战 gpt 去了",
+          "url": "https://www.v2ex.com/t/1223262#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-26T02:45:17.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "gdb"
-        },
-        {
-          "id": "e1891ffe2eab6ec5",
-          "title": "早上刚上班，发了一条消息返回 401，心一凉😂",
-          "summary": "老账号，去年10月份就使用美区 Apple ID 订阅过两个月，后来停止了。今年5月又开始使用，是用的尼日利亚 Apple ID 订阅的，但是 6月想要续订的时候发现尼日利亚的礼品卡都没有了，就又使用美区 Apple ID 订阅了。才续订几天就封了，不知道是不是这个原因。",
-          "url": "https://www.v2ex.com/t/1222963#reply11",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-26T01:32:45.000Z",
+          "publishedAt": "2026-06-27T02:09:15.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -815,18 +838,18 @@
           ],
           "score": 112,
           "sourceType": "rss",
-          "cover": "https://i.v2ex.co/8VC1dDg9.png",
-          "author": "oouz"
+          "cover": "",
+          "author": "matthewgao"
         },
         {
-          "id": "1fb10f6aaa24b0cb",
-          "title": "AI children's books, body horror edition",
-          "titleZh": "AI 儿童书籍，身体恐怖版",
-          "summary": "Hacker News 热帖，当前积分 117，评论 33。",
-          "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+          "id": "526f535e07badbaa",
+          "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+          "titleZh": "美国允许 Anthropic 向“值得信赖的合作伙伴”发布 Mythos",
+          "summary": "Hacker News 热帖，当前积分 237，评论 228。",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-26T01:15:14.000Z",
+          "publishedAt": "2026-06-26T22:48:28.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -834,18 +857,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
+          "score": 107,
           "sourceType": "api"
         },
         {
-          "id": "a2b48f3235a9b1df",
-          "title": "A data race that doesn't compile",
-          "titleZh": "无法编译的数据竞赛",
-          "summary": "Hacker News 热帖，当前积分 17，评论 5。",
-          "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+          "id": "af161de38efd5f01",
+          "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+          "titleZh": "为什么动能会随着速度而平方增加，而不是线性增加？（2011）",
+          "summary": "Hacker News 热帖，当前积分 113，评论 49。",
+          "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-06-26T01:33:15.000Z",
+          "publishedAt": "2026-06-26T22:43:29.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -853,46 +876,27 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
+          "score": 107,
           "sourceType": "api"
-        },
-        {
-          "id": "313937ce8b027151",
-          "title": "TypeScript 还是直接 JavaScript",
-          "summary": "数据显示，使用 TypeScript 的公司越来越多，直接用 JavaScript 的越来越少 (source: hacker-job.com/trends )",
-          "url": "https://www.v2ex.com/t/1222984#reply9",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-06-26T02:19:43.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "https://i.v2ex.co/JJ56tdJM.jpeg",
-          "author": "timqian"
         }
       ]
     }
   ],
   "sourceFailures": [
-    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 77,
+    "totalItems": 82,
     "totalSources": 18,
-    "succeededSources": 14,
-    "failedSources": 4
+    "succeededSources": 15,
+    "failedSources": 3
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 20
+      "count": 26
     },
     {
       "tag": "行业热点",
@@ -903,11 +907,11 @@
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 11
+      "tag": "产品/商业",
+      "count": 10
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
@@ -919,7 +923,7 @@
       "count": 8
     },
     {
-      "tag": "开源模型",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -927,11 +931,11 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "模型产品",
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开源模型",
       "count": 6
     },
     {
@@ -939,16 +943,16 @@
       "count": 5
     },
     {
-      "tag": "开发平台",
-      "count": 5
-    },
-    {
       "tag": "科技公司",
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "开发平台",
       "count": 5
+    },
+    {
+      "tag": "新产品",
+      "count": 4
     },
     {
       "tag": "CSS相关",
