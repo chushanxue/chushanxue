@@ -1,124 +1,106 @@
 {
-  "generatedAt": "2026-07-02T03:07:44.187Z",
+  "generatedAt": "2026-07-03T03:06:07.089Z",
   "headline": {
-    "id": "de4580e4560e3351",
-    "title": "最近使用 vless+xhttp+reality，网址用的苹果的， 1 年多被墙了。这是咋被发现的？技术探讨下",
-    "summary": "1.reality 用的 www.apple.com 2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube 3.机器是美国的，到手我就 dd 了，已经用了 1年多了一直没被墙，没有监控工具的 4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+re…",
-    "url": "https://www.v2ex.com/t/1224405#reply47",
+    "id": "41fc5e972e4420d3",
+    "title": "昨天服务器中了挖矿病毒， cpu100% 下不去，最后让 codex 远程 ssh 上去硬刚！",
+    "summary": "10 来分钟就查出来了，中了挖矿病毒，甚至病毒分析，特征码，矿池 IP 都分析出来了，然后隔离，清理，删除。最后查出来是我一个 node 网站，里面用的 next.js 版本不对，有个重大漏洞，升级之后就好了。再次感受 AI 的强大。",
+    "url": "https://www.v2ex.com/t/1224687#reply6",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-02T01:53:21.000Z",
+    "publishedAt": "2026-07-03T02:41:15.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 114,
+    "score": 113,
     "sourceType": "rss",
     "cover": "",
-    "author": "lynn1su"
+    "author": "qxmqh"
   },
   "latest": [
     {
-      "id": "de4580e4560e3351",
-      "title": "最近使用 vless+xhttp+reality，网址用的苹果的， 1 年多被墙了。这是咋被发现的？技术探讨下",
-      "summary": "1.reality 用的 www.apple.com 2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube 3.机器是美国的，到手我就 dd 了，已经用了 1年多了一直没被墙，没有监控工具的 4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+re…",
-      "url": "https://www.v2ex.com/t/1224405#reply47",
+      "id": "41fc5e972e4420d3",
+      "title": "昨天服务器中了挖矿病毒， cpu100% 下不去，最后让 codex 远程 ssh 上去硬刚！",
+      "summary": "10 来分钟就查出来了，中了挖矿病毒，甚至病毒分析，特征码，矿池 IP 都分析出来了，然后隔离，清理，删除。最后查出来是我一个 node 网站，里面用的 next.js 版本不对，有个重大漏洞，升级之后就好了。再次感受 AI 的强大。",
+      "url": "https://www.v2ex.com/t/1224687#reply6",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-02T01:53:21.000Z",
+      "publishedAt": "2026-07-03T02:41:15.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "lynn1su"
+      "author": "qxmqh"
     },
     {
-      "id": "ff0675a7fc416a20",
-      "title": "Avoiding Fallback in Distributed Systems",
-      "titleZh": "避免分布式系统中的回退",
-      "summary": "Hacker News 热帖，当前积分 10，评论 2。",
-      "url": "https://builder.aws.com",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-02T02:19:48.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "ff13c29d55e1468d",
-      "title": "免费虚拟主机空间安装的一个 PHP 文件论坛",
-      "summary": "免费虚拟主机空间安装的论坛 https://bbs1.kesug.com/index.php?a=topic&id=2 源码地址：https://github.com/bbs1org/bbs1org 测试账号：管理员账户：admin 密码：admin@admin.admin# 欢迎测试速度",
-      "url": "https://www.v2ex.com/t/1224376#reply15",
+      "id": "428b1f9464fca01f",
+      "title": "Your account is on hold",
+      "titleZh": "您的账号已暂停使用",
+      "summary": "G 了啊",
+      "url": "https://www.v2ex.com/t/1224698#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-02T00:58:56.000Z",
+      "publishedAt": "2026-07-03T02:59:32.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 112,
+      "score": 110,
       "sourceType": "rss",
       "cover": "",
-      "author": "xiaobd"
+      "author": "becksWhite"
     },
     {
-      "id": "e13c02c9964fff1d",
-      "title": "派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等",
-      "summary": "Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文",
-      "url": "https://sspai.com/post/111861",
+      "id": "fbefea6df55d28d5",
+      "title": "白嫖 chatgpt plus 一个月的新路子",
+      "summary": "试着取消你现在的订阅，openai 为了挽留你，会送你一个月的 plus 不说了，继续努力蹬了",
+      "url": "https://www.v2ex.com/t/1224679#reply1",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-03T02:13:29.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/nJAY79p.png",
+      "author": "HeStudy"
+    },
+    {
+      "id": "bb5117e0f5ec24db",
+      "title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
+      "summary": "Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文",
+      "url": "https://sspai.com/post/111898",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-02T00:34:51.000Z",
+      "publishedAt": "2026-07-03T00:45:36.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 111,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "1f3878cc151641f1",
-      "title": "XDM，你们每个月使用 AI 的成本是多少",
-      "summary": "#1. Codex：公司订阅的（完全不够用） #2. 订阅在线生成 UI 会员：100 左右 #3. Deepseek api: 每月大概 50，涨价后可能就更多了 #4. Trae 国际版会员：每月大概 53 （半年前买的年会员） 合计：200",
-      "url": "https://www.v2ex.com/t/1224383#reply56",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-02T01:11:53.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "inas"
-    },
-    {
-      "id": "569254f7e8c5ba74",
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "titleZh": "构建开源机器人吸尘器–认识 Oomwoo",
-      "summary": "Hacker News 热帖，当前积分 62，评论 4。",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "id": "5028beff453fffda",
+      "title": "An American Privacy Emergency",
+      "titleZh": "美国隐私紧急状况",
+      "summary": "Hacker News 热帖，当前积分 187，评论 58。",
+      "url": "https://scottaaronson.blog/?p=9902",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-02T00:48:01.000Z",
+      "publishedAt": "2026-07-03T00:01:06.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -126,18 +108,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 110,
+      "score": 109,
       "sourceType": "api"
     },
     {
-      "id": "b49f3a39f2d6dafc",
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-      "titleZh": "全球综述证实 mRNA 疫苗安全、有效且充满希望",
-      "summary": "Hacker News 热帖，当前积分 148，评论 100。",
-      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "id": "e6c83b9b2e567ae2",
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "titleZh": "GitHub 自豪地宣布，您现在可以在 CD-ROM 上获取您的公共存储库",
+      "summary": "Hacker News 热帖，当前积分 99，评论 69。",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-02T00:40:14.000Z",
+      "publishedAt": "2026-07-03T00:01:26.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -145,73 +127,93 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 110,
+      "score": 109,
       "sourceType": "api"
     },
     {
-      "id": "6f3deaa422039145",
-      "title": "ChatGPT Plus 到期了， Codex 还是显示 PLUS，一般会持续多久？",
-      "summary": "6月30日就到期的，现在 7月2日，还是显示 PLUS，还可以继续蹬，反正没付钱，能蹬就继续蹬吧，不知道会持续多久",
-      "url": "https://www.v2ex.com/t/1224364#reply20",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-02T00:12:15.000Z",
+      "id": "ace93e7090989c36",
+      "title": "Right to Local Intelligence",
+      "titleZh": "获取本地情报的权利",
+      "summary": "Hacker News 热帖，当前积分 53，评论 16。",
+      "url": "https://righttointelligence.org/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-02T23:54:03.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发者社区"
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 108,
+      "score": 109,
+      "sourceType": "api"
+    },
+    {
+      "id": "618855efe34b9104",
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "titleZh": "最后的申请机会—初创公司 Battlefield Australia 的申请于 7月6日截止",
+      "summary": "如果您要申请 Startup Battlefield Australia，现在是时候了。申请于 7月6日截止，截止日期过后，机会就消失了。",
+      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 103,
       "sourceType": "rss",
       "cover": "",
-      "author": "Alex1688"
+      "author": ""
     }
   ],
   "featuredTools": [
     {
-      "id": "e13c02c9964fff1d",
-      "title": "派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等",
-      "summary": "Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文",
-      "url": "https://sspai.com/post/111861",
+      "id": "bb5117e0f5ec24db",
+      "title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
+      "summary": "Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文",
+      "url": "https://sspai.com/post/111898",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-02T00:34:51.000Z",
+      "publishedAt": "2026-07-03T00:45:36.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 111,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "086f83f9c96454a0",
-      "title": "声擎×少数派｜「角落新声」征文活动",
-      "summary": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文",
-      "url": "https://sspai.com/post/111709",
+      "id": "eaa07bd2472e9de7",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "summary": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ... 查看全文",
+      "url": "https://sspai.com/post/110950",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-01T09:30:00.000Z",
+      "publishedAt": "2026-07-02T09:35:25.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 88,
+      "score": 90,
       "sourceType": "rss",
       "cover": "",
-      "author": "少数派编辑部"
+      "author": "Hirat"
     },
     {
-      "id": "e79355bcdabfb10d",
-      "title": "[送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发",
-      "summary": "2017年6月21日，白描 App 按下了发布键。那时的它还很简单，甚至有些单薄：拍下一张图片，识别里面的文字，再复制出来。它最初想解决的，也只是一个非常具体、非常日常的小烦恼：帮女朋友把读书笔记从照片里 ... 查看全文",
-      "url": "https://sspai.com/post/111640",
+      "id": "06d3f7750378aad6",
+      "title": "共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机",
+      "summary": "近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从 2022年的 3DS 涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找一个通往童年的入口，重新回味那些历久弥新 ... 查看全文",
+      "url": "https://sspai.com/post/111069",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-01T07:03:51.000Z",
+      "publishedAt": "2026-07-02T07:00:00.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -220,61 +222,63 @@
       "score": 85,
       "sourceType": "rss",
       "cover": "",
-      "author": "Tolecen"
+      "author": "Tp"
     },
     {
-      "id": "53e474eb5e2b4aae",
-      "title": "年度报告不够看？微信读书 Skill 上手体验",
-      "summary": "人对自己或许会偶尔不诚实，但你的书架是很诚实的。查看全文",
-      "url": "https://sspai.com/post/109932",
+      "id": "d8cb5517483deffe",
+      "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
+      "summary": "本文由 IGN 中国编译自 IGNUS 相关内容，原作者 JacquelineThomas、编译者 Tony，少数派经 IGN 中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ... 查看全文",
+      "url": "https://sspai.com/post/111763",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-01T02:27:40.000Z",
+      "publishedAt": "2026-07-02T04:16:09.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 75,
+      "score": 81,
       "sourceType": "rss",
       "cover": "",
-      "author": "偶然时刻"
+      "author": "IGN中国"
     },
     {
-      "id": "9460b388d764f02f",
-      "title": "派早报：Google 推出 Eclipsa Video 视频标准等",
-      "summary": "Anthropic 发布 Claude Sonnet 5 和 Claude Science，Google 发布 Nano Banana 2 Lite 和 Gemini Omni Flash 等。查看全文",
-      "url": "https://sspai.com/post/111773",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-30T23:48:54.000Z",
+      "id": "12f59fc31b880268",
+      "title": "Gaming Chat SDK by CometChat",
+      "titleZh": "CometChat 游戏聊天 SDK",
+      "summary": "聊天会像往常一样进入虚幻世界",
+      "url": "https://www.producthunt.com/products/cometchat",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-07-02T05:02:58.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 74,
+      "score": 77,
       "sourceType": "rss",
       "cover": "",
-      "author": "少数派编辑部"
+      "author": "Pourav Raj"
     },
     {
-      "id": "a80e0390f28d8398",
-      "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
-      "url": "https://sspai.com/post/111744",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-06-30T09:02:26.000Z",
+      "id": "55d559096ece4226",
+      "title": "Basedash Actions",
+      "titleZh": "Basedash 操作",
+      "summary": "可以为您采取行动的 BI 工具",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-07-02T04:14:53.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 60,
+      "score": 76,
       "sourceType": "rss",
       "cover": "",
-      "author": "Matrix机器人"
+      "author": "Max Musing"
     }
   ],
   "sections": [
@@ -283,6 +287,25 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "9f31e182f0f3d650",
+          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+          "titleZh": "将人工智能模式与用户意图相匹配：设计正确的界面",
+          "summary": "我们陷入了会话隧道视野，将每个 AI 功能默认为基于聊天的界面，因为 LLM 都接受过对话数据的训练。但是很棒……",
+          "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-07-02T10:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
+          "author": "hello@smashingmagazine.com (Victor Yocco)"
+        },
         {
           "id": "586cfba27f1a81be",
           "title": "What’s !important #14: Gap Decorations, random(), field sizing, and More",
@@ -376,24 +399,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "64baf74d8b5a199d",
-          "title": "浏览器原生支持JSON模块导入与开发啦！",
-          "summary": "告别 fetch()和 JSON.parse()，现在可以直接 import JSON 文件啦，浏览器内置能力，使用超级方便。",
-          "url": "https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/",
-          "source": "张鑫旭博客",
-          "sourceUrl": "https://www.zhangxinxu.com/",
-          "publishedAt": "2026-06-29T11:49:17.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 64,
-          "sourceType": "rss",
-          "cover": "https://image.zhangxinxu.com/image/blog/202606/2026-6-29_194630.webp",
-          "author": ""
         }
       ]
     },
@@ -416,7 +421,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 74,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -435,7 +440,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 65,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -524,96 +529,96 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "8a5110f181f69da9",
-          "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-          "titleZh": "据报道，苹果计划明年初发布新的 iPad Pro 和 MacBook Pro",
-          "summary": "报告显示，苹果正在准备几款新的 iPad Pro 平板电脑和一款经济实惠的 MacBook Pro。",
-          "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+          "id": "618855efe34b9104",
+          "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+          "titleZh": "最后的申请机会—初创公司 Battlefield Australia 的申请于 7月6日截止",
+          "summary": "如果您要申请 Startup Battlefield Australia，现在是时候了。申请于 7月6日截止，截止日期过后，机会就消失了。",
+          "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-01T23:57:55.000Z",
+          "publishedAt": "2026-07-03T00:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 103,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "0fd9ad27ebfedec9",
-          "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-          "titleZh": "Bending Spoons 无视 SaaS 暴跌，在交易的第一天飙升 40%",
-          "summary": "该公司通过收购和改造 AOL、Eventbrite、Evernote、Meetup 和 Vimeo 等上一代科技品牌而迅速发展。",
-          "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+          "id": "3fc47c9f4fddee64",
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "titleZh": "马克·扎克伯格（Mark Zuckerberg）告诉员工，人工智能代理的进展没有他所希望的那么快",
+          "summary": "据报道，在一次内部会议上，Meta 首席执行官表示，人工智能开发工作的进展没有预期的那么快。",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-01T22:47:04.000Z",
+          "publishedAt": "2026-07-02T23:38:10.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b3767ccfdc80f5d7",
-          "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-          "titleZh": "在 $180 亿首次公开募股后，Bending Spoons 创始人表示，成功来自最大限度地减少运气",
-          "summary": "意大利公司 Bending Spoons 的联合创始人从自己的创业公司的失败中吸取了重大教训。Bending Spoons 是一家悄悄收购心爱的、生病的互联网品牌的公司。",
-          "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+          "id": "84bdd8b829239cde",
+          "title": "Private space pilots are flying orbital missions for the US Space Force",
+          "titleZh": "私人太空飞行员正在为美国太空部队执行轨道飞行任务",
+          "summary": "True Anomaly 和 Rocket Lab 正在为美国军方执行 Top Gun 式卫星飞越。",
+          "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-01T22:28:35.000Z",
+          "publishedAt": "2026-07-02T23:01:06.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "28b0a6bc73ec14e8",
-          "title": "WhatsApp usernames are already raising impersonation red flags",
-          "titleZh": "WhatsApp 用户名已经引发了冒充危险信号",
-          "summary": "Meta 表示，用户名可以改善隐私，但批评者质疑其保护措施是否可以防止模仿。",
-          "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+          "id": "b1b06e3fbbab799d",
+          "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+          "titleZh": "Thiel Capital 的 Jack Selby 收购了像 Etched through Arizona 这样的热门创业公司的股份",
+          "summary": "根据一份监管文件，塞尔比的风险投资公司 Copper Sky Capital 目前正在筹集 3亿美元的第二只基金。",
+          "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-01T22:02:24.000Z",
+          "publishedAt": "2026-07-02T21:57:10.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "3896dae8c7a58861",
-          "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-          "titleZh": "研究人员声称，Apple 的“隐藏我的电子邮件”功能存在一个漏洞，该漏洞会暴露真实的电子邮件地址",
-          "summary": "研究似乎揭示了一个错误，可能会使该功能实际上毫无用处。",
-          "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+          "id": "b0ccf8044c5f3e4a",
+          "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+          "titleZh": "欧洲第一家上市量子公司 IQM 承认该技术的未来不确定",
+          "summary": "IQM 是一家来自芬兰的全栈量子公司，今天在纳斯达克上市，估值约为 19亿美元($)。",
+          "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-01T19:18:07.000Z",
+          "publishedAt": "2026-07-02T20:42:48.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -631,7 +636,7 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 64,
+          "score": 51,
           "sourceType": "rss",
           "cover": "https://api.substack.com/feed/podcast/204353515/928109049545fa1bddb70bcf87affe5e.mp3",
           "author": ""
@@ -643,6 +648,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "d2ea699117557cc5",
+          "title": "AI personality is a design problem",
+          "titleZh": "人工智能个性是一个设计问题",
+          "summary": "现在，这是人工智能对齐的偶然副产品。它可能是我们刻意构建的界面。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-07-02T05:09:06.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 82,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1536/1*PLXV6BS03y2Dw1ZJnVkKww.png",
+          "author": ""
+        },
         {
           "id": "00598765ca410fe0",
           "title": "How designers need to change for an AI-powered world",
@@ -657,7 +681,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 70,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1600/0*_sMC-F4IUk7PSB9V.png",
           "author": ""
@@ -676,7 +700,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 91,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1200/0*pEXq4CfDZv6eyM6N.png",
           "author": ""
@@ -695,7 +719,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 70,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1838/1*9c9fOxANWHtsrW4HA1aNIg.png",
           "author": ""
@@ -714,7 +738,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 66,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -733,26 +757,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a77484c5575b2be0",
-          "title": "Why systems thinking is becoming the most important UX skill",
-          "titleZh": "为什么系统思维正在成为最重要的用户体验技能",
-          "summary": "",
-          "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-06-30T21:57:45.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 66,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -765,32 +770,69 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "de4580e4560e3351",
-          "title": "最近使用 vless+xhttp+reality，网址用的苹果的， 1 年多被墙了。这是咋被发现的？技术探讨下",
-          "summary": "1.reality 用的 www.apple.com 2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube 3.机器是美国的，到手我就 dd 了，已经用了 1年多了一直没被墙，没有监控工具的 4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+re…",
-          "url": "https://www.v2ex.com/t/1224405#reply47",
+          "id": "41fc5e972e4420d3",
+          "title": "昨天服务器中了挖矿病毒， cpu100% 下不去，最后让 codex 远程 ssh 上去硬刚！",
+          "summary": "10 来分钟就查出来了，中了挖矿病毒，甚至病毒分析，特征码，矿池 IP 都分析出来了，然后隔离，清理，删除。最后查出来是我一个 node 网站，里面用的 next.js 版本不对，有个重大漏洞，升级之后就好了。再次感受 AI 的强大。",
+          "url": "https://www.v2ex.com/t/1224687#reply6",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-02T01:53:21.000Z",
+          "publishedAt": "2026-07-03T02:41:15.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "lynn1su"
+          "author": "qxmqh"
         },
         {
-          "id": "ff0675a7fc416a20",
-          "title": "Avoiding Fallback in Distributed Systems",
-          "titleZh": "避免分布式系统中的回退",
-          "summary": "Hacker News 热帖，当前积分 10，评论 2。",
-          "url": "https://builder.aws.com",
+          "id": "428b1f9464fca01f",
+          "title": "Your account is on hold",
+          "titleZh": "您的账号已暂停使用",
+          "summary": "G 了啊",
+          "url": "https://www.v2ex.com/t/1224698#reply0",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-07-03T02:59:32.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "becksWhite"
+        },
+        {
+          "id": "fbefea6df55d28d5",
+          "title": "白嫖 chatgpt plus 一个月的新路子",
+          "summary": "试着取消你现在的订阅，openai 为了挽留你，会送你一个月的 plus 不说了，继续努力蹬了",
+          "url": "https://www.v2ex.com/t/1224679#reply1",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-07-03T02:13:29.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "https://i.imgur.com/nJAY79p.png",
+          "author": "HeStudy"
+        },
+        {
+          "id": "5028beff453fffda",
+          "title": "An American Privacy Emergency",
+          "titleZh": "美国隐私紧急状况",
+          "summary": "Hacker News 热帖，当前积分 187，评论 58。",
+          "url": "https://scottaaronson.blog/?p=9902",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-02T02:19:48.000Z",
+          "publishedAt": "2026-07-03T00:01:06.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -798,54 +840,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 112,
+          "score": 109,
           "sourceType": "api"
         },
         {
-          "id": "ff13c29d55e1468d",
-          "title": "免费虚拟主机空间安装的一个 PHP 文件论坛",
-          "summary": "免费虚拟主机空间安装的论坛 https://bbs1.kesug.com/index.php?a=topic&id=2 源码地址：https://github.com/bbs1org/bbs1org 测试账号：管理员账户：admin 密码：admin@admin.admin# 欢迎测试速度",
-          "url": "https://www.v2ex.com/t/1224376#reply15",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-02T00:58:56.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "xiaobd"
-        },
-        {
-          "id": "1f3878cc151641f1",
-          "title": "XDM，你们每个月使用 AI 的成本是多少",
-          "summary": "#1. Codex：公司订阅的（完全不够用） #2. 订阅在线生成 UI 会员：100 左右 #3. Deepseek api: 每月大概 50，涨价后可能就更多了 #4. Trae 国际版会员：每月大概 53 （半年前买的年会员） 合计：200",
-          "url": "https://www.v2ex.com/t/1224383#reply56",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-02T01:11:53.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "inas"
-        },
-        {
-          "id": "569254f7e8c5ba74",
-          "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-          "titleZh": "构建开源机器人吸尘器–认识 Oomwoo",
-          "summary": "Hacker News 热帖，当前积分 62，评论 4。",
-          "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+          "id": "e6c83b9b2e567ae2",
+          "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+          "titleZh": "GitHub 自豪地宣布，您现在可以在 CD-ROM 上获取您的公共存储库",
+          "summary": "Hacker News 热帖，当前积分 99，评论 69。",
+          "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-02T00:48:01.000Z",
+          "publishedAt": "2026-07-03T00:01:26.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -853,18 +859,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 110,
+          "score": 109,
           "sourceType": "api"
         },
         {
-          "id": "b49f3a39f2d6dafc",
-          "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-          "titleZh": "全球综述证实 mRNA 疫苗安全、有效且充满希望",
-          "summary": "Hacker News 热帖，当前积分 148，评论 100。",
-          "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+          "id": "ace93e7090989c36",
+          "title": "Right to Local Intelligence",
+          "titleZh": "获取本地情报的权利",
+          "summary": "Hacker News 热帖，当前积分 53，评论 16。",
+          "url": "https://righttointelligence.org/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-02T00:40:14.000Z",
+          "publishedAt": "2026-07-02T23:54:03.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -872,7 +878,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 110,
+          "score": 109,
           "sourceType": "api"
         }
       ]
@@ -884,7 +890,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -903,12 +909,12 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
-      "tag": "工具/网站",
-      "count": 9
+      "tag": "产品/商业",
+      "count": 10
     },
     {
       "tag": "工程效率",
@@ -947,12 +953,12 @@
       "count": 5
     },
     {
-      "tag": "CSS相关",
+      "tag": "新产品",
       "count": 4
     },
     {
-      "tag": "技术周刊",
-      "count": 3
+      "tag": "CSS相关",
+      "count": 4
     }
   ]
 }
