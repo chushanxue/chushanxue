@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-05T03:07:09.657Z",
+  "generatedAt": "2026-07-06T03:08:11.172Z",
   "headline": {
-    "id": "a16070f3bf826d0b",
-    "title": "这几天用 AI 撸了个 PDF 翻译平台，没写一行代码",
-    "summary": "先说结论：我花了大概五天时间，从产品定位、UI 草图、后端架构、前端页面、迁移脚本、API 文档到上线部署，全程没自己敲过一行代码（也就 git commit -m \"...\" 自己点的），整出来一个叫「译档」的 PDF 翻译平台。今天来摸个鱼，顺便聊聊我是怎么被 AI 按在地上摩擦的。这玩意儿是干嘛的 一句话：把 PDF 丢进…",
-    "url": "https://www.v2ex.com/t/1225038#reply0",
+    "id": "7026822ae44c8f02",
+    "title": "OpenCode 把改动的代码都清空了",
+    "summary": "今天看到它们出了桌面版就下载来试试，让它改了一个文件就频繁出现 \"reasoning part 0 not found\" 错误，这改了一半也不能用就点它们的撤回操作，然后就悲剧了，没有 git add 文件的改动全被它清空了，这货的撤回功能内部是跑了 git restore 吧。最后还好从 VSCode timeline 中找回了大…",
+    "url": "https://www.v2ex.com/t/1225225#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-05T03:05:30.000Z",
+    "publishedAt": "2026-07-06T03:06:34.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
@@ -16,17 +16,17 @@
     "score": 116,
     "sourceType": "rss",
     "cover": "",
-    "author": "ysz1121"
+    "author": "tt83"
   },
   "latest": [
     {
-      "id": "a16070f3bf826d0b",
-      "title": "这几天用 AI 撸了个 PDF 翻译平台，没写一行代码",
-      "summary": "先说结论：我花了大概五天时间，从产品定位、UI 草图、后端架构、前端页面、迁移脚本、API 文档到上线部署，全程没自己敲过一行代码（也就 git commit -m \"...\" 自己点的），整出来一个叫「译档」的 PDF 翻译平台。今天来摸个鱼，顺便聊聊我是怎么被 AI 按在地上摩擦的。这玩意儿是干嘛的 一句话：把 PDF 丢进…",
-      "url": "https://www.v2ex.com/t/1225038#reply0",
+      "id": "7026822ae44c8f02",
+      "title": "OpenCode 把改动的代码都清空了",
+      "summary": "今天看到它们出了桌面版就下载来试试，让它改了一个文件就频繁出现 \"reasoning part 0 not found\" 错误，这改了一半也不能用就点它们的撤回操作，然后就悲剧了，没有 git add 文件的改动全被它清空了，这货的撤回功能内部是跑了 git restore 吧。最后还好从 VSCode timeline 中找回了大…",
+      "url": "https://www.v2ex.com/t/1225225#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-05T03:05:30.000Z",
+      "publishedAt": "2026-07-06T03:06:34.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -35,34 +35,34 @@
       "score": 116,
       "sourceType": "rss",
       "cover": "",
-      "author": "ysz1121"
+      "author": "tt83"
     },
     {
-      "id": "d80c6cd54d27e4b3",
-      "title": "使用 claude code app 的时候提示 Your network redirected this request ....",
-      "summary": "使用环境是 macos + clash verge + tun 模式, 模式是 规则 之前使用是没有问题的, 最近几天就出现这样的情况. 需要重新关闭 tun 然后重新开一下. 再重新打开 cladue code 就可以正常使用了. 但每次这样切换太麻烦了. 但问题不能确定是 claude 还是 clash 的 打开 claude…",
-      "url": "https://www.v2ex.com/t/1225032#reply1",
+      "id": "b12fff5f3d4f072f",
+      "title": "佬， Ponytail 真的能省 token 吗？",
+      "summary": "@ shabnam_774 转述了创始动机：一位开发者看到 AI 为五行的需求写了五百行代码，一怒之下做了这个工具。“最好的代码是你从未写过的代码”这句 tagline 被 @ jasonzimdars 称为”完美的宣传语”。大佬们还有没有什么省 token 大法？",
+      "url": "https://www.v2ex.com/t/1225184#reply12",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-05T02:36:12.000Z",
+      "publishedAt": "2026-07-06T01:41:51.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 112,
       "sourceType": "rss",
       "cover": "",
-      "author": "xoxo419"
+      "author": "LessWu"
     },
     {
-      "id": "0e19b0990207e6df",
-      "title": "eclipse.org 500 无法访问",
-      "summary": "梦回刚刚入行的时候",
-      "url": "https://www.v2ex.com/t/1225034#reply0",
+      "id": "4e0cd328aba7d1ae",
+      "title": "google voice 能验证 codex 吗",
+      "summary": "纯虚拟无实体卡的 google voice",
+      "url": "https://www.v2ex.com/t/1225212#reply7",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-05T02:50:17.000Z",
+      "publishedAt": "2026-07-06T02:40:53.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -71,17 +71,91 @@
       "score": 110,
       "sourceType": "rss",
       "cover": "",
-      "author": "DT37"
+      "author": "lefthand2006"
     },
     {
-      "id": "87996641ec61c133",
-      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
-      "titleZh": "《尼日利亚王子归来》终极版：小心书友会和书评诈骗",
-      "summary": "Hacker News 热帖，当前积分 19，评论 4。",
-      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "id": "158ebcc96c4a92da",
+      "title": "The Sneakerweb",
+      "titleZh": "The Sneakerweb",
+      "summary": "Hacker News 热帖，当前积分 16，评论 3。",
+      "url": "https://sneakerweb.org/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-05T00:22:25.000Z",
+      "publishedAt": "2026-07-06T01:35:09.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "f3dc8804ae419668",
+      "title": "明天 Fable 从 Plan 移除后， Claude Code 的订阅还有价值么？",
+      "summary": "",
+      "url": "https://www.v2ex.com/t/1225202#reply7",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-06T02:15:45.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 108,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "aikilan"
+    },
+    {
+      "id": "6773ac26b11067a4",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "titleZh": "GPT-5.6 Sol Ultra 将出现在 Codex 中",
+      "summary": "Hacker News 热帖，当前积分 83，评论 43。",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-06T01:04:03.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "df16d501b47c43cb",
+      "title": "派早报：阿里禁用 Claude 模型",
+      "summary": "阿里禁用 Claude 模型 索尼调整计划，2028年前发售游戏可继续生产光盘 千问、豆包将下线智能体功能 Android 反垄断案欧洲终审败诉 混动车、商用纯电车将不再免征车船税 电商法修正案征求意见 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/111973",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-05T23:40:25.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "b09a06674c458913",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "titleZh": "Al Vigier：加拿大的人工智能战略不应包括 Palantir 的秘密账单",
+      "summary": "Hacker News 热帖，当前积分 100，评论 34。",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-06T00:04:48.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -91,84 +165,64 @@
       ],
       "score": 109,
       "sourceType": "api"
-    },
-    {
-      "id": "ae834e33302dcb1d",
-      "title": "The face was never the point",
-      "titleZh": "脸从来都不是重点",
-      "summary": "动画不是你设计的东西。这是你触发的事情。继续阅读 UX Collective »",
-      "url": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-07-04T22:58:03.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "https://cdn-images-1.medium.com/max/800/1*3O4iUjX1YDuraJYe879i1w.gif",
-      "author": ""
-    },
-    {
-      "id": "9257d61454c9bc16",
-      "title": "Scientists reverse brain aging, with a nasal spray",
-      "titleZh": "科学家用鼻腔喷雾逆转大脑衰老",
-      "summary": "Hacker News 热帖，当前积分 173，评论 66。",
-      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-04T23:41:10.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 108,
-      "sourceType": "api"
-    },
-    {
-      "id": "7d5634cca4d39ed0",
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "titleZh": "水母可以在几分钟内治愈伤口。科学家想要他们的秘密",
-      "summary": "Hacker News 热帖，当前积分 49，评论 11。",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-04T22:36:28.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 106,
-      "sourceType": "api"
-    },
-    {
-      "id": "4c31e7d3dd717946",
-      "title": "土区续费 GPT plus 还是 500 里拉",
-      "summary": "之前记得看到有帖子说涨价的，价格又改回来了？",
-      "url": "https://www.v2ex.com/t/1225016#reply9",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-04T23:20:19.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "robinshen"
     }
   ],
   "featuredTools": [
+    {
+      "id": "df16d501b47c43cb",
+      "title": "派早报：阿里禁用 Claude 模型",
+      "summary": "阿里禁用 Claude 模型 索尼调整计划，2028年前发售游戏可继续生产光盘 千问、豆包将下线智能体功能 Android 反垄断案欧洲终审败诉 混动车、商用纯电车将不再免征车船税 电商法修正案征求意见 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/111973",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-05T23:40:25.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "fa6a9e002b063973",
+      "title": "背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」",
+      "summary": "每个单词都认识，为什么还是读不懂英文？查看全文",
+      "url": "https://sspai.com/post/111632",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-05T09:08:05.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Bern3rsH"
+    },
+    {
+      "id": "df7d0373ed4af978",
+      "title": "CircleChat",
+      "titleZh": "CircleChat",
+      "summary": "为您的人工智能代理提供松弛、任务板和老板",
+      "url": "https://www.producthunt.com/products/circlechat",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-07-04T16:05:42.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 57,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Tash Ahmed"
+    },
     {
       "id": "8f1a9379420281b0",
       "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
@@ -182,48 +236,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 87,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "macing"
-    },
-    {
-      "id": "d143408bbf740dba",
-      "title": "Termi Protocol",
-      "titleZh": "TERMI 协议",
-      "summary": "观看您的 AI 编码代理在 3D 中实时构建",
-      "url": "https://www.producthunt.com/products/termi-protocol",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-03T21:14:15.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 65,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Eric Omer Ercan"
-    },
-    {
-      "id": "5520a6bf8635fec7",
-      "title": "ChecklistFox",
-      "titleZh": "ChecklistFox",
-      "summary": "美丽 pdf 的人工智能清单制作器，免费和即时",
-      "url": "https://www.producthunt.com/products/checklistfox",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-03T20:40:09.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 64,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Usama Khalid"
     },
     {
       "id": "c13d383f81cad7e9",
@@ -260,24 +276,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "47f87aaac858c1a6",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "summary": "敬「少许的牺牲是必要的」。查看全文",
-      "url": "https://sspai.com/post/111405",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Linery"
     }
   ],
   "sections": [
@@ -325,25 +323,6 @@
           "author": "hello@smashingmagazine.com (Victor Yocco)"
         },
         {
-          "id": "586cfba27f1a81be",
-          "title": "What’s !important #14: Gap Decorations, random(), field sizing, and More",
-          "titleZh": "What's! important # 14: Gap Decorations, random (), field sizing, and More",
-          "summary": "我知道您很忙，所以对于 What's！重要提示＃ 14，尽管浏览器更新很少，但我将快速浏览几周来堆积如山的内容。从 CSS Quake 到 CSS Ga……",
-          "url": "https://css-tricks.com/whats-important-14/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-06-30T13:54:14.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
-          "author": ""
-        },
-        {
           "id": "0d09b9960454f23b",
           "title": "Why Accessibility Is An Operational Capability, Not A Feature",
           "titleZh": "为什么可访问性是一种操作能力，而不是一种功能",
@@ -382,22 +361,40 @@
           "author": "hello@smashingmagazine.com (Cosima Mielke)"
         },
         {
-          "id": "3cf571f7a0503c3d",
-          "title": "The Shifting Line Between CSS States and JavaScript Events",
-          "titleZh": "CSS 状态和 JavaScript 事件之间的转换线",
-          "summary": "CSS 一直都有基于用户交互的伪类。然而，最近的功能正在模糊 CSS “聆听”的内容和方式之间的界限……",
-          "url": "https://css-tricks.com/css-states-and-javascript-events/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-06-29T13:03:32.000Z",
+          "id": "64baf74d8b5a199d",
+          "title": "浏览器原生支持JSON模块导入与开发啦！",
+          "summary": "告别 fetch()和 JSON.parse()，现在可以直接 import JSON 文件啦，浏览器内置能力，使用超级方便。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-06-29T11:49:17.000Z",
           "category": "frontend",
           "tags": [
             "前端技术",
             "CSS"
           ],
-          "score": 66,
+          "score": 64,
           "sourceType": "rss",
-          "cover": "",
+          "cover": "https://image.zhangxinxu.com/image/blog/202606/2026-6-29_194630.webp",
+          "author": ""
+        },
+        {
+          "id": "863a2393534c669d",
+          "title": "CSS color-scheme属性与light-dark()颜色函数",
+          "summary": "之前 prefers-color-scheme 实现深色模式效果的方案实在是太鸡肋了，脱离现实，原理用户，体验不佳，CSS light-dark()函数才是真正的解决之道。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-06-24T12:05:10.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS",
+            "CSS相关"
+          ],
+          "score": 65,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/image/blog/202606/2026-6-24_200116.webp",
           "author": ""
         }
       ]
@@ -529,14 +526,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "57dcf255adb692f4",
-          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-          "titleZh": "新的谷歌广告设想在人工智能的帮助下撰写独立宣言",
-          "summary": "《独立宣言》签署二百五十年后，一个新的商业广告问道：如果创始人可以访问 Google Workspace 呢？",
-          "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "id": "89ec186eb87f5402",
+          "title": "Uber’s European expansion plans may have hit a speed bump",
+          "titleZh": "优步的欧洲扩张计划可能遇到了减速挫折",
+          "summary": "早在 2月份，优步就宣布了 2026年在七个新的欧洲市场推出的雄心勃勃的计划，但据报道，现在其中五个市场已被搁置。",
+          "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-04T20:55:25.000Z",
+          "publishedAt": "2026-07-05T21:35:17.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -548,20 +545,77 @@
           "author": ""
         },
         {
-          "id": "f74f526780d12a5f",
-          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-          "titleZh": "Midjourney 希望好莱坞电影公司透露其人工智能使用的细节",
-          "summary": "作为与三家好莱坞电影公司正在进行的法律纠纷的一部分，Midjourney 正试图迫使这些电影公司披露他们自己如何使用人工智能。",
-          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "id": "ed7500ff03bb2845",
+          "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+          "titleZh": "分析发现，特朗普 memecoin 投资者损失了 38 $",
+          "summary": "在购买唐纳德·特朗普总统的美元特朗普纪念币后，近 100 万人总共损失了 38亿美元，而特朗普赚了 6.36亿美元。",
+          "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-04T18:00:05.000Z",
+          "publishedAt": "2026-07-05T20:29:05.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 97,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "fdeaf11bec2b32b7",
+          "title": "Amazon will stop accepting new customers for Mechanical Turk",
+          "titleZh": "亚马逊将停止接受 Mechanical Turk 的新客户",
+          "summary": "这可能是亚马逊机械土耳其人的最后几天。",
+          "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-05T17:43:36.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "c832480f4fddbeaf",
+          "title": "5 desk gadgets that can make your workday better",
+          "titleZh": "5 种桌面小工具，让您的工作日更美好",
+          "summary": "正确的桌面小工具可以帮助您减少杂乱，保持专注，并为您的日常生活增加一些额外的便利。",
+          "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-05T15:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "4e1b996d74952e63",
+          "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+          "titleZh": "什么是弯曲勺？这位鲜为人知的 AOL 和 Vimeo 所有者现已上市",
+          "summary": "尽管 Bending Spoons 的产品组合已服务超过 10 亿人，但其产品组合在很大程度上仍然未知。",
+          "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-05T13:33:32.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 85,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -579,66 +633,9 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 87,
+          "score": 49,
           "sourceType": "rss",
           "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "e41f6899beb078ba",
-          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-          "titleZh": "什么是 Mistral AI？有关 OpenAI 竞争对手的所有信息",
-          "summary": "Mistral AI 提供一些开源人工智能模型，自 2023年创立以来已筹集了大量资金，其雄心壮志是“将前沿人工智能置于……",
-          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-04T15:51:32.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 91,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "2bba0f46b3fbebf8",
-          "title": "Alibaba reportedly bans employees from using Claude Code",
-          "titleZh": "据报道，阿里巴巴禁止员工使用 Claude Code",
-          "summary": "据报道，阿里巴巴已将 Claude Code 归类为高风险软件。",
-          "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-04T16:32:08.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 88,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "34fff6778b1042db",
-          "title": "The only AI glossary you’ll need this year",
-          "titleZh": "您今年唯一需要的人工智能术语表",
-          "summary": "人工智能的崛起带来了大量的新术语和俚语。以下是您可能遇到的一些最重要的单词和短语的定义词汇表。",
-          "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-03T21:20:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 61,
-          "sourceType": "rss",
-          "cover": "",
           "author": ""
         }
       ]
@@ -662,7 +659,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 110,
+          "score": 71,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/800/1*3O4iUjX1YDuraJYe879i1w.gif",
           "author": ""
@@ -681,7 +678,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 96,
+          "score": 57,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -770,13 +767,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "a16070f3bf826d0b",
-          "title": "这几天用 AI 撸了个 PDF 翻译平台，没写一行代码",
-          "summary": "先说结论：我花了大概五天时间，从产品定位、UI 草图、后端架构、前端页面、迁移脚本、API 文档到上线部署，全程没自己敲过一行代码（也就 git commit -m \"...\" 自己点的），整出来一个叫「译档」的 PDF 翻译平台。今天来摸个鱼，顺便聊聊我是怎么被 AI 按在地上摩擦的。这玩意儿是干嘛的 一句话：把 PDF 丢进…",
-          "url": "https://www.v2ex.com/t/1225038#reply0",
+          "id": "7026822ae44c8f02",
+          "title": "OpenCode 把改动的代码都清空了",
+          "summary": "今天看到它们出了桌面版就下载来试试，让它改了一个文件就频繁出现 \"reasoning part 0 not found\" 错误，这改了一半也不能用就点它们的撤回操作，然后就悲剧了，没有 git add 文件的改动全被它清空了，这货的撤回功能内部是跑了 git restore 吧。最后还好从 VSCode timeline 中找回了大…",
+          "url": "https://www.v2ex.com/t/1225225#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-05T03:05:30.000Z",
+          "publishedAt": "2026-07-06T03:06:34.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -785,34 +782,34 @@
           "score": 116,
           "sourceType": "rss",
           "cover": "",
-          "author": "ysz1121"
+          "author": "tt83"
         },
         {
-          "id": "d80c6cd54d27e4b3",
-          "title": "使用 claude code app 的时候提示 Your network redirected this request ....",
-          "summary": "使用环境是 macos + clash verge + tun 模式, 模式是 规则 之前使用是没有问题的, 最近几天就出现这样的情况. 需要重新关闭 tun 然后重新开一下. 再重新打开 cladue code 就可以正常使用了. 但每次这样切换太麻烦了. 但问题不能确定是 claude 还是 clash 的 打开 claude…",
-          "url": "https://www.v2ex.com/t/1225032#reply1",
+          "id": "b12fff5f3d4f072f",
+          "title": "佬， Ponytail 真的能省 token 吗？",
+          "summary": "@ shabnam_774 转述了创始动机：一位开发者看到 AI 为五行的需求写了五百行代码，一怒之下做了这个工具。“最好的代码是你从未写过的代码”这句 tagline 被 @ jasonzimdars 称为”完美的宣传语”。大佬们还有没有什么省 token 大法？",
+          "url": "https://www.v2ex.com/t/1225184#reply12",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-05T02:36:12.000Z",
+          "publishedAt": "2026-07-06T01:41:51.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 112,
           "sourceType": "rss",
           "cover": "",
-          "author": "xoxo419"
+          "author": "LessWu"
         },
         {
-          "id": "0e19b0990207e6df",
-          "title": "eclipse.org 500 无法访问",
-          "summary": "梦回刚刚入行的时候",
-          "url": "https://www.v2ex.com/t/1225034#reply0",
+          "id": "4e0cd328aba7d1ae",
+          "title": "google voice 能验证 codex 吗",
+          "summary": "纯虚拟无实体卡的 google voice",
+          "url": "https://www.v2ex.com/t/1225212#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-05T02:50:17.000Z",
+          "publishedAt": "2026-07-06T02:40:53.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -821,17 +818,17 @@
           "score": 110,
           "sourceType": "rss",
           "cover": "",
-          "author": "DT37"
+          "author": "lefthand2006"
         },
         {
-          "id": "87996641ec61c133",
-          "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
-          "titleZh": "《尼日利亚王子归来》终极版：小心书友会和书评诈骗",
-          "summary": "Hacker News 热帖，当前积分 19，评论 4。",
-          "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+          "id": "158ebcc96c4a92da",
+          "title": "The Sneakerweb",
+          "titleZh": "The Sneakerweb",
+          "summary": "Hacker News 热帖，当前积分 16，评论 3。",
+          "url": "https://sneakerweb.org/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-05T00:22:25.000Z",
+          "publishedAt": "2026-07-06T01:35:09.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -839,37 +836,36 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
+          "score": 111,
           "sourceType": "api"
         },
         {
-          "id": "9257d61454c9bc16",
-          "title": "Scientists reverse brain aging, with a nasal spray",
-          "titleZh": "科学家用鼻腔喷雾逆转大脑衰老",
-          "summary": "Hacker News 热帖，当前积分 173，评论 66。",
-          "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-04T23:41:10.000Z",
+          "id": "f3dc8804ae419668",
+          "title": "明天 Fable 从 Plan 移除后， Claude Code 的订阅还有价值么？",
+          "summary": "",
+          "url": "https://www.v2ex.com/t/1225202#reply7",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-07-06T02:15:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
+            "开发者社区"
           ],
           "score": 108,
-          "sourceType": "api"
+          "sourceType": "rss",
+          "cover": "",
+          "author": "aikilan"
         },
         {
-          "id": "7d5634cca4d39ed0",
-          "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-          "titleZh": "水母可以在几分钟内治愈伤口。科学家想要他们的秘密",
-          "summary": "Hacker News 热帖，当前积分 49，评论 11。",
-          "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+          "id": "6773ac26b11067a4",
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "titleZh": "GPT-5.6 Sol Ultra 将出现在 Codex 中",
+          "summary": "Hacker News 热帖，当前积分 83，评论 43。",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-04T22:36:28.000Z",
+          "publishedAt": "2026-07-06T01:04:03.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -877,43 +873,44 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 106,
+          "score": 110,
           "sourceType": "api"
         }
       ]
     }
   ],
   "sourceFailures": [
+    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "阮一峰的网络日志: 阮一峰的网络日志 返回 502",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 80,
+    "totalItems": 74,
     "totalSources": 18,
-    "succeededSources": 14,
-    "failedSources": 4
+    "succeededSources": 13,
+    "failedSources": 5
   },
   "trendingTags": [
     {
-      "tag": "前端技术",
-      "count": 23
-    },
-    {
       "tag": "行业热点",
       "count": 19
+    },
+    {
+      "tag": "前端技术",
+      "count": 17
     },
     {
       "tag": "设计/UI",
       "count": 12
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
-      "tag": "工具/网站",
+      "tag": "产品/商业",
       "count": 10
     },
     {
@@ -929,11 +926,11 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "效率",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "交互设计",
       "count": 6
     },
     {
