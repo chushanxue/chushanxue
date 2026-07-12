@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-07-11T03:04:38.177Z",
+  "generatedAt": "2026-07-12T03:04:56.659Z",
   "headline": {
-    "id": "eba1a59b4cd8877b",
-    "title": "Claude Code / Codex 安装失败，别先怪网络：一份实测排查清单",
-    "summary": "最近在整理 Claude Code、Codex 这类 AI 编程工具的安装问题，发现很多“装不上”其实不是单一的网络问题，而是几个环节叠在一起：Node.js / Git 版本不合适，命令装完却找不到 Windows 权限、PATH 或杀毒软件拦截 登录页面打不开、授权回调失败 API / Base URL 配好后，工具仍然报…",
-    "url": "https://www.v2ex.com/t/1226539#reply2",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-11T02:55:42.000Z",
-    "category": "industry",
+    "id": "0db5466a74788689",
+    "title": "6月音乐精选：不得不听的 17 张……没错 17 张专辑！",
+    "summary": "编者注：2026年我们将重启少数派音乐推荐栏目 FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+    "url": "https://sspai.com/post/112035",
+    "source": "少数派",
+    "sourceUrl": "https://sspai.com/",
+    "publishedAt": "2026-07-12T02:03:12.000Z",
+    "category": "tools",
     "tags": [
-      "行业热点",
-      "开发者社区"
+      "工具/网站",
+      "效率"
     ],
     "score": 116,
     "sourceType": "rss",
     "cover": "",
-    "author": "wh1teareas"
+    "author": "麻乐"
   },
   "latest": [
     {
-      "id": "eba1a59b4cd8877b",
-      "title": "Claude Code / Codex 安装失败，别先怪网络：一份实测排查清单",
-      "summary": "最近在整理 Claude Code、Codex 这类 AI 编程工具的安装问题，发现很多“装不上”其实不是单一的网络问题，而是几个环节叠在一起：Node.js / Git 版本不合适，命令装完却找不到 Windows 权限、PATH 或杀毒软件拦截 登录页面打不开、授权回调失败 API / Base URL 配好后，工具仍然报…",
-      "url": "https://www.v2ex.com/t/1226539#reply2",
+      "id": "0db5466a74788689",
+      "title": "6月音乐精选：不得不听的 17 张……没错 17 张专辑！",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目 FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "url": "https://sspai.com/post/112035",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-12T02:03:12.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "麻乐"
+    },
+    {
+      "id": "57575bb2a4631ebc",
+      "title": "基于 chromium 150 版本的 UI 框架和 pdfium 实现了跨平台的 PDF 软件",
+      "summary": "免费下载：https://github.com/libcr/crpdf/releases 在 AI 协助下，用 C++ 花了不到 2 个礼拜实现的 主要实现了 PDF 文件的阅读和标注 实践下来，用 libcr 这套跨平台的代码 稳定性和可行性很不错 1. 免 QT 授权费用 2. 优秀的 chromium 代码基础 实现 UI…",
+      "url": "https://www.v2ex.com/t/1226667#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-11T02:55:42.000Z",
+      "publishedAt": "2026-07-12T03:00:23.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -34,111 +52,18 @@
       ],
       "score": 116,
       "sourceType": "rss",
-      "cover": "",
-      "author": "wh1teareas"
+      "cover": "https://i.imgur.com/IsEycHn.png",
+      "author": "wuruxu"
     },
     {
-      "id": "0025304ff441771e",
-      "title": "ChatGPT 的 Chat 思考力度很低",
-      "summary": "我的公司电脑用公司的代理访问 ChatGPT，即使我选择 Pro 模型，也会很快就回答，思考力度很低，回答质量低，废话多，Emoji 多，像是极速模式。这是 Windows 设备。我的个人电脑 Mac 和手机，都是用的自己的代理访问 ChatGPT，如果使用 Pro 模型就会思考很久，回答质量也高。公司使用 Codex 以及…",
-      "url": "https://www.v2ex.com/t/1226534#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-11T02:02:54.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "reaCodes"
-    },
-    {
-      "id": "bdec76a7250568fd",
-      "title": "GPT5.6 SOL 也就那么回事",
-      "summary": "试了新的 5.6 的 SOL 发现也就呢样，做不到的还是做不到，就是 codex 看上去比之前花哨了点，整体上还是不如 Fable 5,只能期待下后续可能的 GPT 6，ai 的这些小版本更新没什么大的进步，只能等大版本了",
-      "url": "https://www.v2ex.com/t/1226536#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-11T02:44:02.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "fbu11"
-    },
-    {
-      "id": "ac42d2a1892bf141",
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "titleZh": "该机构透露，美国网络安全机构 CISA 不得不在事件发生期间制定其事件剧本",
-      "summary": "独立网络安全记者布莱恩·克雷布斯（Brian Krebs）在 5月份报道说，网络公司 GitGuardian 的一名安全研究员提醒他，大量密码存储被泄露……",
-      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-11T01:01:28.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "027641411e1bade2",
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "titleZh": "Phia 被指控“填充饼干”，在其未赚取的购买中获取会员积分",
-      "summary": "比尔·盖茨（Bill Gates）的女儿菲比（Phoebe）和她的朋友索菲亚·基安尼（Sophia Kianni）创立的购物创业公司菲亚（Phia）因一种被称为“饼干馅料”的做法而受到抨击，这",
-      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-11T00:29:25.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "08da3c45ef54014d",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "titleZh": "Meta 在强烈反对后删除了 Instagram 上有争议的 AI 功能",
-      "summary": "该公司在一份声明中表示：“我们的目的是提供一个有用的创意工具，并让人们控制他们的公共内容是否可以以这种方式被引用。”",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-10T23:55:07.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 104,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "451f9ff19ba668cd",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "titleZh": "新的研究表明，爱因斯坦的相对论支配着重元素中的化学键",
-      "summary": "Hacker News 热帖，当前积分 123，评论 43。",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "id": "1525c86be0f344f6",
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "titleZh": "我们知道简单的液体可以流动。事实证明，有些人可能会骨折",
+      "summary": "Hacker News 热帖，当前积分 11，评论 0。",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-10T22:30:44.000Z",
+      "publishedAt": "2026-07-12T02:13:46.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -146,30 +71,178 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 106,
+      "score": 112,
       "sourceType": "api"
     },
     {
-      "id": "65cc165baa9628ab",
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "titleZh": "Bluesky 的临时首席执行官 Toni Schneider 放弃了“临时”",
-      "summary": "施耐德曾担任 Automattic 的首席执行官，也是 True Ventures 的合伙人，他表示自己在这个非传统的社交媒体平台上“全力以赴”。",
-      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-10T21:51:55.000Z",
-      "category": "product",
+      "id": "8a7ba010768277e3",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "titleZh": "XAI 的 Grok Build CLI 实际发送给 xAI 的内容",
+      "summary": "Hacker News 热帖，当前积分 50，评论 17。",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-12T01:09:50.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 100,
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "ae2c97ee1531e94a",
+      "title": "为什么 chatgpt 这么固执",
+      "summary": "我让 gpt 帮我把图片背景换成透明色，它总是用白色方格伪装成透明色 我明确告诉他要真透明，不要用白色方格伪装成透明色 它还是要用，气死我了",
+      "url": "https://www.v2ex.com/t/1226659#reply12",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-12T01:57:17.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "https://i.v2ex.co/8lQ5dH56.png",
+      "author": "Brightt"
+    },
+    {
+      "id": "e98e4643500ba149",
+      "title": "A pure scheme web programming tool",
+      "titleZh": "纯方案 Web 编程工具",
+      "summary": "Hacker News 热帖，当前积分 23，评论 13。",
+      "url": "https://goeteia.dev",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-12T00:57:18.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "734069f7990337aa",
+      "title": "A dock that wakes up reliably",
+      "titleZh": "可靠唤醒的码头",
+      "summary": "Hacker News 热帖，当前积分 33，评论 25。",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-12T00:48:10.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "1fb6cbfa837699bb",
+      "title": "grok-4.5 真的比 gpt-5.6 sol 好用吧",
+      "summary": "gpt-5.6 首先慢, 其次贵, 体感上智能程度并没有明显强过 grok-4.5, 而且超级喜欢自己主动做更多的事情,而且审美还是一般没有多少进步.",
+      "url": "https://www.v2ex.com/t/1226656#reply11",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-12T01:37:01.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
       "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "burnsby"
     }
   ],
   "featuredTools": [
+    {
+      "id": "0db5466a74788689",
+      "title": "6月音乐精选：不得不听的 17 张……没错 17 张专辑！",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目 FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "url": "https://sspai.com/post/112035",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-12T02:03:12.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "麻乐"
+    },
+    {
+      "id": "b381d316966a5fae",
+      "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+      "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文",
+      "url": "https://sspai.com/post/68024",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-11T07:05:21.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 84,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "刀客特Leslie"
+    },
+    {
+      "id": "55d559096ece4226",
+      "title": "Basedash SCIM",
+      "titleZh": "Basedash SCIM",
+      "summary": "您的组织发生变化。访问跟上。",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-07-11T02:40:25.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 73,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Max Musing"
+    },
+    {
+      "id": "04ec6f5d88e65df9",
+      "title": "SoundPipe",
+      "titleZh": "SoundPipe",
+      "summary": "SoundPipe 是适用于 Mac 的混合板",
+      "url": "https://www.producthunt.com/products/soundpipe",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-07-10T22:27:30.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 67,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Chris Battarbee"
+    },
     {
       "id": "8b128fb701ec0e3a",
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -183,102 +256,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 90,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "305dcf7472ec67e6",
-      "title": "安达卢西亚的日与夜：格拉纳达漫游指南",
-      "summary": "有些旅程就是这样，它最终并没有留在成百上千张照片里，而是长久地停留在某种气味与感官的记忆中。查看全文",
-      "url": "https://sspai.com/post/112097",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 83,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "鸿苓"
-    },
-    {
-      "id": "d35a5239f2f5250a",
-      "title": "Vibe Coding 时代，为什么降本不一定增效？",
-      "summary": "Vibe Coding 虽然可以更快地生成代码，但依然不能替我们定义问题、理解用户、设计架构并承担结果。查看全文",
-      "url": "https://sspai.com/post/111975",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-10T02:50:28.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 77,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "LOSSES"
-    },
-    {
-      "id": "9e9bc1a25dd99b93",
-      "title": "派早报：蔚来 ES8 大五座版正式上市等",
-      "summary": "OpenAI 发布 GPT-5.6 系列模型等，SpaceXAI 发布编程智能体模型 Grok 4.5。查看全文",
-      "url": "https://sspai.com/post/112143",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-10T00:56:18.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "fc0e7792bafd09fc",
-      "title": "Native SDK",
-      "titleZh": "原生 SDK",
-      "summary": "用于构建本机桌面应用的工具包",
-      "url": "https://www.producthunt.com/products/vercel",
+      "id": "13332e42c89fb65f",
+      "title": "San Fran Sim",
+      "titleZh": "San Fran Sim",
+      "summary": "创业大亨游戏",
+      "url": "https://www.producthunt.com/products/san-fran-sim",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-09T18:17:11.000Z",
+      "publishedAt": "2026-07-10T08:07:45.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 60,
+      "score": 54,
       "sourceType": "rss",
       "cover": "",
-      "author": "Chris Messina"
-    },
-    {
-      "id": "2ed420f7129d990d",
-      "title": "Ship OS by Notion",
-      "titleZh": "按 Notion 发货操作系统",
-      "summary": "代理本地交付软件的方式",
-      "url": "https://www.producthunt.com/products/notion",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-09T18:19:56.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Chris Messina"
+      "author": "Daniel Kempe"
     }
   ],
   "sections": [
@@ -301,7 +301,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 100,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
           "author": "hello@smashingmagazine.com (Anastasia Sycheva)"
@@ -319,7 +319,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 80,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026070704.webp",
           "author": "阮一峰"
@@ -420,7 +420,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 94,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -439,7 +439,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 74,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -528,6 +528,100 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
+          "id": "4e417971f5d631ba",
+          "title": "Reed Jobs would rather talk about curing cancer than his last name",
+          "titleZh": "里德·乔布斯宁愿谈论治愈癌症，也不愿谈论他的姓氏",
+          "summary": "近三年前，当我们最后一次在 TechCrunch Disrupt 与乔布斯会面时，他的公司 Yosemite 是全新的，生物技术仍在从疫情后的崩溃中挣扎……",
+          "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-12T00:16:06.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "9c2965be899ce465",
+          "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+          "titleZh": "这台雪泥机在纽约的热浪中起到了救命稻草的作用",
+          "summary": "上周末的纽约酷暑让我几乎每天下午都想喝一杯冷冻饮料。通常情况下，这意味着要走到 7-Eleven 去喝一杯。……",
+          "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-11T22:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 101,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "39e659f2953e5f7b",
+          "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+          "titleZh": "没有相机的智能眼镜？即使是现实也押注生产力胜过记录每个人",
+          "summary": "这些眼镜面向可能经常开会、做演示和前往使用不同语言的国家的人。",
+          "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-11T17:30:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 93,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "ec8dab18b97dadfb",
+          "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+          "titleZh": "🧠 社区智慧：负面的网络效应、管理过于自信的同事、开发人员回避设计决策、保持利益相关者会议正常进行等",
+          "summary": "社区智慧 193",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-07-11T16:40:58.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "4a932ba0a72e27bd",
+          "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+          "titleZh": "随着 ChatGPT 深入家庭，OpenAI 押注家庭",
+          "summary": "根据招聘启事，ChatGPT 正在聘请专门的产品经理，为家庭、护理人员和老年人打造体验。",
+          "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-11T14:13:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "ac42d2a1892bf141",
           "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
           "titleZh": "该机构透露，美国网络安全机构 CISA 不得不在事件发生期间制定其事件剧本",
@@ -541,103 +635,9 @@
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
-          "author": ""
-        },
-        {
-          "id": "027641411e1bade2",
-          "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-          "titleZh": "Phia 被指控“填充饼干”，在其未赚取的购买中获取会员积分",
-          "summary": "比尔·盖茨（Bill Gates）的女儿菲比（Phoebe）和她的朋友索菲亚·基安尼（Sophia Kianni）创立的购物创业公司菲亚（Phia）因一种被称为“饼干馅料”的做法而受到抨击，这",
-          "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-11T00:29:25.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 105,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "08da3c45ef54014d",
-          "title": "Meta removes controversial AI feature on Instagram after backlash",
-          "titleZh": "Meta 在强烈反对后删除了 Instagram 上有争议的 AI 功能",
-          "summary": "该公司在一份声明中表示：“我们的目的是提供一个有用的创意工具，并让人们控制他们的公共内容是否可以以这种方式被引用。”",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-10T23:55:07.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 104,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "65cc165baa9628ab",
-          "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-          "titleZh": "Bluesky 的临时首席执行官 Toni Schneider 放弃了“临时”",
-          "summary": "施耐德曾担任 Automattic 的首席执行官，也是 True Ventures 的合伙人，他表示自己在这个非传统的社交媒体平台上“全力以赴”。",
-          "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-10T21:51:55.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 100,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "48ecc025b3c77c5c",
-          "title": "Apple sues OpenAI over alleged trade secret theft",
-          "titleZh": "苹果起诉 OpenAI 涉嫌窃取商业秘密",
-          "summary": "苹果公司声称，该不当行为是由 OpenAI 的高级领导层指导的，其中包括一名长期前员工。",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-10T21:00:29.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "cd57caf22557c895",
-          "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
-          "titleZh": "GPT-5.6 Sol vs. Claude Fable：为什么 OpenAI 的新模型压垮了我的基准",
-          "summary": "立即观看|在我的 5 类 How I AI 基准测试中，🎙️GPT 5.6-Sol 在原型、PRD 和浏览器使用方面胜过寓言，以下是每种型号的确切位置。",
-          "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-07-09T17:33:57.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/206191009/f1f9241f1b8ff9181b201a5bed6becf7.mp3",
           "author": ""
         }
       ]
@@ -647,6 +647,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "5270d3407870b997",
+          "title": "Craft still matters, but it’s about outcomes",
+          "titleZh": "手工艺仍然很重要，但重要的是结果",
+          "summary": "",
+          "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-07-11T13:29:41.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "213cd221b97c18b6",
           "title": "Designing excuses",
@@ -661,7 +680,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 84,
+          "score": 58,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*kqxVDqBpgUyc76A2N38yjw.png",
           "author": ""
@@ -680,7 +699,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 63,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1500/1*dgJQWU6y8TofAMQ7c__eRw.png",
           "author": ""
@@ -741,25 +760,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "79b2a186fd8db379",
-          "title": "The crisis of the what",
-          "titleZh": "What 的危机",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-07T22:51:18.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -769,13 +769,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "eba1a59b4cd8877b",
-          "title": "Claude Code / Codex 安装失败，别先怪网络：一份实测排查清单",
-          "summary": "最近在整理 Claude Code、Codex 这类 AI 编程工具的安装问题，发现很多“装不上”其实不是单一的网络问题，而是几个环节叠在一起：Node.js / Git 版本不合适，命令装完却找不到 Windows 权限、PATH 或杀毒软件拦截 登录页面打不开、授权回调失败 API / Base URL 配好后，工具仍然报…",
-          "url": "https://www.v2ex.com/t/1226539#reply2",
+          "id": "57575bb2a4631ebc",
+          "title": "基于 chromium 150 版本的 UI 框架和 pdfium 实现了跨平台的 PDF 软件",
+          "summary": "免费下载：https://github.com/libcr/crpdf/releases 在 AI 协助下，用 C++ 花了不到 2 个礼拜实现的 主要实现了 PDF 文件的阅读和标注 实践下来，用 libcr 这套跨平台的代码 稳定性和可行性很不错 1. 免 QT 授权费用 2. 优秀的 chromium 代码基础 实现 UI…",
+          "url": "https://www.v2ex.com/t/1226667#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-11T02:55:42.000Z",
+          "publishedAt": "2026-07-12T03:00:23.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -783,54 +783,74 @@
           ],
           "score": 116,
           "sourceType": "rss",
-          "cover": "",
-          "author": "wh1teareas"
+          "cover": "https://i.imgur.com/IsEycHn.png",
+          "author": "wuruxu"
         },
         {
-          "id": "0025304ff441771e",
-          "title": "ChatGPT 的 Chat 思考力度很低",
-          "summary": "我的公司电脑用公司的代理访问 ChatGPT，即使我选择 Pro 模型，也会很快就回答，思考力度很低，回答质量低，废话多，Emoji 多，像是极速模式。这是 Windows 设备。我的个人电脑 Mac 和手机，都是用的自己的代理访问 ChatGPT，如果使用 Pro 模型就会思考很久，回答质量也高。公司使用 Codex 以及…",
-          "url": "https://www.v2ex.com/t/1226534#reply5",
+          "id": "1525c86be0f344f6",
+          "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "titleZh": "我们知道简单的液体可以流动。事实证明，有些人可能会骨折",
+          "summary": "Hacker News 热帖，当前积分 11，评论 0。",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-12T02:13:46.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 112,
+          "sourceType": "api"
+        },
+        {
+          "id": "8a7ba010768277e3",
+          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "titleZh": "XAI 的 Grok Build CLI 实际发送给 xAI 的内容",
+          "summary": "Hacker News 热帖，当前积分 50，评论 17。",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-12T01:09:50.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "ae2c97ee1531e94a",
+          "title": "为什么 chatgpt 这么固执",
+          "summary": "我让 gpt 帮我把图片背景换成透明色，它总是用白色方格伪装成透明色 我明确告诉他要真透明，不要用白色方格伪装成透明色 它还是要用，气死我了",
+          "url": "https://www.v2ex.com/t/1226659#reply12",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-11T02:02:54.000Z",
+          "publishedAt": "2026-07-12T01:57:17.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
+          "score": 111,
           "sourceType": "rss",
-          "cover": "",
-          "author": "reaCodes"
+          "cover": "https://i.v2ex.co/8lQ5dH56.png",
+          "author": "Brightt"
         },
         {
-          "id": "bdec76a7250568fd",
-          "title": "GPT5.6 SOL 也就那么回事",
-          "summary": "试了新的 5.6 的 SOL 发现也就呢样，做不到的还是做不到，就是 codex 看上去比之前花哨了点，整体上还是不如 Fable 5,只能期待下后续可能的 GPT 6，ai 的这些小版本更新没什么大的进步，只能等大版本了",
-          "url": "https://www.v2ex.com/t/1226536#reply5",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-11T02:44:02.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "fbu11"
-        },
-        {
-          "id": "451f9ff19ba668cd",
-          "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-          "titleZh": "新的研究表明，爱因斯坦的相对论支配着重元素中的化学键",
-          "summary": "Hacker News 热帖，当前积分 123，评论 43。",
-          "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+          "id": "e98e4643500ba149",
+          "title": "A pure scheme web programming tool",
+          "titleZh": "纯方案 Web 编程工具",
+          "summary": "Hacker News 热帖，当前积分 23，评论 13。",
+          "url": "https://goeteia.dev",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-10T22:30:44.000Z",
+          "publishedAt": "2026-07-12T00:57:18.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -838,18 +858,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 106,
+          "score": 110,
           "sourceType": "api"
         },
         {
-          "id": "fd67072fc38dbfff",
-          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "titleZh": "苹果起诉 OpenAI，指控前员工窃取商业机密",
-          "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "id": "734069f7990337aa",
+          "title": "A dock that wakes up reliably",
+          "titleZh": "可靠唤醒的码头",
+          "summary": "Hacker News 热帖，当前积分 33，评论 25。",
+          "url": "https://fabiensanglard.net/tb4/index.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-10T20:47:09.000Z",
+          "publishedAt": "2026-07-12T00:48:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -857,26 +877,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 105,
-          "sourceType": "api"
-        },
-        {
-          "id": "5cd016540ae9ed11",
-          "title": "An update on residential proxies and the scraper situation",
-          "titleZh": "住宅代理和刮板情况的最新消息",
-          "summary": "Hacker News 热帖，当前积分 103，评论 95。",
-          "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-10T19:38:34.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 102,
+          "score": 110,
           "sourceType": "api"
         }
       ]
@@ -888,7 +889,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -903,15 +904,15 @@
       "count": 19
     },
     {
+      "tag": "工具/网站",
+      "count": 12
+    },
+    {
       "tag": "设计/UI",
       "count": 12
     },
     {
       "tag": "产品/商业",
-      "count": 10
-    },
-    {
-      "tag": "工具/网站",
       "count": 10
     },
     {
@@ -923,19 +924,23 @@
       "count": 8
     },
     {
-      "tag": "开发者社区",
-      "count": 6
-    },
-    {
       "tag": "效率",
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开发者社区",
       "count": 6
     },
     {
       "tag": "交互设计",
+      "count": 6
+    },
+    {
+      "tag": "新产品",
+      "count": 6
+    },
+    {
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -949,10 +954,6 @@
     {
       "tag": "开源模型",
       "count": 5
-    },
-    {
-      "tag": "新产品",
-      "count": 4
     },
     {
       "tag": "技术周刊",
