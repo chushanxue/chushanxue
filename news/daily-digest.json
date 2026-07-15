@@ -1,107 +1,34 @@
 {
-  "generatedAt": "2026-07-14T03:03:53.053Z",
+  "generatedAt": "2026-07-15T03:04:10.976Z",
   "headline": {
-    "id": "eee8b51ec2582fba",
-    "title": "解决 codex 重新连接的方案",
-    "summary": "看帖子 1226853 发现还有 v 友不知道 codex 解决 Reconnecting…1/5 的方案 创建一个 .env 文件。~/.codex/.env 文件内容：HTTP_PROXY=\"http://127.0.0.1:你的代理端口\" HTTPS_PROXY=\"http://127.0.0.1:你的代理端口\" NO_P…",
-    "url": "https://www.v2ex.com/t/1227122#reply2",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-14T02:39:23.000Z",
+    "id": "713b620384f8d396",
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "titleZh": "TS-2026-009：Tailscale SSH 中不安全的参数处理允许根访问",
+    "summary": "Hacker News 热帖，当前积分 51，评论 21。",
+    "url": "https://tailscale.com/security-bulletins",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "publishedAt": "2026-07-15T01:08:26.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "开发者社区"
+      "工程效率",
+      "Hacker News",
+      "讨论"
     ],
-    "score": 115,
-    "sourceType": "rss",
-    "cover": "",
-    "author": "OTZ"
+    "score": 111,
+    "sourceType": "api"
   },
   "latest": [
     {
-      "id": "eee8b51ec2582fba",
-      "title": "解决 codex 重新连接的方案",
-      "summary": "看帖子 1226853 发现还有 v 友不知道 codex 解决 Reconnecting…1/5 的方案 创建一个 .env 文件。~/.codex/.env 文件内容：HTTP_PROXY=\"http://127.0.0.1:你的代理端口\" HTTPS_PROXY=\"http://127.0.0.1:你的代理端口\" NO_P…",
-      "url": "https://www.v2ex.com/t/1227122#reply2",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-14T02:39:23.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "OTZ"
-    },
-    {
-      "id": "ee25530b3e21901d",
-      "title": "Fundamentals of Wireless Communication",
-      "titleZh": "无线通信基础",
-      "summary": "Hacker News 热帖，当前积分 19，评论 2。",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "id": "713b620384f8d396",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "titleZh": "TS-2026-009：Tailscale SSH 中不安全的参数处理允许根访问",
+      "summary": "Hacker News 热帖，当前积分 51，评论 21。",
+      "url": "https://tailscale.com/security-bulletins",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-14T02:10:19.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "7be7732ea0c8dd4b",
-      "title": "A 畜现在用 10 天封号了还能特么的退款吗?",
-      "summary": "如题,真的感觉我仿佛是一只舔狗,A 社封我千万次 我爱 A 社如初恋,求求国产大模型再强一些吧,只要赶上 4.8 我就用国产了。",
-      "url": "https://www.v2ex.com/t/1227129#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-14T02:58:39.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "PeiXyJ"
-    },
-    {
-      "id": "f6ec37dc0725fc0d",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "titleZh": "已经很富有，已经很成功，为什么最后一波科技赢家又在苦苦挣扎",
-      "summary": "他们又卷起袖子，似乎是害怕错过人工智能的决定性时刻，大概是害怕错过赚更多钱的不可抗拒的诱惑--大麻……",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-14T02:46:42.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "36b2e8bea8643a15",
-      "title": "What will be left for us to work on?",
-      "titleZh": "我们还需要做些什么？",
-      "summary": "Hacker News 热帖，当前积分 17，评论 0。",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-14T01:44:40.000Z",
+      "publishedAt": "2026-07-15T01:08:26.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -113,14 +40,14 @@
       "sourceType": "api"
     },
     {
-      "id": "b70f9acceddecc9c",
-      "title": "The Economics of Recursive Self-Improvement [pdf]",
-      "titleZh": "递归自我完善的经济学[pdf]",
-      "summary": "Hacker News 热帖，当前积分 14，评论 1。",
-      "url": "https://elasticity.institute/rsi-paper.pdf",
+      "id": "a574252eae694783",
+      "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+      "titleZh": "到 2050年全球变暖 3°C？德国新气候警报背后的原因",
+      "summary": "Hacker News 热帖，当前积分 29，评论 6。",
+      "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-14T01:35:23.000Z",
+      "publishedAt": "2026-07-15T01:43:49.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -132,32 +59,68 @@
       "sourceType": "api"
     },
     {
-      "id": "171e5eb15f4b0848",
-      "title": "派早报：全球智能手机出货量创 13 年来最低水平等",
-      "summary": "少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO 灵犀 Linx68 键盘预售开启。看看新键盘你可能错过的文章你这图「保真」吗？AI 生图时代的信息防伪依江伴湖，树影连绵 ... 查看全文",
-      "url": "https://sspai.com/post/112286",
+      "id": "e883a73f410268c8",
+      "title": "派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等",
+      "summary": "Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文",
+      "url": "https://sspai.com/post/112334",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-14T00:25:26.000Z",
+      "publishedAt": "2026-07-15T00:19:12.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 111,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "9ffafd64b9623831",
-      "title": "MorphoHDL: A minimalistic language for growing circuits",
-      "titleZh": "MorphoHDL：用于生长电路的简约语言",
-      "summary": "Hacker News 热帖，当前积分 20，评论 1。",
-      "url": "https://paradigms-of-intelligence.github.io/morpho/",
+      "id": "94385ebc19f2424a",
+      "title": "vscode 这个配置好啊，终于可以知道每个 index.vue 文件是哪个了",
+      "summary": "最终我配置成了这样 \"workbench.editor.customLabels.patterns\": { \"**/index.vue\": \"${dirname}⚡\" },",
+      "url": "https://www.v2ex.com/t/1227352#reply23",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-15T00:58:03.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "https://shenzilong.cn/assets/ab74bfd4d6d149f75432759f1288c5f2706fe93c_2_690x173-20260714103519-mqk7e13.webp",
+      "author": "llej"
+    },
+    {
+      "id": "2d4f32362bee27e1",
+      "title": "A ÷真的在作死，我这个 2 年老用户都准备跑路了",
+      "summary": "A ÷真的要作死了，人家 GPT 放开 5小时限制还送重置，它还在搞 fable5 的限制，用 fable5 的时候，5小时额度一会儿就没了，用户就得等，它这么喜欢让用户等，连我这个 2年的老用户都准备跳 codex 了",
+      "url": "https://www.v2ex.com/t/1227348#reply28",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-15T00:50:59.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "emmathoermer"
+    },
+    {
+      "id": "f66072700eafeb61",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "titleZh": "温哥华警察局网站设有快速逃生按钮，可将自己从历史中抹去",
+      "summary": "Hacker News 热帖，当前积分 134，评论 51。",
+      "url": "https://vpd.ca/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-14T01:17:30.000Z",
+      "publishedAt": "2026-07-15T00:15:53.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -165,12 +128,121 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 111,
+      "score": 109,
       "sourceType": "api"
+    },
+    {
+      "id": "50af410407f5c722",
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "titleZh": "解决 20 个并行运行的 Codex 帐户的 20 个 Erdős 问题",
+      "summary": "Hacker News 热帖，当前积分 44，评论 11。",
+      "url": "https://www.starfleetmath.com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-15T00:15:56.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 109,
+      "sourceType": "api"
+    },
+    {
+      "id": "8199b8a971ebc0c3",
+      "title": "土区续费这是长期 499 了吗",
+      "summary": "看续费价格还是 499，涨价后续费了两次了。",
+      "url": "https://www.v2ex.com/t/1227346#reply51",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-15T00:35:02.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 107,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/utJVL3G.jpeg",
+      "author": "SilenceLL"
     }
   ],
   "featuredTools": [
     {
+      "id": "e883a73f410268c8",
+      "title": "派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等",
+      "summary": "Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文",
+      "url": "https://sspai.com/post/112334",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-15T00:19:12.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "e9184196e0f7fdf7",
+      "title": "社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "url": "https://sspai.com/post/112320",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-14T09:27:39.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 89,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Matrix机器人"
+    },
+    {
+      "id": "b8821309123b4077",
+      "title": "具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能",
+      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
+      "url": "https://sspai.com/post/112287",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 84,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "9f467fa9dec16392",
+      "title": "iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项",
+      "summary": "7月14日凌晨，Apple 终于推送了今年 iOS27、iPadOS27、watchOS27、macOSGoldenGate、HomePod 软件 27 以及 AirPods 固件新版的首个 PublicBeta 公开 ... 查看全文",
+      "url": "https://sspai.com/post/112288",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-14T04:07:18.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 81,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
       "id": "171e5eb15f4b0848",
       "title": "派早报：全球智能手机出货量创 13 年来最低水平等",
       "summary": "少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO 灵犀 Linx68 键盘预售开启。看看新键盘你可能错过的文章你这图「保真」吗？AI 生图时代的信息防伪依江伴湖，树影连绵 ... 查看全文",
@@ -183,25 +255,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "baf380a60a9165a4",
-      "title": "具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件",
-      "summary": "聊聊 Android17 的应用内存限制@克莱德：每隔一段时间，我都会整理一下自己的书桌。毕竟要在一张 120×60cm 的桌面上放下一块 34 英寸带鱼屏和一台 40L 机箱，留给其他常用物件的空间实在不多。前几天 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/inside-release-notes-260713",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-13T09:48:45.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 91,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -219,61 +273,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 88,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "decaa8895d86e218",
-      "title": "依江伴湖，树影连绵：南昌公园散步指南",
-      "summary": "这几年，「公园 20分钟效应」在社交媒体上热度很高——不用专门运动，只要在公园里待上 20分钟，就能排解负面情绪。对于整天困在写字楼和地铁里的都市人来说，公园不再只是城市公共空间，它成了触手可及的精神疗愈 ... 查看全文",
-      "url": "https://sspai.com/post/111776",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 85,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "利兹与青鸟"
-    },
-    {
-      "id": "7fd787178c4ba023",
-      "title": "你这图「保真」吗？AI 生图时代的信息防伪",
-      "summary": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变。查看全文",
-      "url": "https://sspai.com/post/112185",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-13T02:52:47.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 76,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "SNbing54"
-    },
-    {
-      "id": "68ca9c7e3b2934a6",
-      "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
-      "summary": "苹果起诉 OpenAI 窃取商业机密 变压器短缺掣肘数据中心扩张 世界杯带动小红书使用时长大幅提升 废弃 IBM 园区成网红景点 SpaceX 申请发射十万颗卫星 高技能人士正大规模「打零工」参与模型训练 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "url": "https://sspai.com/post/112215",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-12T22:58:18.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -405,6 +405,63 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "baeb1675aa1630c9",
+          "title": "How to manage AI investments in the agentic era",
+          "titleZh": "如何在代理时代管理人工智能投资",
+          "summary": "了解企业如何在代理时代通过衡量每美元的有用工作、提高效率和扩展高价值工作流程来管理人工智能投资。",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-07-14T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "918f62c58acf3372",
+          "title": "How sales teams use ChatGPT Work",
+          "titleZh": "销售团队如何使用 ChatGPT",
+          "summary": "了解销售团队如何使用 ChatGPT Work 创建管道简报、会议准备包、预测审核、客户计划和停滞交易诊断……",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 84,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "c75666f521985f89",
+          "title": "How data science teams use ChatGPT Work",
+          "titleZh": "数据科学团队如何使用 ChatGPT",
+          "summary": "了解数据科学团队如何使用 ChatGPT Work 从实际工作输入中构建根本原因简报、影响读数、KPI 备忘录、范围分析和仪表板规格。",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "6d45b002cb1fe8d5",
           "title": "How Deutsche Telekom is rewiring telecommunications with AI",
           "titleZh": "德国电信如何使用人工智能重新布线电信",
@@ -460,63 +517,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "d225037dd7b8b74f",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "titleZh": "GPT-5.6 现在是 Microsoft 365 Copilot 的首选型号",
-          "summary": "了解 GPT-5.6 如何通过更强大的 Word、Excel、PowerPoint、聊天和 Cowork 人工智能功能为 Microsoft 365 Copilot 提供支持，以实现更快、更高质量的工作。",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-07-09T13:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "703d7a6e0fe0d0de",
-          "title": "ChatGPT is now a partner for your most ambitious work",
-          "titleZh": "ChatGPT 现在是您最雄心勃勃工作的合作伙伴",
-          "summary": "ChatGPT Work 是一个代理，可以跨应用程序和文件采取行动，如果需要，可以在项目中停留数小时，并将目标转化为已完成的工作。",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-07-09T10:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "39cadb7a60747b97",
-          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "titleZh": "GPT-5.6：与您的抱负相匹配的前沿情报",
-          "summary": "来自每个代币的更多智能，更强的每美元性能，以及针对您最艰苦工作的更多功能。",
-          "url": "https://openai.com/index/gpt-5-6",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-07-09T10:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -526,52 +526,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "f6ec37dc0725fc0d",
-          "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-          "titleZh": "已经很富有，已经很成功，为什么最后一波科技赢家又在苦苦挣扎",
-          "summary": "他们又卷起袖子，似乎是害怕错过人工智能的决定性时刻，大概是害怕错过赚更多钱的不可抗拒的诱惑--大麻……",
-          "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+          "id": "78519bc3c7686035",
+          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "titleZh": "OpenAI 研究员 Miles Wang 在谈论推出价值 20亿美元的人工智能药物发现初创公司",
+          "summary": "融资讨论表明，投资者有兴趣应用人工智能在生命科学方面取得突破。",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-14T02:46:42.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 108,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "cc0d3d76e6a751d7",
-          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-          "titleZh": "优步的酒店、机器人出租车产品主管，以及为什么优步不想成为“一切为了所有人”",
-          "summary": "优步首席产品官 Sachin Kansal 向 TechCrunch 介绍了公司的金融服务抱负、与 Waymo 日益复杂的关系、其...",
-          "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-14T00:45:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 105,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "01b722b690975a21",
-          "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-          "titleZh": "视频生成初创公司 PixVerse 融资 4.39亿美元，估值飙升超过 20亿美元",
-          "summary": "借助这笔资金，该公司的目标是扩大其世界模式产品，并接触到不同地区的客户。",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-14T00:00:00.000Z",
+          "publishedAt": "2026-07-15T00:27:04.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -583,39 +545,77 @@
           "author": ""
         },
         {
-          "id": "9e5ea28fdb2439f0",
-          "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-          "titleZh": "X 刚刚调整了算法，使其更友好，更少战场",
-          "summary": "该社交媒体网站表示，它将放大用户“共同关注者”发布的帖子，让 Feed 更具社区感。",
-          "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+          "id": "1b53463978bd73d4",
+          "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "titleZh": "据报道，OpenAI 的第一个硬件设备是一款可以移动的无屏幕扬声器，",
+          "summary": "该设备被奇怪地描述为涉及“可以自行移动的机械元件”，彭博社的报告包括该设备设计的细节……",
+          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-13T23:58:27.000Z",
+          "publishedAt": "2026-07-14T22:22:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "2289bbb6459ab497",
-          "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-          "titleZh": "爱马仕代理制造商 Nous Research 正在就估值 15亿美元的新融资进行谈判",
-          "summary": "该公司正在筹集至少 7500 万美元，由 Robot Ventures 牵头，USV 和其他知名投资者大量参与。",
-          "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+          "id": "d4e9527a85a565d3",
+          "title": "Lorde says AI glasses are ‘not sexy’",
+          "titleZh": "Lorde 说 AI 眼镜“不性感”",
+          "summary": "“在我们的世界里，越来越难知道什么是真实的，”洛德在舞台上说。",
+          "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-13T23:31:18.000Z",
+          "publishedAt": "2026-07-14T23:10:02.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 100,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "60afc331bb6ab392",
+          "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+          "titleZh": "OpenAI 的新旗舰机型自行删除文件，人们不断警告",
+          "summary": "许多社交媒体帖子声称 GPT-5.6 SOL 在没有警告的情况下删除了文件和数据。OpenAI 在 6月份基本披露了这个问题。",
+          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-14T21:50:11.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 100,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "bc54a68b96ee8d91",
+          "title": "OpenAI pushes back on Apple trade secret lawsuit",
+          "titleZh": "OpenAI 推翻苹果商业秘密诉讼",
+          "summary": "OpenAI 就该诉讼发布了另一份声明，这次表明它缺乏法律依据。",
+          "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-14T22:07:42.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -633,7 +633,7 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 86,
+          "score": 48,
           "sourceType": "rss",
           "cover": "https://substack-post-media.s3.amazonaws.com/public/images/c3eccdc2-ac57-47dc-af99-4daa75d21bc7_1456x1048.png",
           "author": ""
@@ -646,22 +646,41 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
-          "id": "4a13fcf5d814e941",
-          "title": "The terminal became my canvas",
-          "titleZh": "终端成了我的画布",
-          "summary": "这很棒……但同时也很可怕继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
+          "id": "6106887a56a960af",
+          "title": "Play and design: in favour of the novel digital experience",
+          "titleZh": "游戏和设计：支持新颖的数字体验",
+          "summary": "过去的设计让我们四处游荡；现代性用效率取代了四处游荡--现在，每种产品都会决定您最终的选择……继续阅读 UX Collect……",
+          "url": "https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-13T22:10:10.000Z",
+          "publishedAt": "2026-07-14T11:02:36.000Z",
           "category": "design",
           "tags": [
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 93,
           "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/947/1*DWyRC6NyUUgkB5GW1mkmyQ.png",
+          "cover": "https://cdn-images-1.medium.com/max/720/1*TF5JnkYI5f5apaNxSEaKyA.png",
+          "author": ""
+        },
+        {
+          "id": "cffbf11f86727853",
+          "title": "What 32 design leaders do when told to move faster",
+          "titleZh": "32 位设计领导者在被告知要加快行动时会做什么",
+          "summary": "2300年前，希腊人知道这个问题的答案继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-07-14T11:00:41.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*gkRv4ROxY5MhgxY9URVs_w.jpeg",
           "author": ""
         },
         {
@@ -678,9 +697,28 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 70,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*oClaxaWA_8gphYwyopqP7g.png",
+          "author": ""
+        },
+        {
+          "id": "4a13fcf5d814e941",
+          "title": "The terminal became my canvas",
+          "titleZh": "终端成了我的画布",
+          "summary": "这很棒……但同时也很可怕继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-07-13T22:10:10.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 69,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/947/1*DWyRC6NyUUgkB5GW1mkmyQ.png",
           "author": ""
         },
         {
@@ -697,7 +735,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 92,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1920/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg",
           "author": ""
@@ -716,44 +754,6 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 87,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "afed0fd1de07f6c4",
-          "title": "Taste cannot be delegated",
-          "titleZh": "味道不能委托",
-          "summary": "",
-          "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-12T21:32:06.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f0580ee431e35ff2",
-          "title": "The interface has left the building",
-          "titleZh": "界面已离开大楼",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-12T09:30:16.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 55,
           "sourceType": "rss",
           "cover": "",
@@ -767,69 +767,88 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "eee8b51ec2582fba",
-          "title": "解决 codex 重新连接的方案",
-          "summary": "看帖子 1226853 发现还有 v 友不知道 codex 解决 Reconnecting…1/5 的方案 创建一个 .env 文件。~/.codex/.env 文件内容：HTTP_PROXY=\"http://127.0.0.1:你的代理端口\" HTTPS_PROXY=\"http://127.0.0.1:你的代理端口\" NO_P…",
-          "url": "https://www.v2ex.com/t/1227122#reply2",
+          "id": "713b620384f8d396",
+          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "titleZh": "TS-2026-009：Tailscale SSH 中不安全的参数处理允许根访问",
+          "summary": "Hacker News 热帖，当前积分 51，评论 21。",
+          "url": "https://tailscale.com/security-bulletins",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-15T01:08:26.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "a574252eae694783",
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "titleZh": "到 2050年全球变暖 3°C？德国新气候警报背后的原因",
+          "summary": "Hacker News 热帖，当前积分 29，评论 6。",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-15T01:43:49.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "94385ebc19f2424a",
+          "title": "vscode 这个配置好啊，终于可以知道每个 index.vue 文件是哪个了",
+          "summary": "最终我配置成了这样 \"workbench.editor.customLabels.patterns\": { \"**/index.vue\": \"${dirname}⚡\" },",
+          "url": "https://www.v2ex.com/t/1227352#reply23",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-14T02:39:23.000Z",
+          "publishedAt": "2026-07-15T00:58:03.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 110,
           "sourceType": "rss",
-          "cover": "",
-          "author": "OTZ"
+          "cover": "https://shenzilong.cn/assets/ab74bfd4d6d149f75432759f1288c5f2706fe93c_2_690x173-20260714103519-mqk7e13.webp",
+          "author": "llej"
         },
         {
-          "id": "ee25530b3e21901d",
-          "title": "Fundamentals of Wireless Communication",
-          "titleZh": "无线通信基础",
-          "summary": "Hacker News 热帖，当前积分 19，评论 2。",
-          "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-14T02:10:19.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "7be7732ea0c8dd4b",
-          "title": "A 畜现在用 10 天封号了还能特么的退款吗?",
-          "summary": "如题,真的感觉我仿佛是一只舔狗,A 社封我千万次 我爱 A 社如初恋,求求国产大模型再强一些吧,只要赶上 4.8 我就用国产了。",
-          "url": "https://www.v2ex.com/t/1227129#reply0",
+          "id": "2d4f32362bee27e1",
+          "title": "A ÷真的在作死，我这个 2 年老用户都准备跑路了",
+          "summary": "A ÷真的要作死了，人家 GPT 放开 5小时限制还送重置，它还在搞 fable5 的限制，用 fable5 的时候，5小时额度一会儿就没了，用户就得等，它这么喜欢让用户等，连我这个 2年的老用户都准备跳 codex 了",
+          "url": "https://www.v2ex.com/t/1227348#reply28",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-14T02:58:39.000Z",
+          "publishedAt": "2026-07-15T00:50:59.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 110,
           "sourceType": "rss",
           "cover": "",
-          "author": "PeiXyJ"
+          "author": "emmathoermer"
         },
         {
-          "id": "36b2e8bea8643a15",
-          "title": "What will be left for us to work on?",
-          "titleZh": "我们还需要做些什么？",
-          "summary": "Hacker News 热帖，当前积分 17，评论 0。",
-          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "id": "f66072700eafeb61",
+          "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+          "titleZh": "温哥华警察局网站设有快速逃生按钮，可将自己从历史中抹去",
+          "summary": "Hacker News 热帖，当前积分 134，评论 51。",
+          "url": "https://vpd.ca/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-14T01:44:40.000Z",
+          "publishedAt": "2026-07-15T00:15:53.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -837,18 +856,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
+          "score": 109,
           "sourceType": "api"
         },
         {
-          "id": "b70f9acceddecc9c",
-          "title": "The Economics of Recursive Self-Improvement [pdf]",
-          "titleZh": "递归自我完善的经济学[pdf]",
-          "summary": "Hacker News 热帖，当前积分 14，评论 1。",
-          "url": "https://elasticity.institute/rsi-paper.pdf",
+          "id": "50af410407f5c722",
+          "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+          "titleZh": "解决 20 个并行运行的 Codex 帐户的 20 个 Erdős 问题",
+          "summary": "Hacker News 热帖，当前积分 44，评论 11。",
+          "url": "https://www.starfleetmath.com/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-14T01:35:23.000Z",
+          "publishedAt": "2026-07-15T00:15:56.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -856,26 +875,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "9ffafd64b9623831",
-          "title": "MorphoHDL: A minimalistic language for growing circuits",
-          "titleZh": "MorphoHDL：用于生长电路的简约语言",
-          "summary": "Hacker News 热帖，当前积分 20，评论 1。",
-          "url": "https://paradigms-of-intelligence.github.io/morpho/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-14T01:17:30.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
+          "score": 109,
           "sourceType": "api"
         }
       ]
@@ -887,7 +887,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 81,
+    "totalItems": 80,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -910,10 +910,6 @@
       "count": 10
     },
     {
-      "tag": "工具/网站",
-      "count": 9
-    },
-    {
       "tag": "工程效率",
       "count": 8
     },
@@ -922,11 +918,15 @@
       "count": 8
     },
     {
-      "tag": "开发者社区",
-      "count": 6
+      "tag": "工具/网站",
+      "count": 8
     },
     {
       "tag": "效率",
+      "count": 6
+    },
+    {
+      "tag": "开发者社区",
       "count": 6
     },
     {
@@ -950,12 +950,12 @@
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "技术周刊",
       "count": 3
     },
     {
-      "tag": "技术周刊",
-      "count": 3
+      "tag": "新产品",
+      "count": 2
     }
   ]
 }
