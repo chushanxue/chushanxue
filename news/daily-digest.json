@@ -1,86 +1,32 @@
 {
-  "generatedAt": "2026-07-18T03:04:00.818Z",
+  "generatedAt": "2026-07-19T03:05:12.228Z",
   "headline": {
-    "id": "5129265245e75972",
-    "title": "Harness ： Vibe Coding 时代的研发将何去何从",
-    "summary": "AI Coding 大爆发，一方面带来编程指数级的提效。另一方面，让无数技术人的职业生涯面临巨大挑战。Vibe Coding 的普及，甚至非技术人能轻松写代码，是否意味以后研发工程师会大面积消失？那么真实的企业又是怎样？我想通过目前接触到前沿的团队和企业，分享一线的资讯和感受 1、中国公司比较“狠”，倒“逼” Vibe Cod…",
-    "url": "https://www.v2ex.com/t/1228173#reply0",
+    "id": "f655890b24500a83",
+    "title": "openrouter 上 glm 5.2 的多家供应商相互压价",
+    "summary": "glm 5.2 发布才一个月，开源模型的 token 价格屠刀已经崭露锋芒了。openrouter glm 5.2 有三家供应商相互压价，昨天上午还 70% off，今天上午已经 80% off 了，开始向电费成本逼近了。买不到原厂 code plan，可以试试 openrouter 上 2 折的 glm 5.2，不用包月…",
+    "url": "https://www.v2ex.com/t/1228299#reply4",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-18T02:55:20.000Z",
+    "publishedAt": "2026-07-19T00:59:03.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 116,
+    "score": 112,
     "sourceType": "rss",
     "cover": "",
-    "author": "greentim"
+    "author": "yinmin"
   },
   "latest": [
     {
-      "id": "5129265245e75972",
-      "title": "Harness ： Vibe Coding 时代的研发将何去何从",
-      "summary": "AI Coding 大爆发，一方面带来编程指数级的提效。另一方面，让无数技术人的职业生涯面临巨大挑战。Vibe Coding 的普及，甚至非技术人能轻松写代码，是否意味以后研发工程师会大面积消失？那么真实的企业又是怎样？我想通过目前接触到前沿的团队和企业，分享一线的资讯和感受 1、中国公司比较“狠”，倒“逼” Vibe Cod…",
-      "url": "https://www.v2ex.com/t/1228173#reply0",
+      "id": "f655890b24500a83",
+      "title": "openrouter 上 glm 5.2 的多家供应商相互压价",
+      "summary": "glm 5.2 发布才一个月，开源模型的 token 价格屠刀已经崭露锋芒了。openrouter glm 5.2 有三家供应商相互压价，昨天上午还 70% off，今天上午已经 80% off 了，开始向电费成本逼近了。买不到原厂 code plan，可以试试 openrouter 上 2 折的 glm 5.2，不用包月…",
+      "url": "https://www.v2ex.com/t/1228299#reply4",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-18T02:55:20.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 116,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "greentim"
-    },
-    {
-      "id": "e5a3e48e0d2a4657",
-      "title": "近几次 codex 重置到期都在凌晨，请在到期前一天使用",
-      "summary": "以下是当前有效的重置次数，均在北京时间的早上。不追求极限又不想浪费的话，最好在前一天晚上用掉。status title granted_at （本地时间） expires_at （本地时间） available Full reset 2026-06-27 07:48:04 CST 2026-07-27 07:48:04 CST a…",
-      "url": "https://www.v2ex.com/t/1228157#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-18T01:33:22.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "gwbw"
-    },
-    {
-      "id": "c470c901ac9a3b34",
-      "title": "fable 对 max 用户长期保留了",
-      "summary": "https://x.com/claudeai/status/2078302415804379218 感谢 kimi",
-      "url": "https://www.v2ex.com/t/1228165#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-18T02:30:30.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "kingfire"
-    },
-    {
-      "id": "a3a412377041609e",
-      "title": "记录一次小程序逆向",
-      "summary": "需求 小区有个电动车的地下车库，需要用微信小程序扫码打开，充电也需要扫码。但是车库信号很差，经常加载不出来小程序，或者是加载出来了提示我没开会员。所以想做一个 APP，直接把请求放我 APP 里，这样至少减小了网络流量，理论上来说应该不会再出现上面的情况了。实现路径 解包 小程序的逆向工具已经很成熟了，我去 GitHub 随便搜…",
-      "url": "https://www.v2ex.com/t/1228153#reply7",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-18T00:30:43.000Z",
+      "publishedAt": "2026-07-19T00:59:03.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -89,17 +35,35 @@
       "score": 112,
       "sourceType": "rss",
       "cover": "",
-      "author": "FloatingLeaves"
+      "author": "yinmin"
     },
     {
-      "id": "b2431ded4065e44b",
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "titleZh": "Moonstone：用 Zig 编写的现代、跨平台 Lua 运行时和包管理器",
-      "summary": "Hacker News 热帖，当前积分 11，评论 2。",
-      "url": "https://moonstone.sh/",
+      "id": "038160b10adfae58",
+      "title": "灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊",
+      "summary": "重构了一版扔在产品库的老掉牙的屎山产品。过程中，来灵魂拷问一下大家，按照 AI 发展趋势+端侧能力，未来用户需求=产品了，都个性自定义化了，那么我们现在还迭戈锤子啊。。。。动力感不强劲了",
+      "url": "https://www.v2ex.com/t/1228303#reply13",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-19T01:35:12.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Jensond"
+    },
+    {
+      "id": "b395c90e444cf246",
+      "title": "Transcribe.cpp",
+      "titleZh": "Transcribe.cpp",
+      "summary": "Hacker News 热帖，当前积分 117，评论 19。",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-18T01:18:15.000Z",
+      "publishedAt": "2026-07-19T00:38:26.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -107,35 +71,36 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 111,
+      "score": 110,
       "sourceType": "api"
     },
     {
-      "id": "ca5e9e33a67d2432",
-      "title": "18 号到期的重置，本来想着今天用的，结果。。。",
-      "summary": "今天 18 号一大早就发现重置已经没有了。。。。。。",
-      "url": "https://www.v2ex.com/t/1228155#reply16",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-18T01:12:30.000Z",
+      "id": "0a88eda3310d5431",
+      "title": "Better and Cheaper Than IPTV",
+      "titleZh": "比 IPTV 更好、更便宜",
+      "summary": "Hacker News 热帖，当前积分 41，评论 17。",
+      "url": "https://github.com/stupside/castor",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-19T00:59:55.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发者社区"
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "johnsonhk"
+      "score": 110,
+      "sourceType": "api"
     },
     {
-      "id": "489ef6efabd74376",
-      "title": "有了 ai，一个小插件文件，实现了 X 的照猫画虎仿制！",
-      "summary": "X 的照猫画虎仿制 https://bbs.domains 有兴趣的可以安装试试，一个文件实现的。安装[x_skin]X 风格皮肤插件即可。仓库地址：https://github.com/bbs1org/bbs1org",
-      "url": "https://www.v2ex.com/t/1228152#reply3",
+      "id": "a617963f6f830940",
+      "title": "小红书下载无水印视频原理是什么？",
+      "summary": "那些可以提供小红书无水印下载视频、图片的，背后是使用免费的 API 还是收费的第三方服务？如果是后者，那成本不是很高吗/。",
+      "url": "https://www.v2ex.com/t/1228301#reply6",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-17T23:54:32.000Z",
+      "publishedAt": "2026-07-19T01:22:46.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -144,17 +109,35 @@
       "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "xiaobd"
+      "author": "bluescorpio"
     },
     {
-      "id": "b0dca88edad405ea",
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "titleZh": "Isomorphic Labs 药物设计引擎开启了 AlphaFold 之外的新领域",
-      "summary": "Hacker News 热帖，当前积分 41，评论 2。",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "id": "e7641592343fc4b5",
+      "title": "把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？",
+      "summary": "复刻程序是否越来越容易了？",
+      "url": "https://www.v2ex.com/t/1228298#reply9",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-19T00:58:23.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 107,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "blackantt"
+    },
+    {
+      "id": "a14b0b8b96b1d3bf",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "titleZh": "马姆达尼市长表示房东不能使用人工智能图像做广告",
+      "summary": "Hacker News 热帖，当前积分 271，评论 124。",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-17T23:26:35.000Z",
+      "publishedAt": "2026-07-18T22:13:39.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -162,11 +145,48 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 106,
+      "sourceType": "api"
+    },
+    {
+      "id": "bd7946fe2c2c4802",
+      "title": "Classic Amiga titles, free to download",
+      "titleZh": "经典 Amiga 游戏，免费下载",
+      "summary": "Hacker News 热帖，当前积分 62，评论 9。",
+      "url": "https://amigafreeware.downer.tech/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-18T21:55:27.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 105,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "c1da39e8007387fd",
+      "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+      "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文",
+      "url": "https://sspai.com/post/112398",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-18T03:10:35.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 77,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "羊刀仙"
+    },
     {
       "id": "2d066c24e7ed534b",
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -180,7 +200,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 90,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -198,7 +218,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 83,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -216,7 +236,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 77,
+      "score": 59,
       "sourceType": "rss",
       "cover": "",
       "author": "Bestony"
@@ -234,29 +254,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 73,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "55d559096ece4226",
-      "title": "Basedash Suggestions",
-      "titleZh": "Basedash 建议",
-      "summary": "您的人工智能数据分析师，现在有了自己的想法。",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-16T14:57:03.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Max Musing"
     },
     {
       "id": "97d927778f16c028",
@@ -299,7 +300,7 @@
             "CSS逻辑属性",
             "单位"
           ],
-          "score": 94,
+          "score": 65,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202607/2026-7-17_165602.webp",
           "author": ""
@@ -318,7 +319,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 93,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)"
@@ -336,48 +337,10 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 80,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026071603.webp",
           "author": "阮一峰"
-        },
-        {
-          "id": "2547ef805d15f98d",
-          "title": "pointer-events",
-          "titleZh": "指针事件",
-          "summary": "Pointer-events 属性控制元素是否可以成为指针事件（如点击、悬停状态和其他基于指针的事件）的目标。在其他方面……",
-          "url": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-07-15T19:57:51.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "7f10419022fdbfa7",
-          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-          "titleZh": "What's! important # 15：边界感知 CSS、基于时间的 CSS、全流式 CSS 等",
-          "summary": "阅读有关边界感知 CSS、无障碍网格通道、基于时间的网页设计、全出血、可自定义选择和新 Web 平台功能的所有信息。什么！重要……",
-          "url": "https://css-tricks.com/whats-important-15/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-07-15T14:36:18.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
-          "author": ""
         },
         {
           "id": "ba161413683a6556",
@@ -397,6 +360,43 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
+        },
+        {
+          "id": "2978e0186f822977",
+          "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+          "titleZh": "从启动到第一个概念：如何将品牌战略转化为视觉方向",
+          "summary": "最强大的视觉概念不是从 Figma 开始的。他们从正确的问题开始。探索品牌标识设计的前期概念阶段，在这个阶段，团队研究 b...",
+          "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-07-10T13:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 65,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
+          "author": "hello@smashingmagazine.com (Anastasia Sycheva)"
+        },
+        {
+          "id": "8808eb06cf0980be",
+          "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-07-10T00:05:31.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 66,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026070704.webp",
+          "author": "阮一峰"
         }
       ]
     },
@@ -419,7 +419,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 99,
+          "score": 61,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -438,7 +438,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 99,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -457,7 +457,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 70,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,116 +527,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "5cfeb813edf88e81",
-          "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-          "titleZh": "申请在 48小时内关闭—以下是澳大利亚创始人需要了解的关于 Stripe x Startup Battlefield 的所有信息",
-          "summary": "窗户差不多关上了。8月19日，八家初创公司将在投资者、全球媒体和澳大利亚科技社区面前登上 Stripe Tour Sydney 的舞台……",
-          "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+          "id": "7a3a14292a208b52",
+          "title": "Kimi: Threat or menace?",
+          "titleZh": "Kimi：威胁还是威胁？",
+          "summary": "中国公司 Moonshot AI 本周发布了其 Kimi 模型的新版本，引发了对“完全 AI 共产主义”的担忧。",
+          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-17T23:08:00.000Z",
+          "publishedAt": "2026-07-18T18:51:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "a9d5cee4b84dac0f",
-          "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-          "titleZh": "Vertu 希望高管为 AI 代理支付 $6,880 —以下是它的实际表现",
-          "summary": "从人工智能工作流程到电池寿命和安全性，以下是每天与 Vertu 的豪华可折叠产品一起生活的真实感受。",
-          "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "id": "62a4074453cfb60e",
+          "title": "Waymo says San Francisco service has resumed after one-hour pause",
+          "titleZh": "Waymo 表示，旧金山服务在暂停一小时后已恢复",
+          "summary": "这不是停电第一次给 Waymo 带来问题。",
+          "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-17T22:55:09.000Z",
+          "publishedAt": "2026-07-18T19:30:23.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c46d7f884a08e63a",
-          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-          "titleZh": "Databricks 的估值达到 1880亿美元，扩大了其作为人工智能最受欢迎的第二幕的运行",
-          "summary": "Databricks 已将其形象重塑为一家人工智能公司，并发表了关于用于编码的开放式权重人工智能模型的成本节约的研究。",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "id": "fb143dc0f9fc234c",
+          "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+          "titleZh": "今年在美国停产或停产的所有电动汽车",
+          "summary": "本田 Prologue 将不再在美国销售，今年将加入越来越多的电动汽车车型，退出市场。",
+          "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-17T22:12:56.000Z",
+          "publishedAt": "2026-07-18T16:30:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 100,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c79c398090a10761",
-          "title": "The Zoom hack that says, ‘Don’t record me’",
-          "titleZh": "Zoom 黑客说：“不要录制我”",
-          "summary": "如果每个会议、冷水机对话和日期都被转录和总结，那么实际上是谁在阅读其中的任何内容？",
-          "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-17T21:20:47.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 98,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "ef9ef24c3809eb8c",
-          "title": "Agility Robotics plants its flag in Tesla’s backyard",
-          "titleZh": "Agility Robotics 在特斯拉的后院插上旗帜",
-          "summary": "Agility 正在加利福尼亚州弗里蒙特为其 Digit 机器人开设一个新的培训中心。",
-          "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-17T20:19:49.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 95,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a5a6b6a43f833597",
-          "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
-          "titleZh": "🎙️ 如何使用 AI：GPT-5.6 回顾，独奏构建器如何全天候运行本地 AI，以及什么是代理线束以及如何构建一个",
-          "summary": "您的每周收听《How I AI》，这是 Lenny 播客网络的一部分",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+          "id": "c98414961490459a",
+          "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+          "titleZh": "🧠 社区智慧：同步 Claude Code 和 Claude Design，在客户认为您编码时赢得信任，联合创始人 Fallout 课程，个人 CRM 等",
+          "summary": "社区智慧 194",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-07-13T15:02:17.000Z",
+          "publishedAt": "2026-07-18T17:04:04.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 48,
+          "score": 87,
           "sourceType": "rss",
-          "cover": "https://substack-post-media.s3.amazonaws.com/public/images/c3eccdc2-ac57-47dc-af99-4daa75d21bc7_1456x1048.png",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "09e19188fdaf8dd7",
+          "title": "Federal employees can download TikTok on their work phones again",
+          "titleZh": "联邦雇员可以再次在工作电话上下载 TikTok",
+          "summary": "司法部表示，联邦雇员现在可以在他们的政府设备上下载 TikTok。",
+          "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-18T15:54:24.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 89,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "bb8305f1723c0db7",
+          "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+          "titleZh": "600 英里的公路行程（和数据）证明电动汽车充电不再糟糕",
+          "summary": "最近的一次电动汽车公路旅行显示，美国的直流快速充电速度更快、更可靠。",
+          "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-07-18T14:32:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 87,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -660,7 +660,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 104,
+          "score": 65,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -679,7 +679,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 87,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -698,7 +698,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 82,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -717,7 +717,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -736,7 +736,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -768,67 +768,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "5129265245e75972",
-          "title": "Harness ： Vibe Coding 时代的研发将何去何从",
-          "summary": "AI Coding 大爆发，一方面带来编程指数级的提效。另一方面，让无数技术人的职业生涯面临巨大挑战。Vibe Coding 的普及，甚至非技术人能轻松写代码，是否意味以后研发工程师会大面积消失？那么真实的企业又是怎样？我想通过目前接触到前沿的团队和企业，分享一线的资讯和感受 1、中国公司比较“狠”，倒“逼” Vibe Cod…",
-          "url": "https://www.v2ex.com/t/1228173#reply0",
+          "id": "f655890b24500a83",
+          "title": "openrouter 上 glm 5.2 的多家供应商相互压价",
+          "summary": "glm 5.2 发布才一个月，开源模型的 token 价格屠刀已经崭露锋芒了。openrouter glm 5.2 有三家供应商相互压价，昨天上午还 70% off，今天上午已经 80% off 了，开始向电费成本逼近了。买不到原厂 code plan，可以试试 openrouter 上 2 折的 glm 5.2，不用包月…",
+          "url": "https://www.v2ex.com/t/1228299#reply4",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-18T02:55:20.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 116,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "greentim"
-        },
-        {
-          "id": "e5a3e48e0d2a4657",
-          "title": "近几次 codex 重置到期都在凌晨，请在到期前一天使用",
-          "summary": "以下是当前有效的重置次数，均在北京时间的早上。不追求极限又不想浪费的话，最好在前一天晚上用掉。status title granted_at （本地时间） expires_at （本地时间） available Full reset 2026-06-27 07:48:04 CST 2026-07-27 07:48:04 CST a…",
-          "url": "https://www.v2ex.com/t/1228157#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-18T01:33:22.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "gwbw"
-        },
-        {
-          "id": "c470c901ac9a3b34",
-          "title": "fable 对 max 用户长期保留了",
-          "summary": "https://x.com/claudeai/status/2078302415804379218 感谢 kimi",
-          "url": "https://www.v2ex.com/t/1228165#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-18T02:30:30.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "kingfire"
-        },
-        {
-          "id": "a3a412377041609e",
-          "title": "记录一次小程序逆向",
-          "summary": "需求 小区有个电动车的地下车库，需要用微信小程序扫码打开，充电也需要扫码。但是车库信号很差，经常加载不出来小程序，或者是加载出来了提示我没开会员。所以想做一个 APP，直接把请求放我 APP 里，这样至少减小了网络流量，理论上来说应该不会再出现上面的情况了。实现路径 解包 小程序的逆向工具已经很成熟了，我去 GitHub 随便搜…",
-          "url": "https://www.v2ex.com/t/1228153#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-18T00:30:43.000Z",
+          "publishedAt": "2026-07-19T00:59:03.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -837,17 +783,35 @@
           "score": 112,
           "sourceType": "rss",
           "cover": "",
-          "author": "FloatingLeaves"
+          "author": "yinmin"
         },
         {
-          "id": "b2431ded4065e44b",
-          "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-          "titleZh": "Moonstone：用 Zig 编写的现代、跨平台 Lua 运行时和包管理器",
-          "summary": "Hacker News 热帖，当前积分 11，评论 2。",
-          "url": "https://moonstone.sh/",
+          "id": "038160b10adfae58",
+          "title": "灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊",
+          "summary": "重构了一版扔在产品库的老掉牙的屎山产品。过程中，来灵魂拷问一下大家，按照 AI 发展趋势+端侧能力，未来用户需求=产品了，都个性自定义化了，那么我们现在还迭戈锤子啊。。。。动力感不强劲了",
+          "url": "https://www.v2ex.com/t/1228303#reply13",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-07-19T01:35:12.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "Jensond"
+        },
+        {
+          "id": "b395c90e444cf246",
+          "title": "Transcribe.cpp",
+          "titleZh": "Transcribe.cpp",
+          "summary": "Hacker News 热帖，当前积分 117，评论 19。",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-18T01:18:15.000Z",
+          "publishedAt": "2026-07-19T00:38:26.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -855,45 +819,83 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
+          "score": 110,
           "sourceType": "api"
         },
         {
-          "id": "ca5e9e33a67d2432",
-          "title": "18 号到期的重置，本来想着今天用的，结果。。。",
-          "summary": "今天 18 号一大早就发现重置已经没有了。。。。。。",
-          "url": "https://www.v2ex.com/t/1228155#reply16",
+          "id": "0a88eda3310d5431",
+          "title": "Better and Cheaper Than IPTV",
+          "titleZh": "比 IPTV 更好、更便宜",
+          "summary": "Hacker News 热帖，当前积分 41，评论 17。",
+          "url": "https://github.com/stupside/castor",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-19T00:59:55.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
+          "sourceType": "api"
+        },
+        {
+          "id": "a617963f6f830940",
+          "title": "小红书下载无水印视频原理是什么？",
+          "summary": "那些可以提供小红书无水印下载视频、图片的，背后是使用免费的 API 还是收费的第三方服务？如果是后者，那成本不是很高吗/。",
+          "url": "https://www.v2ex.com/t/1228301#reply6",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-18T01:12:30.000Z",
+          "publishedAt": "2026-07-19T01:22:46.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 108,
+          "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "johnsonhk"
+          "author": "bluescorpio"
+        },
+        {
+          "id": "e7641592343fc4b5",
+          "title": "把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？",
+          "summary": "复刻程序是否越来越容易了？",
+          "url": "https://www.v2ex.com/t/1228298#reply9",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-07-19T00:58:23.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 107,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "blackantt"
         }
       ]
     }
   ],
   "sourceFailures": [
+    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 76,
     "totalSources": 18,
-    "succeededSources": 15,
-    "failedSources": 3
+    "succeededSources": 14,
+    "failedSources": 4
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 26
+      "count": 20
     },
     {
       "tag": "行业热点",
@@ -924,6 +926,10 @@
       "count": 6
     },
     {
+      "tag": "效率",
+      "count": 6
+    },
+    {
       "tag": "交互设计",
       "count": 6
     },
@@ -933,10 +939,6 @@
     },
     {
       "tag": "模型产品",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
