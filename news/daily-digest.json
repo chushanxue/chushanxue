@@ -1,106 +1,50 @@
 {
-  "generatedAt": "2026-07-19T03:05:12.228Z",
+  "generatedAt": "2026-07-20T03:42:01.371Z",
   "headline": {
-    "id": "f655890b24500a83",
-    "title": "openrouter 上 glm 5.2 的多家供应商相互压价",
-    "summary": "glm 5.2 发布才一个月，开源模型的 token 价格屠刀已经崭露锋芒了。openrouter glm 5.2 有三家供应商相互压价，昨天上午还 70% off，今天上午已经 80% off 了，开始向电费成本逼近了。买不到原厂 code plan，可以试试 openrouter 上 2 折的 glm 5.2，不用包月…",
-    "url": "https://www.v2ex.com/t/1228299#reply4",
+    "id": "b3ea9f571c2e471c",
+    "title": "github 炸了，不知道这次恢复是什么时候",
+    "summary": "https://www.githubstatus.com/ 在 2026年7月6日发生过同类事件，耗时 9小时 5分钟。间隔 11天后 action 与 api 再次罢工。Incident with GitHub Action Update - Pages is operating normally. Jul 2…",
+    "url": "https://www.v2ex.com/t/1228465#reply5",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-19T00:59:03.000Z",
+    "publishedAt": "2026-07-20T01:40:47.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 112,
+    "score": 113,
     "sourceType": "rss",
     "cover": "",
-    "author": "yinmin"
+    "author": "mcayear"
   },
   "latest": [
     {
-      "id": "f655890b24500a83",
-      "title": "openrouter 上 glm 5.2 的多家供应商相互压价",
-      "summary": "glm 5.2 发布才一个月，开源模型的 token 价格屠刀已经崭露锋芒了。openrouter glm 5.2 有三家供应商相互压价，昨天上午还 70% off，今天上午已经 80% off 了，开始向电费成本逼近了。买不到原厂 code plan，可以试试 openrouter 上 2 折的 glm 5.2，不用包月…",
-      "url": "https://www.v2ex.com/t/1228299#reply4",
+      "id": "b3ea9f571c2e471c",
+      "title": "github 炸了，不知道这次恢复是什么时候",
+      "summary": "https://www.githubstatus.com/ 在 2026年7月6日发生过同类事件，耗时 9小时 5分钟。间隔 11天后 action 与 api 再次罢工。Incident with GitHub Action Update - Pages is operating normally. Jul 2…",
+      "url": "https://www.v2ex.com/t/1228465#reply5",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-19T00:59:03.000Z",
+      "publishedAt": "2026-07-20T01:40:47.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 112,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "yinmin"
+      "author": "mcayear"
     },
     {
-      "id": "038160b10adfae58",
-      "title": "灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊",
-      "summary": "重构了一版扔在产品库的老掉牙的屎山产品。过程中，来灵魂拷问一下大家，按照 AI 发展趋势+端侧能力，未来用户需求=产品了，都个性自定义化了，那么我们现在还迭戈锤子啊。。。。动力感不强劲了",
-      "url": "https://www.v2ex.com/t/1228303#reply13",
+      "id": "7502a5d18bce0ef0",
+      "title": "AI-Token 消耗，为啥跟流水一样。。。。。",
+      "summary": "是错觉还是有问题呢？应该怎么处理？是上下文太长了吗？",
+      "url": "https://www.v2ex.com/t/1228479#reply12",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-19T01:35:12.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Jensond"
-    },
-    {
-      "id": "b395c90e444cf246",
-      "title": "Transcribe.cpp",
-      "titleZh": "Transcribe.cpp",
-      "summary": "Hacker News 热帖，当前积分 117，评论 19。",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-19T00:38:26.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "0a88eda3310d5431",
-      "title": "Better and Cheaper Than IPTV",
-      "titleZh": "比 IPTV 更好、更便宜",
-      "summary": "Hacker News 热帖，当前积分 41，评论 17。",
-      "url": "https://github.com/stupside/castor",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-19T00:59:55.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "a617963f6f830940",
-      "title": "小红书下载无水印视频原理是什么？",
-      "summary": "那些可以提供小红书无水印下载视频、图片的，背后是使用免费的 API 还是收费的第三方服务？如果是后者，那成本不是很高吗/。",
-      "url": "https://www.v2ex.com/t/1228301#reply6",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-19T01:22:46.000Z",
+      "publishedAt": "2026-07-20T02:22:21.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -109,35 +53,90 @@
       "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "bluescorpio"
+      "author": "llfworker"
     },
     {
-      "id": "e7641592343fc4b5",
-      "title": "把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？",
-      "summary": "复刻程序是否越来越容易了？",
-      "url": "https://www.v2ex.com/t/1228298#reply9",
+      "id": "87019e226854d69a",
+      "title": "看不懂 claude 的输出了，虽然都是中文",
+      "summary": "感觉最近越来越看不懂 claude 的输出了，虽然让他输出中文，但是看起来很累，也看不懂，大家有同感么",
+      "url": "https://www.v2ex.com/t/1228456#reply18",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-19T00:58:23.000Z",
+      "publishedAt": "2026-07-20T01:22:11.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 107,
+      "score": 108,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "kelsoprotein"
+    },
+    {
+      "id": "ad5826f903e92c5f",
+      "title": "有没有身在美国， claude 却被封的吗？ 会是因为用了中文的原因吗？",
+      "summary": "身在美国，claude 会被封吗？",
+      "url": "https://www.v2ex.com/t/1228472#reply11",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-07-20T01:59:10.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 108,
       "sourceType": "rss",
       "cover": "",
       "author": "blackantt"
     },
     {
-      "id": "a14b0b8b96b1d3bf",
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "titleZh": "马姆达尼市长表示房东不能使用人工智能图像做广告",
-      "summary": "Hacker News 热帖，当前积分 271，评论 124。",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "id": "7cbe15de3519afa5",
+      "title": "派早报：锂电池消费税分阶段恢复征收",
+      "summary": "锂电池消费税分阶段恢复征收 白宫提词器操作员利用内幕信息下注被查 LG 显示器连接电脑后自动安装广告程序 新一代豆包手机不再模拟点击操作 亚马逊错发数亿美元云服务账单 京沪线试点 12306 预约购票，最早提前 60天 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/112498",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-19T23:11:33.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "780ef25a03a1aac3",
+      "title": "The weakest channel",
+      "titleZh": "最薄弱的渠道",
+      "summary": "通用性不是设计成事物的。它是由幸存的制约因素选择的—通常，人是制约因素。继续阅读 UX Collective »",
+      "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-07-19T20:47:00.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 107,
+      "sourceType": "rss",
+      "cover": "https://cdn-images-1.medium.com/max/2375/1*iVMS7zk9Pl2M1ulmHwWmow.jpeg",
+      "author": ""
+    },
+    {
+      "id": "2305e66be1801c3f",
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "titleZh": "最大的概率计算机将噪音转化为答案",
+      "summary": "Hacker News 热帖，当前积分 44，评论 8。",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-18T22:13:39.000Z",
+      "publishedAt": "2026-07-19T21:42:12.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -145,18 +144,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 106,
+      "score": 104,
       "sourceType": "api"
     },
     {
-      "id": "bd7946fe2c2c4802",
-      "title": "Classic Amiga titles, free to download",
-      "titleZh": "经典 Amiga 游戏，免费下载",
-      "summary": "Hacker News 热帖，当前积分 62，评论 9。",
-      "url": "https://amigafreeware.downer.tech/",
+      "id": "e04f50212a5bea41",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "titleZh": "一种新的 Intel Itanium (IA-64)模拟器，可启动 Windows",
+      "summary": "Hacker News 热帖，当前积分 59，评论 44。",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-18T21:55:27.000Z",
+      "publishedAt": "2026-07-19T20:50:42.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -164,11 +163,66 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 105,
+      "score": 103,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "7cbe15de3519afa5",
+      "title": "派早报：锂电池消费税分阶段恢复征收",
+      "summary": "锂电池消费税分阶段恢复征收 白宫提词器操作员利用内幕信息下注被查 LG 显示器连接电脑后自动安装广告程序 新一代豆包手机不再模拟点击操作 亚马逊错发数亿美元云服务账单 京沪线试点 12306 预约购票，最早提前 60天 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/112498",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-19T23:11:33.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "64cd61c8bdbca671",
+      "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
+      "summary": "这篇文章是 TDSStudio 在少数派上的第 26 篇文章，依然是全平台首发。1000XTheColleXion，这是索尼 1000X 系列的十周年纪念产品线。完全想不到跟群友们畅聊 MDR-1000X 的时代已经 ... 查看全文",
+      "url": "https://sspai.com/post/112374",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-19T03:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 78,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "KingTsui"
+    },
+    {
+      "id": "1a5a65d698cfb0b5",
+      "title": "Detourmap",
+      "titleZh": "绕行地图",
+      "summary": "每个地方都值得绕道而行，只需一张互动地图",
+      "url": "https://www.producthunt.com/products/detourmap",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-07-18T09:27:10.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Albanius"
+    },
     {
       "id": "c1da39e8007387fd",
       "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
@@ -182,7 +236,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 77,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "羊刀仙"
@@ -219,60 +273,6 @@
         "效率"
       ],
       "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "9d739256a4f5b218",
-      "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
-      "summary": "UniGetUI 是一个不错的包管理器，它提供的统一的更新 UI，让你的软件最大程度集中在一起管理，还可以用于需要批量配置的场景。查看全文",
-      "url": "https://sspai.com/post/111128",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-17T02:37:12.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 59,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Bestony"
-    },
-    {
-      "id": "3faaebc0e493dc6d",
-      "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
-      "summary": "月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。查看全文",
-      "url": "https://sspai.com/post/112414",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-17T00:45:30.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 58,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "97d927778f16c028",
-      "title": "新玩意 246｜少数派的编辑们最近买了啥？",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
-      "url": "https://sspai.com/post/112400",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-16T09:39:52.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -343,6 +343,44 @@
           "author": "阮一峰"
         },
         {
+          "id": "2547ef805d15f98d",
+          "title": "pointer-events",
+          "titleZh": "指针事件",
+          "summary": "Pointer-events 属性控制元素是否可以成为指针事件（如点击、悬停状态和其他基于指针的事件）的目标。在其他方面……",
+          "url": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-07-15T19:57:51.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "7f10419022fdbfa7",
+          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+          "titleZh": "What's! important # 15：边界感知 CSS、基于时间的 CSS、全流式 CSS 等",
+          "summary": "阅读有关边界感知 CSS、无障碍网格通道、基于时间的网页设计、全出血、可自定义选择和新 Web 平台功能的所有信息。什么！重要……",
+          "url": "https://css-tricks.com/whats-important-15/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-07-15T14:36:18.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
+          "author": ""
+        },
+        {
           "id": "ba161413683a6556",
           "title": "No, People Don’t Want More AI In Their Life",
           "titleZh": "不，人们不想在他们的生活中使用更多的人工智能",
@@ -360,43 +398,6 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
-        },
-        {
-          "id": "2978e0186f822977",
-          "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
-          "titleZh": "从启动到第一个概念：如何将品牌战略转化为视觉方向",
-          "summary": "最强大的视觉概念不是从 Figma 开始的。他们从正确的问题开始。探索品牌标识设计的前期概念阶段，在这个阶段，团队研究 b...",
-          "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-07-10T13:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
-          "author": "hello@smashingmagazine.com (Anastasia Sycheva)"
-        },
-        {
-          "id": "8808eb06cf0980be",
-          "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
-          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-          "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
-          "source": "阮一峰的网络日志",
-          "sourceUrl": "https://www.ruanyifeng.com/blog/",
-          "publishedAt": "2026-07-10T00:05:31.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "技术周刊"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026070704.webp",
-          "author": "阮一峰"
         }
       ]
     },
@@ -419,7 +420,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 61,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,89 +528,71 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "7a3a14292a208b52",
-          "title": "Kimi: Threat or menace?",
-          "titleZh": "Kimi：威胁还是威胁？",
-          "summary": "中国公司 Moonshot AI 本周发布了其 Kimi 模型的新版本，引发了对“完全 AI 共产主义”的担忧。",
-          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "id": "bdc38c3525342d91",
+          "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+          "titleZh": "Netflix 为 Ben Affleck 的人工智能电影创业公司支付了 5.87亿美元 $",
+          "summary": "Netflix 透露，它以 5.87亿美元现金收购了由 Ben Affleck 共同创立的创业公司 InterPositive。",
+          "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-18T18:51:07.000Z",
+          "publishedAt": "2026-07-19T21:45:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 94,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "62a4074453cfb60e",
-          "title": "Waymo says San Francisco service has resumed after one-hour pause",
-          "titleZh": "Waymo 表示，旧金山服务在暂停一小时后已恢复",
-          "summary": "这不是停电第一次给 Waymo 带来问题。",
-          "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+          "id": "41c6a8d21f4a58ea",
+          "title": "What to watch for after Jensen Huang’s Japan visit",
+          "titleZh": "Jensen Huang 访问日本后的注意事项",
+          "summary": "Jensen Huang 带着跨越日本整个科技生态系统的交易离开了东京。",
+          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-18T19:30:23.000Z",
+          "publishedAt": "2026-07-19T21:16:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "fb143dc0f9fc234c",
-          "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-          "titleZh": "今年在美国停产或停产的所有电动汽车",
-          "summary": "本田 Prologue 将不再在美国销售，今年将加入越来越多的电动汽车车型，退出市场。",
-          "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+          "id": "9c9fb92b3ec1d317",
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "titleZh": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+          "summary": "在《Equity》的最新一集中，我们讨论了苹果的诉讼是否会影响 OpenAi 备受争议的硬件上市计划。",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-18T16:30:00.000Z",
+          "publishedAt": "2026-07-19T19:24:45.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 90,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c98414961490459a",
-          "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
-          "titleZh": "🧠 社区智慧：同步 Claude Code 和 Claude Design，在客户认为您编码时赢得信任，联合创始人 Fallout 课程，个人 CRM 等",
-          "summary": "社区智慧 194",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-07-18T17:04:04.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业"
-          ],
-          "score": 87,
-          "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "09e19188fdaf8dd7",
-          "title": "Federal employees can download TikTok on their work phones again",
-          "titleZh": "联邦雇员可以再次在工作电话上下载 TikTok",
-          "summary": "司法部表示，联邦雇员现在可以在他们的政府设备上下载 TikTok。",
-          "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+          "id": "af0d10227a397134",
+          "title": "TechCrunch Mobility: The battle over robotaxi rules",
+          "titleZh": "TechCrunch Mobility：机器人出租车规则之争",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您未来交通的枢纽，现在，人工智能比以往任何时候都更能发挥作用。",
+          "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-18T15:54:24.000Z",
+          "publishedAt": "2026-07-19T16:05:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -621,22 +604,40 @@
           "author": ""
         },
         {
-          "id": "bb8305f1723c0db7",
-          "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-          "titleZh": "600 英里的公路行程（和数据）证明电动汽车充电不再糟糕",
-          "summary": "最近的一次电动汽车公路旅行显示，美国的直流快速充电速度更快、更可靠。",
-          "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+          "id": "bc7330c8d2128cff",
+          "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+          "titleZh": "《奥德赛》导演克里斯托弗·诺兰称人工智能为明显的“特洛伊木马”",
+          "summary": "“每个人都知道希腊人在里面。”",
+          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-18T14:32:00.000Z",
+          "publishedAt": "2026-07-19T14:52:08.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 87,
+          "score": 84,
           "sourceType": "rss",
           "cover": "",
+          "author": ""
+        },
+        {
+          "id": "30e1a2147838a308",
+          "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+          "titleZh": "Netflix CPTO 讲解人工智能以及产品和技术角色的未来| Elizabeth Stone",
+          "summary": "Netflix 首席技术官伊丽莎白·斯通（Elizabeth Stone）谈管理人工智能时代的产品团队、系统思维的兴起以及如何将卓越打造为操作系统",
+          "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-07-19T12:31:21.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业"
+          ],
+          "score": 84,
+          "sourceType": "rss",
+          "cover": "https://api.substack.com/feed/podcast/205675851/7c9d212495d749dbb630c4880d920182.mp3",
           "author": ""
         }
       ]
@@ -646,6 +647,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "780ef25a03a1aac3",
+          "title": "The weakest channel",
+          "titleZh": "最薄弱的渠道",
+          "summary": "通用性不是设计成事物的。它是由幸存的制约因素选择的—通常，人是制约因素。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-07-19T20:47:00.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 107,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2375/1*iVMS7zk9Pl2M1ulmHwWmow.jpeg",
+          "author": ""
+        },
         {
           "id": "7cd061aa8f5e873b",
           "title": "The “mocked, then loved” AirPods effect",
@@ -660,7 +680,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 65,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -740,25 +760,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "b2693029d49e8324",
-          "title": "AI systems are demanding new interaction models. Are designers ready?",
-          "titleZh": "人工智能系统需要新的交互模型。设计师准备好了吗？",
-          "summary": "",
-          "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-15T19:48:50.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -768,87 +769,31 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "f655890b24500a83",
-          "title": "openrouter 上 glm 5.2 的多家供应商相互压价",
-          "summary": "glm 5.2 发布才一个月，开源模型的 token 价格屠刀已经崭露锋芒了。openrouter glm 5.2 有三家供应商相互压价，昨天上午还 70% off，今天上午已经 80% off 了，开始向电费成本逼近了。买不到原厂 code plan，可以试试 openrouter 上 2 折的 glm 5.2，不用包月…",
-          "url": "https://www.v2ex.com/t/1228299#reply4",
+          "id": "b3ea9f571c2e471c",
+          "title": "github 炸了，不知道这次恢复是什么时候",
+          "summary": "https://www.githubstatus.com/ 在 2026年7月6日发生过同类事件，耗时 9小时 5分钟。间隔 11天后 action 与 api 再次罢工。Incident with GitHub Action Update - Pages is operating normally. Jul 2…",
+          "url": "https://www.v2ex.com/t/1228465#reply5",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-19T00:59:03.000Z",
+          "publishedAt": "2026-07-20T01:40:47.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "yinmin"
+          "author": "mcayear"
         },
         {
-          "id": "038160b10adfae58",
-          "title": "灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊",
-          "summary": "重构了一版扔在产品库的老掉牙的屎山产品。过程中，来灵魂拷问一下大家，按照 AI 发展趋势+端侧能力，未来用户需求=产品了，都个性自定义化了，那么我们现在还迭戈锤子啊。。。。动力感不强劲了",
-          "url": "https://www.v2ex.com/t/1228303#reply13",
+          "id": "7502a5d18bce0ef0",
+          "title": "AI-Token 消耗，为啥跟流水一样。。。。。",
+          "summary": "是错觉还是有问题呢？应该怎么处理？是上下文太长了吗？",
+          "url": "https://www.v2ex.com/t/1228479#reply12",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-19T01:35:12.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "Jensond"
-        },
-        {
-          "id": "b395c90e444cf246",
-          "title": "Transcribe.cpp",
-          "titleZh": "Transcribe.cpp",
-          "summary": "Hacker News 热帖，当前积分 117，评论 19。",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-19T00:38:26.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 110,
-          "sourceType": "api"
-        },
-        {
-          "id": "0a88eda3310d5431",
-          "title": "Better and Cheaper Than IPTV",
-          "titleZh": "比 IPTV 更好、更便宜",
-          "summary": "Hacker News 热帖，当前积分 41，评论 17。",
-          "url": "https://github.com/stupside/castor",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-19T00:59:55.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 110,
-          "sourceType": "api"
-        },
-        {
-          "id": "a617963f6f830940",
-          "title": "小红书下载无水印视频原理是什么？",
-          "summary": "那些可以提供小红书无水印下载视频、图片的，背后是使用免费的 API 还是收费的第三方服务？如果是后者，那成本不是很高吗/。",
-          "url": "https://www.v2ex.com/t/1228301#reply6",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-19T01:22:46.000Z",
+          "publishedAt": "2026-07-20T02:22:21.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -857,45 +802,100 @@
           "score": 109,
           "sourceType": "rss",
           "cover": "",
-          "author": "bluescorpio"
+          "author": "llfworker"
         },
         {
-          "id": "e7641592343fc4b5",
-          "title": "把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？",
-          "summary": "复刻程序是否越来越容易了？",
-          "url": "https://www.v2ex.com/t/1228298#reply9",
+          "id": "87019e226854d69a",
+          "title": "看不懂 claude 的输出了，虽然都是中文",
+          "summary": "感觉最近越来越看不懂 claude 的输出了，虽然让他输出中文，但是看起来很累，也看不懂，大家有同感么",
+          "url": "https://www.v2ex.com/t/1228456#reply18",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-19T00:58:23.000Z",
+          "publishedAt": "2026-07-20T01:22:11.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 107,
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "kelsoprotein"
+        },
+        {
+          "id": "ad5826f903e92c5f",
+          "title": "有没有身在美国， claude 却被封的吗？ 会是因为用了中文的原因吗？",
+          "summary": "身在美国，claude 会被封吗？",
+          "url": "https://www.v2ex.com/t/1228472#reply11",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-07-20T01:59:10.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 108,
           "sourceType": "rss",
           "cover": "",
           "author": "blackantt"
+        },
+        {
+          "id": "2305e66be1801c3f",
+          "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+          "titleZh": "最大的概率计算机将噪音转化为答案",
+          "summary": "Hacker News 热帖，当前积分 44，评论 8。",
+          "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-19T21:42:12.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 104,
+          "sourceType": "api"
+        },
+        {
+          "id": "e04f50212a5bea41",
+          "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+          "titleZh": "一种新的 Intel Itanium (IA-64)模拟器，可启动 Windows",
+          "summary": "Hacker News 热帖，当前积分 59，评论 44。",
+          "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-19T20:50:42.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 103,
+          "sourceType": "api"
         }
       ]
     }
   ],
   "sourceFailures": [
-    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 76,
+    "totalItems": 80,
     "totalSources": 18,
-    "succeededSources": 14,
-    "failedSources": 4
+    "succeededSources": 15,
+    "failedSources": 3
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 20
+      "count": 26
     },
     {
       "tag": "行业热点",
@@ -910,16 +910,16 @@
       "count": 10
     },
     {
-      "tag": "工具/网站",
-      "count": 9
-    },
-    {
       "tag": "工程效率",
       "count": 8
     },
     {
       "tag": "讨论",
       "count": 8
+    },
+    {
+      "tag": "工具/网站",
+      "count": 7
     },
     {
       "tag": "开发者社区",
@@ -954,8 +954,8 @@
       "count": 3
     },
     {
-      "tag": "新产品",
-      "count": 3
+      "tag": "CSS相关",
+      "count": 2
     }
   ]
 }
