@@ -1,160 +1,124 @@
 {
-  "generatedAt": "2026-07-24T03:05:10.861Z",
+  "generatedAt": "2026-07-25T03:04:06.086Z",
   "headline": {
-    "id": "d20d1dec35caff2b",
-    "title": "做了一年的个人站, 被月活 50W 网站 100%抄袭, 已实锤",
-    "summary": "一.个人观点 个人认同 IDEA 不受保护 不能让作恶者单纯受益 只针对网站运营者进行谴责，不针对其他社区成员 二.本人已实施行为 已加入该社区 QQ 群 at 群主抄袭我个人站, 已经很及时的被群主 T 了 我认为, 我不需要跟抄袭者沟通解决, 这相当于增加了我的维权成本! 截止本贴发布未收到相关社区任何人员联系 我的网站: ht…",
-    "url": "https://www.v2ex.com/t/1229472#reply20",
+    "id": "d2923d9dd023030c",
+    "title": "GPT 5.6 Pro 自动降智？",
+    "summary": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high，偶尔开一下 max。ChatGPT 一般无脑开 GPT 5.6 Pro，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18，明显是被降智并路由到了最差的那一档 又切成 x…",
+    "url": "https://www.v2ex.com/t/1229703#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-24T02:14:45.000Z",
+    "publishedAt": "2026-07-25T02:58:00.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 115,
+    "score": 116,
     "sourceType": "rss",
-    "cover": "https://i.imgant.com/v2/tR5hjk8.png",
-    "author": "dismantle"
+    "cover": "https://i.imgur.com/mGXmlqe.png",
+    "author": "timwu"
   },
   "latest": [
     {
-      "id": "d20d1dec35caff2b",
-      "title": "做了一年的个人站, 被月活 50W 网站 100%抄袭, 已实锤",
-      "summary": "一.个人观点 个人认同 IDEA 不受保护 不能让作恶者单纯受益 只针对网站运营者进行谴责，不针对其他社区成员 二.本人已实施行为 已加入该社区 QQ 群 at 群主抄袭我个人站, 已经很及时的被群主 T 了 我认为, 我不需要跟抄袭者沟通解决, 这相当于增加了我的维权成本! 截止本贴发布未收到相关社区任何人员联系 我的网站: ht…",
-      "url": "https://www.v2ex.com/t/1229472#reply20",
+      "id": "d2923d9dd023030c",
+      "title": "GPT 5.6 Pro 自动降智？",
+      "summary": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high，偶尔开一下 max。ChatGPT 一般无脑开 GPT 5.6 Pro，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18，明显是被降智并路由到了最差的那一档 又切成 x…",
+      "url": "https://www.v2ex.com/t/1229703#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-24T02:14:45.000Z",
+      "publishedAt": "2026-07-25T02:58:00.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 116,
       "sourceType": "rss",
-      "cover": "https://i.imgant.com/v2/tR5hjk8.png",
-      "author": "dismantle"
+      "cover": "https://i.imgur.com/mGXmlqe.png",
+      "author": "timwu"
     },
     {
-      "id": "79ab31f456f5ae84",
-      "title": "codex 额度节约使用方式探讨",
-      "summary": "根据我的实际使用体验，完成阶段性工作后，一定要及时开新窗口，避免在原来长上下文的窗口继续工作，不仅效率低下，频繁触发压缩上下文，更要命的是额度消耗明显快很多很多。按上面这个经验，叠加使用 5.5-中，现在执行起来又快又省～",
-      "url": "https://www.v2ex.com/t/1229492#reply0",
+      "id": "01e68216a08a4dea",
+      "title": "codex 写前端纯残废",
+      "summary": "又菜又慢，有没有懂的，还不如 composer 2.5。",
+      "url": "https://www.v2ex.com/t/1229695#reply5",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-24T02:52:56.000Z",
+      "publishedAt": "2026-07-25T02:18:39.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 110,
       "sourceType": "rss",
       "cover": "",
-      "author": "ixuefeng"
+      "author": "yourajkhuram470"
     },
     {
-      "id": "3d03a1064bcbfdd3",
-      "title": "求大佬指导 nas 待机功耗",
-      "summary": "家里自己 diy 的 nas，感觉功耗还是没降下来。os: unraid 电源：海韵 PRIME PX750 主板: B760M 技嘉小雕 cpu: i5-13600t 硬盘：2 块机械，2 块固态 显卡：无 vm: ubuntu server *2 24小时待机 主要做 nas 和家用开发环境服务器，待机常年在 38w 左…",
-      "url": "https://www.v2ex.com/t/1229461#reply31",
+      "id": "04a71f9b5d89b7a5",
+      "title": "让同一个模型写 plan，再用它自己 review，这种有意义吗？ 还是用不同的模型来 review 好？",
+      "summary": "",
+      "url": "https://www.v2ex.com/t/1229700#reply3",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-24T01:38:50.000Z",
+      "publishedAt": "2026-07-25T02:42:21.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
+      "score": 109,
       "sourceType": "rss",
       "cover": "",
-      "author": "frank1256"
+      "author": "blackantt"
     },
     {
-      "id": "2c9ad488b4f7acb2",
-      "title": "都是 electron 技术，为什么 workbuddy 的文字比 traework 更糊？",
-      "summary": "traework 的字看起更锐利，棱角清晰。workbuddy 文字有点糊，好像有重影。",
-      "url": "https://www.v2ex.com/t/1229479#reply5",
+      "id": "fac433d099bf6644",
+      "title": "已经在中转花了 1000 多块了，找个号池渠道自用可不可行？",
+      "summary": "每天用的 token 少则 5、6 亿多则将近 20 亿，不知道是不是只有中转、号池这种模式能支撑的了我这种用法（不用考虑 N 小时限量）😂。本着能节约一点是一点的想法，我这种是不是直接找号池渠道上游更划算点，反正就我自己用，不用自己维护号池的同时也不用再被中间商再收一次费。有没有懂行的 V 友指点一下。",
+      "url": "https://www.v2ex.com/t/1229686#reply14",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-24T02:30:33.000Z",
+      "publishedAt": "2026-07-25T01:15:37.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 111,
+      "score": 113,
       "sourceType": "rss",
-      "cover": "https://i.v2ex.co/9hRqXP1J.png",
-      "author": "wsseo"
+      "cover": "https://i.imgant.com/v2/FJrhkUB.png",
+      "author": "cby0414"
     },
     {
-      "id": "a904b8ea8ba875db",
-      "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
-      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-      "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-      "source": "阮一峰的网络日志",
-      "sourceUrl": "https://www.ruanyifeng.com/blog/",
-      "publishedAt": "2026-07-24T00:12:16.000Z",
-      "category": "frontend",
-      "tags": [
-        "前端技术",
-        "技术周刊"
-      ],
-      "score": 119,
-      "sourceType": "rss",
-      "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026072311.webp",
-      "author": "阮一峰"
-    },
-    {
-      "id": "7ff9d4bf9883b640",
-      "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
-      "summary": "欧盟委员会对 Google 处以总计 8.9 亿欧元罚款，Anthropic 扩大 Claude 语音模式支持范围。查看全文",
-      "url": "https://sspai.com/post/112677",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-24T00:33:05.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "861124825a0f455c",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "titleZh": "人工智能护栏如何阻碍攻击性网络安全研究人员的工作",
-      "summary": "我们采访了几位网络安全研究人员，他们寻找未知的漏洞并开发工具来利用它们，了解 OpenAI 和人类的护栏如何......",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "id": "d47a5707eb11d340",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "titleZh": "我尝试了 OpenAI 的新 AI 键盘—这对一些程序员来说很有趣，但对其他人来说有点神秘",
+      "summary": "OpenAI 的新型人工智能键盘对一些人来说会很有趣，而其他许多人可能不会碰它。",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-24T01:00:00.000Z",
+      "publishedAt": "2026-07-25T00:23:11.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 105,
+      "score": 102,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "99e0bc635335568e",
-      "title": "The Visual 6502",
-      "titleZh": "Visual 6502",
-      "summary": "Hacker News 热帖，当前积分 61，评论 16。",
-      "url": "http://visual6502.org/JSSim/index.html",
+      "id": "3fd216852f038051",
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "titleZh": "抹香鲸吹泡泡，实现宁静的垂直睡眠",
+      "summary": "Hacker News 热帖，当前积分 39，评论 1。",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-23T23:36:42.000Z",
+      "publishedAt": "2026-07-24T23:13:18.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -162,11 +126,103 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 107,
       "sourceType": "api"
+    },
+    {
+      "id": "18808cff22e19d3e",
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "titleZh": "SpaceX 发射新的 V3 Starlink 卫星，但再次遭遇助推器故障",
+      "summary": "该公司在第二次 Starship V3 飞行中又勾选了几个盒子，但似乎在重新点燃助推器的火箭发动机时遇到了另一个问题。",
+      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-07-24T23:25:47.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 102,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "c867a63c8c3c2c42",
+      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+      "titleZh": "TechCrunch Disrupt 2026 的全新 Smart Money Stage 探索金融科技、支付、人工智能以及",
+      "summary": "钱已经远远超过了钱包或银行账户中的现金。在 TechCrunch Disrupt 2026 大会上，我们投入了整个阶段来推动这一进程。",
+      "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-07-24T22:10:00.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 101,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "52b547947521c5ae",
+      "title": "本周看什么 | 最近值得一看的 13 部作品",
+      "summary": "📅本周新预告《复仇者联盟 5：毁灭之日》正式预告 7月20日，电影《复仇者联盟 5：毁灭之日》发布了正式预告，将于 12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡、小罗伯特· ... 查看全文",
+      "url": "https://sspai.com/post/112692",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-24T09:38:35.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 90,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "f364abb571d7a439",
+      "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
+      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎 Cyber5 ... 查看全文",
+      "url": "https://sspai.com/post/112232",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 85,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "程天冲"
+    },
+    {
+      "id": "b0c21a19329c7150",
+      "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！",
+      "summary": "不是说好 AI 来临人类就解放了吗，怎么我连手机都买不起了？查看全文",
+      "url": "https://sspai.com/post/112679",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-24T03:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 76,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "老麦"
+    },
     {
       "id": "7ff9d4bf9883b640",
       "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
@@ -180,7 +236,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 112,
+      "score": 74,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -198,7 +254,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 90,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -216,66 +272,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 83,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "Microhoo"
-    },
-    {
-      "id": "c08accedc9562719",
-      "title": "让 Windows 顺眼又省心：我的新设备配置经验",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/111300",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-23T02:57:30.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 79,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Cyanrel"
-    },
-    {
-      "id": "55d559096ece4226",
-      "title": "Basedash AI Kit",
-      "titleZh": "Basedash AI 套件",
-      "summary": "由 GPT-5.6 支持的船舶 AI 分析在您的产品中",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-23T03:16:23.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Max Musing"
-    },
-    {
-      "id": "5a8ffe215f419807",
-      "title": "HOL Guard",
-      "titleZh": "霍尔守卫",
-      "summary": "首款人工智能代理防火墙",
-      "url": "https://www.producthunt.com/products/hol-guard",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-23T02:26:09.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 73,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Michael Kantor"
     }
   ],
   "sections": [
@@ -297,7 +297,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 119,
+          "score": 80,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026072311.webp",
           "author": "阮一峰"
@@ -316,9 +316,28 @@
             "CSS",
             "CSS相关"
           ],
-          "score": 90,
+          "score": 64,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202607/2026-7-23_153636.webp",
+          "author": ""
+        },
+        {
+          "id": "1b3c3d43e32ae6e8",
+          "title": "writing-mode",
+          "titleZh": "写作模式",
+          "summary": "Writing-mode CSS 属性设置文本行是水平布局还是垂直布局，以及块和行的进度方向。.element {writ…",
+          "url": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-07-21T09:39:10.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         },
         {
@@ -379,24 +398,6 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)"
-        },
-        {
-          "id": "1da91e6f98135b7d",
-          "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
-          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-          "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
-          "source": "阮一峰的网络日志",
-          "sourceUrl": "https://www.ruanyifeng.com/blog/",
-          "publishedAt": "2026-07-16T23:51:19.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "技术周刊"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026071603.webp",
-          "author": "阮一峰"
         }
       ]
     },
@@ -419,7 +420,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 83,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -438,7 +439,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 74,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,116 +528,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "861124825a0f455c",
-          "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-          "titleZh": "人工智能护栏如何阻碍攻击性网络安全研究人员的工作",
-          "summary": "我们采访了几位网络安全研究人员，他们寻找未知的漏洞并开发工具来利用它们，了解 OpenAI 和人类的护栏如何......",
-          "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "id": "d47a5707eb11d340",
+          "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+          "titleZh": "我尝试了 OpenAI 的新 AI 键盘—这对一些程序员来说很有趣，但对其他人来说有点神秘",
+          "summary": "OpenAI 的新型人工智能键盘对一些人来说会很有趣，而其他许多人可能不会碰它。",
+          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-24T01:00:00.000Z",
+          "publishedAt": "2026-07-25T00:23:11.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "6870ead3a6e4f6dd",
-          "title": "Meet the judges who will crown Australia’s next breakout startup",
-          "titleZh": "与评委见面，他们将为澳大利亚的下一家突破性创业公司加冕",
-          "summary": "TechCrunch Startup Battlefield 即将来到澳大利亚—我们正在与 Stripe 合作，寻找该国最令人兴奋的早期创业公司。",
-          "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+          "id": "18808cff22e19d3e",
+          "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+          "titleZh": "SpaceX 发射新的 V3 Starlink 卫星，但再次遭遇助推器故障",
+          "summary": "该公司在第二次 Starship V3 飞行中又勾选了几个盒子，但似乎在重新点燃助推器的火箭发动机时遇到了另一个问题。",
+          "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-24T00:05:00.000Z",
+          "publishedAt": "2026-07-24T23:25:47.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "4102e33172de5eed",
-          "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-          "titleZh": "Mobileye 首席执行官 Amnon Shashua 辞职，公司推出机器人出租车和机器人技术",
-          "summary": "Shashua 已被邀请担任董事会主席。",
-          "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+          "id": "c867a63c8c3c2c42",
+          "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+          "titleZh": "TechCrunch Disrupt 2026 的全新 Smart Money Stage 探索金融科技、支付、人工智能以及",
+          "summary": "钱已经远远超过了钱包或银行账户中的现金。在 TechCrunch Disrupt 2026 大会上，我们投入了整个阶段来推动这一进程。",
+          "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-23T22:40:08.000Z",
+          "publishedAt": "2026-07-24T22:10:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "8becb5ea43739503",
-          "title": "Patreon lays off 20% of its workforce",
-          "titleZh": "Patreon 裁员 20%",
-          "summary": "在网上发布的一份给员工的备忘录中，孔蒂表示，该公司的核心业务很强大，但该平台必须应对市场变化并调整其成本结构……",
-          "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+          "id": "e0f71762b38fd2f6",
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "titleZh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在谈判筹集 1亿美元 $",
+          "summary": "Neolab 认为，自动化日常计算机任务将很快超过编码，成为人工智能最大的用例。",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-23T20:30:07.000Z",
+          "publishedAt": "2026-07-24T22:25:58.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "6d7a6a2ff1f03db6",
-          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-          "titleZh": "AMD 凭借其 Helios AI 机架式系统取代英伟达",
-          "summary": "AMD 正在通过新的机架式系统挑战其芯片制造商竞争对手，该系统将于今年晚些时候开始向客户出货。",
-          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "id": "96710a77e0d066d6",
+          "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+          "titleZh": "越南正在寻求限制面向儿童的社交媒体；越来越多的其他国家也在做同样的事情",
+          "summary": "澳大利亚是 2025年底发布禁令的第一个国家，旨在减少年轻用户在社交媒体上可能面临的压力和风险，包括网络欺凌……",
+          "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-23T20:33:02.000Z",
+          "publishedAt": "2026-07-24T21:15:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b03729f7000fded3",
-          "title": "Computer and browser use in Codex (5 real examples)",
-          "titleZh": "Codex 中的计算机和浏览器使用（5 个真实示例）",
-          "summary": "立即观看|🎙️我向您展示我如何在 Codex 中使用浏览器和电脑来 QA 我的应用程序，管理 LinkedIn，并为夏威夷购物，包括不提示的交易……",
-          "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+          "id": "f98b55b041dac41e",
+          "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+          "titleZh": "Claude Opus 5 评论：这个模型很棒（但很烦人）",
+          "summary": "立即观看|🎙️我通过我的七个模型基准测试运行了 Opus 5，将其与其他六个主要模型进行了比较，并得出了一个我真正意想不到的结论",
+          "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-07-22T12:03:38.000Z",
+          "publishedAt": "2026-07-24T17:15:25.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 93,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/207953544/6d747defe32ee7f9e1cbcba69f37672a.mp3",
+          "cover": "https://api.substack.com/feed/podcast/208355131/160ef0b97449c2cbfefb17cbdf9d4dcb.mp3",
           "author": ""
         }
       ]
@@ -646,6 +647,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "257e4fb4f45d57ec",
+          "title": "The aggressively mediocre fight",
+          "titleZh": "咄咄逼人的平庸战斗",
+          "summary": "我们与人工智能的战斗以及我们可以做的事情。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-07-24T11:09:24.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2388/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
+          "author": ""
+        },
         {
           "id": "5abb4b7677313ddf",
           "title": "Steal this UX framework from Dubai’s most over-the-top hotel",
@@ -660,7 +680,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 109,
+          "score": 71,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1376/1*yVor0bJNmDfk55Wr9yygcg.png",
           "author": ""
@@ -679,7 +699,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 104,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -698,7 +718,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -740,25 +760,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "89e24c3a7c57f31b",
-          "title": "AI can fake your portfolio. It can’t fake the second question.",
-          "titleZh": "人工智能可以伪造您的投资组合。它不能伪造第二个问题。",
-          "summary": "",
-          "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-21T21:36:22.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -768,86 +769,86 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "d20d1dec35caff2b",
-          "title": "做了一年的个人站, 被月活 50W 网站 100%抄袭, 已实锤",
-          "summary": "一.个人观点 个人认同 IDEA 不受保护 不能让作恶者单纯受益 只针对网站运营者进行谴责，不针对其他社区成员 二.本人已实施行为 已加入该社区 QQ 群 at 群主抄袭我个人站, 已经很及时的被群主 T 了 我认为, 我不需要跟抄袭者沟通解决, 这相当于增加了我的维权成本! 截止本贴发布未收到相关社区任何人员联系 我的网站: ht…",
-          "url": "https://www.v2ex.com/t/1229472#reply20",
+          "id": "d2923d9dd023030c",
+          "title": "GPT 5.6 Pro 自动降智？",
+          "summary": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high，偶尔开一下 max。ChatGPT 一般无脑开 GPT 5.6 Pro，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18，明显是被降智并路由到了最差的那一档 又切成 x…",
+          "url": "https://www.v2ex.com/t/1229703#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-24T02:14:45.000Z",
+          "publishedAt": "2026-07-25T02:58:00.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 116,
           "sourceType": "rss",
-          "cover": "https://i.imgant.com/v2/tR5hjk8.png",
-          "author": "dismantle"
+          "cover": "https://i.imgur.com/mGXmlqe.png",
+          "author": "timwu"
         },
         {
-          "id": "79ab31f456f5ae84",
-          "title": "codex 额度节约使用方式探讨",
-          "summary": "根据我的实际使用体验，完成阶段性工作后，一定要及时开新窗口，避免在原来长上下文的窗口继续工作，不仅效率低下，频繁触发压缩上下文，更要命的是额度消耗明显快很多很多。按上面这个经验，叠加使用 5.5-中，现在执行起来又快又省～",
-          "url": "https://www.v2ex.com/t/1229492#reply0",
+          "id": "01e68216a08a4dea",
+          "title": "codex 写前端纯残废",
+          "summary": "又菜又慢，有没有懂的，还不如 composer 2.5。",
+          "url": "https://www.v2ex.com/t/1229695#reply5",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-24T02:52:56.000Z",
+          "publishedAt": "2026-07-25T02:18:39.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "ixuefeng"
-        },
-        {
-          "id": "3d03a1064bcbfdd3",
-          "title": "求大佬指导 nas 待机功耗",
-          "summary": "家里自己 diy 的 nas，感觉功耗还是没降下来。os: unraid 电源：海韵 PRIME PX750 主板: B760M 技嘉小雕 cpu: i5-13600t 硬盘：2 块机械，2 块固态 显卡：无 vm: ubuntu server *2 24小时待机 主要做 nas 和家用开发环境服务器，待机常年在 38w 左…",
-          "url": "https://www.v2ex.com/t/1229461#reply31",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-24T01:38:50.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 114,
+          "score": 110,
           "sourceType": "rss",
           "cover": "",
-          "author": "frank1256"
+          "author": "yourajkhuram470"
         },
         {
-          "id": "2c9ad488b4f7acb2",
-          "title": "都是 electron 技术，为什么 workbuddy 的文字比 traework 更糊？",
-          "summary": "traework 的字看起更锐利，棱角清晰。workbuddy 文字有点糊，好像有重影。",
-          "url": "https://www.v2ex.com/t/1229479#reply5",
+          "id": "04a71f9b5d89b7a5",
+          "title": "让同一个模型写 plan，再用它自己 review，这种有意义吗？ 还是用不同的模型来 review 好？",
+          "summary": "",
+          "url": "https://www.v2ex.com/t/1229700#reply3",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-24T02:30:33.000Z",
+          "publishedAt": "2026-07-25T02:42:21.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 111,
+          "score": 109,
           "sourceType": "rss",
-          "cover": "https://i.v2ex.co/9hRqXP1J.png",
-          "author": "wsseo"
+          "cover": "",
+          "author": "blackantt"
         },
         {
-          "id": "99e0bc635335568e",
-          "title": "The Visual 6502",
-          "titleZh": "Visual 6502",
-          "summary": "Hacker News 热帖，当前积分 61，评论 16。",
-          "url": "http://visual6502.org/JSSim/index.html",
+          "id": "fac433d099bf6644",
+          "title": "已经在中转花了 1000 多块了，找个号池渠道自用可不可行？",
+          "summary": "每天用的 token 少则 5、6 亿多则将近 20 亿，不知道是不是只有中转、号池这种模式能支撑的了我这种用法（不用考虑 N 小时限量）😂。本着能节约一点是一点的想法，我这种是不是直接找号池渠道上游更划算点，反正就我自己用，不用自己维护号池的同时也不用再被中间商再收一次费。有没有懂行的 V 友指点一下。",
+          "url": "https://www.v2ex.com/t/1229686#reply14",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-07-25T01:15:37.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "https://i.imgant.com/v2/FJrhkUB.png",
+          "author": "cby0414"
+        },
+        {
+          "id": "3fd216852f038051",
+          "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+          "titleZh": "抹香鲸吹泡泡，实现宁静的垂直睡眠",
+          "summary": "Hacker News 热帖，当前积分 39，评论 1。",
+          "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-23T23:36:42.000Z",
+          "publishedAt": "2026-07-24T23:13:18.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -855,18 +856,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 108,
+          "score": 107,
           "sourceType": "api"
         },
         {
-          "id": "4be55043a949acb0",
-          "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-          "titleZh": "显示 HN：回声–使用开放权重模型以 1/3 的成本获得寓言级结果",
-          "summary": "我一直在构建 Echo （https://echo.tracerml.ai/），这是一个从开放权重模型池中制作一个人工智能系统的实验，而不是选择一个单一的模型……",
-          "url": "https://news.ycombinator.com/item?id=49026810",
+          "id": "48a6a9192322f279",
+          "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+          "titleZh": "作品 5 目前在人工智能排行榜上排名第一",
+          "summary": "Hacker News 热帖，当前积分 161，评论 106。",
+          "url": "https://artificialanalysis.ai/models",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-23T19:26:01.000Z",
+          "publishedAt": "2026-07-24T19:45:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -874,63 +875,62 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 106,
+          "score": 102,
           "sourceType": "api"
         }
       ]
     }
   ],
   "sourceFailures": [
-    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 76,
+    "totalItems": 82,
     "totalSources": 18,
-    "succeededSources": 14,
-    "failedSources": 4
+    "succeededSources": 15,
+    "failedSources": 3
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 20
+      "count": 26
     },
     {
       "tag": "行业热点",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "设计/UI",
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 10
-    },
-    {
       "tag": "产品/商业",
       "count": 10
     },
     {
+      "tag": "工具/网站",
+      "count": 9
+    },
+    {
       "tag": "工程效率",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "讨论",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "开发者社区",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "交互设计",
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "效率",
       "count": 6
     },
     {
@@ -950,11 +950,11 @@
       "count": 5
     },
     {
-      "tag": "新产品",
-      "count": 4
+      "tag": "技术周刊",
+      "count": 3
     },
     {
-      "tag": "技术周刊",
+      "tag": "新产品",
       "count": 3
     }
   ]
