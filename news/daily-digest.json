@@ -1,124 +1,108 @@
 {
-  "generatedAt": "2026-07-25T03:04:06.086Z",
+  "generatedAt": "2026-07-26T03:04:46.766Z",
   "headline": {
-    "id": "d2923d9dd023030c",
-    "title": "GPT 5.6 Pro 自动降智？",
-    "summary": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high，偶尔开一下 max。ChatGPT 一般无脑开 GPT 5.6 Pro，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18，明显是被降智并路由到了最差的那一档 又切成 x…",
-    "url": "https://www.v2ex.com/t/1229703#reply0",
+    "id": "6255faf36709da8c",
+    "title": "happens-before 详解",
+    "summary": "Java 并发核心：为什么需要 happens-before？很多人在学习 Java 并发的时候，会直接开始背诵知识点：volatile 保证可见性 synchronized 保证线程安全 Lock 可以手动加锁 happens-before 存在八条规则 但绝大多数人都没有弄懂底层根源问题：为什么会诞生 happens-b…",
+    "url": "https://www.v2ex.com/t/1229840#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-07-25T02:58:00.000Z",
+    "publishedAt": "2026-07-26T02:21:29.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 116,
+    "score": 115,
     "sourceType": "rss",
-    "cover": "https://i.imgur.com/mGXmlqe.png",
-    "author": "timwu"
+    "cover": "",
+    "author": "markliu2013"
   },
   "latest": [
     {
-      "id": "d2923d9dd023030c",
-      "title": "GPT 5.6 Pro 自动降智？",
-      "summary": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high，偶尔开一下 max。ChatGPT 一般无脑开 GPT 5.6 Pro，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18，明显是被降智并路由到了最差的那一档 又切成 x…",
-      "url": "https://www.v2ex.com/t/1229703#reply0",
+      "id": "6255faf36709da8c",
+      "title": "happens-before 详解",
+      "summary": "Java 并发核心：为什么需要 happens-before？很多人在学习 Java 并发的时候，会直接开始背诵知识点：volatile 保证可见性 synchronized 保证线程安全 Lock 可以手动加锁 happens-before 存在八条规则 但绝大多数人都没有弄懂底层根源问题：为什么会诞生 happens-b…",
+      "url": "https://www.v2ex.com/t/1229840#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-25T02:58:00.000Z",
+      "publishedAt": "2026-07-26T02:21:29.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 116,
+      "score": 115,
       "sourceType": "rss",
-      "cover": "https://i.imgur.com/mGXmlqe.png",
-      "author": "timwu"
+      "cover": "",
+      "author": "markliu2013"
     },
     {
-      "id": "01e68216a08a4dea",
-      "title": "codex 写前端纯残废",
-      "summary": "又菜又慢，有没有懂的，还不如 composer 2.5。",
-      "url": "https://www.v2ex.com/t/1229695#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-25T02:18:39.000Z",
+      "id": "103d3131c382dfbe",
+      "title": "Systems and Delays",
+      "titleZh": "系统和延迟",
+      "summary": "Hacker News 热帖，当前积分 26，评论 5。",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-26T00:37:30.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发者社区"
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
       "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "yourajkhuram470"
+      "sourceType": "api"
     },
     {
-      "id": "04a71f9b5d89b7a5",
-      "title": "让同一个模型写 plan，再用它自己 review，这种有意义吗？ 还是用不同的模型来 review 好？",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1229700#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-25T02:42:21.000Z",
+      "id": "b0126be3f759814b",
+      "title": "Git rebase -I is not that scary",
+      "titleZh": "Git rebase -我不是那么可怕",
+      "summary": "Hacker News 热帖，当前积分 20，评论 19。",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-26T00:37:54.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发者社区"
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "blackantt"
+      "score": 110,
+      "sourceType": "api"
     },
     {
-      "id": "fac433d099bf6644",
-      "title": "已经在中转花了 1000 多块了，找个号池渠道自用可不可行？",
-      "summary": "每天用的 token 少则 5、6 亿多则将近 20 亿，不知道是不是只有中转、号池这种模式能支撑的了我这种用法（不用考虑 N 小时限量）😂。本着能节约一点是一点的想法，我这种是不是直接找号池渠道上游更划算点，反正就我自己用，不用自己维护号池的同时也不用再被中间商再收一次费。有没有懂行的 V 友指点一下。",
-      "url": "https://www.v2ex.com/t/1229686#reply14",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-07-25T01:15:37.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "https://i.imgant.com/v2/FJrhkUB.png",
-      "author": "cby0414"
-    },
-    {
-      "id": "d47a5707eb11d340",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "titleZh": "我尝试了 OpenAI 的新 AI 键盘—这对一些程序员来说很有趣，但对其他人来说有点神秘",
-      "summary": "OpenAI 的新型人工智能键盘对一些人来说会很有趣，而其他许多人可能不会碰它。",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "id": "04ed7990a8b17507",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "titleZh": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司--还有另外 20 家",
+      "summary": "以相反的时间顺序，对今年宣布大幅裁员的大型科技公司进行观察，并将人工智能作为一个既定因素。",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-25T00:23:11.000Z",
+      "publishedAt": "2026-07-26T01:30:00.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 102,
+      "score": 106,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "3fd216852f038051",
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "titleZh": "抹香鲸吹泡泡，实现宁静的垂直睡眠",
-      "summary": "Hacker News 热帖，当前积分 39，评论 1。",
-      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "id": "04dd9387e028a4dc",
+      "title": "Clinical failure rates over the decades: yikes",
+      "titleZh": "几十年来的临床失败率：yikes",
+      "summary": "Hacker News 热帖，当前积分 57，评论 32。",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-07-24T23:13:18.000Z",
+      "publishedAt": "2026-07-25T22:57:17.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -130,45 +114,82 @@
       "sourceType": "api"
     },
     {
-      "id": "18808cff22e19d3e",
-      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-      "titleZh": "SpaceX 发射新的 V3 Starlink 卫星，但再次遭遇助推器故障",
-      "summary": "该公司在第二次 Starship V3 飞行中又勾选了几个盒子，但似乎在重新点燃助推器的火箭发动机时遇到了另一个问题。",
-      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-24T23:25:47.000Z",
-      "category": "product",
+      "id": "0424b9f266814ce9",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "titleZh": "Cloudflare 为客户提供的全新 AI 流量选项",
+      "summary": "Hacker News 热帖，当前积分 50，评论 24。",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-25T22:50:49.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 102,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 107,
+      "sourceType": "api"
     },
     {
-      "id": "c867a63c8c3c2c42",
-      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-      "titleZh": "TechCrunch Disrupt 2026 的全新 Smart Money Stage 探索金融科技、支付、人工智能以及",
-      "summary": "钱已经远远超过了钱包或银行账户中的现金。在 TechCrunch Disrupt 2026 大会上，我们投入了整个阶段来推动这一进程。",
-      "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-07-24T22:10:00.000Z",
-      "category": "product",
+      "id": "957c14d962204d76",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "titleZh": "通用汽车支持美国电网存储的钠离子电池",
+      "summary": "Hacker News 热帖，当前积分 139，评论 53。",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-25T21:48:22.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 101,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 105,
+      "sourceType": "api"
+    },
+    {
+      "id": "dc87e13a239cbbac",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "titleZh": "Claude 5 代车型的上下文工程新规则",
+      "summary": "Hacker News 热帖，当前积分 185，评论 125。",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-07-25T20:42:35.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 104,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "cda79bb791bcf6e3",
+      "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
+      "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文",
+      "url": "https://sspai.com/post/112093",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-07-25T03:09:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 77,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "kokdemo"
+    },
     {
       "id": "52b547947521c5ae",
       "title": "本周看什么 | 最近值得一看的 13 部作品",
@@ -182,10 +203,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 90,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
+    },
+    {
+      "id": "d105e1a2131518cf",
+      "title": "Speechius",
+      "titleZh": "Speechius",
+      "summary": "实际聆听的意思提示器",
+      "url": "https://www.producthunt.com/products/speechius",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-07-24T08:33:41.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Jay Imdahl"
     },
     {
       "id": "f364abb571d7a439",
@@ -200,7 +240,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 85,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "程天冲"
@@ -218,7 +258,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 76,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "老麦"
@@ -236,46 +276,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 74,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "29e3976cca67281b",
-      "title": "新玩意 247｜少数派的编辑们最近买了啥？",
-      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@Lotta：海备思文件夹读 ... 查看全文",
-      "url": "https://sspai.com/post/112668",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-23T09:38:21.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "29597b6c3c591d30",
-      "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈",
-      "summary": "Pocket 一体式云台相机满是让人不容小觑的护城河与想象空间。查看全文",
-      "url": "https://sspai.com/post/112428",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-23T07:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Microhoo"
     }
   ],
   "sections": [
@@ -297,7 +301,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 80,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026072311.webp",
           "author": "阮一峰"
@@ -319,25 +323,6 @@
           "score": 64,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202607/2026-7-23_153636.webp",
-          "author": ""
-        },
-        {
-          "id": "1b3c3d43e32ae6e8",
-          "title": "writing-mode",
-          "titleZh": "写作模式",
-          "summary": "Writing-mode CSS 属性设置文本行是水平布局还是垂直布局，以及块和行的进度方向。.element {writ…",
-          "url": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-07-21T09:39:10.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
           "author": ""
         },
         {
@@ -398,6 +383,24 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)"
+        },
+        {
+          "id": "1da91e6f98135b7d",
+          "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-07-16T23:51:19.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 66,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026071603.webp",
+          "author": "阮一峰"
         }
       ]
     },
@@ -528,116 +531,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "d47a5707eb11d340",
-          "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-          "titleZh": "我尝试了 OpenAI 的新 AI 键盘—这对一些程序员来说很有趣，但对其他人来说有点神秘",
-          "summary": "OpenAI 的新型人工智能键盘对一些人来说会很有趣，而其他许多人可能不会碰它。",
-          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "id": "04ed7990a8b17507",
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "titleZh": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司--还有另外 20 家",
+          "summary": "以相反的时间顺序，对今年宣布大幅裁员的大型科技公司进行观察，并将人工智能作为一个既定因素。",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-25T00:23:11.000Z",
+          "publishedAt": "2026-07-26T01:30:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 106,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "18808cff22e19d3e",
-          "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-          "titleZh": "SpaceX 发射新的 V3 Starlink 卫星，但再次遭遇助推器故障",
-          "summary": "该公司在第二次 Starship V3 飞行中又勾选了几个盒子，但似乎在重新点燃助推器的火箭发动机时遇到了另一个问题。",
-          "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+          "id": "225c1cfe77cc8d7f",
+          "title": "The hacker who humiliated spyware makers and was never caught",
+          "titleZh": "羞辱间谍软件制造者但从未被抓住的黑客",
+          "summary": "一位令人敬畏的黑客攻击者入侵了两个备受争议的政府间谍软件制造商，他可能是从未被抓到的最多产的黑客。我们对 P……了解多少？",
+          "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-24T23:25:47.000Z",
+          "publishedAt": "2026-07-25T20:24:14.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c867a63c8c3c2c42",
-          "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-          "titleZh": "TechCrunch Disrupt 2026 的全新 Smart Money Stage 探索金融科技、支付、人工智能以及",
-          "summary": "钱已经远远超过了钱包或银行账户中的现金。在 TechCrunch Disrupt 2026 大会上，我们投入了整个阶段来推动这一进程。",
-          "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+          "id": "51af9fcee5c7edd5",
+          "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+          "titleZh": "华纳兄弟诉讼指控亚马逊非法偷猎高管",
+          "summary": "这起诉讼可能会重新引发争论，即根据加利福尼亚州法律，条款雇佣协议是否可以强制执行。",
+          "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-24T22:10:00.000Z",
+          "publishedAt": "2026-07-25T20:55:11.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e0f71762b38fd2f6",
-          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "titleZh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在谈判筹集 1亿美元 $",
-          "summary": "Neolab 认为，自动化日常计算机任务将很快超过编码，成为人工智能最大的用例。",
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "id": "27b5853803c4c2e7",
+          "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+          "titleZh": "据报道，Elon Musk 的 Boring Company 以 200亿美元的估值筹集资金",
+          "summary": "据报道，埃隆·马斯克(Elon Musk)的隧道初创公司正在就一轮重大的新融资进行谈判。",
+          "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-24T22:25:58.000Z",
+          "publishedAt": "2026-07-25T19:23:32.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "96710a77e0d066d6",
-          "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-          "titleZh": "越南正在寻求限制面向儿童的社交媒体；越来越多的其他国家也在做同样的事情",
-          "summary": "澳大利亚是 2025年底发布禁令的第一个国家，旨在减少年轻用户在社交媒体上可能面临的压力和风险，包括网络欺凌……",
-          "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+          "id": "a131c4a4975a0c6e",
+          "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+          "titleZh": "Kalshi 要求 Netflix 取消“预测游戏”纪录片的预告片",
+          "summary": "Kalshi 声称该预告片具有“诽谤性”，并包含“伪造文件以及虚假和误导性陈述”。",
+          "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-07-24T21:15:00.000Z",
+          "publishedAt": "2026-07-25T16:46:46.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "f98b55b041dac41e",
-          "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
-          "titleZh": "Claude Opus 5 评论：这个模型很棒（但很烦人）",
-          "summary": "立即观看|🎙️我通过我的七个模型基准测试运行了 Opus 5，将其与其他六个主要模型进行了比较，并得出了一个我真正意想不到的结论",
-          "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+          "id": "a8325ee71db42f8e",
+          "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
+          "titleZh": "🧠 社区智慧：在飞行员炼狱期间保持在客户的雷达上，将 Linear 与发现工具配对，人工智能可以自动化的局限性，Techstars 是否值得等等",
+          "summary": "社区智慧 194",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-07-24T17:15:25.000Z",
+          "publishedAt": "2026-07-25T16:01:44.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 93,
+          "score": 86,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/208355131/160ef0b97449c2cbfefb17cbdf9d4dcb.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
           "author": ""
         }
       ]
@@ -661,7 +664,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 91,
+          "score": 58,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2388/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
           "author": ""
@@ -680,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 71,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1376/1*yVor0bJNmDfk55Wr9yygcg.png",
           "author": ""
@@ -699,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 66,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -769,86 +772,70 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "d2923d9dd023030c",
-          "title": "GPT 5.6 Pro 自动降智？",
-          "summary": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high，偶尔开一下 max。ChatGPT 一般无脑开 GPT 5.6 Pro，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18，明显是被降智并路由到了最差的那一档 又切成 x…",
-          "url": "https://www.v2ex.com/t/1229703#reply0",
+          "id": "6255faf36709da8c",
+          "title": "happens-before 详解",
+          "summary": "Java 并发核心：为什么需要 happens-before？很多人在学习 Java 并发的时候，会直接开始背诵知识点：volatile 保证可见性 synchronized 保证线程安全 Lock 可以手动加锁 happens-before 存在八条规则 但绝大多数人都没有弄懂底层根源问题：为什么会诞生 happens-b…",
+          "url": "https://www.v2ex.com/t/1229840#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-25T02:58:00.000Z",
+          "publishedAt": "2026-07-26T02:21:29.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 116,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/mGXmlqe.png",
-          "author": "timwu"
-        },
-        {
-          "id": "01e68216a08a4dea",
-          "title": "codex 写前端纯残废",
-          "summary": "又菜又慢，有没有懂的，还不如 composer 2.5。",
-          "url": "https://www.v2ex.com/t/1229695#reply5",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-25T02:18:39.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
+          "score": 115,
           "sourceType": "rss",
           "cover": "",
-          "author": "yourajkhuram470"
+          "author": "markliu2013"
         },
         {
-          "id": "04a71f9b5d89b7a5",
-          "title": "让同一个模型写 plan，再用它自己 review，这种有意义吗？ 还是用不同的模型来 review 好？",
-          "summary": "",
-          "url": "https://www.v2ex.com/t/1229700#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-25T02:42:21.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 109,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "blackantt"
-        },
-        {
-          "id": "fac433d099bf6644",
-          "title": "已经在中转花了 1000 多块了，找个号池渠道自用可不可行？",
-          "summary": "每天用的 token 少则 5、6 亿多则将近 20 亿，不知道是不是只有中转、号池这种模式能支撑的了我这种用法（不用考虑 N 小时限量）😂。本着能节约一点是一点的想法，我这种是不是直接找号池渠道上游更划算点，反正就我自己用，不用自己维护号池的同时也不用再被中间商再收一次费。有没有懂行的 V 友指点一下。",
-          "url": "https://www.v2ex.com/t/1229686#reply14",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-07-25T01:15:37.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "https://i.imgant.com/v2/FJrhkUB.png",
-          "author": "cby0414"
-        },
-        {
-          "id": "3fd216852f038051",
-          "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-          "titleZh": "抹香鲸吹泡泡，实现宁静的垂直睡眠",
-          "summary": "Hacker News 热帖，当前积分 39，评论 1。",
-          "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+          "id": "103d3131c382dfbe",
+          "title": "Systems and Delays",
+          "titleZh": "系统和延迟",
+          "summary": "Hacker News 热帖，当前积分 26，评论 5。",
+          "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-24T23:13:18.000Z",
+          "publishedAt": "2026-07-26T00:37:30.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
+          "sourceType": "api"
+        },
+        {
+          "id": "b0126be3f759814b",
+          "title": "Git rebase -I is not that scary",
+          "titleZh": "Git rebase -我不是那么可怕",
+          "summary": "Hacker News 热帖，当前积分 20，评论 19。",
+          "url": "https://cachebag.sh/journal/interactive-rebasing/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-26T00:37:54.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
+          "sourceType": "api"
+        },
+        {
+          "id": "04dd9387e028a4dc",
+          "title": "Clinical failure rates over the decades: yikes",
+          "titleZh": "几十年来的临床失败率：yikes",
+          "summary": "Hacker News 热帖，当前积分 57，评论 32。",
+          "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-25T22:57:17.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -860,14 +847,14 @@
           "sourceType": "api"
         },
         {
-          "id": "48a6a9192322f279",
-          "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "titleZh": "作品 5 目前在人工智能排行榜上排名第一",
-          "summary": "Hacker News 热帖，当前积分 161，评论 106。",
-          "url": "https://artificialanalysis.ai/models",
+          "id": "0424b9f266814ce9",
+          "title": "Cloudflare's new AI traffic options for customers",
+          "titleZh": "Cloudflare 为客户提供的全新 AI 流量选项",
+          "summary": "Hacker News 热帖，当前积分 50，评论 24。",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-07-24T19:45:10.000Z",
+          "publishedAt": "2026-07-25T22:50:49.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -875,27 +862,47 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 102,
+          "score": 107,
+          "sourceType": "api"
+        },
+        {
+          "id": "957c14d962204d76",
+          "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+          "titleZh": "通用汽车支持美国电网存储的钠离子电池",
+          "summary": "Hacker News 热帖，当前积分 139，评论 53。",
+          "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-07-25T21:48:22.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 105,
           "sourceType": "api"
         }
       ]
     }
   ],
   "sourceFailures": [
+    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 77,
     "totalSources": 18,
-    "succeededSources": 15,
-    "failedSources": 3
+    "succeededSources": 14,
+    "failedSources": 4
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 26
+      "count": 20
     },
     {
       "tag": "行业热点",
@@ -911,7 +918,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 9
+      "count": 10
     },
     {
       "tag": "工程效率",
@@ -926,11 +933,11 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "效率",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -950,11 +957,11 @@
       "count": 5
     },
     {
-      "tag": "技术周刊",
-      "count": 3
+      "tag": "新产品",
+      "count": 4
     },
     {
-      "tag": "新产品",
+      "tag": "技术周刊",
       "count": 3
     }
   ]
