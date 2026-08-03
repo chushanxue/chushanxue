@@ -1,53 +1,51 @@
 {
-  "generatedAt": "2026-08-02T03:04:58.083Z",
+  "generatedAt": "2026-08-03T03:05:15.640Z",
   "headline": {
-    "id": "b93467f392b7cd4c",
-    "title": "Four Time Scales for Technology Development and Deployment",
-    "titleZh": "技术开发和部署的四个时间表",
-    "summary": "Hacker News 热帖，当前积分 5，评论 0。",
-    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "publishedAt": "2026-08-02T02:26:52.000Z",
+    "id": "ceb2428a27c68600",
+    "title": "VSCode 的 codex 插件查看 Diff 出错了",
+    "summary": "如图报错，就是以前我都习惯查看下本次对话做了哪些修改，但是从上周开始，我每次点击查看，都会出错，早上我重装了下，还是一样 有没有知道怎么解决的大佬，请教，谢谢啦~~",
+    "url": "https://www.v2ex.com/t/1231665#reply2",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-08-03T03:00:36.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "工程效率",
-      "Hacker News",
-      "讨论"
+      "开发者社区"
     ],
     "score": 113,
-    "sourceType": "api"
+    "sourceType": "rss",
+    "cover": "https://i.imgur.com/dsb7RgS.png",
+    "author": "LeonChenX"
   },
   "latest": [
     {
-      "id": "b93467f392b7cd4c",
-      "title": "Four Time Scales for Technology Development and Deployment",
-      "titleZh": "技术开发和部署的四个时间表",
-      "summary": "Hacker News 热帖，当前积分 5，评论 0。",
-      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-02T02:26:52.000Z",
+      "id": "ceb2428a27c68600",
+      "title": "VSCode 的 codex 插件查看 Diff 出错了",
+      "summary": "如图报错，就是以前我都习惯查看下本次对话做了哪些修改，但是从上周开始，我每次点击查看，都会出错，早上我重装了下，还是一样 有没有知道怎么解决的大佬，请教，谢谢啦~~",
+      "url": "https://www.v2ex.com/t/1231665#reply2",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-03T03:00:36.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
       "score": 113,
-      "sourceType": "api"
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/dsb7RgS.png",
+      "author": "LeonChenX"
     },
     {
-      "id": "2345a984b479bf05",
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "titleZh": "Show HN：我是一名 15 岁的 Wannabe 工程师，这是我建造的摆线变速箱",
-      "summary": "Hacker News 热帖，当前积分 22，评论 3。",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "id": "ab74156aa3cff62b",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "titleZh": "Qwen3.8-Max：编码和共享工作的新工具栏",
+      "summary": "Hacker News 热帖，当前积分 18，评论 0。",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-02T02:07:09.000Z",
+      "publishedAt": "2026-08-03T02:16:09.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -59,14 +57,14 @@
       "sourceType": "api"
     },
     {
-      "id": "ef9fce1fd16adc17",
-      "title": "Go 1.27 Interactive Tour",
-      "titleZh": "Go 1.27 互动之旅",
-      "summary": "Hacker News 热帖，当前积分 50，评论 8。",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "id": "9b82d9565227b7f1",
+      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "titleZh": "RFC 9851：TLS 1.2 处于功能冻结状态",
+      "summary": "Hacker News 热帖，当前积分 17，评论 4。",
+      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-02T01:35:51.000Z",
+      "publishedAt": "2026-08-03T01:23:26.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -78,14 +76,14 @@
       "sourceType": "api"
     },
     {
-      "id": "921e939357753353",
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "titleZh": "ASRock BC-250：打造经济型蒸汽机",
-      "summary": "Hacker News 热帖，当前积分 17，评论 1。",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "id": "f06114144530573c",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "titleZh": "CP/M-386 – 386 保护模式的 CP/M，源自 CP/M ‑ 68K",
+      "summary": "Hacker News 热帖，当前积分 37，评论 9。",
+      "url": "https://github.com/johnsonjh/cpm386",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-02T01:35:11.000Z",
+      "publishedAt": "2026-08-03T00:38:10.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -93,36 +91,55 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 111,
+      "score": 110,
       "sourceType": "api"
     },
     {
-      "id": "bb9c380aacac0b09",
-      "title": "codex 现在怎么这么慢了，用的 sol 中、高都很慢",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1231499#reply7",
+      "id": "8868f836cc6907f5",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "titleZh": "显示 HN：Isopolis - SF 的等距像素图",
+      "summary": "Hacker News 热帖，当前积分 56，评论 16。",
+      "url": "https://sf.isopolis.city/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-08-03T00:46:38.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "18ef46cb0fc51b88",
+      "title": "gpt 的新邀请拉新活动有人试水过嘛？",
+      "summary": "每月3 次机会,拉新成功送 500 信用额度。",
+      "url": "https://www.v2ex.com/t/1231618#reply9",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-02T01:09:50.000Z",
+      "publishedAt": "2026-08-03T01:36:00.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 107,
+      "score": 108,
       "sourceType": "rss",
       "cover": "",
-      "author": "longpc"
+      "author": "calvinHxx"
     },
     {
-      "id": "ce098610c8f77463",
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "titleZh": "RFC 10015：弃用 TLS 1.2 和 DTLS 1.2 中过时的密钥交换方法",
-      "summary": "Hacker News 热帖，当前积分 34，评论 3。",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "id": "e66e50ec35b5fb16",
+      "title": "Show HN: ssh ssh.place",
+      "titleZh": "显示 HN：ssh ssh.place",
+      "summary": "Hacker News 热帖，当前积分 34，评论 20。",
+      "url": "https://ssh.place",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-01T23:44:55.000Z",
+      "publishedAt": "2026-08-03T00:23:21.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -130,18 +147,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 109,
       "sourceType": "api"
     },
     {
-      "id": "c08e8378130e87f8",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "titleZh": "人工智能财务建议令人惊讶地好，特别是当你提出正确的问题时",
-      "summary": "Hacker News 热帖，当前积分 188，评论 154。",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "id": "6320521059586b38",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "titleZh": "为什么 Book Corners 不会将贡献同步回 OpenStreetMap",
+      "summary": "Hacker News 热帖，当前积分 48，评论 31。",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-01T22:25:12.000Z",
+      "publishedAt": "2026-08-03T00:12:16.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -149,30 +166,66 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 106,
-      "sourceType": "api"
-    },
-    {
-      "id": "1a373ae85d1ea104",
-      "title": "Seedance 2.5",
-      "titleZh": "Seedance 2.5",
-      "summary": "Hacker News 热帖，当前积分 206，评论 96。",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-01T20:45:12.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 104,
+      "score": 109,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "addc59b693fa3bb0",
+      "title": "派早报：DeepSeek V4 Flash 正式版发布",
+      "summary": "DeepSeek V4 Flash 正式版发布 特朗普向科技公司频繁索要捐款 马斯克称从未讨论过出售特斯拉中国业务 国补调整后终端销售承压 风投机构重新涌入中国科技领域 统计显示实体光盘并不能保证游戏长期可玩 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/113014",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-02T22:49:31.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "9efa00dcff0f0b1e",
+      "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/112843",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-02T06:38:25.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 85,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "野比大雄76"
+    },
+    {
+      "id": "f6d64409acf09a73",
+      "title": "Lumichats",
+      "titleZh": "Lumichats",
+      "summary": "对于避开航站楼的人来说，Claude Code 是一种替代方案",
+      "url": "https://www.producthunt.com/products/lumichats-offline",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-08-01T14:10:42.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 56,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Aditya Kumar Jha"
+    },
     {
       "id": "b2d3b70496459b04",
       "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
@@ -186,39 +239,20 @@
         "工具/网站",
         "效率"
       ],
-      "score": 80,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "一群小羊说"
     },
     {
-      "id": "96db9a23f4963942",
-      "title": "EssayKraft",
-      "titleZh": "EssayKraft",
-      "summary": "适用于 Mac 和 iPad 的本地论文写作应用程序",
-      "url": "https://www.producthunt.com/products/essaykraft",
+      "id": "ed45c0f4e09a76cc",
+      "title": "Zen Whisper",
+      "titleZh": "禅意低语",
+      "summary": "在任何应用程序中键入的设备上 Mac 听写",
+      "url": "https://www.producthunt.com/products/zen-whisper",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-31T18:27:31.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Noah Page"
-    },
-    {
-      "id": "9d7e0cff26e7a7a5",
-      "title": "DeepSeek-V4-Flash-0731",
-      "titleZh": "DeepSeek-V4-Flash-0731",
-      "summary": "Flash 价格的前沿代理情报",
-      "url": "https://www.producthunt.com/products/deepseek",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-31T13:38:23.000Z",
+      "publishedAt": "2026-07-31T14:55:35.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -227,7 +261,7 @@
       "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "Zac Zuo"
+      "author": "ZenProducts"
     },
     {
       "id": "8f88ccf3d4894299",
@@ -246,43 +280,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "板斧"
-    },
-    {
-      "id": "1902e748fd6243ba",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "summary": "📅本周新预告《银翼杀手 2099》首支预告 7月25日，剧集《银翼杀手 2099》发布了首支预告，定档 11月25日上线 PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ... 查看全文",
-      "url": "https://sspai.com/post/112961",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-31T09:57:39.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "567c0db4005f2de4",
-      "title": "NudgeForMe",
-      "titleZh": "NudgeForMe",
-      "summary": "错过电子邮件机会的人工智能跟进代理",
-      "url": "https://www.producthunt.com/products/nudgeforme",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-31T10:42:14.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Victoria Dash"
     }
   ],
   "sections": [
@@ -291,6 +288,44 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "a858b20b0370629f",
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "titleZh": "为强大的 CSS 边框形状属性做好准备！",
+          "summary": "我们最近得到了 shape ()函数和 corner-shape 属性。我们还需要什么才能在 CSS 中创建形状？让我告诉你：边框形状的道具……",
+          "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-07-31T15:14:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "fc5bce6376484ee0",
+          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+          "titleZh": "What's! important # 16: sibling-index ()动画、infinity 关键字用例、容器卡住查询等",
+          "summary": "动画、CSS 和 2026 FIFA 世界杯、infinity 关键字用例、容器“卡住”查询等的即将到来的基线 sibling-index ()函数。Wh…",
+          "url": "https://css-tricks.com/whats-important-16/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-07-31T14:06:21.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 67,
+          "sourceType": "rss",
+          "cover": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
+          "author": ""
+        },
         {
           "id": "121e1535a9708e00",
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
@@ -365,43 +400,6 @@
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202607/2026-7-29_112106.webp",
           "author": ""
-        },
-        {
-          "id": "b92c51a80283fbae",
-          "title": "Thinking Outside The Box: Digital Design In The AI Era",
-          "titleZh": "开箱即用：人工智能时代的数字设计",
-          "summary": "我们与之交互的许多人工智能工具都采用文本框的形式。但是，如果有一种不同的方式与人工智能进行交互呢？Oleksii Hrzhehorzhevskyi 探讨了一个不同的……",
-          "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-07-28T10:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
-          "author": "hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)"
-        },
-        {
-          "id": "a904b8ea8ba875db",
-          "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
-          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-          "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-          "source": "阮一峰的网络日志",
-          "sourceUrl": "https://www.ruanyifeng.com/blog/",
-          "publishedAt": "2026-07-24T00:12:16.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "技术周刊"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026072311.webp",
-          "author": "阮一峰"
         }
       ]
     },
@@ -424,7 +422,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 83,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -532,33 +530,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "c3289f06a97ad3ca",
-          "title": "Inside the London hacker house taking a stand against founder burnout",
-          "titleZh": "在伦敦黑客之家内，对创始人倦怠采取立场",
-          "summary": "一个创始人家族如何打赌工作与生活的平衡可以战胜倦怠。",
-          "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "id": "a86501f6b75dfda2",
+          "title": "The global memory shortage hits the MacBook Air",
+          "titleZh": "全球内存短缺影响了 MacBook Air",
+          "summary": "全球内存芯片短缺似乎正在影响苹果最受欢迎的 Mac 的可用性。",
+          "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-01T21:14:48.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 96,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e78b79cba248b559",
-          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-          "titleZh": "YouTuber Hank Green 说他的人工智能使用“不健康”",
-          "summary": "Green 提出了一个非凡的道歉，说“我从与 LLM 的互动中获得的多巴胺水平......对我来说不健康或对 WORL 有益......",
-          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-01T19:45:45.000Z",
+          "publishedAt": "2026-08-02T21:33:59.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -570,52 +549,33 @@
           "author": ""
         },
         {
-          "id": "f416955efc54e50d",
-          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-          "titleZh": "法官驳回 xAI 阻止明尼苏达州禁止“裸化”应用程序的请求",
-          "summary": "尽管 xAI 提起诉讼，但明尼苏达州对允许用户“裸化”图像的应用程序的禁令可以继续推进。",
-          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "id": "90b50b6ec528b83f",
+          "title": "Sam Altman and AI’s decel debate",
+          "titleZh": "山姆·奥尔特曼和人工智能的 decel 辩论",
+          "summary": "在最新一期的《Equity》中，我们讨论了为什么 Sam Altman 呼吁业界“加快人工智能发展的步伐”。",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-01T20:26:04.000Z",
+          "publishedAt": "2026-08-02T20:54:22.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "df2a6db691ab79b0",
-          "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-          "titleZh": "您应该继续购买下一部智能手机，还是订阅它？",
-          "summary": "Apple 的新升级计划是智能手机所有权正在发生变化的最新迹象。",
-          "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+          "id": "a5257f589f302d06",
+          "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+          "titleZh": "据报道，马来西亚正在关闭 Balaji Srinivasan 的网络学校",
+          "summary": "让我们看看这个“技术乐观主义者的前沿社区”是如何运作的……",
+          "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-01T18:47:27.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 92,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "1abcb0e4ce0c8a7e",
-          "title": "Sam Altman is still making the case for parenting via ChatGPT",
-          "titleZh": "Sam Altman 仍在通过 ChatGPT 提出养育子女的理由",
-          "summary": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。",
-          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-01T17:07:34.000Z",
+          "publishedAt": "2026-08-02T17:05:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -627,21 +587,59 @@
           "author": ""
         },
         {
-          "id": "d9002db7f473c133",
-          "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
-          "titleZh": "🧠 社区智慧：开始使用开源模式，让美国商务差旅物有所值，为可能的裁员做准备，当营销无法跟上产品的步伐时，等等",
-          "summary": "社区智慧 195",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+          "id": "a7f5910a55457e66",
+          "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+          "titleZh": "TechCrunch Mobility：两条道路分开—用于机器人出租车",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
+          "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-02T16:05:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "7461e507c280a9fd",
+          "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+          "titleZh": "这些 App Store 隐藏的宝石证明，人工智能时代仍有优秀软件的空间",
+          "summary": "尽管预测人工智能代理可能会使传统应用程序过时，但开发人员比以往任何时候都更快地发布新软件。从更智能的书签工具和 neig……",
+          "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-02T15:23:19.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "9eb520b632fbe159",
+          "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+          "titleZh": "这位 CPO 对产品管理的存在感到遗憾| Tom Verrilli （Whatnot 的 CPO）",
+          "summary": "立即收听| Tom Verrilli 解释了为什么从事真实 IC 工作的高级 PM 比任何比例驱动的组织结构都要少",
+          "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-08-01T17:25:18.000Z",
+          "publishedAt": "2026-08-02T12:32:02.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 88,
+          "score": 84,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "cover": "https://api.substack.com/feed/podcast/209025231/25924185c9f76e94e6959378b192bc81.mp3",
           "author": ""
         }
       ]
@@ -651,6 +649,63 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "a2587d8ad1c702dc",
+          "title": "Designing for the proxy",
+          "titleZh": "为代理设计",
+          "summary": "",
+          "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-02T14:12:49.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "675f652b72edf2d6",
+          "title": "The architecture of watching work",
+          "titleZh": "观看作品的架构",
+          "summary": "一个世纪以来，我们围绕一个问题设计了办公室--我们如何看待工作？人工智能正在悄悄地改变这个问题。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-02T10:27:44.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*_JgMkCR6xFSlxJs24TlYrA.jpeg",
+          "author": ""
+        },
+        {
+          "id": "423f0be75545ffd8",
+          "title": "Design.md: the one standard file carries your visual identity, for humans and agents",
+          "titleZh": "Design.md：一个标准文件携带您的视觉标识，适用于人类和代理",
+          "summary": "",
+          "url": "https://uxdesign.cc/design-md-the-one-standard-file-carries-your-visual-identity-for-humans-and-agents-9058d5b39d9b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-02T10:27:17.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 86,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "d67b5ccea350cd7d",
           "title": "Why airlines are finally waking up to context-aware design",
@@ -665,7 +720,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 103,
+          "score": 65,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/0*f747OZL4UEmBCN2J",
           "author": ""
@@ -684,7 +739,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 77,
+          "score": 58,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1948/1*2Uyw7GVZYWxyrQo80EZtYA.png",
           "author": ""
@@ -703,63 +758,6 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 74,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "73bb6f2fb05e1749",
-          "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
-          "titleZh": "雅各布定律：当人工智能崩溃到一个聊天框中时，如何应用它",
-          "summary": "",
-          "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-30T22:36:31.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a924db844dc5fea5",
-          "title": "Rethinking friction in an AI world",
-          "titleZh": "重新思考人工智能世界中的摩擦",
-          "summary": "",
-          "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-30T22:33:38.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e19f83adbb634ea0",
-          "title": "The accessibility paradox",
-          "titleZh": "无障碍悖论",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-07-30T05:24:35.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 55,
           "sourceType": "rss",
           "cover": "",
@@ -773,33 +771,32 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "b93467f392b7cd4c",
-          "title": "Four Time Scales for Technology Development and Deployment",
-          "titleZh": "技术开发和部署的四个时间表",
-          "summary": "Hacker News 热帖，当前积分 5，评论 0。",
-          "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-02T02:26:52.000Z",
+          "id": "ceb2428a27c68600",
+          "title": "VSCode 的 codex 插件查看 Diff 出错了",
+          "summary": "如图报错，就是以前我都习惯查看下本次对话做了哪些修改，但是从上周开始，我每次点击查看，都会出错，早上我重装了下，还是一样 有没有知道怎么解决的大佬，请教，谢谢啦~~",
+          "url": "https://www.v2ex.com/t/1231665#reply2",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-03T03:00:36.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
+            "开发者社区"
           ],
           "score": 113,
-          "sourceType": "api"
+          "sourceType": "rss",
+          "cover": "https://i.imgur.com/dsb7RgS.png",
+          "author": "LeonChenX"
         },
         {
-          "id": "2345a984b479bf05",
-          "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-          "titleZh": "Show HN：我是一名 15 岁的 Wannabe 工程师，这是我建造的摆线变速箱",
-          "summary": "Hacker News 热帖，当前积分 22，评论 3。",
-          "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+          "id": "ab74156aa3cff62b",
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "titleZh": "Qwen3.8-Max：编码和共享工作的新工具栏",
+          "summary": "Hacker News 热帖，当前积分 18，评论 0。",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-02T02:07:09.000Z",
+          "publishedAt": "2026-08-03T02:16:09.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -811,14 +808,14 @@
           "sourceType": "api"
         },
         {
-          "id": "ef9fce1fd16adc17",
-          "title": "Go 1.27 Interactive Tour",
-          "titleZh": "Go 1.27 互动之旅",
-          "summary": "Hacker News 热帖，当前积分 50，评论 8。",
-          "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+          "id": "9b82d9565227b7f1",
+          "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+          "titleZh": "RFC 9851：TLS 1.2 处于功能冻结状态",
+          "summary": "Hacker News 热帖，当前积分 17，评论 4。",
+          "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-02T01:35:51.000Z",
+          "publishedAt": "2026-08-03T01:23:26.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -830,14 +827,14 @@
           "sourceType": "api"
         },
         {
-          "id": "921e939357753353",
-          "title": "ASRock BC-250: Building the Budget Steam Machine",
-          "titleZh": "ASRock BC-250：打造经济型蒸汽机",
-          "summary": "Hacker News 热帖，当前积分 17，评论 1。",
-          "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+          "id": "f06114144530573c",
+          "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+          "titleZh": "CP/M-386 – 386 保护模式的 CP/M，源自 CP/M ‑ 68K",
+          "summary": "Hacker News 热帖，当前积分 37，评论 9。",
+          "url": "https://github.com/johnsonjh/cpm386",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-02T01:35:11.000Z",
+          "publishedAt": "2026-08-03T00:38:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -845,69 +842,68 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
+          "score": 110,
           "sourceType": "api"
         },
         {
-          "id": "bb9c380aacac0b09",
-          "title": "codex 现在怎么这么慢了，用的 sol 中、高都很慢",
-          "summary": "",
-          "url": "https://www.v2ex.com/t/1231499#reply7",
+          "id": "8868f836cc6907f5",
+          "title": "Show HN: Isopolis – Isometric pixel map of SF",
+          "titleZh": "显示 HN：Isopolis - SF 的等距像素图",
+          "summary": "Hacker News 热帖，当前积分 56，评论 16。",
+          "url": "https://sf.isopolis.city/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-08-03T00:46:38.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
+          "sourceType": "api"
+        },
+        {
+          "id": "18ef46cb0fc51b88",
+          "title": "gpt 的新邀请拉新活动有人试水过嘛？",
+          "summary": "每月3 次机会,拉新成功送 500 信用额度。",
+          "url": "https://www.v2ex.com/t/1231618#reply9",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-02T01:09:50.000Z",
+          "publishedAt": "2026-08-03T01:36:00.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 107,
+          "score": 108,
           "sourceType": "rss",
           "cover": "",
-          "author": "longpc"
-        },
-        {
-          "id": "ce098610c8f77463",
-          "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-          "titleZh": "RFC 10015：弃用 TLS 1.2 和 DTLS 1.2 中过时的密钥交换方法",
-          "summary": "Hacker News 热帖，当前积分 34，评论 3。",
-          "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-01T23:44:55.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 108,
-          "sourceType": "api"
+          "author": "calvinHxx"
         }
       ]
     }
   ],
   "sourceFailures": [
-    "CSS-Tricks 无可用条目",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 78,
+    "totalItems": 82,
     "totalSources": 18,
-    "succeededSources": 14,
-    "failedSources": 4
+    "succeededSources": 15,
+    "failedSources": 3
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 20
+      "count": 26
     },
     {
       "tag": "行业热点",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "设计/UI",
@@ -915,7 +911,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 11
+      "count": 10
     },
     {
       "tag": "产品/商业",
@@ -930,15 +926,11 @@
       "count": 8
     },
     {
-      "tag": "开发者社区",
+      "tag": "效率",
       "count": 6
     },
     {
       "tag": "交互设计",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
@@ -950,16 +942,20 @@
       "count": 6
     },
     {
-      "tag": "科技公司",
+      "tag": "开发者社区",
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "科技公司",
       "count": 5
     },
     {
       "tag": "开发平台",
       "count": 5
+    },
+    {
+      "tag": "新产品",
+      "count": 4
     },
     {
       "tag": "技术周刊",
