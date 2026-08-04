@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-08-03T03:05:15.640Z",
+  "generatedAt": "2026-08-04T03:04:37.370Z",
   "headline": {
-    "id": "ceb2428a27c68600",
-    "title": "VSCode 的 codex 插件查看 Diff 出错了",
-    "summary": "如图报错，就是以前我都习惯查看下本次对话做了哪些修改，但是从上周开始，我每次点击查看，都会出错，早上我重装了下，还是一样 有没有知道怎么解决的大佬，请教，谢谢啦~~",
-    "url": "https://www.v2ex.com/t/1231665#reply2",
+    "id": "aea659fa1e8a8f3f",
+    "title": "chatgpt 日区订阅 plus 现在 2860 日元",
+    "summary": "用 google play 订阅还是很丝滑就搞定了",
+    "url": "https://www.v2ex.com/t/1231939#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-08-03T03:00:36.000Z",
+    "publishedAt": "2026-08-04T03:01:55.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 113,
+    "score": 111,
     "sourceType": "rss",
-    "cover": "https://i.imgur.com/dsb7RgS.png",
-    "author": "LeonChenX"
+    "cover": "",
+    "author": "slation"
   },
   "latest": [
     {
-      "id": "ceb2428a27c68600",
-      "title": "VSCode 的 codex 插件查看 Diff 出错了",
-      "summary": "如图报错，就是以前我都习惯查看下本次对话做了哪些修改，但是从上周开始，我每次点击查看，都会出错，早上我重装了下，还是一样 有没有知道怎么解决的大佬，请教，谢谢啦~~",
-      "url": "https://www.v2ex.com/t/1231665#reply2",
+      "id": "aea659fa1e8a8f3f",
+      "title": "chatgpt 日区订阅 plus 现在 2860 日元",
+      "summary": "用 google play 订阅还是很丝滑就搞定了",
+      "url": "https://www.v2ex.com/t/1231939#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-03T03:00:36.000Z",
+      "publishedAt": "2026-08-04T03:01:55.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "slation"
+    },
+    {
+      "id": "6ea66759f248f476",
+      "title": "大模型排行榜到底哪个权威？",
+      "summary": "Qwen3.8-max 出了，今天看排行榜 3 个榜 3 个名次，该信哪个呢？排行第 4 https://arena.ai/leaderboard/code/webdev 排行第 7 https://llm-stats.com/ 第十名之后去了 https://artificialanalysis.ai/leaderboards/…",
+      "url": "https://www.v2ex.com/t/1231896#reply13",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-04T01:28:45.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -34,37 +52,108 @@
       ],
       "score": 113,
       "sourceType": "rss",
-      "cover": "https://i.imgur.com/dsb7RgS.png",
-      "author": "LeonChenX"
+      "cover": "",
+      "author": "fankcoder"
     },
     {
-      "id": "ab74156aa3cff62b",
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "titleZh": "Qwen3.8-Max：编码和共享工作的新工具栏",
-      "summary": "Hacker News 热帖，当前积分 18，评论 0。",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-03T02:16:09.000Z",
+      "id": "366c6f60126dbfd1",
+      "title": "求建议：硕士毕业两年跳槽方向和薪资求指导",
+      "summary": "背景 学历：985 软件工程硕士（本科双一流计算机） 工作年限：约 2年，在某国企内部做数据库相关的研发，包括云原生、分布式、PG 内核都有涉及，但是不深入 实习经历：某一线大厂做过 GPU 和 CPU 的故障诊断和指标采集分析之类的运维工作，约 1年 坐标：南京 目标 base 地：上海 个人主技术栈: Go 个人项目：平常写…",
+      "url": "https://www.v2ex.com/t/1231903#reply5",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-04T01:34:52.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
-      "score": 112,
-      "sourceType": "api"
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "quboliu"
     },
     {
-      "id": "9b82d9565227b7f1",
-      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-      "titleZh": "RFC 9851：TLS 1.2 处于功能冻结状态",
-      "summary": "Hacker News 热帖，当前积分 17，评论 4。",
-      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+      "id": "d3141f945f9b7718",
+      "title": "Play 商店可以直接“降级”更新",
+      "summary": "play 商店里的云闪付版本号是 10.2.1。上次更新是 25年3月28日。为了消耗掉快过期的积点，尝试去兑换立减券。每次到点去都提示：网络问题，让刷新。以为是版本限制问题，就从官网下载版本号 10.3.6 的安装包，包比 play 上的大了近 50M，Target 低了 3 个大版本，Compile 低了 2…",
+      "url": "https://www.v2ex.com/t/1231889#reply9",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-04T01:20:39.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "SamClip"
+    },
+    {
+      "id": "12d0cf35f88a4f56",
+      "title": "ds v4 flash 编程效果还不错",
+      "summary": "日常功能开发没问题，复杂任务人工多干预一下，完全可以作为日常主力使用。关键还速度快，价格便宜",
+      "url": "https://www.v2ex.com/t/1231915#reply22",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-04T02:06:37.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "jedeft"
+    },
+    {
+      "id": "3f4688b1be8370f8",
+      "title": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等",
+      "summary": "少数派的近期动态投稿征文赢好礼！「角落新声」征文活动距离结束还有一周。火速投稿新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解你可能错过的文章角落新声｜两平米、两个角落，安放两个自己 ... 查看全文",
+      "url": "https://sspai.com/post/113053",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-04T00:13:40.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "5a78c55f54ed131b",
+      "title": "被 Claude 封号的 24 小时后，我悟了",
+      "summary": "昨天早上用 Claude 的时候，突然提示我会员没有了只能 chat 不能 code，震惊之余多了份解脱，用的时候想着这一天什么时候来，现在终于解脱了。关掉了窗口，长谈一口气。这段时间用它写了 5 个脚本，3 个浏览器插件，2 个个人玩具软件，以及修复了无数的 bug，每周期待就是重置完，然后一个个项目的想新需求，做功能，改…",
+      "url": "https://www.v2ex.com/t/1231882#reply11",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-04T00:53:49.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "IlIl"
+    },
+    {
+      "id": "a6edf8f7992cdff5",
+      "title": "Native Apps Should Be Avoided Whenever Possible",
+      "titleZh": "应尽可能避免使用本机应用程序",
+      "summary": "Hacker News 热帖，当前积分 19，评论 10。",
+      "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-03T01:23:26.000Z",
+      "publishedAt": "2026-08-04T01:06:36.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -74,103 +163,99 @@
       ],
       "score": 111,
       "sourceType": "api"
-    },
-    {
-      "id": "f06114144530573c",
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "titleZh": "CP/M-386 – 386 保护模式的 CP/M，源自 CP/M ‑ 68K",
-      "summary": "Hacker News 热帖，当前积分 37，评论 9。",
-      "url": "https://github.com/johnsonjh/cpm386",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-03T00:38:10.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "8868f836cc6907f5",
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "titleZh": "显示 HN：Isopolis - SF 的等距像素图",
-      "summary": "Hacker News 热帖，当前积分 56，评论 16。",
-      "url": "https://sf.isopolis.city/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-03T00:46:38.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "18ef46cb0fc51b88",
-      "title": "gpt 的新邀请拉新活动有人试水过嘛？",
-      "summary": "每月3 次机会,拉新成功送 500 信用额度。",
-      "url": "https://www.v2ex.com/t/1231618#reply9",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-03T01:36:00.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "calvinHxx"
-    },
-    {
-      "id": "e66e50ec35b5fb16",
-      "title": "Show HN: ssh ssh.place",
-      "titleZh": "显示 HN：ssh ssh.place",
-      "summary": "Hacker News 热帖，当前积分 34，评论 20。",
-      "url": "https://ssh.place",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-03T00:23:21.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 109,
-      "sourceType": "api"
-    },
-    {
-      "id": "6320521059586b38",
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "titleZh": "为什么 Book Corners 不会将贡献同步回 OpenStreetMap",
-      "summary": "Hacker News 热帖，当前积分 48，评论 31。",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-03T00:12:16.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 109,
-      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "3f4688b1be8370f8",
+      "title": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等",
+      "summary": "少数派的近期动态投稿征文赢好礼！「角落新声」征文活动距离结束还有一周。火速投稿新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解你可能错过的文章角落新声｜两平米、两个角落，安放两个自己 ... 查看全文",
+      "url": "https://sspai.com/post/113053",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-04T00:13:40.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "43f52f796f1bc3f7",
+      "title": "派评 | 近期值得关注的 App",
+      "summary": ">下载少数派 2.0 客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "url": "https://sspai.com/post/113040",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-03T10:09:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 89,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "e637595fe95fe1d0",
+      "title": "把折叠屏外屏做成手机后：iKKO MindOne Pro 体验",
+      "summary": "在如今智能手机市场高度同质化、各家都在公模和微创新里打转的时代，一台形态奇特的设备总是能轻易抓住数码爱好者的眼球。前段时间，我在浏览 iKKO 官网时，被一台名为 MindOnePro 的手机吸引了。它接近正 ... 查看全文",
+      "url": "https://sspai.com/post/112685",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-03T07:35:11.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "路中南"
+    },
+    {
+      "id": "1065d7966c5cbaa2",
+      "title": "职人专访 #001：少数派背后的理想主义",
+      "summary": "因为这款手机壳，我跟老麦聊了一下午。查看全文",
+      "url": "https://sspai.com/post/112966",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-03T06:03:08.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 81,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Fixer"
+    },
+    {
+      "id": "fa5bf0f77c1694ab",
+      "title": "角落新声｜两平米、两个角落，安放两个自己",
+      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎 Cyber5 ... 查看全文",
+      "url": "https://sspai.com/post/112551",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-03T02:52:56.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 79,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Nnnobel"
+    },
     {
       "id": "addc59b693fa3bb0",
       "title": "派早报：DeepSeek V4 Flash 正式版发布",
@@ -184,102 +269,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 112,
+      "score": 73,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "9efa00dcff0f0b1e",
-      "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/112843",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-02T06:38:25.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 85,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "野比大雄76"
-    },
-    {
-      "id": "f6d64409acf09a73",
-      "title": "Lumichats",
-      "titleZh": "Lumichats",
-      "summary": "对于避开航站楼的人来说，Claude Code 是一种替代方案",
-      "url": "https://www.producthunt.com/products/lumichats-offline",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-08-01T14:10:42.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 56,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Aditya Kumar Jha"
-    },
-    {
-      "id": "b2d3b70496459b04",
-      "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
-      "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。查看全文",
-      "url": "https://sspai.com/post/112701",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-01T04:54:31.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "一群小羊说"
-    },
-    {
-      "id": "ed45c0f4e09a76cc",
-      "title": "Zen Whisper",
-      "titleZh": "禅意低语",
-      "summary": "在任何应用程序中键入的设备上 Mac 听写",
-      "url": "https://www.producthunt.com/products/zen-whisper",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-07-31T14:55:35.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "ZenProducts"
-    },
-    {
-      "id": "8f88ccf3d4894299",
-      "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
-      "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ... 查看全文",
-      "url": "https://sspai.com/post/112962",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-07-31T10:49:07.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "板斧"
     }
   ],
   "sections": [
@@ -288,6 +281,44 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "ebc3a35d76880173",
+          "title": "Gap Decorations Are Now Available, Here’s What’s New",
+          "titleZh": "Gap 装饰品现已推出，以下是新功能",
+          "summary": "如今，从 149 版开始，Chrome 和 Edge 完全支持 CSS 间隙装饰，现在您可以非常轻松地设置间隙样式，并可以进行大量控制。间隙装饰…",
+          "url": "https://css-tricks.com/css-gap-decorations-now-available/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-08-03T15:53:20.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "5d09fbe0307326dc",
+          "title": "来了来了，Flex/Grid布局的间隙装饰线它来了",
+          "summary": "间隙装饰线其实由来已久，不过仅支持垂直分隔线，且只在 Columns 布局中有效，经过这么多年的等待，终于，Flex 和 Grid 布局中也能自定义分割线效果啦，且进行了增强，支持多属性值、交点中断设置、间距边缘距离控制、repeat()函数语法等，很棒的新特性。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-08-03T13:20:14.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS",
+            "CSS相关"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/image/blog/202608/2026-8-3_210703.webp",
+          "author": ""
+        },
         {
           "id": "a858b20b0370629f",
           "title": "Get Ready For the Powerful CSS border-shape Property!",
@@ -362,44 +393,6 @@
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202607/bg2026072904.webp",
           "author": "阮一峰"
-        },
-        {
-          "id": "1a1afba76201283c",
-          "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
-          "titleZh": "人工智能时代数字设计的牛熊案例",
-          "summary": "随着人工智能重塑产品设计，它可能会给设计师更大的自主权，或暴露自主性使他们更难隐藏的差距。探索公牛和熊的情况，……",
-          "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-07-29T13:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
-          "author": "hello@smashingmagazine.com (Andy Budd)"
-        },
-        {
-          "id": "3a9fe54f47556f72",
-          "title": "Screen.isExtended、getScreenDetails与多显示器开发",
-          "summary": "在过去，我们无法判断用户是否存在多个显示器，也无法让新窗口在主屏或者辅屏精确位置显示，现在，有了 Window Management API，一切问题迎刃而解。",
-          "url": "https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/",
-          "source": "张鑫旭博客",
-          "sourceUrl": "https://www.zhangxinxu.com/",
-          "publishedAt": "2026-07-29T03:27:05.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS",
-            "显示器"
-          ],
-          "score": 64,
-          "sourceType": "rss",
-          "cover": "https://image.zhangxinxu.com/image/blog/202607/2026-7-29_112106.webp",
-          "author": ""
         }
       ]
     },
@@ -408,6 +401,44 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "74017f572b19f603",
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "titleZh": "我们如何在六个月内为响应式语音人工智能构建实时系统",
+          "summary": "GPT-Live 使用无转换语音模型和低延迟架构，实现与人工智能的连续语音交互，以实现更快、更自然的对话。",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-08-03T07:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "720dd95d1d05ed1e",
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "titleZh": "Circles 通过 OpenAI 技术为电信运营商个性化提供支持",
+          "summary": "Circles 使用 OpenAI API 和 Codex 为 AI 原生电信体验提供支持，将 ARPU 提高 22%，将流失率降低 9%，并提高开发效率。",
+          "url": "https://openai.com/index/circles",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-08-03T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "b17c2f02fc2ac7cd",
           "title": "Ten advances in mathematics and theoretical computer science",
@@ -483,44 +514,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "a1332269299f718a",
-          "title": "Disrupting a Criminal Scam Operation",
-          "titleZh": "扰乱犯罪诈骗行动",
-          "summary": "OpenAI 使用 ChatGPT 破坏了柬埔寨的一项诈骗活动，以支持投资、浪漫、赌博和模仿计划。",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-07-31T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "80e6d2057b7864a3",
-          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "titleZh": "GPU 管理：为什么空闲的 GPU 是新的停飞飞机",
-          "summary": "",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-07-30T15:09:09.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -530,14 +523,52 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "a86501f6b75dfda2",
-          "title": "The global memory shortage hits the MacBook Air",
-          "titleZh": "全球内存短缺影响了 MacBook Air",
-          "summary": "全球内存芯片短缺似乎正在影响苹果最受欢迎的 Mac 的可用性。",
-          "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "id": "a274fb178fcb5acc",
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "titleZh": "在杀手级季度之后，Palantir 首席执行官 Alex Karp 称人工智能行业为“马克思主义者”",
+          "summary": "在一个季度实现了 10亿美元的利润之后，Palantir 首席执行官亚历克斯·卡普（Alex Karp）周一再次警告说，人工智能前沿实验室对企业来说太不可信了。",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-02T21:33:59.000Z",
+          "publishedAt": "2026-08-03T23:19:50.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "c0f30a27c2f6d980",
+          "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+          "titleZh": "Snap 首席执行官回避第二季度财报电话会议中的规格预购问题",
+          "summary": "当被问及产品市场契合度时，Spiegel 表示，他认为大众市场的消费者采用要到本十年末才会发生。",
+          "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-03T22:10:58.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 100,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f1851938ec4bf124",
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "titleZh": "AWS 正在帮助氛围编码初创公司 Superblocks，其影响很大",
+          "summary": "AWS 现在允许将 vibe 编码工具 Superblocks 嵌入到 AWS 客户的私有云中。这是将应用程序与模型分离的又一步。",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-03T20:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -549,14 +580,14 @@
           "author": ""
         },
         {
-          "id": "90b50b6ec528b83f",
-          "title": "Sam Altman and AI’s decel debate",
-          "titleZh": "山姆·奥尔特曼和人工智能的 decel 辩论",
-          "summary": "在最新一期的《Equity》中，我们讨论了为什么 Sam Altman 呼吁业界“加快人工智能发展的步伐”。",
-          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "id": "681e73dce7112c37",
+          "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+          "titleZh": "谁在法律上应该为 Anthropic 和 OpenAI 的自主 AI 黑客负责？这很复杂",
+          "summary": "OpenAI 和 Anthropic 承认，他们未发布的人工智能模型逃脱了沙箱，并在前所未有的网络攻击中入侵了几家公司。谁是合法的 BLA……",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-02T20:54:22.000Z",
+          "publishedAt": "2026-08-03T19:45:35.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -568,78 +599,40 @@
           "author": ""
         },
         {
-          "id": "a5257f589f302d06",
-          "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-          "titleZh": "据报道，马来西亚正在关闭 Balaji Srinivasan 的网络学校",
-          "summary": "让我们看看这个“技术乐观主义者的前沿社区”是如何运作的……",
-          "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+          "id": "b586cb905ed294e2",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "titleZh": "Design Arena 创作者筹集了 790 万 $，为人工智能模型带来品味",
+          "summary": "Design Arena 被全球 530 万人使用，为前沿实验室提供关键的人工评估。",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-02T17:05:07.000Z",
+          "publishedAt": "2026-08-03T19:28:57.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 89,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "a7f5910a55457e66",
-          "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-          "titleZh": "TechCrunch Mobility：两条道路分开—用于机器人出租车",
-          "summary": "欢迎回到 TechCrunch Mobility，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
-          "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-02T16:05:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 90,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "7461e507c280a9fd",
-          "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-          "titleZh": "这些 App Store 隐藏的宝石证明，人工智能时代仍有优秀软件的空间",
-          "summary": "尽管预测人工智能代理可能会使传统应用程序过时，但开发人员比以往任何时候都更快地发布新软件。从更智能的书签工具和 neig……",
-          "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-02T15:23:19.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 90,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "9eb520b632fbe159",
-          "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
-          "titleZh": "这位 CPO 对产品管理的存在感到遗憾| Tom Verrilli （Whatnot 的 CPO）",
-          "summary": "立即收听| Tom Verrilli 解释了为什么从事真实 IC 工作的高级 PM 比任何比例驱动的组织结构都要少",
-          "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+          "id": "ad3f285e3d935531",
+          "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+          "titleZh": "🎙️ 如何使用 AI：ChatGPT Codex 语音+浏览器+站点：专家的 AI 工作流程| Nick Baumann （OpenAI）",
+          "summary": "您的每周收听《How I AI》，这是 Lenny 播客网络的一部分",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-08-02T12:32:02.000Z",
+          "publishedAt": "2026-08-03T15:02:21.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 84,
+          "score": 86,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/209025231/25924185c9f76e94e6959378b192bc81.mp3",
+          "cover": "https://substack-post-media.s3.amazonaws.com/public/images/d0b180ff-17e2-480a-b76a-8e8fed15b822_1456x1048.png",
           "author": ""
         }
       ]
@@ -649,6 +642,63 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "cb161b0170bcec1e",
+          "title": "IA for AI, The UX of contrast, Battling AI fatigue",
+          "titleZh": "AI 的 IA，对比度的用户体验，与 AI 疲劳作斗争",
+          "summary": "",
+          "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-03T09:47:06.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "8a11fe7d65cc1935",
+          "title": "Chat is the wrong interface for AI",
+          "titleZh": "聊天是人工智能的错误界面",
+          "summary": "AI Agent 界面过度简化的问题。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-03T06:10:39.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg",
+          "author": ""
+        },
+        {
+          "id": "7ab4a91e7c8d47e7",
+          "title": "What I’ve learned writing for billions of users",
+          "titleZh": "我为数十亿用户写的东西",
+          "summary": "",
+          "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-03T06:08:51.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 79,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "a2587d8ad1c702dc",
           "title": "Designing for the proxy",
@@ -663,7 +713,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 92,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -682,7 +732,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 92,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*_JgMkCR6xFSlxJs24TlYrA.jpeg",
           "author": ""
@@ -701,63 +751,6 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 86,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "d67b5ccea350cd7d",
-          "title": "Why airlines are finally waking up to context-aware design",
-          "titleZh": "为什么航空公司终于意识到情境感知设计",
-          "summary": "您的登机牌已在该应用程序中停留了三天。但现在，当您冲过 5 号航站楼时，这是您最后一件事……继续阅读用户体验 Collec……",
-          "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-08-01T17:17:38.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/0*f747OZL4UEmBCN2J",
-          "author": ""
-        },
-        {
-          "id": "cfc7d8744f01463b",
-          "title": "Perplexity diverges with color",
-          "titleZh": "困惑因颜色而异",
-          "summary": "使用生成式 AI 构建数据配色方案。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-08-01T02:47:36.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 58,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/1948/1*2Uyw7GVZYWxyrQo80EZtYA.png",
-          "author": ""
-        },
-        {
-          "id": "ab0ec84a69b39898",
-          "title": "Creative Technologists are moving from the margins to the center",
-          "titleZh": "创意技术人员正在从边缘转向中心",
-          "summary": "",
-          "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-08-01T02:44:37.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 55,
           "sourceType": "rss",
           "cover": "",
@@ -771,13 +764,31 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "ceb2428a27c68600",
-          "title": "VSCode 的 codex 插件查看 Diff 出错了",
-          "summary": "如图报错，就是以前我都习惯查看下本次对话做了哪些修改，但是从上周开始，我每次点击查看，都会出错，早上我重装了下，还是一样 有没有知道怎么解决的大佬，请教，谢谢啦~~",
-          "url": "https://www.v2ex.com/t/1231665#reply2",
+          "id": "aea659fa1e8a8f3f",
+          "title": "chatgpt 日区订阅 plus 现在 2860 日元",
+          "summary": "用 google play 订阅还是很丝滑就搞定了",
+          "url": "https://www.v2ex.com/t/1231939#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-03T03:00:36.000Z",
+          "publishedAt": "2026-08-04T03:01:55.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "slation"
+        },
+        {
+          "id": "6ea66759f248f476",
+          "title": "大模型排行榜到底哪个权威？",
+          "summary": "Qwen3.8-max 出了，今天看排行榜 3 个榜 3 个名次，该信哪个呢？排行第 4 https://arena.ai/leaderboard/code/webdev 排行第 7 https://llm-stats.com/ 第十名之后去了 https://artificialanalysis.ai/leaderboards/…",
+          "url": "https://www.v2ex.com/t/1231896#reply13",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-04T01:28:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -785,102 +796,80 @@
           ],
           "score": 113,
           "sourceType": "rss",
-          "cover": "https://i.imgur.com/dsb7RgS.png",
-          "author": "LeonChenX"
+          "cover": "",
+          "author": "fankcoder"
         },
         {
-          "id": "ab74156aa3cff62b",
-          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "titleZh": "Qwen3.8-Max：编码和共享工作的新工具栏",
-          "summary": "Hacker News 热帖，当前积分 18，评论 0。",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-03T02:16:09.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "9b82d9565227b7f1",
-          "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-          "titleZh": "RFC 9851：TLS 1.2 处于功能冻结状态",
-          "summary": "Hacker News 热帖，当前积分 17，评论 4。",
-          "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-03T01:23:26.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "f06114144530573c",
-          "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-          "titleZh": "CP/M-386 – 386 保护模式的 CP/M，源自 CP/M ‑ 68K",
-          "summary": "Hacker News 热帖，当前积分 37，评论 9。",
-          "url": "https://github.com/johnsonjh/cpm386",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-03T00:38:10.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 110,
-          "sourceType": "api"
-        },
-        {
-          "id": "8868f836cc6907f5",
-          "title": "Show HN: Isopolis – Isometric pixel map of SF",
-          "titleZh": "显示 HN：Isopolis - SF 的等距像素图",
-          "summary": "Hacker News 热帖，当前积分 56，评论 16。",
-          "url": "https://sf.isopolis.city/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-03T00:46:38.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 110,
-          "sourceType": "api"
-        },
-        {
-          "id": "18ef46cb0fc51b88",
-          "title": "gpt 的新邀请拉新活动有人试水过嘛？",
-          "summary": "每月3 次机会,拉新成功送 500 信用额度。",
-          "url": "https://www.v2ex.com/t/1231618#reply9",
+          "id": "366c6f60126dbfd1",
+          "title": "求建议：硕士毕业两年跳槽方向和薪资求指导",
+          "summary": "背景 学历：985 软件工程硕士（本科双一流计算机） 工作年限：约 2年，在某国企内部做数据库相关的研发，包括云原生、分布式、PG 内核都有涉及，但是不深入 实习经历：某一线大厂做过 GPU 和 CPU 的故障诊断和指标采集分析之类的运维工作，约 1年 坐标：南京 目标 base 地：上海 个人主技术栈: Go 个人项目：平常写…",
+          "url": "https://www.v2ex.com/t/1231903#reply5",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-03T01:36:00.000Z",
+          "publishedAt": "2026-08-04T01:34:52.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 108,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "calvinHxx"
+          "author": "quboliu"
+        },
+        {
+          "id": "d3141f945f9b7718",
+          "title": "Play 商店可以直接“降级”更新",
+          "summary": "play 商店里的云闪付版本号是 10.2.1。上次更新是 25年3月28日。为了消耗掉快过期的积点，尝试去兑换立减券。每次到点去都提示：网络问题，让刷新。以为是版本限制问题，就从官网下载版本号 10.3.6 的安装包，包比 play 上的大了近 50M，Target 低了 3 个大版本，Compile 低了 2…",
+          "url": "https://www.v2ex.com/t/1231889#reply9",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-04T01:20:39.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "SamClip"
+        },
+        {
+          "id": "12d0cf35f88a4f56",
+          "title": "ds v4 flash 编程效果还不错",
+          "summary": "日常功能开发没问题，复杂任务人工多干预一下，完全可以作为日常主力使用。关键还速度快，价格便宜",
+          "url": "https://www.v2ex.com/t/1231915#reply22",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-04T02:06:37.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "jedeft"
+        },
+        {
+          "id": "5a78c55f54ed131b",
+          "title": "被 Claude 封号的 24 小时后，我悟了",
+          "summary": "昨天早上用 Claude 的时候，突然提示我会员没有了只能 chat 不能 code，震惊之余多了份解脱，用的时候想着这一天什么时候来，现在终于解脱了。关掉了窗口，长谈一口气。这段时间用它写了 5 个脚本，3 个浏览器插件，2 个个人玩具软件，以及修复了无数的 bug，每周期待就是重置完，然后一个个项目的想新需求，做功能，改…",
+          "url": "https://www.v2ex.com/t/1231882#reply11",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-04T00:53:49.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "IlIl"
         }
       ]
     }
@@ -891,7 +880,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -903,7 +892,7 @@
     },
     {
       "tag": "行业热点",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "设计/UI",
@@ -926,6 +915,10 @@
       "count": 8
     },
     {
+      "tag": "开发者社区",
+      "count": 6
+    },
+    {
       "tag": "效率",
       "count": 6
     },
@@ -942,10 +935,6 @@
       "count": 6
     },
     {
-      "tag": "开发者社区",
-      "count": 5
-    },
-    {
       "tag": "科技公司",
       "count": 5
     },
@@ -958,7 +947,7 @@
       "count": 4
     },
     {
-      "tag": "技术周刊",
+      "tag": "CSS相关",
       "count": 3
     }
   ]
