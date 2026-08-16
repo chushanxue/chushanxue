@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-15T02:23:31.066Z",
+  "generatedAt": "2026-08-16T02:28:24.688Z",
   "headline": {
-    "id": "4fc9c1acf472a283",
-    "title": "local.ai 邀请注册教程，分享几个可以用的 3 位用户名",
-    "summary": "点击邀请链接：https://local.ai/uqp/invite 打开邀请链接 点击 Continue with Hugging Face 点击 Don't have an account? Sign Up 输入邮箱和密码完成注册 填写用户名等资料 完成邮箱验证 登录 Hugging Face 重新打开邀请链接 再次点击 Co…",
-    "url": "https://www.v2ex.com/t/1234537#reply2",
+    "id": "35d88e87f9f22c08",
+    "title": "Gluestick - 比 Scoop 更快、更好用的包管理器",
+    "summary": "社区有人总结的比较准确：Scoop 最适合管理 FOSS 开源免费软件。Gluestick ( https://gluestick.sh ) 的目标：更接近 Nix/Homebrew bundle 的 Windows 环境管理层。主要特性 使用 Scoop bucket 与 manifest，无需迁移现有软件库，extras、…",
+    "url": "https://www.v2ex.com/t/1234713#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-08-15T02:03:50.000Z",
+    "publishedAt": "2026-08-16T01:50:40.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
@@ -15,18 +15,18 @@
     ],
     "score": 115,
     "sourceType": "rss",
-    "cover": "",
-    "author": "agood"
+    "cover": "https://gluestick.sh/images/glue.png",
+    "author": "draken"
   },
   "latest": [
     {
-      "id": "4fc9c1acf472a283",
-      "title": "local.ai 邀请注册教程，分享几个可以用的 3 位用户名",
-      "summary": "点击邀请链接：https://local.ai/uqp/invite 打开邀请链接 点击 Continue with Hugging Face 点击 Don't have an account? Sign Up 输入邮箱和密码完成注册 填写用户名等资料 完成邮箱验证 登录 Hugging Face 重新打开邀请链接 再次点击 Co…",
-      "url": "https://www.v2ex.com/t/1234537#reply2",
+      "id": "35d88e87f9f22c08",
+      "title": "Gluestick - 比 Scoop 更快、更好用的包管理器",
+      "summary": "社区有人总结的比较准确：Scoop 最适合管理 FOSS 开源免费软件。Gluestick ( https://gluestick.sh ) 的目标：更接近 Nix/Homebrew bundle 的 Windows 环境管理层。主要特性 使用 Scoop bucket 与 manifest，无需迁移现有软件库，extras、…",
+      "url": "https://www.v2ex.com/t/1234713#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-15T02:03:50.000Z",
+      "publishedAt": "2026-08-16T01:50:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -34,36 +34,18 @@
       ],
       "score": 115,
       "sourceType": "rss",
-      "cover": "",
-      "author": "agood"
+      "cover": "https://gluestick.sh/images/glue.png",
+      "author": "draken"
     },
     {
-      "id": "e32b660f895b2931",
-      "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
-      "summary": "先说点子：平时经常用 Claude Code CLI，Codex CLI，Pi Agent，Gemini CLI，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给…",
-      "url": "https://www.v2ex.com/t/1234535#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-15T01:29:05.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "wKong753900"
-    },
-    {
-      "id": "3de1532af225e2b4",
-      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "titleZh": "印度尼西亚恩德 68 公里北西 7.7 级地震",
-      "summary": "Hacker News 热帖，当前积分 52，评论 9。",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "id": "37fcddaf6a53d0fd",
+      "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+      "titleZh": "这就是你提出的问题：法学硕士中与性别相关的语言偏见",
+      "summary": "Hacker News 热帖，当前积分 8，评论 0。",
+      "url": "https://arxiv.org/abs/2608.13328",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-15T01:14:05.000Z",
+      "publishedAt": "2026-08-16T02:07:06.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -71,18 +53,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 112,
+      "score": 113,
       "sourceType": "api"
     },
     {
-      "id": "337492b9aed6d95e",
-      "title": "The Ploopy A+ Trackball Is Here",
-      "titleZh": "The Ploopy A +轨迹球来了",
-      "summary": "Hacker News 热帖，当前积分 26，评论 10。",
-      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "id": "865694e08b97b370",
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "titleZh": "Show HN：Mic Drop，一款实时多人卡拉 OK 游戏",
+      "summary": "Hacker News 热帖，当前积分 9，评论 2。",
+      "url": "https://www.micdrop.gg/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-15T00:55:31.000Z",
+      "publishedAt": "2026-08-16T00:46:29.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -94,14 +76,14 @@
       "sourceType": "api"
     },
     {
-      "id": "ea6aa5b44b03f31f",
-      "title": "Simplifying and Refactoring Introductory Calculus",
-      "titleZh": "简化和重构入门微积分",
-      "summary": "Hacker News 热帖，当前积分 24，评论 0。",
-      "url": "https://arxiv.org/abs/1811.03459",
+      "id": "26650abae96e3b2e",
+      "title": "Tea5767-Radio-Tuner",
+      "titleZh": "Tea5767-无线电调谐器",
+      "summary": "Hacker News 热帖，当前积分 23，评论 0。",
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-15T00:15:23.000Z",
+      "publishedAt": "2026-08-15T23:54:35.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -113,32 +95,14 @@
       "sourceType": "api"
     },
     {
-      "id": "cb6e7dafd9c2ef2b",
-      "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
-      "summary": "这样填即可：Base URL: https://edge.v2ex.com/chat/v1 Model: coder-ds4-0731 API token 可以从这里获得：https://edge.v2ex.com/settings/tokens 关于 V2EX 提供的 LLM API 服务的用量规则：https://edge…",
-      "url": "https://www.v2ex.com/t/1234521#reply13",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-14T22:52:25.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "https://i.v2ex.co/UZGb8NtT.png",
-      "author": "Livid"
-    },
-    {
-      "id": "3d7e67f7a05f3d2f",
-      "title": "The case for overhauling American science",
-      "titleZh": "彻底改革美国科学的理由",
-      "summary": "Hacker News 热帖，当前积分 47，评论 34。",
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+      "id": "a794f64d5c7b2fb8",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "titleZh": "培养新思想诞生的心态（2023年）",
+      "summary": "Hacker News 热帖，当前积分 86，评论 25。",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-14T23:11:34.000Z",
+      "publishedAt": "2026-08-15T20:54:11.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -146,29 +110,86 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 109,
+      "score": 105,
       "sourceType": "api"
     },
     {
-      "id": "1b3980e5e605f4ff",
-      "title": "做一个思想实验，如果 dsh 没有打着 deepseek 的旗号",
-      "summary": "而是一个名不见经传的个人开发者推出的，你怎么评价它",
-      "url": "https://www.v2ex.com/t/1234524#reply11",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-14T23:55:26.000Z",
-      "category": "industry",
+      "id": "88bc2c26f9ea7839",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "titleZh": "一位女士声称她的继父使用 Grok 将童年照片转化为清晰的图像",
+      "summary": "这名妇女声称，人工智能工具正在“夺走日常生活，并将其变成对儿童的性虐待”。",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-08-15T21:29:19.000Z",
+      "category": "product",
       "tags": [
-        "行业热点",
-        "开发者社区"
+        "产品/商业",
+        "科技公司"
       ],
-      "score": 107,
+      "score": 98,
       "sourceType": "rss",
       "cover": "",
-      "author": "leihaibo1992"
+      "author": ""
+    },
+    {
+      "id": "1266efcbca12ce36",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "titleZh": "药物发现中的人工智能–它是什么，我们的立场和前进的道路",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-08-15T19:12:53.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 103,
+      "sourceType": "api"
+    },
+    {
+      "id": "2b30df816415b5b2",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "titleZh": "Anthropic 分享了有关 Claude 的新水印如何工作的更多详细信息",
+      "summary": "水印的实际工作原理是什么？是否可以通过编辑将其隐藏？这对代码有何影响？",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 94,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "52de40510507c72a",
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/111974",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-15T07:07:54.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 87,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "LOSSES"
+    },
     {
       "id": "1bf71f1251ef4a36",
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -182,7 +203,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 91,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -200,7 +221,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "潘誉晗"
@@ -218,7 +239,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 79,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -236,7 +257,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 78,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "大雨实验室"
@@ -254,29 +275,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 75,
+      "score": 59,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "e60c78becb56b723",
-      "title": "Freebuff",
-      "titleZh": "Freebuff",
-      "summary": "杀死 Claude、Cursor、Replit 和 Devin 的免费编码代理",
-      "url": "https://www.producthunt.com/products/freebuff-2",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-08-13T17:04:37.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Matthew Do"
     }
   ],
   "sections": [
@@ -285,25 +287,6 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
-        {
-          "id": "d9a9710dcaabe263",
-          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-          "titleZh": "What's! important # 17：自定义突出显示 API、CSS 导航匹配、修复文本笔划等",
-          "summary": "此外，还有如何设置骨架 UI 的样式、如何启用对角滚动、图像如何自行溢出等等。基本上，如何做很多很酷的事情（……",
-          "url": "https://css-tricks.com/whats-important-17/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-08-14T14:01:51.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 104,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
         {
           "id": "4095cf12270ef1f5",
           "title": "还在reduce求和吗？该使用Math.sumPrecise()方法啦",
@@ -319,7 +302,7 @@
             "CSS相关",
             "数组"
           ],
-          "score": 98,
+          "score": 64,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202608/2026-8-14_191628.webp",
           "author": ""
@@ -337,7 +320,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 81,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026081308.webp",
           "author": "阮一峰"
@@ -362,25 +345,6 @@
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
         },
         {
-          "id": "45e5bef47ddfd6fa",
-          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-          "titleZh": "屏蔽的 aria-hidden：警告是正确的，您找到的每个修复都是错误的",
-          "summary": "警告是正确的。您可能看到的推荐改进项有误。您可以采取以下措施来正确解决问题。Blocked aria-hidden: The Wa…",
-          "url": "https://css-tricks.com/blocked-aria-hidden-fix/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-08-12T13:43:56.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
           "id": "7b0dbc0ed5eea6e4",
           "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
           "titleZh": "构建触觉用户体验：与 Lottie 一起尊重意向性设计",
@@ -398,6 +362,43 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
           "author": "hello@smashingmagazine.com (Alexey Kopytin)"
+        },
+        {
+          "id": "84ffc27d6e9f0041",
+          "title": "How Baseline Can Help You Ship Less JavaScript",
+          "titleZh": "Baseline 如何帮助您减少 JavaScript 的发货量",
+          "summary": "“您需要一个库”和“浏览器执行此操作”之间的差距不断缩小。审核依赖关系并查找 Web 平台的实用指南……",
+          "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-08-07T13:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 65,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
+          "author": "hello@smashingmagazine.com (Jad Joubran)"
+        },
+        {
+          "id": "d97b9ca8b89efeba",
+          "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-08-07T00:08:27.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 66,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026080619.webp",
+          "author": "阮一峰"
         }
       ]
     },
@@ -420,7 +421,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 75,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -439,7 +440,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 64,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -528,52 +529,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "98b264b2a4bcb119",
-          "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-          "titleZh": "将 PayPal 出售给 Stripe 和 Advent 的谈判正在升温",
-          "summary": "据报道，PayPal 仍在就出售给 Stripe 和私募股权公司 Advent 的可能性进行谈判，因为这家金融科技公司的新任首席执行官试图扭转公司的局面。",
-          "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+          "id": "88bc2c26f9ea7839",
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "titleZh": "一位女士声称她的继父使用 Grok 将童年照片转化为清晰的图像",
+          "summary": "这名妇女声称，人工智能工具正在“夺走日常生活，并将其变成对儿童的性虐待”。",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-14T22:43:24.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "441b92194cf93c21",
-          "title": "Self-driving trucks are officially testing on California highways",
-          "titleZh": "自动驾驶卡车正式在加州高速公路上进行测试",
-          "summary": "Aurora Innovation 和 Kodiak AI 是两家开发自动驾驶卡车的公司，已获得加州机动车辆管理局的许可。",
-          "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-14T20:37:49.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a30cd040696b5ce6",
-          "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-          "titleZh": "Thrive 的约书亚·库什纳（Joshua Kushner）指责硅谷的风险投资人对人工智能的兴奋",
-          "summary": "人工智能的机会是巨大的，但“让兴奋削弱我们的投资纪律也将是一个严重的错误，”库什纳在他的首次投资中警告说……",
-          "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-14T19:33:00.000Z",
+          "publishedAt": "2026-08-15T21:29:19.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -585,59 +548,97 @@
           "author": ""
         },
         {
-          "id": "96ca496af72d9ce0",
-          "title": "What we know about the alleged Iranian hacks on US water utilities",
-          "titleZh": "我们对伊朗涉嫌黑客入侵美国水务公司的了解",
-          "summary": "在过去的几周里，黑客瞄准并入侵了美国几家水厂的系统。以下是我们所知道和不知道的……",
-          "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+          "id": "2b30df816415b5b2",
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "titleZh": "Anthropic 分享了有关 Claude 的新水印如何工作的更多详细信息",
+          "summary": "水印的实际工作原理是什么？是否可以通过编辑将其隐藏？这对代码有何影响？",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-14T19:04:32.000Z",
+          "publishedAt": "2026-08-15T18:58:39.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "315a2050bd6c479d",
-          "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-          "titleZh": "Read-it-later 应用 Pocket 关闭—以下是最佳替代方案",
-          "summary": "Pocket 用户可以在 2025年10月8日之前导出其保存的文章和其他项目，包括列表、存档、收藏夹、备注和亮点。",
-          "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+          "id": "8b60bec86888d7c7",
+          "title": "How to tell if your AI platforms’ accounts have been hacked",
+          "titleZh": "如何判断您的人工智能平台账号是否被黑客入侵",
+          "summary": "有关如何检查黑客是否侵入了您在最受欢迎的人工智能平台上的帐户的指南。",
+          "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-14T18:58:15.000Z",
+          "publishedAt": "2026-08-15T16:10:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "20ed3ef23c07476c",
-          "title": "How to make people care about your startup",
-          "titleZh": "如何让人们关心您的创业公司",
-          "summary": "创始人的三种原型-如何将您的起源故事转化为沟通策略",
-          "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+          "id": "48026171a0b21c2a",
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "titleZh": "SpaceX 正式完成对 Cursor 的收购",
+          "summary": "人工智能编程初创公司 Cursor 现在正式成为 SpaceX 的一部分。",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-15T16:30:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 89,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "6dee582671bb8fbc",
+          "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+          "titleZh": "🧠 社区智慧：从倦怠中恢复过来，了解 Airtable 的销售对初创企业上限的看法，及时更新建筑文档，运行竞争对手分析等",
+          "summary": "社区智慧 197",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-08-11T13:31:07.000Z",
+          "publishedAt": "2026-08-15T17:01:13.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 48,
+          "score": 88,
           "sourceType": "rss",
-          "cover": "https://substack-post-media.s3.amazonaws.com/public/images/a4a1e7f9-6872-47ef-ac7f-f6b0d04612cf_1456x970.png",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "2fe94d840c2899f3",
+          "title": "Every fusion startup that has raised over $100M",
+          "titleZh": "每家融资超过 $1 亿的融合初创公司",
+          "summary": "迄今为止，融合初创公司已经筹集了 71亿美元，其中大部分流向了少数几家公司。",
+          "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-15T13:15:20.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -647,6 +648,44 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "3019514747367934",
+          "title": "Who gets the meter?",
+          "titleZh": "谁拿到仪表？",
+          "summary": "我们花了 180年的时间尽量不去感受机器的成本。AI 刚刚重新打开了仪表。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-15T13:15:07.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1169/0*sKAWsl_jj2DSQlng",
+          "author": ""
+        },
+        {
+          "id": "829e97e472509680",
+          "title": "How to become an AI Designer",
+          "titleZh": "如何成为人工智能设计师",
+          "summary": "",
+          "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-15T13:16:28.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "8f47c1e1868728ce",
           "title": "Getting started is not getting it right",
@@ -661,7 +700,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 101,
+          "score": 63,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -680,7 +719,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -699,7 +738,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -718,44 +757,6 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "5df2e4c903a4b945",
-          "title": "What a dollhouse full of death taught me about thinking",
-          "titleZh": "充满死亡的娃娃屋教会了我如何思考",
-          "summary": "",
-          "url": "https://uxdesign.cc/what-a-dollhouse-full-of-death-taught-me-about-thinking-e959a249c191?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-08-13T04:39:08.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "4eb8381eef34b505",
-          "title": "We’re gorging on borrowed trust and it’s going to cost us.",
-          "titleZh": "我们贪图借来的信任，这会让我们付出代价。",
-          "summary": "",
-          "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-08-13T04:37:38.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 55,
           "sourceType": "rss",
           "cover": "",
@@ -769,13 +770,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "4fc9c1acf472a283",
-          "title": "local.ai 邀请注册教程，分享几个可以用的 3 位用户名",
-          "summary": "点击邀请链接：https://local.ai/uqp/invite 打开邀请链接 点击 Continue with Hugging Face 点击 Don't have an account? Sign Up 输入邮箱和密码完成注册 填写用户名等资料 完成邮箱验证 登录 Hugging Face 重新打开邀请链接 再次点击 Co…",
-          "url": "https://www.v2ex.com/t/1234537#reply2",
+          "id": "35d88e87f9f22c08",
+          "title": "Gluestick - 比 Scoop 更快、更好用的包管理器",
+          "summary": "社区有人总结的比较准确：Scoop 最适合管理 FOSS 开源免费软件。Gluestick ( https://gluestick.sh ) 的目标：更接近 Nix/Homebrew bundle 的 Windows 环境管理层。主要特性 使用 Scoop bucket 与 manifest，无需迁移现有软件库，extras、…",
+          "url": "https://www.v2ex.com/t/1234713#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-15T02:03:50.000Z",
+          "publishedAt": "2026-08-16T01:50:40.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -783,36 +784,18 @@
           ],
           "score": 115,
           "sourceType": "rss",
-          "cover": "",
-          "author": "agood"
+          "cover": "https://gluestick.sh/images/glue.png",
+          "author": "draken"
         },
         {
-          "id": "e32b660f895b2931",
-          "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
-          "summary": "先说点子：平时经常用 Claude Code CLI，Codex CLI，Pi Agent，Gemini CLI，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给…",
-          "url": "https://www.v2ex.com/t/1234535#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-15T01:29:05.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 114,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "wKong753900"
-        },
-        {
-          "id": "3de1532af225e2b4",
-          "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-          "titleZh": "印度尼西亚恩德 68 公里北西 7.7 级地震",
-          "summary": "Hacker News 热帖，当前积分 52，评论 9。",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+          "id": "37fcddaf6a53d0fd",
+          "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "titleZh": "这就是你提出的问题：法学硕士中与性别相关的语言偏见",
+          "summary": "Hacker News 热帖，当前积分 8，评论 0。",
+          "url": "https://arxiv.org/abs/2608.13328",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-15T01:14:05.000Z",
+          "publishedAt": "2026-08-16T02:07:06.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -820,18 +803,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 112,
+          "score": 113,
           "sourceType": "api"
         },
         {
-          "id": "337492b9aed6d95e",
-          "title": "The Ploopy A+ Trackball Is Here",
-          "titleZh": "The Ploopy A +轨迹球来了",
-          "summary": "Hacker News 热帖，当前积分 26，评论 10。",
-          "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+          "id": "865694e08b97b370",
+          "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+          "titleZh": "Show HN：Mic Drop，一款实时多人卡拉 OK 游戏",
+          "summary": "Hacker News 热帖，当前积分 9，评论 2。",
+          "url": "https://www.micdrop.gg/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-15T00:55:31.000Z",
+          "publishedAt": "2026-08-16T00:46:29.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -843,14 +826,14 @@
           "sourceType": "api"
         },
         {
-          "id": "ea6aa5b44b03f31f",
-          "title": "Simplifying and Refactoring Introductory Calculus",
-          "titleZh": "简化和重构入门微积分",
-          "summary": "Hacker News 热帖，当前积分 24，评论 0。",
-          "url": "https://arxiv.org/abs/1811.03459",
+          "id": "26650abae96e3b2e",
+          "title": "Tea5767-Radio-Tuner",
+          "titleZh": "Tea5767-无线电调谐器",
+          "summary": "Hacker News 热帖，当前积分 23，评论 0。",
+          "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-15T00:15:23.000Z",
+          "publishedAt": "2026-08-15T23:54:35.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -862,45 +845,66 @@
           "sourceType": "api"
         },
         {
-          "id": "cb6e7dafd9c2ef2b",
-          "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
-          "summary": "这样填即可：Base URL: https://edge.v2ex.com/chat/v1 Model: coder-ds4-0731 API token 可以从这里获得：https://edge.v2ex.com/settings/tokens 关于 V2EX 提供的 LLM API 服务的用量规则：https://edge…",
-          "url": "https://www.v2ex.com/t/1234521#reply13",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-14T22:52:25.000Z",
+          "id": "a794f64d5c7b2fb8",
+          "title": "Cultivating a state of mind where new ideas are born (2023)",
+          "titleZh": "培养新思想诞生的心态（2023年）",
+          "summary": "Hacker News 热帖，当前积分 86，评论 25。",
+          "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-08-15T20:54:11.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "开发者社区"
+            "工程效率",
+            "Hacker News",
+            "讨论"
           ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "https://i.v2ex.co/UZGb8NtT.png",
-          "author": "Livid"
+          "score": 105,
+          "sourceType": "api"
+        },
+        {
+          "id": "1266efcbca12ce36",
+          "title": "AI in drug discovery – what it is, where we stand and the path forward",
+          "titleZh": "药物发现中的人工智能–它是什么，我们的立场和前进的道路",
+          "summary": "https://www.nature.com/articles/s41573-026-01496-2",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-08-15T19:12:53.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 103,
+          "sourceType": "api"
         }
       ]
     }
   ],
   "sourceFailures": [
+    "CSS-Tricks: CSS-Tricks 返回 403",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 81,
+    "totalItems": 75,
     "totalSources": 18,
-    "succeededSources": 15,
-    "failedSources": 3
+    "succeededSources": 14,
+    "failedSources": 4
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 26
+      "count": 20
     },
     {
       "tag": "行业热点",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "设计/UI",
@@ -911,20 +915,16 @@
       "count": 10
     },
     {
+      "tag": "工具/网站",
+      "count": 9
+    },
+    {
       "tag": "工程效率",
       "count": 8
     },
     {
       "tag": "讨论",
       "count": 8
-    },
-    {
-      "tag": "工具/网站",
-      "count": 8
-    },
-    {
-      "tag": "开发者社区",
-      "count": 6
     },
     {
       "tag": "交互设计",
@@ -941,6 +941,10 @@
     {
       "tag": "模型产品",
       "count": 6
+    },
+    {
+      "tag": "开发者社区",
+      "count": 5
     },
     {
       "tag": "科技公司",
