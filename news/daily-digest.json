@@ -1,70 +1,69 @@
 {
-  "generatedAt": "2026-08-22T02:24:14.971Z",
+  "generatedAt": "2026-08-23T02:30:18.589Z",
   "headline": {
-    "id": "4b662ba6225917a9",
-    "title": "Codex 1000 credits 3 个邀请名额，符合要求的留邮箱",
-    "summary": "我也发一个，每月3 个 codex1000 额度邀请名额，需要的小伙伴留邮箱。受邀条件如下，大家先检查下是否符合条件：受邀者在过去 2 个月内不得使用过 ChatGPT 桌面版。受邀人不能已拥有有效的推荐邀请。本月剩余：3",
-    "url": "https://www.v2ex.com/t/1236344#reply4",
+    "id": "4eb08c7b43418faf",
+    "title": "你有 token 用量和上下文焦虑吗？",
+    "summary": "公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。有需要的自己可以用 dsh 命令添加 ds…",
+    "url": "https://www.v2ex.com/t/1236509#reply4",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-08-22T01:35:46.000Z",
+    "publishedAt": "2026-08-23T01:48:45.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 113,
+    "score": 115,
     "sourceType": "rss",
-    "cover": "",
-    "author": "weRyoung"
+    "cover": "https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png",
+    "author": "Rogeryxx"
   },
   "latest": [
     {
-      "id": "4b662ba6225917a9",
-      "title": "Codex 1000 credits 3 个邀请名额，符合要求的留邮箱",
-      "summary": "我也发一个，每月3 个 codex1000 额度邀请名额，需要的小伙伴留邮箱。受邀条件如下，大家先检查下是否符合条件：受邀者在过去 2 个月内不得使用过 ChatGPT 桌面版。受邀人不能已拥有有效的推荐邀请。本月剩余：3",
-      "url": "https://www.v2ex.com/t/1236344#reply4",
+      "id": "4eb08c7b43418faf",
+      "title": "你有 token 用量和上下文焦虑吗？",
+      "summary": "公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。有需要的自己可以用 dsh 命令添加 ds…",
+      "url": "https://www.v2ex.com/t/1236509#reply4",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-22T01:35:46.000Z",
+      "publishedAt": "2026-08-23T01:48:45.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 113,
+      "score": 115,
       "sourceType": "rss",
-      "cover": "",
-      "author": "weRyoung"
+      "cover": "https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png",
+      "author": "Rogeryxx"
     },
     {
-      "id": "1a619abc13a7ac73",
-      "title": "There's no reason for software to be slow anymore",
-      "titleZh": "软件没有理由再慢了",
-      "summary": "Hacker News 热帖，当前积分 55，评论 42。",
-      "url": "https://danluu.com/perf-opt/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-22T01:06:17.000Z",
+      "id": "ab86ef842a50d866",
+      "title": "水星银行不支持订阅 claude 吗",
+      "summary": "用的虚拟卡，报错 Your card was declined，只能继续 google play 了。使用物理卡可以吗，有试过的吗",
+      "url": "https://www.v2ex.com/t/1236515#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-23T02:26:02.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
       "score": 112,
-      "sourceType": "api"
+      "sourceType": "rss",
+      "cover": "",
+      "author": "trumpmaga"
     },
     {
-      "id": "205325aa0b3290a2",
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "titleZh": "我们与摩托罗拉合作的初始重点是常规非折叠设备",
-      "summary": "Hacker News 热帖，当前积分 15，评论 5。",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "id": "6f5090b0b8ac2921",
+      "title": "NanoGPT Speedrun Frontier",
+      "titleZh": "NanoGPT Speedrun Frontier",
+      "summary": "Hacker News 热帖，当前积分 51，评论 15。",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-22T01:02:09.000Z",
+      "publishedAt": "2026-08-22T22:14:27.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -72,74 +71,74 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 111,
+      "score": 107,
       "sourceType": "api"
     },
     {
-      "id": "3d66de104c6a5cd9",
-      "title": "Tibo 已发 重置卡 注意查收",
-      "summary": "https://codex-reset.com Tibo 原帖：https://x.com/thsottiaux/status/2090947196107764189",
-      "url": "https://www.v2ex.com/t/1236335#reply8",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-22T00:41:23.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "https://pbs.twimg.com/media/HQSW6ceaUAAQjHQ.jpg",
-      "author": "privateproxies"
-    },
-    {
-      "id": "fb9b92d70f4bf615",
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "titleZh": "迈克尔·波兰斯基（Michael Polansky）正在为活着的皮肤训练人工智能模型",
-      "summary": "迈克尔·波兰斯基（Michael Polansky） --众所周知是 Lady Gaga 的合伙人，也是肖恩·帕克（Sean Parker）的前任高级副手--悄悄地花了数年时间建立了一家人工智能驱动的初创公司，",
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "id": "f561ae84a2d09752",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "titleZh": "哈佛大学 $699 的创业训练营提供教师的人工智能头像",
+      "summary": "在 HBS Foundry 计划中，AI 头像在练习推介和董事会会议期间提供反馈。",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-08-22T01:31:04.000Z",
+      "publishedAt": "2026-08-22T21:46:56.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 107,
+      "score": 99,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "5f4248dcb5471632",
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "titleZh": "日本太空科技创业公司 Letara 以 1600 万美元的价格超越卫星推进器",
-      "summary": "日本太空初创公司 Letara 押注其混合火箭技术可以超越小型卫星推进器，进入更广泛的太空、国防和安全市场。",
-      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "id": "5d382a49bcc092a8",
+      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "titleZh": "美国司法部对 a16z 的调查是否会吓到其他风险投资公司？",
+      "summary": "在最新一期的《Equity》中，我们想知道为什么美国司法部正在调查初创公司董事会席位。",
+      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-08-22T01:03:06.000Z",
+      "publishedAt": "2026-08-22T20:24:20.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 107,
+      "score": 96,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "7a4ae61bffe7ecb6",
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "titleZh": "展示 HN：OzBrain，代理和您的团队之间共享知识的大脑",
-      "summary": "我认为客服代表优先的聊天界面将成为主要的软件模式，繁忙的控制面板/用户界面将消失。我不确定到底是谁赢了，但我想要我的知识……",
-      "url": "https://ozbrain.com",
+      "id": "ded6791c4f177951",
+      "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+      "titleZh": "🧠 社区智慧：最受欢迎的 Lenny 产品通行证工具、人工智能如何重塑招聘、加入新公司时应优先考虑的事项等",
+      "summary": "社区智慧 198",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+      "source": "Lenny's Newsletter",
+      "sourceUrl": "https://www.lennysnewsletter.com/",
+      "publishedAt": "2026-08-22T19:23:07.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业"
+      ],
+      "score": 92,
+      "sourceType": "rss",
+      "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+      "author": ""
+    },
+    {
+      "id": "d1dadeec2a177e6b",
+      "title": "Scrap (2006)",
+      "titleZh": "报废（2006年）",
+      "summary": "https://xcancel.com/moxie/status/2091218652133732491",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-21T23:09:06.000Z",
+      "publishedAt": "2026-08-22T18:08:56.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -147,18 +146,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 113,
+      "score": 101,
       "sourceType": "api"
     },
     {
-      "id": "0634c1e0987736a5",
-      "title": "Three important steps in my maturation process",
-      "titleZh": "我成熟过程中的三个重要步骤",
-      "summary": "Hacker News 热帖，当前积分 58，评论 17。",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "id": "de0e531de4f9edee",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "titleZh": "Figmimic –将任何网页复制到 Figma 中作为可编辑图层的书签",
+      "summary": "Hacker News 热帖，当前积分 46，评论 4。",
+      "url": "https://marcua.net/minitools/figmimic/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-21T22:29:00.000Z",
+      "publishedAt": "2026-08-22T18:11:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -166,11 +165,48 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 107,
+      "score": 100,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "0b28e93460b3da36",
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "summary": "又一年8月29日如期而至，MichaelJackson 的诞辰来到了第 68 个年头，我们决定在少数派广州线下店举办一场 MJ 唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ... 查看全文",
+      "url": "https://sspai.com/post/113675",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-22T03:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 80,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "听歌的水獭"
+    },
+    {
+      "id": "67d2d2e228481f3f",
+      "title": "Port Radar for macOS",
+      "titleZh": "适用于 macOS 的端口雷达",
+      "summary": "适用于 Mac 的 AI 端口管理器。",
+      "url": "https://www.producthunt.com/products/port-radar-for-macos",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-08-21T20:35:10.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 64,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Sebastian Solano"
+    },
     {
       "id": "b87914e847b6048f",
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -184,29 +220,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 92,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "355dda21599ecaae",
-      "title": "ShogunAI",
-      "titleZh": "ShogunAI",
-      "summary": "您 PC 上的个人 AGI。专为完成实际工作而打造。",
-      "url": "https://www.producthunt.com/products/shogunai",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-08-21T07:04:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 82,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "ShogunAI"
     },
     {
       "id": "6bbe11d863e894d2",
@@ -221,29 +238,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 80,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "KingTsui"
     },
     {
-      "id": "0d700617120e3c76",
-      "title": "Project SKY",
-      "titleZh": "Project SKY",
-      "summary": "您的 Windows 环境 AI 伴侣。",
-      "url": "https://www.producthunt.com/products/project-sky",
+      "id": "ac7c4cd81c3b2481",
+      "title": "Pocket by Meta",
+      "titleZh": "Pocket by Meta",
+      "summary": "氛围编码游戏，然后像 TikToks 一样分享",
+      "url": "https://www.producthunt.com/products/pocket-by-meta",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-08-21T03:43:53.000Z",
+      "publishedAt": "2026-08-21T03:32:59.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 76,
+      "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "Pratham Solanki"
+      "author": "Justin Jincaid"
     },
     {
       "id": "f7227fba703e8ebf",
@@ -258,29 +275,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 72,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "a541fc6947c112d6",
-      "title": "Dockhand",
-      "titleZh": "Dockhand",
-      "summary": "适用于所有人的 Docker 管理",
-      "url": "https://www.producthunt.com/products/dockhand",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-08-20T12:06:37.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Jarek Krochmalski"
     }
   ],
   "sections": [
@@ -303,7 +301,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -322,7 +320,7 @@
             "CSS",
             "CSS相关"
           ],
-          "score": 96,
+          "score": 65,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202608/2026-8-21_180124.webp",
           "author": ""
@@ -340,7 +338,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 81,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026082001.webp",
           "author": "阮一峰"
@@ -423,7 +421,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 75,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -442,7 +440,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 63,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -531,116 +529,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "fb9b92d70f4bf615",
-          "title": "Michael Polansky is training an AI model on skin that’s still alive",
-          "titleZh": "迈克尔·波兰斯基（Michael Polansky）正在为活着的皮肤训练人工智能模型",
-          "summary": "迈克尔·波兰斯基（Michael Polansky） --众所周知是 Lady Gaga 的合伙人，也是肖恩·帕克（Sean Parker）的前任高级副手--悄悄地花了数年时间建立了一家人工智能驱动的初创公司，",
-          "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+          "id": "f561ae84a2d09752",
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "titleZh": "哈佛大学 $699 的创业训练营提供教师的人工智能头像",
+          "summary": "在 HBS Foundry 计划中，AI 头像在练习推介和董事会会议期间提供反馈。",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-22T01:31:04.000Z",
+          "publishedAt": "2026-08-22T21:46:56.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 107,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "5f4248dcb5471632",
-          "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-          "titleZh": "日本太空科技创业公司 Letara 以 1600 万美元的价格超越卫星推进器",
-          "summary": "日本太空初创公司 Letara 押注其混合火箭技术可以超越小型卫星推进器，进入更广泛的太空、国防和安全市场。",
-          "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+          "id": "5d382a49bcc092a8",
+          "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+          "titleZh": "美国司法部对 a16z 的调查是否会吓到其他风险投资公司？",
+          "summary": "在最新一期的《Equity》中，我们想知道为什么美国司法部正在调查初创公司董事会席位。",
+          "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-22T01:03:06.000Z",
+          "publishedAt": "2026-08-22T20:24:20.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 107,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c3a37401b25c6927",
-          "title": "Anthropic’s Opus 4.6 is a smut-machine",
-          "titleZh": "Anthropic 的 Opus 4.6 是一台黑穗机",
-          "summary": "Anthropic 禁止其 Claude 模型生成色情内容。但 TechCrunch 进行的一系列测试发现，通过测试并不需要太多时间……",
-          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "id": "2aea9e72e70e0a54",
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "titleZh": "由 DeepMind 校友创立的 Inherent 表示，其 AI “队友”在复制研究方面的表现刚刚超过了 Anthropic 和 OpenAI",
+          "summary": "由 DeepMind 校友建造的英国人工智能实验室 Inherent 发布了 Faraday，这是一种人工智能代理，其复制科学论文的能力可能是创新的垫脚石。",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-21T23:07:25.000Z",
+          "publishedAt": "2026-08-22T19:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "867c73405f9e94e4",
-          "title": "Nvidia partners with data center developer Cloverleaf",
-          "titleZh": "英伟达与数据中心开发商 Cloverleaf 合作",
-          "summary": "英伟达继续为数据中心开发投入资金--就像人工智能数据中心为英伟达带来大量资金一样。",
-          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-21T22:37:38.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 101,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "268d3106ff7f6169",
-          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-          "titleZh": "人工智能会计创业公司 Rillet 如何在 48小时内筹集了 1亿美元并成为独角兽",
-          "summary": "Rillet 首席执行官 Nicolas Kopp 在董事会会议上分享了增长数据，并引发了 Iconiq、Sequoia 等公司的融资热潮。甚至没有尝试。",
-          "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-21T22:10:01.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 101,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "31eb6e8ce69a738b",
-          "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
-          "titleZh": "我测试了 Grok Bot、Grok 4.6 和 Cursor Origin -这是我诚实的看法",
-          "summary": "立即观看|🎙️我测试了 Grok Bot、Cursor Origin 和 Grok 4.6 与我最喜欢的型号正面交锋，并在克莱尔指数上对其进行了排名：以下是实际发生的变化……",
-          "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+          "id": "ded6791c4f177951",
+          "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+          "titleZh": "🧠 社区智慧：最受欢迎的 Lenny 产品通行证工具、人工智能如何重塑招聘、加入新公司时应优先考虑的事项等",
+          "summary": "社区智慧 198",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-08-18T21:30:31.000Z",
+          "publishedAt": "2026-08-22T19:23:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 92,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/211737019/7311da6f6320066679f24efa88a18a57.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "3589501958752d6d",
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "titleZh": "前沿人工智能实验室仍然不会说他们将如何包含一个流氓模型",
+          "summary": "一项新的研究发现，领先的人工智能实验室几乎没有公开记录的包含流氓模型的计划，随着人工智能系统越来越恶魔化，这引发了人们对准备工作的质疑……",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-22T16:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "323c7901c2e8c315",
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "titleZh": "OpenAI 表示，加州应加强其人工智能安全法案",
+          "summary": "OpenAI 呼吁加利福尼亚州加强该公司此前反对的人工智能安全法案 SB 53。",
+          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-08-22T16:30:34.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -664,7 +662,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 66,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -772,107 +770,50 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "4b662ba6225917a9",
-          "title": "Codex 1000 credits 3 个邀请名额，符合要求的留邮箱",
-          "summary": "我也发一个，每月3 个 codex1000 额度邀请名额，需要的小伙伴留邮箱。受邀条件如下，大家先检查下是否符合条件：受邀者在过去 2 个月内不得使用过 ChatGPT 桌面版。受邀人不能已拥有有效的推荐邀请。本月剩余：3",
-          "url": "https://www.v2ex.com/t/1236344#reply4",
+          "id": "4eb08c7b43418faf",
+          "title": "你有 token 用量和上下文焦虑吗？",
+          "summary": "公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。有需要的自己可以用 dsh 命令添加 ds…",
+          "url": "https://www.v2ex.com/t/1236509#reply4",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-22T01:35:46.000Z",
+          "publishedAt": "2026-08-23T01:48:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 113,
+          "score": 115,
           "sourceType": "rss",
-          "cover": "",
-          "author": "weRyoung"
+          "cover": "https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png",
+          "author": "Rogeryxx"
         },
         {
-          "id": "1a619abc13a7ac73",
-          "title": "There's no reason for software to be slow anymore",
-          "titleZh": "软件没有理由再慢了",
-          "summary": "Hacker News 热帖，当前积分 55，评论 42。",
-          "url": "https://danluu.com/perf-opt/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-22T01:06:17.000Z",
+          "id": "ab86ef842a50d866",
+          "title": "水星银行不支持订阅 claude 吗",
+          "summary": "用的虚拟卡，报错 Your card was declined，只能继续 google play 了。使用物理卡可以吗，有试过的吗",
+          "url": "https://www.v2ex.com/t/1236515#reply0",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-23T02:26:02.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
+            "开发者社区"
           ],
           "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "205325aa0b3290a2",
-          "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-          "titleZh": "我们与摩托罗拉合作的初始重点是常规非折叠设备",
-          "summary": "Hacker News 热帖，当前积分 15，评论 5。",
-          "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-22T01:02:09.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "3d66de104c6a5cd9",
-          "title": "Tibo 已发 重置卡 注意查收",
-          "summary": "https://codex-reset.com Tibo 原帖：https://x.com/thsottiaux/status/2090947196107764189",
-          "url": "https://www.v2ex.com/t/1236335#reply8",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-22T00:41:23.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
           "sourceType": "rss",
-          "cover": "https://pbs.twimg.com/media/HQSW6ceaUAAQjHQ.jpg",
-          "author": "privateproxies"
+          "cover": "",
+          "author": "trumpmaga"
         },
         {
-          "id": "7a4ae61bffe7ecb6",
-          "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-          "titleZh": "展示 HN：OzBrain，代理和您的团队之间共享知识的大脑",
-          "summary": "我认为客服代表优先的聊天界面将成为主要的软件模式，繁忙的控制面板/用户界面将消失。我不确定到底是谁赢了，但我想要我的知识……",
-          "url": "https://ozbrain.com",
+          "id": "6f5090b0b8ac2921",
+          "title": "NanoGPT Speedrun Frontier",
+          "titleZh": "NanoGPT Speedrun Frontier",
+          "summary": "Hacker News 热帖，当前积分 51，评论 15。",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-21T23:09:06.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 113,
-          "sourceType": "api"
-        },
-        {
-          "id": "0634c1e0987736a5",
-          "title": "Three important steps in my maturation process",
-          "titleZh": "我成熟过程中的三个重要步骤",
-          "summary": "Hacker News 热帖，当前积分 58，评论 17。",
-          "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-21T22:29:00.000Z",
+          "publishedAt": "2026-08-22T22:14:27.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -881,6 +822,63 @@
             "讨论"
           ],
           "score": 107,
+          "sourceType": "api"
+        },
+        {
+          "id": "d1dadeec2a177e6b",
+          "title": "Scrap (2006)",
+          "titleZh": "报废（2006年）",
+          "summary": "https://xcancel.com/moxie/status/2091218652133732491",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-08-22T18:08:56.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 101,
+          "sourceType": "api"
+        },
+        {
+          "id": "de0e531de4f9edee",
+          "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+          "titleZh": "Figmimic –将任何网页复制到 Figma 中作为可编辑图层的书签",
+          "summary": "Hacker News 热帖，当前积分 46，评论 4。",
+          "url": "https://marcua.net/minitools/figmimic/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-08-22T18:11:40.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 100,
+          "sourceType": "api"
+        },
+        {
+          "id": "ddc87c1e4b301087",
+          "title": "Why your local LLM feels dumber than it is",
+          "titleZh": "为什么您当地的法学硕士会觉得自己比现在更愚蠢",
+          "summary": "Hacker News 热帖，当前积分 195，评论 67。",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-08-22T18:14:16.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 100,
           "sourceType": "api"
         }
       ]
@@ -892,7 +890,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 82,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -904,7 +902,7 @@
     },
     {
       "tag": "行业热点",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "设计/UI",
@@ -920,11 +918,11 @@
     },
     {
       "tag": "工程效率",
-      "count": 8
+      "count": 7
     },
     {
       "tag": "讨论",
-      "count": 8
+      "count": 7
     },
     {
       "tag": "开发者社区",
@@ -955,11 +953,11 @@
       "count": 5
     },
     {
-      "tag": "CSS相关",
+      "tag": "新产品",
       "count": 4
     },
     {
-      "tag": "新产品",
+      "tag": "CSS相关",
       "count": 4
     }
   ]
