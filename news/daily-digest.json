@@ -1,175 +1,263 @@
 {
-  "generatedAt": "2026-08-27T03:44:51.321Z",
+  "generatedAt": "2026-08-28T04:42:12.172Z",
   "headline": {
-    "id": "af2dc53f8b5b4de7",
-    "title": "讲下我自己申请软著和商标的经历",
-    "summary": "刚才看见有大佬说自己申请软著一直待受理，就讲下自己的经历。自己申请软件著作权 我第一次申请软件著作权，好像也是几年前在某平台找人申请的，好像也是几百块吧？后面申请是在淘宝或者拼多多上找商家申请的，比起几年前便宜很多了。去年我第一次自己申请软件著作权，是因为朋友开发了一个 AI 软件著作权材料的平台，他给我送积分，够我生成 10…",
-    "url": "https://www.v2ex.com/t/1237554#reply3",
+    "id": "ee783464b4d20500",
+    "title": "Go 后台接入 SSO 后，本地用户表应该怎么退？",
+    "summary": "一个 Go 后台如果已经有用户表、角色、菜单和按钮权限，后面又要接公司 SSO、CAS、LDAP 或企业微信，本地用户表到底该不该继续存在？我现在的判断是：应该存在，但要退成“映射层”，别再把自己当身份主系统。我说的不是登录页上多一个按钮。认证入口可以交给外部系统，外部系统负责判断这个人是谁、能不能进公司系统、属于哪个组织。后…",
+    "url": "https://www.v2ex.com/t/1237839#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-08-27T03:04:03.000Z",
+    "publishedAt": "2026-08-28T04:32:24.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 115,
+    "score": 116,
     "sourceType": "rss",
     "cover": "",
-    "author": "laov2"
+    "author": "amztianshi888"
   },
   "latest": [
     {
-      "id": "af2dc53f8b5b4de7",
-      "title": "讲下我自己申请软著和商标的经历",
-      "summary": "刚才看见有大佬说自己申请软著一直待受理，就讲下自己的经历。自己申请软件著作权 我第一次申请软件著作权，好像也是几年前在某平台找人申请的，好像也是几百块吧？后面申请是在淘宝或者拼多多上找商家申请的，比起几年前便宜很多了。去年我第一次自己申请软件著作权，是因为朋友开发了一个 AI 软件著作权材料的平台，他给我送积分，够我生成 10…",
-      "url": "https://www.v2ex.com/t/1237554#reply3",
+      "id": "ee783464b4d20500",
+      "title": "Go 后台接入 SSO 后，本地用户表应该怎么退？",
+      "summary": "一个 Go 后台如果已经有用户表、角色、菜单和按钮权限，后面又要接公司 SSO、CAS、LDAP 或企业微信，本地用户表到底该不该继续存在？我现在的判断是：应该存在，但要退成“映射层”，别再把自己当身份主系统。我说的不是登录页上多一个按钮。认证入口可以交给外部系统，外部系统负责判断这个人是谁、能不能进公司系统、属于哪个组织。后…",
+      "url": "https://www.v2ex.com/t/1237839#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-27T03:04:03.000Z",
+      "publishedAt": "2026-08-28T04:32:24.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 116,
       "sourceType": "rss",
       "cover": "",
-      "author": "laov2"
+      "author": "amztianshi888"
     },
     {
-      "id": "c35db407a774ad89",
-      "title": "你们的 gpt puls 都加了 5 小时限额了吗？我咋没有",
-      "summary": "我也看到 x 上说 plus 加 5小时了，然后 v2 上也很多人说加了，我咋没加呀。。。我 codex 是最新版本呀",
-      "url": "https://www.v2ex.com/t/1237562#reply5",
+      "id": "3240c8365b20304b",
+      "title": "国内的 Qoder、CodeBuddy、Trae CN 哪个好用点",
+      "summary": "目前给团队开的是 cursor 企业版 premium 席位，额外的按量付费人均每月接近 2000 刀 成本有点太高了，codex 国内企业版开不了，只能在国内这几个里企业版选选。问下大家这几个哪个好用点？另外问下 Qoder 里的极致是 opus 这些模型吗？或者有没有别的方案，企业版是刚需",
+      "url": "https://www.v2ex.com/t/1237834#reply4",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-27T03:27:32.000Z",
+      "publishedAt": "2026-08-28T04:05:59.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "https://pic2.ziyuan.wang/user/biu/2026/08/12112_c94b015c0d683.png",
-      "author": "94nb"
-    },
-    {
-      "id": "d941844b4f51771d",
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "titleZh": "英伟达同意以 130亿美元收购 Hugging Face",
-      "summary": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... （付费墙） https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-27T01:12:55.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
       ],
       "score": 114,
-      "sourceType": "api"
+      "sourceType": "rss",
+      "cover": "",
+      "author": "crystal1992"
     },
     {
-      "id": "2e1ef35d8e87588e",
-      "title": "GLM Coding Plan 7 天体验卡（从未订阅过套餐的用户可领取）",
-      "summary": "推广内容如下：为了让更多新朋友能 0 成本上手体验 GLM-5.3-Flash，我们准备了一批 GLM Coding Plan 7天体验卡（从未订阅过套餐的用户可领取）：接下来一周，每天限量发放 10,000 张。同时，我们也已重置所有套餐用户账号内的体验卡数量，欢迎分享安利给你的更多朋友。领取链接：https://bi…",
-      "url": "https://www.v2ex.com/t/1237520#reply24",
+      "id": "e934d98ddf3758dc",
+      "title": "plus 用户的 5h 限额实在太少了",
+      "summary": "我的周限今天开始，所以顺带统计了一下 刚做了一些任务，5h 还剩 85%，周限额还剩 98% 忽略可能的小数点，那么也就是 5h 限额是已用量/0.15，周限额是已用量/0.02，那么周限额是 5h 限额的 7.5 倍，周额度切的也太碎了，5h 限额太少了，用的很不爽",
+      "url": "https://www.v2ex.com/t/1237826#reply9",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-08-27T01:35:44.000Z",
+      "publishedAt": "2026-08-28T03:36:45.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 112,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "zhuangjia"
+      "author": "prosgtsr"
     },
     {
-      "id": "a7cd74577ab88a37",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "titleZh": "首席执行官解雇了开发人员，为人工智能腾出空间。开发人员创建开源 AI 首席执行官",
-      "summary": "Hacker News 热帖，当前积分 144，评论 85。",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "id": "f9e8ae3f3d618ffe",
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "titleZh": "GoGoGrandparent (YC S16)正在招聘后端工程师",
+      "summary": "Hacker News 热帖，当前积分 1，评论 0。",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-27T01:46:22.000Z",
+      "publishedAt": "2026-08-28T03:35:15.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "工程效率",
         "Hacker News",
-        "讨论"
+        "招聘"
       ],
-      "score": 111,
+      "score": 112,
       "sourceType": "api"
     },
     {
-      "id": "79b7bc272bfeaf2d",
-      "title": "Kusama Yayoi Dies at 97",
-      "titleZh": "草间弥生逝世，享年97 岁",
-      "summary": "Hacker News 热帖，当前积分 53，评论 4。",
-      "url": "https://news.jp/i/1465528042000662661",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-27T02:21:18.000Z",
+      "id": "436738b50eee1ae7",
+      "title": "有无免费公众浩 api 推送推荐",
+      "summary": "买了个 sim 接收器硬件。想通过微信把内容推到微信",
+      "url": "https://www.v2ex.com/t/1237831#reply1",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-28T03:52:22.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
-      "score": 111,
-      "sourceType": "api"
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "mtdhllf"
     },
     {
-      "id": "a9acba7075cacb71",
-      "title": "Laion Big Video Dataset",
-      "titleZh": "Laion 大型视频数据集",
-      "summary": "Hacker News 热帖，当前积分 16，评论 0。",
-      "url": "https://projects.laion.ai/bvd/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-08-27T01:50:26.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "333ac943803f104c",
-      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
-      "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。查看全文",
-      "url": "https://sspai.com/post/113873",
+      "id": "9f6819373dbbadf2",
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+      "summary": "2017年，明基推出第一代 ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ... 查看全文",
+      "url": "https://sspai.com/post/113909",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-26T23:33:04.000Z",
+      "publishedAt": "2026-08-28T01:56:00.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 109,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "少数派编辑部"
+      "author": "Microhoo"
+    },
+    {
+      "id": "ff4532ee580ef960",
+      "title": "有没有老哥从 opencode 换到 zcode 的",
+      "summary": "一直都是用 opencode 然后配置 deepseek 的 api 来写代码，最近准备试试 GLM 的 coding plan 我在 opencode 里有很多 skill 和 rules 这类文件，应该怎么迁移到 zcode 除此以外，opencode 有一个我非常喜欢的功能就是 formatter 他在 opencode.js…",
+      "url": "https://www.v2ex.com/t/1237770#reply13",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-08-28T01:20:10.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "vergilgao"
+    },
+    {
+      "id": "a120e3237eb3f4d4",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "titleZh": "法官裁定特朗普政府将人类列入黑名单是非法的",
+      "summary": "Hacker News 热帖，当前积分 149，评论 66。",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-08-28T02:03:38.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 109,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
     {
+      "id": "9f6819373dbbadf2",
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+      "summary": "2017年，明基推出第一代 ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ... 查看全文",
+      "url": "https://sspai.com/post/113909",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-28T01:56:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Microhoo"
+    },
+    {
+      "id": "9d26fa27e20221eb",
+      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+      "summary": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文",
+      "url": "https://sspai.com/post/113922",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-28T00:29:37.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "2e4083b0a60b14c9",
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ... 查看全文",
+      "url": "https://sspai.com/post/113905",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-27T10:00:05.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "acfaf23e840d5743",
+      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
+      "summary": "不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文",
+      "url": "https://sspai.com/post/89194",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-27T07:28:44.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 81,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "爱拼安小匠"
+    },
+    {
+      "id": "1370543e61827d77",
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/113222",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-08-27T03:01:42.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 77,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "随便好啦"
+    },
+    {
       "id": "333ac943803f104c",
       "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
       "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。查看全文",
@@ -182,97 +270,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "c163d9a73892be6e",
-      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-      "summary": "如今，vibecoding 的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding 能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-26T07:59:03.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 87,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "f63d1abf183c6de2",
-      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
-      "summary": "学生党到底有哪些专享福利？看这一篇就对了。查看全文",
-      "url": "https://sspai.com/post/68227",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-26T08:25:44.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 84,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "jijiali"
-    },
-    {
-      "id": "1df4f91044fe41d2",
-      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
-      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展 2026 开幕夜为我们带来了海量新作公布与续作消息：从《巫师 3：重制版》《魔法门之英雄无敌 3：重制版》等经典 IP 重制，到《寂静岭 ... 查看全文",
-      "url": "https://sspai.com/post/113851",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-26T07:11:40.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 85,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "机核GCORES"
-    },
-    {
-      "id": "c8f1bc1b83ffbdc4",
-      "title": "在正镶白旗，用五天共同生活理解现代牧场",
-      "summary": "这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。查看全文",
-      "url": "https://sspai.com/post/113714",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-26T02:39:24.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 76,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "PJHubs"
-    },
-    {
-      "id": "e6fffbce34bccc01",
-      "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
-      "summary": "索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。查看全文",
-      "url": "https://sspai.com/post/113847",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-08-26T00:09:01.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 71,
+      "score": 69,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -284,6 +282,43 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "b879794a91f7d4f8",
+          "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-08-27T23:56:43.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 116,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026082701.webp",
+          "author": "阮一峰"
+        },
+        {
+          "id": "d905ac6d13af8c08",
+          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+          "titleZh": "使用文档画中画 API 创建 Web 小部件",
+          "summary": "一般的想法是，我们创建一个文档画中画窗口（DPIP 窗口），然后我们将 HTML、CSS 和 JavaScript 放入其中。正在使用以下内容创建 Web 小部件……",
+          "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-08-27T14:41:06.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "cd0e740dc7a8dbbc",
           "title": "animation-trigger",
@@ -298,7 +333,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 105,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -317,7 +352,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 99,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
           "author": "hello@smashingmagazine.com (Meriem Benhabiles)"
@@ -359,44 +394,6 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
           "author": "hello@smashingmagazine.com (Pierre Burgy)"
-        },
-        {
-          "id": "e9e36d9eebc6c79a",
-          "title": "WordPress PHP-Only Block Registration",
-          "titleZh": "WordPress PHP-Only 阻止注册",
-          "summary": "在区块到达 Core 七年半后，WordPress 引入了一种无需 React 即可构建区块和构建管道的方法。您只需要 PHP。WordPress PHP-On...",
-          "url": "https://css-tricks.com/wordpress-php-block-registration/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-08-24T13:54:02.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "6d24a010e6c9290e",
-          "title": "Resolved: CSS Class Prefix Selector",
-          "titleZh": "已解决：CSS 类前缀选择器",
-          "summary": "新解决的提案将允许我们选择具有通配符的变体的前缀类，例如.prefix- *。已解决：CSS 类前缀选择器来源…",
-          "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-08-21T15:13:03.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -405,6 +402,44 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "5f0f2bb4d573253a",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "titleZh": "更好的答案，更广泛的思考：学生从 ChatGPT 和批判性思维培训中获得什么",
+          "summary": "一项针对 1000 多名学生的随机研究考察了 ChatGPT、批判性思维、原创性和学生在现实世界大学作业中的表现。",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-08-27T09:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "3b0f43bdd3367bc4",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "titleZh": "扩大 OpenAI 在巴西的业务",
+          "summary": "OpenAI 正在扩大其在巴西的业务，深化与开发人员、企业和社区的互动，以支持 AI 在全国范围内的采用。",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-08-27T03:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "2667b1c42f8648ab",
           "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -419,7 +454,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 98,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -438,7 +473,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 98,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -457,7 +492,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 82,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -476,45 +511,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 82,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "ebe84ab76d21924b",
-          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-          "titleZh": "使用句子变换器训练和微调多矢量嵌入模型",
-          "summary": "",
-          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-08-26T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 73,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "de2397be77025a2f",
-          "title": "Granite 4.2 LLMs: How They're Built",
-          "titleZh": "Granite 4.2 LLM：如何构建",
-          "summary": "",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-08-25T15:14:14.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 59,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,90 +524,90 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "4675fea2a7c67f0f",
-          "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-          "titleZh": "病毒式人工智能初创公司 Instinct 以 25亿美元的估值筹集了 3.5亿美元",
-          "summary": "这家初创公司只有一年的历史，但它已经引起了大量的炒作（和金钱），同时也引发了对隐私的担忧。",
-          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "id": "9f485f5a318e0399",
+          "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+          "titleZh": "AI、运动员和 Keith Rabois：StrictlyVC 将于 9月10日回到纽约",
+          "summary": "StrictlyVC 精品之夜将于 9月10日返回纽约西村，Keith Rabois、Craig Shapiro、Jason Levien、Tristan Walker、Brynn Putnam 和 Deve……",
+          "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-27T00:24:57.000Z",
+          "publishedAt": "2026-08-28T02:02:44.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 104,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "a989e0ca264a470b",
-          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-          "titleZh": "在“需求激增”的情况下，亚马逊将其 Nvidia 芯片的订单增加了两倍",
-          "summary": "亚马逊将在未来两年内为其数据中心增加 200 万个 Nvidia GPU 芯片。但这种扩展的合作伙伴关系不仅仅是购买更多的芯片。",
-          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "id": "c0ae33d71cd0f63e",
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "titleZh": "Anthropic 和 OpenAI 正在 TechCrunch Disrupt 2026 上加入人工智能舞台",
+          "summary": "在 TechCrunch Disrupt 2026 上，AI Stage 又回到了过去几年由 Google for Startups 提出的社区中最热门的话题。",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-26T23:47:18.000Z",
+          "publishedAt": "2026-08-27T23:16:45.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e5b507e8dd776c5a",
-          "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
-          "titleZh": "Meta 的 180亿美元儿童安全交易取决于年龄验证技术，该技术效果不佳",
-          "summary": "这一历史性的解决方案重新引发了人们对年龄验证技术如何将隐私置于危险之中的持续担忧。",
-          "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+          "id": "4ea30d0899495bc2",
+          "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+          "titleZh": "在 Meta 的 $180 亿结算中埋葬的是儿童数据的合法通行证",
+          "summary": "Meta 与 29 个州达成的和解协议使其能够保留 13 岁以下儿童的某些数据，以训练和测试年龄检测模型，突出了建立的隐私权衡……",
+          "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-26T22:47:58.000Z",
+          "publishedAt": "2026-08-27T20:04:26.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "2cf60475bb172e02",
-          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-          "titleZh": "Anthropic 继续与 Nscale 达成 $450 亿的交易",
-          "summary": "与基础设施提供商的新交易是 Anthropic 炙手可热的计算机连胜的最新例子。",
-          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "id": "a28bd5aaad7cfab1",
+          "title": "Rivian’s CFO is leaving the company",
+          "titleZh": "Rivian 的首席财务官即将离开公司",
+          "summary": "该公司周四在一份文件中表示，Claire McDonough 将于 10月30日辞职，以寻求新的机会。",
+          "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-26T21:37:39.000Z",
+          "publishedAt": "2026-08-27T20:23:10.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "4a8c374dc74836b2",
-          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-          "titleZh": "谷歌的双子座有一个品牌问题，其余的人工智能",
-          "summary": "消费者 AI 应用程序需要停止让用户学习他们的产品架构。",
-          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+          "id": "95fa5ec15b3fb320",
+          "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+          "titleZh": "Bluesky 为那些不想传播病毒的人添加了“算法选择退出”功能",
+          "summary": "Bluesky 说，有时人们只是想发帖给他们的粉丝。",
+          "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-08-26T19:37:34.000Z",
+          "publishedAt": "2026-08-27T20:15:26.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -647,6 +644,25 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
+          "id": "b30c88c9d27c2c36",
+          "title": "What Blade Runner got wrong about AI (so far)",
+          "titleZh": "Blade Runner 对人工智能的错误之处（到目前为止）",
+          "summary": "",
+          "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-08-27T20:22:49.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "fbfaf685f136d035",
           "title": "AI has a hospitality problem money can’t fix",
           "titleZh": "人工智能有接待问题，金钱无法解决",
@@ -660,7 +676,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 103,
+          "score": 63,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -679,7 +695,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 58,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1254/1*tgwP6PabWR7AR_60MHnIxQ.png",
           "author": ""
@@ -698,7 +714,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 57,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -740,25 +756,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "2bdceaed7ee1d210",
-          "title": "No log off, How to become an AI Designer, vibe coded portfolios",
-          "titleZh": "无需注销，如何成为人工智能设计师，vibe 编码投资组合",
-          "summary": "",
-          "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-08-24T11:15:25.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -768,115 +765,113 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "af2dc53f8b5b4de7",
-          "title": "讲下我自己申请软著和商标的经历",
-          "summary": "刚才看见有大佬说自己申请软著一直待受理，就讲下自己的经历。自己申请软件著作权 我第一次申请软件著作权，好像也是几年前在某平台找人申请的，好像也是几百块吧？后面申请是在淘宝或者拼多多上找商家申请的，比起几年前便宜很多了。去年我第一次自己申请软件著作权，是因为朋友开发了一个 AI 软件著作权材料的平台，他给我送积分，够我生成 10…",
-          "url": "https://www.v2ex.com/t/1237554#reply3",
+          "id": "ee783464b4d20500",
+          "title": "Go 后台接入 SSO 后，本地用户表应该怎么退？",
+          "summary": "一个 Go 后台如果已经有用户表、角色、菜单和按钮权限，后面又要接公司 SSO、CAS、LDAP 或企业微信，本地用户表到底该不该继续存在？我现在的判断是：应该存在，但要退成“映射层”，别再把自己当身份主系统。我说的不是登录页上多一个按钮。认证入口可以交给外部系统，外部系统负责判断这个人是谁、能不能进公司系统、属于哪个组织。后…",
+          "url": "https://www.v2ex.com/t/1237839#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-27T03:04:03.000Z",
+          "publishedAt": "2026-08-28T04:32:24.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 116,
           "sourceType": "rss",
           "cover": "",
-          "author": "laov2"
+          "author": "amztianshi888"
         },
         {
-          "id": "c35db407a774ad89",
-          "title": "你们的 gpt puls 都加了 5 小时限额了吗？我咋没有",
-          "summary": "我也看到 x 上说 plus 加 5小时了，然后 v2 上也很多人说加了，我咋没加呀。。。我 codex 是最新版本呀",
-          "url": "https://www.v2ex.com/t/1237562#reply5",
+          "id": "3240c8365b20304b",
+          "title": "国内的 Qoder、CodeBuddy、Trae CN 哪个好用点",
+          "summary": "目前给团队开的是 cursor 企业版 premium 席位，额外的按量付费人均每月接近 2000 刀 成本有点太高了，codex 国内企业版开不了，只能在国内这几个里企业版选选。问下大家这几个哪个好用点？另外问下 Qoder 里的极致是 opus 这些模型吗？或者有没有别的方案，企业版是刚需",
+          "url": "https://www.v2ex.com/t/1237834#reply4",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-27T03:27:32.000Z",
+          "publishedAt": "2026-08-28T04:05:59.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "https://pic2.ziyuan.wang/user/biu/2026/08/12112_c94b015c0d683.png",
-          "author": "94nb"
-        },
-        {
-          "id": "d941844b4f51771d",
-          "title": "Nvidia agrees to acquire Hugging Face for $13B",
-          "titleZh": "英伟达同意以 130亿美元收购 Hugging Face",
-          "summary": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... （付费墙） https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...",
-          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-27T01:12:55.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
           ],
           "score": 114,
-          "sourceType": "api"
+          "sourceType": "rss",
+          "cover": "",
+          "author": "crystal1992"
         },
         {
-          "id": "2e1ef35d8e87588e",
-          "title": "GLM Coding Plan 7 天体验卡（从未订阅过套餐的用户可领取）",
-          "summary": "推广内容如下：为了让更多新朋友能 0 成本上手体验 GLM-5.3-Flash，我们准备了一批 GLM Coding Plan 7天体验卡（从未订阅过套餐的用户可领取）：接下来一周，每天限量发放 10,000 张。同时，我们也已重置所有套餐用户账号内的体验卡数量，欢迎分享安利给你的更多朋友。领取链接：https://bi…",
-          "url": "https://www.v2ex.com/t/1237520#reply24",
+          "id": "e934d98ddf3758dc",
+          "title": "plus 用户的 5h 限额实在太少了",
+          "summary": "我的周限今天开始，所以顺带统计了一下 刚做了一些任务，5h 还剩 85%，周限额还剩 98% 忽略可能的小数点，那么也就是 5h 限额是已用量/0.15，周限额是已用量/0.02，那么周限额是 5h 限额的 7.5 倍，周额度切的也太碎了，5h 限额太少了，用的很不爽",
+          "url": "https://www.v2ex.com/t/1237826#reply9",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-08-27T01:35:44.000Z",
+          "publishedAt": "2026-08-28T03:36:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "zhuangjia"
+          "author": "prosgtsr"
         },
         {
-          "id": "a7cd74577ab88a37",
-          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-          "titleZh": "首席执行官解雇了开发人员，为人工智能腾出空间。开发人员创建开源 AI 首席执行官",
-          "summary": "Hacker News 热帖，当前积分 144，评论 85。",
-          "url": "https://github.com/SenteLabsAI/OpenExecutive",
+          "id": "f9e8ae3f3d618ffe",
+          "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+          "titleZh": "GoGoGrandparent (YC S16)正在招聘后端工程师",
+          "summary": "Hacker News 热帖，当前积分 1，评论 0。",
+          "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-27T01:46:22.000Z",
+          "publishedAt": "2026-08-28T03:35:15.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "工程效率",
             "Hacker News",
-            "讨论"
+            "招聘"
           ],
-          "score": 111,
+          "score": 112,
           "sourceType": "api"
         },
         {
-          "id": "79b7bc272bfeaf2d",
-          "title": "Kusama Yayoi Dies at 97",
-          "titleZh": "草间弥生逝世，享年97 岁",
-          "summary": "Hacker News 热帖，当前积分 53，评论 4。",
-          "url": "https://news.jp/i/1465528042000662661",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-08-27T02:21:18.000Z",
+          "id": "436738b50eee1ae7",
+          "title": "有无免费公众浩 api 推送推荐",
+          "summary": "买了个 sim 接收器硬件。想通过微信把内容推到微信",
+          "url": "https://www.v2ex.com/t/1237831#reply1",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-28T03:52:22.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
+            "开发者社区"
           ],
-          "score": 111,
-          "sourceType": "api"
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "mtdhllf"
+        },
+        {
+          "id": "ff4532ee580ef960",
+          "title": "有没有老哥从 opencode 换到 zcode 的",
+          "summary": "一直都是用 opencode 然后配置 deepseek 的 api 来写代码，最近准备试试 GLM 的 coding plan 我在 opencode 里有很多 skill 和 rules 这类文件，应该怎么迁移到 zcode 除此以外，opencode 有一个我非常喜欢的功能就是 formatter 他在 opencode.js…",
+          "url": "https://www.v2ex.com/t/1237770#reply13",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-08-28T01:20:10.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "vergilgao"
         }
       ]
     }
@@ -887,7 +882,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 81,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -906,10 +901,6 @@
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 10
-    },
-    {
       "tag": "产品/商业",
       "count": 10
     },
@@ -918,8 +909,12 @@
       "count": 8
     },
     {
-      "tag": "讨论",
+      "tag": "工具/网站",
       "count": 8
+    },
+    {
+      "tag": "讨论",
+      "count": 7
     },
     {
       "tag": "开发者社区",
@@ -950,12 +945,12 @@
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "CSS相关",
       "count": 4
     },
     {
-      "tag": "CSS相关",
-      "count": 4
+      "tag": "技术周刊",
+      "count": 3
     }
   ]
 }
