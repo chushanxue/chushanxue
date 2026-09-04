@@ -1,122 +1,86 @@
 {
-  "generatedAt": "2026-09-03T02:17:49.785Z",
+  "generatedAt": "2026-09-04T02:13:11.961Z",
   "headline": {
-    "id": "609dfca09f1577ea",
-    "title": "失业马上半年了，还没找到工作~~",
-    "summary": "工作经验接近 5年吧，后端开发，过完今个月也差不多半年没找到工作了。虽然期间短暂干过 1 个半月时间。短暂工作：https://www.v2ex.com/t/1227566 从 7月底到现在没有一个 offer, 虽然期间有约过几个面试，后续也被我推了。推掉原因：不再想继续干之前业务（海聊，有点灰且行业不景气，上一份被干掉原…",
-    "url": "https://www.v2ex.com/t/1239103#reply9",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-09-03T01:53:40.000Z",
-    "category": "industry",
+    "id": "2b067d8a9341ad94",
+    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+    "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+    "source": "阮一峰的网络日志",
+    "sourceUrl": "https://www.ruanyifeng.com/blog/",
+    "publishedAt": "2026-09-03T23:59:05.000Z",
+    "category": "frontend",
     "tags": [
-      "行业热点",
-      "开发者社区"
+      "前端技术",
+      "技术周刊"
     ],
-    "score": 115,
+    "score": 120,
     "sourceType": "rss",
-    "cover": "",
-    "author": "Pony69"
+    "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026082702.webp",
+    "author": "阮一峰"
   },
   "latest": [
     {
-      "id": "609dfca09f1577ea",
-      "title": "失业马上半年了，还没找到工作~~",
-      "summary": "工作经验接近 5年吧，后端开发，过完今个月也差不多半年没找到工作了。虽然期间短暂干过 1 个半月时间。短暂工作：https://www.v2ex.com/t/1227566 从 7月底到现在没有一个 offer, 虽然期间有约过几个面试，后续也被我推了。推掉原因：不再想继续干之前业务（海聊，有点灰且行业不景气，上一份被干掉原…",
-      "url": "https://www.v2ex.com/t/1239103#reply9",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-03T01:53:40.000Z",
-      "category": "industry",
+      "id": "2b067d8a9341ad94",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "source": "阮一峰的网络日志",
+      "sourceUrl": "https://www.ruanyifeng.com/blog/",
+      "publishedAt": "2026-09-03T23:59:05.000Z",
+      "category": "frontend",
       "tags": [
-        "行业热点",
-        "开发者社区"
+        "前端技术",
+        "技术周刊"
       ],
-      "score": 115,
+      "score": 120,
       "sourceType": "rss",
-      "cover": "",
-      "author": "Pony69"
+      "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026082702.webp",
+      "author": "阮一峰"
     },
     {
-      "id": "dd534115fe8f1c1a",
-      "title": "我希望所有人都应该去试试 Gemini 的 Flash 系列",
-      "summary": "虽然 Gemini 经常被戏称北美大豆包，但是在我这么久的体验下来，我觉得 Gemini Flash 系列是目前性价比最高的了。首先就是便宜，目前咸鱼上一个 18月 Pro 只需要 10 块不到，几十块钱弄两三个号基本上面对日常开发等于实现了 Token 自由，非常适合我这种穷鬼开发。然后就是快，他的生成速度绝对对得起 Fla…",
-      "url": "https://www.v2ex.com/t/1239096#reply23",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-03T01:41:17.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "punny"
-    },
-    {
-      "id": "5d1e3530570445fe",
-      "title": "分享大模型使用的一些经验",
-      "summary": "1.github copilot （100 刀一年的，这个套餐好像没了），明显感觉变得很不耐用，完全不推荐，明年不续订。2.kimi （接近 1000 块一年的），我一直用 kimi2.7，上下文才 256K，上下文涨的非常快，大任务频繁重置上下文导致额度消耗更快，5小时的额度甚至完成一个任务都难，垃圾，明年不续订。3.…",
-      "url": "https://www.v2ex.com/t/1239073#reply18",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-03T00:43:02.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "rqzrqh"
-    },
-    {
-      "id": "14d719706cc9d691",
-      "title": "可稳定的 ChatGPT 的梯子求助~",
-      "summary": "想在公司内部搭建 sub2api 使用 ChatGPT，有没有稳定的梯子渠道？尽量少更新少维护的那种",
-      "url": "https://www.v2ex.com/t/1239093#reply11",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-03T01:36:20.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "gtanyin"
-    },
-    {
-      "id": "5345643da10a4f9c",
-      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-      "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文",
-      "url": "https://sspai.com/post/114113",
+      "id": "7de24692091de865",
+      "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
+      "summary": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文",
+      "url": "https://sspai.com/post/114164",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-03T00:31:14.000Z",
+      "publishedAt": "2026-09-04T00:47:49.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "27e51f8bf775adee",
-      "title": "安卓 app 如何接入广告？软著待受理中",
-      "summary": "现在是个人开发者，暂时没有注册公司和个体户，所以想着接广告联盟，增加点收入，为爱发电的话太累了，求大佬指点。",
-      "url": "https://www.v2ex.com/t/1239069#reply13",
+      "id": "559effca6f1f3b9b",
+      "title": "昨晚 ChatGPT、Claude、Grok 集体宕机，今天 GPT-6 就来了？",
+      "summary": "昨晚不知道有没有人遇到 ChatGPT 宕机。我一开始还以为是自己网络的问题，后来发现 Claude、Grok 好像也都出了问题。几家一起挂，还挺少见的。结果今天一早起来发现：GPT-6 发布了。这时间点是不是有点巧了 虽然目前看应该没什么关系，OpenAI 那边说是路由的问题，其他家也有各自的原因。但还是忍不住想了一…",
+      "url": "https://www.v2ex.com/t/1239369#reply21",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-03T00:11:04.000Z",
+      "publishedAt": "2026-09-04T00:52:26.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "qwei"
+    },
+    {
+      "id": "b04ee0fd6edbfeab",
+      "title": "ChatGPT 在没有对话任务且未经允许的情况下自动打开微信",
+      "summary": "[img] [/img]",
+      "url": "https://www.v2ex.com/t/1239374#reply10",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-04T01:05:54.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -124,49 +88,157 @@
       ],
       "score": 108,
       "sourceType": "rss",
-      "cover": "",
-      "author": "Berlin3d"
+      "cover": "https://i.imgur.com/TkNULOX.png",
+      "author": "kaixinyidian"
     },
     {
-      "id": "0fdc25edfb6514d5",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "titleZh": "推出 HN：RonanRX (YC S26) –个性化肽和 GLP-1s",
-      "summary": "HN，您好！我是 RonanRx 的两位创始人之一 Lloyd。我们正在建立一个垂直整合的制药公司，其软件用于处方、远程医疗、复方……",
-      "url": "https://ronanrx.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-02T22:36:04.000Z",
+      "id": "7a6b43c8ff8b056c",
+      "title": "OpenAI 发布 GPT-6 Astra 并宣告「欢迎来到 AGI 时代」，评测全面登顶",
+      "summary": "https://openai.com/index/gpt-6-astra/ GPT-6 Astra 今日起向有限的组织推出，并在未来几天内面向所有 ChatGPT Plus、Pro、Business 和 Enterprise 用户开放，同时也可通过 OpenAI API 和 AWS 使用。此外，圣 Tibo 说，在 Astra…",
+      "url": "https://www.v2ex.com/t/1239362#reply6",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-03T23:53:58.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
-      "score": 113,
-      "sourceType": "api"
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "https://pbs.twimg.com/media/HRUNO2ZbIAELO7g?format=png&amp;name=medium",
+      "author": "voidGhost"
     },
     {
-      "id": "8d286a1ccc65ad7c",
-      "title": "When the canvas starts acting, who’s really in control?",
-      "titleZh": "当画布开始表演时，真正的控制者是谁？",
+      "id": "e9c00198b3733a1a",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "titleZh": "据报道，Crusoe 以 300亿美元的估值筹集了 30亿美元",
+      "summary": "据报道，这轮融资是在这家数据中心开发商与 Jane Street 签订了 130亿美元的合同之后进行的。",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-09-04T00:48:42.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 105,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "75c20a205b6ac373",
+      "title": "What Minority Report got wrong about AI (so far)",
+      "titleZh": "少数群体报告对人工智能的错误之处（到目前为止）",
       "summary": "",
-      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-09-02T22:13:30.000Z",
+      "publishedAt": "2026-09-03T22:39:12.000Z",
       "category": "design",
       "tags": [
         "设计/UI",
         "交互设计"
       ],
-      "score": 106,
+      "score": 107,
       "sourceType": "rss",
       "cover": "",
       "author": ""
+    },
+    {
+      "id": "625d161f2acaa994",
+      "title": "厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开",
+      "summary": "前段时间买了个临期 20XPro 可以爽蹬了",
+      "url": "https://www.v2ex.com/t/1239359#reply19",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-03T23:29:34.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 106,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/92kaywv.png",
+      "author": "581996"
     }
   ],
   "featuredTools": [
+    {
+      "id": "7de24692091de865",
+      "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
+      "summary": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文",
+      "url": "https://sspai.com/post/114164",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-04T00:47:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "eb3db7030460c9e7",
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ... 查看全文",
+      "url": "https://sspai.com/post/114154",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-03T10:18:06.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 92,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "a951c23d8cd36613",
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+      "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文",
+      "url": "https://sspai.com/post/113998",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 84,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "KingTsui"
+    },
+    {
+      "id": "5d8c9c49470bf9a5",
+      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
+      "summary": "聊聊 Hi-Fi 这件事。查看全文",
+      "url": "https://sspai.com/post/113159",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-03T03:32:28.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 78,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "DerQi"
+    },
     {
       "id": "5345643da10a4f9c",
       "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
@@ -180,14 +252,14 @@
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
       "id": "33a02c2e06fb8c85",
-      "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
       "summary": "上周，Apple 公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间 9月10日凌晨一点在 ApplePark 举行。与过去两年的秋季发布会不同，今年的「科技春 ... 查看全文",
       "url": "https://sspai.com/post/114084",
       "source": "少数派",
@@ -198,83 +270,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 91,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "Vanilla"
-    },
-    {
-      "id": "b16ef0820e643307",
-      "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
-      "summary": "Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35天，35天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文",
-      "url": "https://sspai.com/post/80562",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-02T07:22:27.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 87,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Levinson"
-    },
-    {
-      "id": "95a8336f82f6dcf8",
-      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
-      "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是 Sonos 一直 ... 查看全文",
-      "url": "https://sspai.com/post/113581",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-02T03:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 80,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "听歌的水獭"
-    },
-    {
-      "id": "ab42cf59679fb88b",
-      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
-      "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。查看全文",
-      "url": "https://sspai.com/post/114093",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-01T23:58:40.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "810bd7b23a56aaa4",
-      "title": "CleanShot 5.0 with Studio Mode",
-      "titleZh": "带 Studio 模式的 CleanShot 5.0",
-      "summary": "适用于屏幕截图、录制和协作的 Mac 原生应用程序",
-      "url": "https://www.producthunt.com/products/cleanshot",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-09-01T18:21:48.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 62,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Chris Messina"
     }
   ],
   "sections": [
@@ -283,6 +282,42 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "2b067d8a9341ad94",
+          "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-09-03T23:59:05.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 120,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026082702.webp",
+          "author": "阮一峰"
+        },
+        {
+          "id": "006065af966874f2",
+          "title": "别再使用IndexedDB，大文件读写就用OPFS",
+          "summary": "今天才发现，文件本地持久化存储，最好的技术选型原来是 OPFS，而不是 IndexedDB，前者性能极好、代码极少，比 IndexedDB 强的不是一点两点。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-09-03T09:39:07.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/image/blog/202609/2026-9-3_173530.webp",
+          "author": ""
+        },
         {
           "id": "f6d0b261e5a8ac5a",
           "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
@@ -358,43 +393,6 @@
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202608/2026-8-28_180941.webp",
           "author": ""
-        },
-        {
-          "id": "b879794a91f7d4f8",
-          "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-          "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-          "source": "阮一峰的网络日志",
-          "sourceUrl": "https://www.ruanyifeng.com/blog/",
-          "publishedAt": "2026-08-27T23:56:43.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "技术周刊"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026082701.webp",
-          "author": "阮一峰"
-        },
-        {
-          "id": "d905ac6d13af8c08",
-          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-          "titleZh": "使用文档画中画 API 创建 Web 小部件",
-          "summary": "一般的想法是，我们创建一个文档画中画窗口（DPIP 窗口），然后我们将 HTML、CSS 和 JavaScript 放入其中。正在使用以下内容创建 Web 小部件……",
-          "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-08-27T14:41:06.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -404,33 +402,52 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "5392a709b8070e68",
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "titleZh": "在 Confluent 上使用 IBM 时间序列模型实现实时智能",
-          "summary": "",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-09-02T13:49:14.000Z",
+          "id": "1fb11e4af195140b",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "titleZh": "前线防御者的黎明：$10 亿用于保护基本服务",
+          "summary": "OpenAI 为前线防御者推出了 Daybreak。10亿美元的承诺扩大了对前沿网络人工智能、培训和基本服务支持的访问。",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-03T13:15:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
-            "开源模型"
+            "模型产品"
           ],
-          "score": 97,
+          "score": 106,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "6cde55cc5bb91095",
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "titleZh": "借助 ChatGPT，全地形车大空中之旅将 3天的工作时间缩短为 3小时",
-          "summary": "ATV Big Air Tour 使用 ChatGPT Work 来加快营销、营销等。它甚至在 15分钟内将商品照片转换为库存网站。",
-          "url": "https://openai.com/index/atv-big-air-tour",
+          "id": "a2666fbc7d6dea60",
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "titleZh": "NeoMME：高效的多模原生和多语言编码器",
+          "summary": "",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-09-03T13:13:48.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "a52382148614bd13",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "titleZh": "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文件",
+          "summary": "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文档，发现了所有四个植入的错误，并在此财务审阅工作流程中将性能提高了近 40%。",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-02T12:00:00.000Z",
+          "publishedAt": "2026-09-03T12:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
@@ -442,77 +459,58 @@
           "author": ""
         },
         {
-          "id": "c0cdf95a7d2d5fe3",
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "titleZh": "BenchMIRT：LLM 基准实际衡量的是什么？",
+          "id": "77778f8356065042",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "titleZh": "Playco CUT 使用 GPT-6 Astra 手动修复 50%的原型游戏",
+          "summary": "使用 GPT-6 Astra，Playco 从一个灰色盒子基础构建了三个主题游戏原型，并报告比以前的模型减少了 50 ％的手动修复。",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-03T12:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "e21046239842a2eb",
+          "title": "Safety overview: GPT-6 Astra",
+          "titleZh": "安全概述：GPT-6 Astra",
+          "summary": "GPT-6 ASTRA 是我们最有能力的广泛部署模型，也是我们在备灾框架下首次达到关键级别的网络安全能力。",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-03T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "dffba793fa82b40d",
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "titleZh": "微调 350 米模型，以 100 个 GRPO 步骤实现更好的结构化输出",
           "summary": "",
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
           "source": "Hugging Face Blog",
           "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-09-01T21:39:07.000Z",
+          "publishedAt": "2026-09-03T00:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "开源模型"
           ],
-          "score": 71,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "79185018036197ee",
-          "title": "How AI-native companies turn workflows into operating capability",
-          "titleZh": "人工智能原生公司如何将工作流程转化为运营能力",
-          "summary": "Basis、Clay 和 Exa Labs 使用 AI 代理来改进入职、帐户管理和开发人员集成。查看企业领导者可以申请的内容。",
-          "url": "https://openai.com/index/ai-native-company-workflows",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-01T17:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 73,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "48cb46d0b21723ed",
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "titleZh": "通往 Astra 之路：关键能力和前沿保障措施",
-          "summary": "ASTRA 是第一个符合备灾框架下关键网络安全能力阈值的 OpenAI 模型，具有更强的发布保障措施。",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-01T13:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "25742a96dc4996e2",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "titleZh": "医疗机构现在可以将 EHR 和其他行业数据连接到 ChatGPT",
-          "summary": "ChatGPT 现在可以连接到可信赖的医疗保健数据，帮助临床医生安全地访问患者环境、医学研究等。",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-01T12:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
+          "score": 75,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -525,71 +523,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "36fd7633e4315f1d",
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-          "titleZh": "Builders Stage 带来了将初创公司扩展到 TechCrunch Disrupt 2026 的实用策略",
-          "summary": "Builders Stage 将重返 TechCrunch Disrupt，将创始人、创业运营商和投资者聚集在一起，就如何建立……",
-          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+          "id": "e9c00198b3733a1a",
+          "title": "Crusoe reportedly raises $3B at a $30B valuation",
+          "titleZh": "据报道，Crusoe 以 300亿美元的估值筹集了 30亿美元",
+          "summary": "据报道，这轮融资是在这家数据中心开发商与 Jane Street 签订了 130亿美元的合同之后进行的。",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-02T23:01:00.000Z",
+          "publishedAt": "2026-09-04T00:48:42.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 105,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c7c3c0e13690d8ee",
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "titleZh": "消息人士称，Palo Alto Networks 为 Thrive 支持的控制台支付了 5 亿 $",
-          "summary": "行业观察人士认为，此次收购还使红杉支持的 Serval 成为人工智能 IT 服务自动化领域事实上的创业领导者。",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+          "id": "440a29e0513e49fa",
+          "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+          "titleZh": "特斯拉询问人们是否想购买和运营 Cybercab 车队",
+          "summary": "该公司周四在其网站上发布了一份表格，征求对“Cybercab 车队车辆购买”感兴趣的人的信息。",
+          "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-02T22:44:56.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 102,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "31042d13c2b49ae5",
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "titleZh": "TechCrunch Disrupt 2026 全新真实世界人工智能舞台，搭载英伟达、机器人和已灭绝的动物",
-          "summary": "在我们新的真实世界人工智能舞台上，我们将专注于数字和物理之间的交集，以及我们将继续看到两者的融合的所有方式。",
-          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-02T22:24:09.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 102,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "9eef11766df36ead",
-          "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-          "titleZh": "谷歌避免了广告业务的分拆，但法官下令改变其运营方式",
-          "summary": "谷歌躲避了拆分其广告业务的努力，但一名法官周三表示，该公司将需要调整其业务以造福竞争对手。",
-          "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-02T21:38:34.000Z",
+          "publishedAt": "2026-09-03T22:18:30.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -601,40 +561,78 @@
           "author": ""
         },
         {
-          "id": "264fc77aff6323a8",
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "titleZh": "OpenAI 的新推理技巧向人工智能安全专家发出警报",
-          "summary": "OpenAI 的新 Astra 模型将使用“循环深度”，这是一种允许模型在大多数推理特征的顺序思维之外运行的技术……",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+          "id": "f4ca75e19f1ff0a8",
+          "title": "Oura files to go public",
+          "titleZh": "Oura 文件上市",
+          "summary": "这家戒指制造商表示，其业务在过去一年中显示出显著的收入增长。",
+          "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-02T20:19:14.000Z",
+          "publishedAt": "2026-09-03T22:35:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "97db390fdeb14459",
-          "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
-          "titleZh": "Grok Bot 与 OpenClaw：如何替换整个代理堆栈",
-          "summary": "现在观看|🎙️我已经运行 Grok Bot 几个星期了，我已经杀死了我拥有的每一个 OpenClaw。这里有九个机器人在我的收件箱，我的孩子的科学……",
-          "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+          "id": "63a0153f31cec4cd",
+          "title": "Startup ARR is less secure than ever, new research shows",
+          "titleZh": "新研究显示，初创企业的 ARR 比以往任何时候都更不安全",
+          "summary": "人工智能时代已经完全打破了企业购买模式，初创公司还没有找到如何导航的方法。",
+          "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-03T20:59:23.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "7c937165764d052e",
+          "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
+          "titleZh": "GPT-6 Astra 是一个狂热者-这是我建造的一切",
+          "summary": "立即观看|🎙️我的 GPT-6 Astra 动手评论涵盖了 Figma，Flora 和 Adio 的实际生产工作，一次性编码 WINS 5.6 和 Fable 无法匹配，以及硬件......",
+          "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-09-02T12:03:39.000Z",
+          "publishedAt": "2026-09-03T19:34:20.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 86,
+          "score": 98,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/213644454/8861b59cd21a6007b0237aaf5f590ad2.mp3",
+          "cover": "https://api.substack.com/feed/podcast/214048522/4ae3ffadb011dee13d0f3ad8895f4c9d.mp3",
+          "author": ""
+        },
+        {
+          "id": "babdaf2ce98c2b96",
+          "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+          "titleZh": "Cybercab 是特斯拉的“岔路口”时刻",
+          "summary": "该公司即将正式推出金色双座，没有方向盘或踏板-此举可能会永远改变特斯拉。",
+          "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-03T19:42:48.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 97,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -644,6 +642,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "75c20a205b6ac373",
+          "title": "What Minority Report got wrong about AI (so far)",
+          "titleZh": "少数群体报告对人工智能的错误之处（到目前为止）",
+          "summary": "",
+          "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-03T22:39:12.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 107,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "8d286a1ccc65ad7c",
           "title": "When the canvas starts acting, who’s really in control?",
@@ -658,7 +675,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -677,7 +694,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -696,7 +713,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 92,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*w_S9Inq1V81oYQqr7hxPaw.png",
           "author": ""
@@ -715,7 +732,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -738,25 +755,6 @@
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*k9PgCiClFqJPBZExAScBPQ.jpeg",
           "author": ""
-        },
-        {
-          "id": "281ae2d97263ef4c",
-          "title": "Users don’t see your design system",
-          "titleZh": "用户看不到您的设计系统",
-          "summary": "格式塔原则如何为任何伟大的设计系统提供动力继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-01T11:28:51.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 58,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2388/1*M2UAhbx7BHmk_d_G6Q8PHA.png",
-          "author": ""
         }
       ]
     },
@@ -766,85 +764,31 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "609dfca09f1577ea",
-          "title": "失业马上半年了，还没找到工作~~",
-          "summary": "工作经验接近 5年吧，后端开发，过完今个月也差不多半年没找到工作了。虽然期间短暂干过 1 个半月时间。短暂工作：https://www.v2ex.com/t/1227566 从 7月底到现在没有一个 offer, 虽然期间有约过几个面试，后续也被我推了。推掉原因：不再想继续干之前业务（海聊，有点灰且行业不景气，上一份被干掉原…",
-          "url": "https://www.v2ex.com/t/1239103#reply9",
+          "id": "559effca6f1f3b9b",
+          "title": "昨晚 ChatGPT、Claude、Grok 集体宕机，今天 GPT-6 就来了？",
+          "summary": "昨晚不知道有没有人遇到 ChatGPT 宕机。我一开始还以为是自己网络的问题，后来发现 Claude、Grok 好像也都出了问题。几家一起挂，还挺少见的。结果今天一早起来发现：GPT-6 发布了。这时间点是不是有点巧了 虽然目前看应该没什么关系，OpenAI 那边说是路由的问题，其他家也有各自的原因。但还是忍不住想了一…",
+          "url": "https://www.v2ex.com/t/1239369#reply21",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-03T01:53:40.000Z",
+          "publishedAt": "2026-09-04T00:52:26.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "Pony69"
+          "author": "qwei"
         },
         {
-          "id": "dd534115fe8f1c1a",
-          "title": "我希望所有人都应该去试试 Gemini 的 Flash 系列",
-          "summary": "虽然 Gemini 经常被戏称北美大豆包，但是在我这么久的体验下来，我觉得 Gemini Flash 系列是目前性价比最高的了。首先就是便宜，目前咸鱼上一个 18月 Pro 只需要 10 块不到，几十块钱弄两三个号基本上面对日常开发等于实现了 Token 自由，非常适合我这种穷鬼开发。然后就是快，他的生成速度绝对对得起 Fla…",
-          "url": "https://www.v2ex.com/t/1239096#reply23",
+          "id": "b04ee0fd6edbfeab",
+          "title": "ChatGPT 在没有对话任务且未经允许的情况下自动打开微信",
+          "summary": "[img] [/img]",
+          "url": "https://www.v2ex.com/t/1239374#reply10",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-03T01:41:17.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "punny"
-        },
-        {
-          "id": "5d1e3530570445fe",
-          "title": "分享大模型使用的一些经验",
-          "summary": "1.github copilot （100 刀一年的，这个套餐好像没了），明显感觉变得很不耐用，完全不推荐，明年不续订。2.kimi （接近 1000 块一年的），我一直用 kimi2.7，上下文才 256K，上下文涨的非常快，大任务频繁重置上下文导致额度消耗更快，5小时的额度甚至完成一个任务都难，垃圾，明年不续订。3.…",
-          "url": "https://www.v2ex.com/t/1239073#reply18",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-03T00:43:02.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "rqzrqh"
-        },
-        {
-          "id": "14d719706cc9d691",
-          "title": "可稳定的 ChatGPT 的梯子求助~",
-          "summary": "想在公司内部搭建 sub2api 使用 ChatGPT，有没有稳定的梯子渠道？尽量少更新少维护的那种",
-          "url": "https://www.v2ex.com/t/1239093#reply11",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-03T01:36:20.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "gtanyin"
-        },
-        {
-          "id": "27e51f8bf775adee",
-          "title": "安卓 app 如何接入广告？软著待受理中",
-          "summary": "现在是个人开发者，暂时没有注册公司和个体户，所以想着接广告联盟，增加点收入，为爱发电的话太累了，求大佬指点。",
-          "url": "https://www.v2ex.com/t/1239069#reply13",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-03T00:11:04.000Z",
+          "publishedAt": "2026-09-04T01:05:54.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -852,18 +796,54 @@
           ],
           "score": 108,
           "sourceType": "rss",
-          "cover": "",
-          "author": "Berlin3d"
+          "cover": "https://i.imgur.com/TkNULOX.png",
+          "author": "kaixinyidian"
         },
         {
-          "id": "0fdc25edfb6514d5",
-          "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-          "titleZh": "推出 HN：RonanRX (YC S26) –个性化肽和 GLP-1s",
-          "summary": "HN，您好！我是 RonanRx 的两位创始人之一 Lloyd。我们正在建立一个垂直整合的制药公司，其软件用于处方、远程医疗、复方……",
-          "url": "https://ronanrx.com/",
+          "id": "7a6b43c8ff8b056c",
+          "title": "OpenAI 发布 GPT-6 Astra 并宣告「欢迎来到 AGI 时代」，评测全面登顶",
+          "summary": "https://openai.com/index/gpt-6-astra/ GPT-6 Astra 今日起向有限的组织推出，并在未来几天内面向所有 ChatGPT Plus、Pro、Business 和 Enterprise 用户开放，同时也可通过 OpenAI API 和 AWS 使用。此外，圣 Tibo 说，在 Astra…",
+          "url": "https://www.v2ex.com/t/1239362#reply6",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-03T23:53:58.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "https://pbs.twimg.com/media/HRUNO2ZbIAELO7g?format=png&amp;name=medium",
+          "author": "voidGhost"
+        },
+        {
+          "id": "625d161f2acaa994",
+          "title": "厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开",
+          "summary": "前段时间买了个临期 20XPro 可以爽蹬了",
+          "url": "https://www.v2ex.com/t/1239359#reply19",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-03T23:29:34.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "https://i.imgur.com/92kaywv.png",
+          "author": "581996"
+        },
+        {
+          "id": "e8972f66294bf22f",
+          "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+          "titleZh": "Claude、Codex 和 Cursor 选择了哪些工具？我们测量了 17000 次跑步来找出",
+          "summary": "Hacker News 热帖，当前积分 105，评论 34。",
+          "url": "https://armature.tech/blog/which-tools-coding-agents-install",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-02T22:36:04.000Z",
+          "publishedAt": "2026-09-03T21:20:34.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -871,7 +851,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 113,
+          "score": 106,
+          "sourceType": "api"
+        },
+        {
+          "id": "1a1cd780416f7430",
+          "title": "GPT-6 Astra",
+          "titleZh": "GPT-6 Astra",
+          "summary": "系统卡：https://deploymentsafety.openai.com/gpt-6-astra 正在进行的相关线程：ARC-AGI-3 上的 OpenAI GPT-6 Astra - https://news.ycombinator.com/item?id=49555691……",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-03T18:41:05.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 107,
           "sourceType": "api"
         }
       ]
@@ -883,7 +882,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -895,7 +894,7 @@
     },
     {
       "tag": "行业热点",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "设计/UI",
@@ -922,11 +921,11 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "开发者社区",
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -934,8 +933,8 @@
       "count": 6
     },
     {
-      "tag": "开发者社区",
-      "count": 5
+      "tag": "开源模型",
+      "count": 6
     },
     {
       "tag": "科技公司",
@@ -950,8 +949,8 @@
       "count": 4
     },
     {
-      "tag": "CSS相关",
-      "count": 4
+      "tag": "技术周刊",
+      "count": 3
     }
   ]
 }
