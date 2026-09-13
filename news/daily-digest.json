@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:12:51.522Z",
+  "generatedAt": "2026-09-13T02:12:40.441Z",
   "headline": {
     "id": "9e54e043d6448281",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -40,50 +40,14 @@
       "author": ""
     },
     {
-      "id": "033c01866561a18c",
-      "title": "gpt 的 plus 现在可用额度是不是减少了？",
-      "summary": "之前感觉还挺耐用，5小时额度，6-astra 可以问 3-4 个问题，最近几天开始，low 档位，问一个简单问题，直接下去 50%，2 个问题都回答不了，有同感吗？",
-      "url": "https://www.v2ex.com/t/1241487#reply2",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-12T02:02:57.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "gzk329"
-    },
-    {
-      "id": "ec4c4229ba665c19",
-      "title": "讨论一下在手机上编程是不是伪需求",
-      "summary": "如题，手机编程，不是手机远程电脑编程哈 个人观点是伪需求，谢谢，下一个",
-      "url": "https://www.v2ex.com/t/1241482#reply17",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-12T01:20:44.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "wKong753900"
-    },
-    {
-      "id": "bb7d5fe82376a829",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "titleZh": "OpenAI 特工对 RubyGems 进行了未公开的攻击",
-      "summary": "Hacker News 热帖，当前积分 345，评论 206。",
-      "url": "https://www.rubyhack.ai/",
+      "id": "60eadd9fa5254e90",
+      "title": "Align AI and Mathematics–To Something Else",
+      "titleZh": "将人工智能和数学结合到其他方面",
+      "summary": "Hacker News 热帖，当前积分 11，评论 1。",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-11T23:17:42.000Z",
+      "publishedAt": "2026-09-13T00:47:48.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -91,36 +55,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 109,
+      "score": 111,
       "sourceType": "api"
     },
     {
-      "id": "36a820ba6713ceb0",
-      "title": "估算了一下 Pro 20X 的周限额度",
-      "summary": "让 Codex 直接读了我的会话数据，以上一次 Tibo 重置的时间戳为界。我所有的会话都是 Astra，以 lightweight 和 medium 为主，没有开过 fast。以下表格和统计由 Codex 写脚本计算和生成。类型 Tokens 金额 非缓存输入 16,835,563 $168.36 缓存输入 584,86…",
-      "url": "https://www.v2ex.com/t/1241470#reply8",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-11T22:01:44.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "msg7086"
-    },
-    {
-      "id": "8366adc354ad8e4e",
-      "title": "Project Blinkenlights",
-      "titleZh": "Blinkenlights 项目",
-      "summary": "Hacker News 热帖，当前积分 49，评论 23。",
-      "url": "https://blinkenlights.de/en/",
+      "id": "50e95d7e4a142374",
+      "title": "Everyone should slow down AI development except for me",
+      "titleZh": "除了我，每个人都应该放慢人工智能发展的速度",
+      "summary": "Hacker News 热帖，当前积分 127，评论 37。",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-11T22:15:00.000Z",
+      "publishedAt": "2026-09-13T00:30:44.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -128,37 +74,37 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 107,
+      "score": 111,
       "sourceType": "api"
     },
     {
-      "id": "28cff3e1123b8f90",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "titleZh": "在急于获取机器人训练数据之际，Mecka AI 对红杉领导的交易的估值接近 5亿美元",
-      "summary": "这家成立两年的初创公司的融资是在 Mecka 宣布其 A 轮融资的几个月后进行的。",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "id": "d2696ef2c9467e6f",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "titleZh": "Automattic 确认 Mullenweg 在董事会试图罢免后重新担任首席执行官",
+      "summary": "Automattic 表示，Mullenweg 再次担任“Automattic 的董事长兼首席执行官，并得到董事会的全力支持”。",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "publishedAt": "2026-09-12T23:25:38.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 101,
+      "score": 102,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "352f74cc2b081eae",
-      "title": "You’re not behind. The feed is built to make you feel that way.",
-      "titleZh": "你没有落后。饲料是为了让您有这种感觉而设计的。",
-      "summary": "几乎所有科技行业的人都认为该行业的其他行业处于领先地位。他们中的大多数是错误的，出于同样的原因。继续阅读 UX Collective »",
-      "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+      "id": "576f92e19d314b1f",
+      "title": "The real reason everyone hates the viral AI food slop images",
+      "titleZh": "每个人都讨厌病毒式 AI 食物污点图像的真正原因",
+      "summary": "我们一直让食物看起来比现在更好。那么，当人工智能做到这一点时，为什么会有不同的感觉呢？继续阅读 UX Collective »",
+      "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-09-11T21:04:03.000Z",
+      "publishedAt": "2026-09-12T21:40:38.000Z",
       "category": "design",
       "tags": [
         "设计/UI",
@@ -166,11 +112,86 @@
       ],
       "score": 110,
       "sourceType": "rss",
-      "cover": "https://cdn-images-1.medium.com/max/1035/1*9BofWoJ9HHua9I75cT1bbw.png",
+      "cover": "https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png",
+      "author": ""
+    },
+    {
+      "id": "7cc1e35cf654162a",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "titleZh": "Real-SWE：在私有、真实世界的企业代码库上对人工智能模型进行基准测试",
+      "summary": "Hacker News 热帖，当前积分 125，评论 64。",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-09-12T20:25:48.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 104,
+      "sourceType": "api"
+    },
+    {
+      "id": "9a21202ce19b92ba",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "titleZh": "OpenAI 的 Sam Altman 表示，在 2026年上市将是“不明智的”",
+      "summary": "首席执行官萨姆·奥尔特曼（Sam Altman）表示，虽然 OpenAI 已秘密申请 IPO，但该公司今年不会上市。",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-09-12T20:19:16.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 98,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "b4bcc78dd99f45fb",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "titleZh": "Anthropic 首席执行官概述了减缓人工智能发展的计划",
+      "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都认为是时候“加快前沿步伐”了。“那到底是什么样子？",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-09-12T19:34:44.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 97,
+      "sourceType": "rss",
+      "cover": "",
       "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "12605d75ed73feb4",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/114461",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 87,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "程天冲"
+    },
     {
       "id": "2b975671d90dc188",
       "title": "本周看什么 | 最近值得一看的 7 部作品",
@@ -184,7 +205,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 92,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -202,7 +223,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 87,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "宛潼"
@@ -220,7 +241,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "别惹小炸毛"
@@ -238,7 +259,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 82,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "什么陈"
@@ -256,29 +277,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 75,
+      "score": 61,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "c7115db3f4633259",
-      "title": "Jackalope",
-      "titleZh": "Jackalope",
-      "summary": "Codex、Claude Code、Grok、+ OpenCode 在一个共享工作区中",
-      "url": "https://www.producthunt.com/products/jackalope",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-09-10T22:46:57.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 69,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Caden Sumner"
     }
   ],
   "sections": [
@@ -301,7 +303,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 102,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
           "author": "hello@smashingmagazine.com (Alex Williams)"
@@ -319,7 +321,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 82,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202609/bg2026090901.webp",
           "author": "阮一峰"
@@ -437,7 +439,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 110,
+          "score": 71,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -456,7 +458,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 101,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -475,7 +477,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 71,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -494,7 +496,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 70,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -526,90 +528,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "28cff3e1123b8f90",
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "titleZh": "在急于获取机器人训练数据之际，Mecka AI 对红杉领导的交易的估值接近 5亿美元",
-          "summary": "这家成立两年的初创公司的融资是在 Mecka 宣布其 A 轮融资的几个月后进行的。",
-          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "id": "d2696ef2c9467e6f",
+          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+          "titleZh": "Automattic 确认 Mullenweg 在董事会试图罢免后重新担任首席执行官",
+          "summary": "Automattic 表示，Mullenweg 再次担任“Automattic 的董事长兼首席执行官，并得到董事会的全力支持”。",
+          "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-11T22:58:17.000Z",
+          "publishedAt": "2026-09-12T23:25:38.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b7a6f82bba82e7c6",
-          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "titleZh": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-          "summary": "Tan 希望规模较小的美国开放式人工智能实验室在美国前沿人工智能实验室中使用相同的训练技术，为美国提供一套更强大的开放式人工智能实验室。",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "id": "9a21202ce19b92ba",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "titleZh": "OpenAI 的 Sam Altman 表示，在 2026年上市将是“不明智的”",
+          "summary": "首席执行官萨姆·奥尔特曼（Sam Altman）表示，虽然 OpenAI 已秘密申请 IPO，但该公司今年不会上市。",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-11T20:59:47.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 100,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "9c0c08a610683bf8",
-          "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-          "titleZh": "Khosla Ventures 将于今年秋天在纽约开设办事处—这是其在 Sand Hill Road 以外的第一个前哨站",
-          "summary": "“它实际上据称现在正在建造，”拉布瓦说，他显然已经处理了一两个错过的施工时间表。",
-          "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-11T21:19:05.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "1a90875a7c21f06a",
-          "title": "OpenAI’s feud with mathematicians is only escalating",
-          "titleZh": "OpenAI 与数学家的不和只会升级",
-          "summary": "25 位领先的数学家签署了一封公开信，声称人工智能实验室正在威胁他们的智力工作。",
-          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-11T20:57:36.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "99ce704723e34c41",
-          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-          "titleZh": "距离在 TechCrunch Disrupt 2026 上预订展位还有一周时间",
-          "summary": "距离保护您的展台仅剩一周时间。餐桌数量有限，可以在 9月18日截止日期前售罄。",
-          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-11T20:33:18.000Z",
+          "publishedAt": "2026-09-12T20:19:16.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -621,21 +566,78 @@
           "author": ""
         },
         {
-          "id": "143646e4a56559c2",
-          "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-          "titleZh": "我们如何在一个月内构建 Grok Bot | Roman Ugarte （SpaceXAI）",
-          "summary": "立即收听| SpaceXAI 的 Roman Ugarte 在七周内从第一行代码转变为世界上最热门的人工智能产品，以及赢得最多合作真正需要什么……",
-          "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+          "id": "b4bcc78dd99f45fb",
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "titleZh": "Anthropic 首席执行官概述了减缓人工智能发展的计划",
+          "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都认为是时候“加快前沿步伐”了。“那到底是什么样子？",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-12T19:34:44.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 97,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "271090dd025467d6",
+          "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+          "titleZh": "特斯拉表示，它最终将在 10月1日推出第二代 Roadster",
+          "summary": "特斯拉的 HALO 跑车于 2017年11月首次发布。",
+          "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-12T19:21:19.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "238fab06314d0a0b",
+          "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+          "titleZh": "🧠 社区智慧：人工智能篮球教练、JIRA 与 Linear、为平台团队构建业务案例、最喜欢的人工智能用例等",
+          "summary": "社区智慧 298",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-09-08T12:31:49.000Z",
+          "publishedAt": "2026-09-12T17:45:34.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 90,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/214070217/74500da2d21a92872afb94e2f2b9094d.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "532b0c7cd418a71d",
+          "title": "Revolut confirms customer data breach through fake government requests",
+          "titleZh": "Revolut 通过虚假的政府请求确认客户数据泄露",
+          "summary": "Revolut 表示，它已通知受影响的客户，并通知了相关政府机构、执法部门和金融监管机构。",
+          "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-12T14:40:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 89,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -645,6 +647,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "576f92e19d314b1f",
+          "title": "The real reason everyone hates the viral AI food slop images",
+          "titleZh": "每个人都讨厌病毒式 AI 食物污点图像的真正原因",
+          "summary": "我们一直让食物看起来比现在更好。那么，当人工智能做到这一点时，为什么会有不同的感觉呢？继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-12T21:40:38.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png",
+          "author": ""
+        },
         {
           "id": "352f74cc2b081eae",
           "title": "You’re not behind. The feed is built to make you feel that way.",
@@ -659,28 +680,9 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 110,
+          "score": 72,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1035/1*9BofWoJ9HHua9I75cT1bbw.png",
-          "author": ""
-        },
-        {
-          "id": "56dd395feeb5f9f1",
-          "title": "Death of the iPod?",
-          "titleZh": "IPod 的死亡？",
-          "summary": "使芯片衍生声音成为数字交互标准功能的黑客继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-10T22:38:24.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 73,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2500/1*YNARvW4j5J59UJyY_UQVbg.png",
           "author": ""
         },
         {
@@ -697,9 +699,28 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 72,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/0*YkgbdIzcyt4bGcE0",
+          "author": ""
+        },
+        {
+          "id": "56dd395feeb5f9f1",
+          "title": "Death of the iPod?",
+          "titleZh": "IPod 的死亡？",
+          "summary": "使芯片衍生声音成为数字交互标准功能的黑客继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-10T22:38:24.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 59,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2500/1*YNARvW4j5J59UJyY_UQVbg.png",
           "author": ""
         },
         {
@@ -716,7 +737,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 69,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -735,26 +756,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "3783b32a6b71f447",
-          "title": "A short history of logos made of data",
-          "titleZh": "由数据组成的徽标的简短历史记录",
-          "summary": "",
-          "url": "https://uxdesign.cc/a-short-history-of-logos-made-of-data-bd6a89e732ce?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-10T15:57:51.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 58,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -767,50 +769,14 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "033c01866561a18c",
-          "title": "gpt 的 plus 现在可用额度是不是减少了？",
-          "summary": "之前感觉还挺耐用，5小时额度，6-astra 可以问 3-4 个问题，最近几天开始，low 档位，问一个简单问题，直接下去 50%，2 个问题都回答不了，有同感吗？",
-          "url": "https://www.v2ex.com/t/1241487#reply2",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-12T02:02:57.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "gzk329"
-        },
-        {
-          "id": "ec4c4229ba665c19",
-          "title": "讨论一下在手机上编程是不是伪需求",
-          "summary": "如题，手机编程，不是手机远程电脑编程哈 个人观点是伪需求，谢谢，下一个",
-          "url": "https://www.v2ex.com/t/1241482#reply17",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-12T01:20:44.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "wKong753900"
-        },
-        {
-          "id": "bb7d5fe82376a829",
-          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-          "titleZh": "OpenAI 特工对 RubyGems 进行了未公开的攻击",
-          "summary": "Hacker News 热帖，当前积分 345，评论 206。",
-          "url": "https://www.rubyhack.ai/",
+          "id": "60eadd9fa5254e90",
+          "title": "Align AI and Mathematics–To Something Else",
+          "titleZh": "将人工智能和数学结合到其他方面",
+          "summary": "Hacker News 热帖，当前积分 11，评论 1。",
+          "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-11T23:17:42.000Z",
+          "publishedAt": "2026-09-13T00:47:48.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -818,64 +784,102 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
+          "score": 111,
           "sourceType": "api"
         },
         {
-          "id": "36a820ba6713ceb0",
-          "title": "估算了一下 Pro 20X 的周限额度",
-          "summary": "让 Codex 直接读了我的会话数据，以上一次 Tibo 重置的时间戳为界。我所有的会话都是 Astra，以 lightweight 和 medium 为主，没有开过 fast。以下表格和统计由 Codex 写脚本计算和生成。类型 Tokens 金额 非缓存输入 16,835,563 $168.36 缓存输入 584,86…",
-          "url": "https://www.v2ex.com/t/1241470#reply8",
+          "id": "50e95d7e4a142374",
+          "title": "Everyone should slow down AI development except for me",
+          "titleZh": "除了我，每个人都应该放慢人工智能发展的速度",
+          "summary": "Hacker News 热帖，当前积分 127，评论 37。",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-13T00:30:44.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "7cc1e35cf654162a",
+          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "titleZh": "Real-SWE：在私有、真实世界的企业代码库上对人工智能模型进行基准测试",
+          "summary": "Hacker News 热帖，当前积分 125，评论 64。",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-12T20:25:48.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 104,
+          "sourceType": "api"
+        },
+        {
+          "id": "502dc94a34231758",
+          "title": "Make your first edit to OpenStreetMap",
+          "titleZh": "首次编辑 OpenStreetMap",
+          "summary": "Hacker News 热帖，当前积分 336，评论 78。",
+          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-12T16:25:08.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 98,
+          "sourceType": "api"
+        },
+        {
+          "id": "3e51d16619da7e1c",
+          "title": "Nvidia is the central bank of AI",
+          "titleZh": "英伟达是人工智能的中央银行",
+          "summary": "https://archive.ph/kt50V",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-12T15:08:27.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 96,
+          "sourceType": "api"
+        },
+        {
+          "id": "e547b6ef52ab71cd",
+          "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
+          "summary": "今天用了下 DeepSeek V4.1 Flash，快是真 TM 的快，一直稳定接近 300tok/s，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比 我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Toke…",
+          "url": "https://www.v2ex.com/t/1241596#reply51",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-11T22:01:44.000Z",
+          "publishedAt": "2026-09-12T14:02:48.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 109,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
-          "author": "msg7086"
-        },
-        {
-          "id": "8366adc354ad8e4e",
-          "title": "Project Blinkenlights",
-          "titleZh": "Blinkenlights 项目",
-          "summary": "Hacker News 热帖，当前积分 49，评论 23。",
-          "url": "https://blinkenlights.de/en/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-11T22:15:00.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 107,
-          "sourceType": "api"
-        },
-        {
-          "id": "f143534f7c15400f",
-          "title": "AI researchers debate how close we are to recursive self-improvement",
-          "titleZh": "人工智能研究人员争论我们离递归自我提升有多近",
-          "summary": "Hacker News 热帖，当前积分 36，评论 20。",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-11T21:35:29.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 106,
-          "sourceType": "api"
+          "author": "baicai321"
         }
       ]
     }
@@ -925,11 +929,11 @@
       "count": 6
     },
     {
-      "tag": "开发者社区",
+      "tag": "交互设计",
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "开发者社区",
       "count": 6
     },
     {
