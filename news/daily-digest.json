@@ -1,25 +1,115 @@
 {
-  "generatedAt": "2026-09-13T02:12:40.441Z",
+  "generatedAt": "2026-09-14T02:15:44.361Z",
   "headline": {
-    "id": "9e54e043d6448281",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "titleZh": "Perplexity 信任 GPT-6 Astra 的端到端系统",
-    "summary": "Perplexity 使用 Astra 编写通信、更改软件和监控生产系统，并与早期型号相比，签入的频率要低得多。",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "source": "OpenAI News",
-    "sourceUrl": "https://openai.com/news/",
-    "publishedAt": "2026-09-14T00:00:00.000Z",
-    "category": "ai",
+    "id": "6e227757d6cceef5",
+    "title": "[2026-09-14] DeepSeek-v4.1-flash 国内主要平台部署情况和价格",
+    "summary": "阿里千问：已上线，分闲时忙时，但价格比官方贵大约一半 百度千帆：未上线 快手万擎：未上线 超算互联网：已上线，价格与官方忙时一样，注明“[暂不支持闲忙时定价] [暂不支持 Responses 协议]” 字节火山方舟：未上线",
+    "url": "https://www.v2ex.com/t/1241779#reply0",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-09-14T02:14:40.000Z",
+    "category": "industry",
     "tags": [
-      "AI",
-      "模型产品"
+      "行业热点",
+      "开发者社区"
     ],
-    "score": 126,
+    "score": 114,
     "sourceType": "rss",
     "cover": "",
-    "author": ""
+    "author": "yidinghe"
   },
   "latest": [
+    {
+      "id": "6e227757d6cceef5",
+      "title": "[2026-09-14] DeepSeek-v4.1-flash 国内主要平台部署情况和价格",
+      "summary": "阿里千问：已上线，分闲时忙时，但价格比官方贵大约一半 百度千帆：未上线 快手万擎：未上线 超算互联网：已上线，价格与官方忙时一样，注明“[暂不支持闲忙时定价] [暂不支持 Responses 协议]” 字节火山方舟：未上线",
+      "url": "https://www.v2ex.com/t/1241779#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-14T02:14:40.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "yidinghe"
+    },
+    {
+      "id": "a81c370504a5f7b8",
+      "title": "需要 CCmax 满血 联系我 0 注入 稳定高可用",
+      "summary": "集合多方上游渠道，出 Claude / GPT6 官 key、云 key、CCmax 自建号池，源头直供，量大稳供，能蒸。支持测试、深测对比，可票可公。接企业大单、下游渠道，长期合作，有量带需求回复。",
+      "url": "https://www.v2ex.com/t/1241777#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-14T02:12:31.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "4646ww"
+    },
+    {
+      "id": "59eb06bd5e6f867c",
+      "title": "看了一位 v 站博主的 OpenAI 模型降智测试，于是也测测自己用的客户端模型是否被降智",
+      "summary": "原贴：一些关于 openai 订阅降智,账号风控的独立测试 通过模型指纹识别: https://xqy2006.github.io/ModelTrace 识别结果如下，看到是 gpt6 就放心了，真害怕是 gpt6 收费，使用的是 5.6",
+      "url": "https://www.v2ex.com/t/1241763#reply8",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-14T01:37:29.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/YKolpun.png",
+      "author": "senyuLight"
+    },
+    {
+      "id": "b2b445578776c4ce",
+      "title": "max 还是 xhigh",
+      "summary": "老哥们有对比过 gpt-6-astra 用哪个 level 的 reasoning 比较好么，max 我理解是最优的没错，但要是不每次自己评估任务复杂度且合适的 level 的话，一键全部用 max 会导致有些简单的任务过度思考",
+      "url": "https://www.v2ex.com/t/1241769#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-14T01:57:05.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "wnzhyee"
+    },
+    {
+      "id": "c06735b126339cb0",
+      "title": "The case against JPEG XL",
+      "titleZh": "针对 JPEG XL 的案件",
+      "summary": "Hacker News 热帖，当前积分 42，评论 34。",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-09-14T01:02:37.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 112,
+      "sourceType": "api"
+    },
     {
       "id": "9e54e043d6448281",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -34,20 +124,20 @@
         "AI",
         "模型产品"
       ],
-      "score": 126,
+      "score": 123,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "60eadd9fa5254e90",
-      "title": "Align AI and Mathematics–To Something Else",
-      "titleZh": "将人工智能和数学结合到其他方面",
-      "summary": "Hacker News 热帖，当前积分 11，评论 1。",
-      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "id": "92ace8dc6a95190f",
+      "title": "Open-Source AI and Open Models Reading List",
+      "titleZh": "开源人工智能和开放模型阅读清单",
+      "summary": "Hacker News 热帖，当前积分 25，评论 1。",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-13T00:47:48.000Z",
+      "publishedAt": "2026-09-14T00:22:51.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -59,121 +149,61 @@
       "sourceType": "api"
     },
     {
-      "id": "50e95d7e4a142374",
-      "title": "Everyone should slow down AI development except for me",
-      "titleZh": "除了我，每个人都应该放慢人工智能发展的速度",
-      "summary": "Hacker News 热帖，当前积分 127，评论 37。",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-13T00:30:44.000Z",
-      "category": "industry",
+      "id": "6405b7ffa14f71db",
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+      "summary": "美国 AI 高管呼吁放缓研发，特朗普反对 苹果解释 Apple Watch 不会持续录音 LG 否认智能电视监控用户 暴雪公布《魔兽世界》怀旧服 儿童贴身使用笔记本电脑导致皮肤灼伤 Android 开始支持密码管理器迁移 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/114539",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-13T22:55:34.000Z",
+      "category": "tools",
       "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "工具/网站",
+        "效率"
       ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "d2696ef2c9467e6f",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "titleZh": "Automattic 确认 Mullenweg 在董事会试图罢免后重新担任首席执行官",
-      "summary": "Automattic 表示，Mullenweg 再次担任“Automattic 的董事长兼首席执行官，并得到董事会的全力支持”。",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-12T23:25:38.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 102,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": ""
-    },
-    {
-      "id": "576f92e19d314b1f",
-      "title": "The real reason everyone hates the viral AI food slop images",
-      "titleZh": "每个人都讨厌病毒式 AI 食物污点图像的真正原因",
-      "summary": "我们一直让食物看起来比现在更好。那么，当人工智能做到这一点时，为什么会有不同的感觉呢？继续阅读 UX Collective »",
-      "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-09-12T21:40:38.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png",
-      "author": ""
-    },
-    {
-      "id": "7cc1e35cf654162a",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "titleZh": "Real-SWE：在私有、真实世界的企业代码库上对人工智能模型进行基准测试",
-      "summary": "Hacker News 热帖，当前积分 125，评论 64。",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-12T20:25:48.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 104,
-      "sourceType": "api"
-    },
-    {
-      "id": "9a21202ce19b92ba",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "titleZh": "OpenAI 的 Sam Altman 表示，在 2026年上市将是“不明智的”",
-      "summary": "首席执行官萨姆·奥尔特曼（Sam Altman）表示，虽然 OpenAI 已秘密申请 IPO，但该公司今年不会上市。",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-12T20:19:16.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 98,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "b4bcc78dd99f45fb",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "titleZh": "Anthropic 首席执行官概述了减缓人工智能发展的计划",
-      "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都认为是时候“加快前沿步伐”了。“那到底是什么样子？",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-12T19:34:44.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 97,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "author": "少数派编辑部"
     }
   ],
   "featuredTools": [
+    {
+      "id": "6405b7ffa14f71db",
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+      "summary": "美国 AI 高管呼吁放缓研发，特朗普反对 苹果解释 Apple Watch 不会持续录音 LG 否认智能电视监控用户 暴雪公布《魔兽世界》怀旧服 儿童贴身使用笔记本电脑导致皮肤灼伤 Android 开始支持密码管理器迁移 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/114539",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-13T22:55:34.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "5b0584498c98b039",
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+      "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文",
+      "url": "https://sspai.com/post/113880",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-13T07:51:55.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 87,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "dong4j"
+    },
     {
       "id": "12605d75ed73feb4",
       "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
@@ -187,7 +217,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 87,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "程天冲"
@@ -245,42 +275,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "别惹小炸毛"
-    },
-    {
-      "id": "2ddf9a14b7fb484a",
-      "title": "新 iPhone 配件精选：多种组合一次配齐",
-      "summary": "iPhone18Pro/ProMax 即将开售，这次我们围绕新 iPhone 准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠 29 元，防护充电组合优 ... 查看全文",
-      "url": "https://sspai.com/post/114414",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-11T04:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "什么陈"
-    },
-    {
-      "id": "d4dfd77a79923835",
-      "title": "派早报：商务部回应美国 AI 蒸馏指控",
-      "summary": "商务部回应美国 AI 蒸馏指控 谷歌声称为了合规将「降级」欧盟搜索服务 Apple 智能将有用量限制 OpenAI 将与三星合作开发芯片 小岛秀夫新游戏被索尼取消，转由微软发行 DeepSeek V4.1 发布 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "url": "https://sspai.com/post/114439",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-10T22:58:54.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 61,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -420,7 +414,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 126,
+          "score": 123,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -439,7 +433,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 71,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -528,33 +522,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "d2696ef2c9467e6f",
-          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-          "titleZh": "Automattic 确认 Mullenweg 在董事会试图罢免后重新担任首席执行官",
-          "summary": "Automattic 表示，Mullenweg 再次担任“Automattic 的董事长兼首席执行官，并得到董事会的全力支持”。",
-          "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+          "id": "cd1126ae12701ce1",
+          "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+          "titleZh": "Insight Partners 的 Deven Parekh 解释了为什么该公司正在多元化，而其他所有人都将农场押注于 OpenAI 和 Anthropic",
+          "summary": "Insight Partners 的 Devin Parekh 开辟了关于将 Legora 输给 General Catalyst 的原因，为什么他可以在竞争对手的人工智能实验室中持有股份，以及为什么—即使其他人都在堆积我......",
+          "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-12T23:25:38.000Z",
+          "publishedAt": "2026-09-13T21:30:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "9a21202ce19b92ba",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "titleZh": "OpenAI 的 Sam Altman 表示，在 2026年上市将是“不明智的”",
-          "summary": "首席执行官萨姆·奥尔特曼（Sam Altman）表示，虽然 OpenAI 已秘密申请 IPO，但该公司今年不会上市。",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "id": "fd67508d743cad5b",
+          "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+          "titleZh": "拉里·埃里森取消以 75亿美元出售甲骨文股票",
+          "summary": "甲骨文此前曾披露，埃里森计划出售 5000 万股股票，价值约 75亿美元。",
+          "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-12T20:19:16.000Z",
+          "publishedAt": "2026-09-13T20:49:38.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -566,14 +560,14 @@
           "author": ""
         },
         {
-          "id": "b4bcc78dd99f45fb",
-          "title": "Anthropic CEO outlines plan to slow AI development",
-          "titleZh": "Anthropic 首席执行官概述了减缓人工智能发展的计划",
-          "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都认为是时候“加快前沿步伐”了。“那到底是什么样子？",
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "id": "6188b50183457961",
+          "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+          "titleZh": "根据风投的数据，Y Combinator 最新演示日的 9 家最热门的初创公司",
+          "summary": "从浮动反应堆到大脑芯片：风投从夏季批次中挑选了他们最喜欢的 YC 初创公司。",
+          "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-12T19:34:44.000Z",
+          "publishedAt": "2026-09-13T20:28:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -585,20 +579,39 @@
           "author": ""
         },
         {
-          "id": "271090dd025467d6",
-          "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-          "titleZh": "特斯拉表示，它最终将在 10月1日推出第二代 Roadster",
-          "summary": "特斯拉的 HALO 跑车于 2017年11月首次发布。",
-          "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+          "id": "cc6676919e6c94c6",
+          "title": "What’s behind the AI industry’s latest warnings of doom?",
+          "titleZh": "人工智能行业最新的厄运警告背后是什么？",
+          "summary": "关于 Equity，我们讨论了人工智能行业关于它是否对人类构成生存威胁的最新辩论。",
+          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-12T19:21:19.000Z",
+          "publishedAt": "2026-09-13T19:40:15.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 94,
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "4dbf618ec8133f9d",
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "titleZh": "奥巴马敦促民主党为人工智能保障措施制定“明确计划”",
+          "summary": "奥巴马最近表示，民主党需要将人工智能作为他们的“核心议程”之一，并“有一个非常明确的计划”来解决围绕该技术的担忧……",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-13T16:30:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -616,28 +629,9 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 90,
+          "score": 51,
           "sourceType": "rss",
           "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "532b0c7cd418a71d",
-          "title": "Revolut confirms customer data breach through fake government requests",
-          "titleZh": "Revolut 通过虚假的政府请求确认客户数据泄露",
-          "summary": "Revolut 表示，它已通知受影响的客户，并通知了相关政府机构、执法部门和金融监管机构。",
-          "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-12T14:40:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 89,
-          "sourceType": "rss",
-          "cover": "",
           "author": ""
         }
       ]
@@ -661,7 +655,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 110,
+          "score": 71,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png",
           "author": ""
@@ -680,7 +674,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 72,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1035/1*9BofWoJ9HHua9I75cT1bbw.png",
           "author": ""
@@ -769,117 +763,114 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "60eadd9fa5254e90",
-          "title": "Align AI and Mathematics–To Something Else",
-          "titleZh": "将人工智能和数学结合到其他方面",
-          "summary": "Hacker News 热帖，当前积分 11，评论 1。",
-          "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-13T00:47:48.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "50e95d7e4a142374",
-          "title": "Everyone should slow down AI development except for me",
-          "titleZh": "除了我，每个人都应该放慢人工智能发展的速度",
-          "summary": "Hacker News 热帖，当前积分 127，评论 37。",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-13T00:30:44.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "7cc1e35cf654162a",
-          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "titleZh": "Real-SWE：在私有、真实世界的企业代码库上对人工智能模型进行基准测试",
-          "summary": "Hacker News 热帖，当前积分 125，评论 64。",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-12T20:25:48.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 104,
-          "sourceType": "api"
-        },
-        {
-          "id": "502dc94a34231758",
-          "title": "Make your first edit to OpenStreetMap",
-          "titleZh": "首次编辑 OpenStreetMap",
-          "summary": "Hacker News 热帖，当前积分 336，评论 78。",
-          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-12T16:25:08.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 98,
-          "sourceType": "api"
-        },
-        {
-          "id": "3e51d16619da7e1c",
-          "title": "Nvidia is the central bank of AI",
-          "titleZh": "英伟达是人工智能的中央银行",
-          "summary": "https://archive.ph/kt50V",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-12T15:08:27.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 96,
-          "sourceType": "api"
-        },
-        {
-          "id": "e547b6ef52ab71cd",
-          "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
-          "summary": "今天用了下 DeepSeek V4.1 Flash，快是真 TM 的快，一直稳定接近 300tok/s，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比 我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Toke…",
-          "url": "https://www.v2ex.com/t/1241596#reply51",
+          "id": "6e227757d6cceef5",
+          "title": "[2026-09-14] DeepSeek-v4.1-flash 国内主要平台部署情况和价格",
+          "summary": "阿里千问：已上线，分闲时忙时，但价格比官方贵大约一半 百度千帆：未上线 快手万擎：未上线 超算互联网：已上线，价格与官方忙时一样，注明“[暂不支持闲忙时定价] [暂不支持 Responses 协议]” 字节火山方舟：未上线",
+          "url": "https://www.v2ex.com/t/1241779#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-12T14:02:48.000Z",
+          "publishedAt": "2026-09-14T02:14:40.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 96,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "baicai321"
+          "author": "yidinghe"
+        },
+        {
+          "id": "a81c370504a5f7b8",
+          "title": "需要 CCmax 满血 联系我 0 注入 稳定高可用",
+          "summary": "集合多方上游渠道，出 Claude / GPT6 官 key、云 key、CCmax 自建号池，源头直供，量大稳供，能蒸。支持测试、深测对比，可票可公。接企业大单、下游渠道，长期合作，有量带需求回复。",
+          "url": "https://www.v2ex.com/t/1241777#reply0",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-14T02:12:31.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "4646ww"
+        },
+        {
+          "id": "59eb06bd5e6f867c",
+          "title": "看了一位 v 站博主的 OpenAI 模型降智测试，于是也测测自己用的客户端模型是否被降智",
+          "summary": "原贴：一些关于 openai 订阅降智,账号风控的独立测试 通过模型指纹识别: https://xqy2006.github.io/ModelTrace 识别结果如下，看到是 gpt6 就放心了，真害怕是 gpt6 收费，使用的是 5.6",
+          "url": "https://www.v2ex.com/t/1241763#reply8",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-14T01:37:29.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "https://i.imgur.com/YKolpun.png",
+          "author": "senyuLight"
+        },
+        {
+          "id": "b2b445578776c4ce",
+          "title": "max 还是 xhigh",
+          "summary": "老哥们有对比过 gpt-6-astra 用哪个 level 的 reasoning 比较好么，max 我理解是最优的没错，但要是不每次自己评估任务复杂度且合适的 level 的话，一键全部用 max 会导致有些简单的任务过度思考",
+          "url": "https://www.v2ex.com/t/1241769#reply0",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-14T01:57:05.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "wnzhyee"
+        },
+        {
+          "id": "c06735b126339cb0",
+          "title": "The case against JPEG XL",
+          "titleZh": "针对 JPEG XL 的案件",
+          "summary": "Hacker News 热帖，当前积分 42，评论 34。",
+          "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-14T01:02:37.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 112,
+          "sourceType": "api"
+        },
+        {
+          "id": "92ace8dc6a95190f",
+          "title": "Open-Source AI and Open Models Reading List",
+          "titleZh": "开源人工智能和开放模型阅读清单",
+          "summary": "Hacker News 热帖，当前积分 25，评论 1。",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-14T00:22:51.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
         }
       ]
     }
@@ -890,7 +881,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -909,11 +900,11 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
-      "count": 10
+      "tag": "工具/网站",
+      "count": 11
     },
     {
-      "tag": "工具/网站",
+      "tag": "产品/商业",
       "count": 10
     },
     {
@@ -925,19 +916,19 @@
       "count": 8
     },
     {
-      "tag": "模型产品",
-      "count": 6
-    },
-    {
-      "tag": "交互设计",
-      "count": 6
-    },
-    {
       "tag": "开发者社区",
       "count": 6
     },
     {
+      "tag": "模型产品",
+      "count": 6
+    },
+    {
       "tag": "效率",
+      "count": 6
+    },
+    {
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -954,7 +945,7 @@
     },
     {
       "tag": "新产品",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "技术周刊",
