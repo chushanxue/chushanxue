@@ -1,68 +1,50 @@
 {
-  "generatedAt": "2026-09-16T02:13:02.540Z",
+  "generatedAt": "2026-09-17T02:13:13.548Z",
   "headline": {
-    "id": "7890cf5200ba2208",
-    "title": "在职场上，感觉只有 10%的程序员是有天赋的",
-    "summary": "对于那种聊起设计思路一点就通，能瞬间在脑子里建模，考虑端到端流程的人，感觉他们拥有一种与生俱来天赋，与年龄、经验无关，跟他们聊起编程，永远会有一种英雄所见略同的感觉。但是无论在大厂还是小厂，他们的比例只有 10%左右，或者说大多数程序员只是因为种种原因正好做了这份工作，然后用自己的经验应付日常，而 AI 的工业革命，让蠢人更蠢，聪明…",
-    "url": "https://www.v2ex.com/t/1242318#reply5",
+    "id": "fd669d6d37fad74b",
+    "title": "[感慨]不知不觉已经几个月没有打开过 vscode 了, vibecoding 还真是完全重构了我的工作习惯.",
+    "summary": "回忆最初的 gpt3 时代, 一开始是手动复制怀疑的代码片段到网页上, gpt 辅助我翻译代码 debug. 到后来 copilot 时代来临, 写好注释之后无限 tab, 惊为天人. 再之后的 vibecoding 推出, 我从最初的不信任,必须使用 vscode 插件, 不停的授权给它看着它一步步的修改. 每一遍我都要反复 re…",
+    "url": "https://www.v2ex.com/t/1242582#reply25",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-09-16T01:43:44.000Z",
+    "publishedAt": "2026-09-17T01:21:42.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 115,
+    "score": 114,
     "sourceType": "rss",
     "cover": "",
-    "author": "Tsing2"
+    "author": "cvooc"
   },
   "latest": [
     {
-      "id": "7890cf5200ba2208",
-      "title": "在职场上，感觉只有 10%的程序员是有天赋的",
-      "summary": "对于那种聊起设计思路一点就通，能瞬间在脑子里建模，考虑端到端流程的人，感觉他们拥有一种与生俱来天赋，与年龄、经验无关，跟他们聊起编程，永远会有一种英雄所见略同的感觉。但是无论在大厂还是小厂，他们的比例只有 10%左右，或者说大多数程序员只是因为种种原因正好做了这份工作，然后用自己的经验应付日常，而 AI 的工业革命，让蠢人更蠢，聪明…",
-      "url": "https://www.v2ex.com/t/1242318#reply5",
+      "id": "fd669d6d37fad74b",
+      "title": "[感慨]不知不觉已经几个月没有打开过 vscode 了, vibecoding 还真是完全重构了我的工作习惯.",
+      "summary": "回忆最初的 gpt3 时代, 一开始是手动复制怀疑的代码片段到网页上, gpt 辅助我翻译代码 debug. 到后来 copilot 时代来临, 写好注释之后无限 tab, 惊为天人. 再之后的 vibecoding 推出, 我从最初的不信任,必须使用 vscode 插件, 不停的授权给它看着它一步步的修改. 每一遍我都要反复 re…",
+      "url": "https://www.v2ex.com/t/1242582#reply25",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-16T01:43:44.000Z",
+      "publishedAt": "2026-09-17T01:21:42.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "Tsing2"
+      "author": "cvooc"
     },
     {
-      "id": "5c958bf714a93ccc",
-      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
-      "summary": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。查看全文",
-      "url": "https://sspai.com/post/114638",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-16T00:39:40.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "dddf0622e597dd50",
-      "title": "codex 新玩法：制作微信表情",
-      "summary": "周末没事想整蛊一下基友，就把他的丑照发给 codex，然后把微信表情开放平台的文档发给 codex，让它生成一套微信表情，然后上传到微信表情开放平台，全程半小时（中途只需要人来确定风格和扫码登录），质量还挺高。大家可以微信扫码看一下效果：",
-      "url": "https://www.v2ex.com/t/1242312#reply4",
+      "id": "3d9408908c51e1cb",
+      "title": "3 分钟用完 Codex 5 小时额度",
+      "summary": "Plus 账户，这周没怎么用，觉得周额度剩的还多，就用 GPT6 Astra 中开了个任务，然后 10 分 05秒用完了完整的 5小时额度，任务没跑完，等重置后继续执行没跑完的任务，3 分 08秒再次用完 5小时限额。给俺干沉默了...",
+      "url": "https://www.v2ex.com/t/1242585#reply11",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-16T01:31:31.000Z",
+      "publishedAt": "2026-09-17T01:27:11.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -70,36 +52,17 @@
       ],
       "score": 113,
       "sourceType": "rss",
-      "cover": "https://i.imgur.com/8AVQsT1.png",
-      "author": "youweiks"
-    },
-    {
-      "id": "0c8401df3f145f6c",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "titleZh": "Nvidia 的 Jensen Huang 表示，我们不需要人工智能监管—将安全问题留给我们",
-      "summary": "根据 Jensen Huang 的说法，人工智能并不是“外星人思维”的新形式。它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全性。",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-16T00:20:39.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 105,
-      "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "CyanHaze"
     },
     {
-      "id": "a20b872244ceaacb",
-      "title": "紅米舊機器手把沒震動，核心沒開支援，核心源碼又不全, 乾脆自己 magisk module 補上了",
-      "summary": "我用紅米 Note 12 Pro 5G 接 GameSir G8+，手把能連上，但就是不會震動。後來和 AI 一起查，才發現手機原廠核心沒有開啟 Sony 手把的震動支援，而 G8+ 當時用的是 DS4 藍牙模式。一開始以為得重編整個核心，偏偏小米公開的原始碼又和手機上的版本對不上。最後走通的方式，是另外編一個有震動功能的驅動，讓…",
-      "url": "https://www.v2ex.com/t/1242285#reply4",
+      "id": "43c90376964be5a9",
+      "title": "[求助] 请问获取 BOSS 直聘职位描述区域的信息？",
+      "summary": "在职位描述区域无法点击鼠标左键、右键，打开浏览器的开发者工具的话标签直接就关闭了。",
+      "url": "https://www.v2ex.com/t/1242607#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-15T23:08:21.000Z",
+      "publishedAt": "2026-09-17T02:11:09.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -107,76 +70,36 @@
       ],
       "score": 111,
       "sourceType": "rss",
+      "cover": "https://i.imgur.com/6tgmFvz.jpeg",
+      "author": "sungnix"
+    },
+    {
+      "id": "8dface29979f3441",
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "titleZh": "使用 Copilot 将 GitHub Copilot 运行时迁移到 Rust",
+      "summary": "在客服代表之前，这种规模的重写是负担不起的。以下是将 Copilot 代理运行时移植到 Rust 的 80 万行生产中的实际操作。Migratin 的职位……",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "source": "GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-09-17T00:26:43.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发平台"
+      ],
+      "score": 113,
+      "sourceType": "rss",
       "cover": "",
-      "author": "JerryHo"
+      "author": ""
     },
     {
-      "id": "c849c6d0959ac52b",
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "titleZh": "在 FPGA 上重建 Voodoo 图形和 20 世纪 90年代末的游戏 PC",
-      "summary": "Hacker News 热帖，当前积分 35，评论 7。",
-      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-15T22:50:55.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 108,
-      "sourceType": "api"
-    },
-    {
-      "id": "3ca3d63d35550b0a",
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "titleZh": "德国莱茵金属开源其 Battlesuite 联网武器系统 protcol",
-      "summary": "Hacker News 热帖，当前积分 133，评论 40。",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-15T21:07:47.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 106,
-      "sourceType": "api"
-    },
-    {
-      "id": "0094d343aa77a3e4",
-      "title": "Jean-Pierre Serre is 100 years old today",
-      "titleZh": "让-皮埃尔·塞尔（Jean-Pierre Serre）今天已经 100 岁了",
-      "summary": "Hacker News 热帖，当前积分 92，评论 13。",
-      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-15T20:57:18.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 105,
-      "sourceType": "api"
-    }
-  ],
-  "featuredTools": [
-    {
-      "id": "5c958bf714a93ccc",
-      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
-      "summary": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。查看全文",
-      "url": "https://sspai.com/post/114638",
+      "id": "1b361652b0db950c",
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。查看全文",
+      "url": "https://sspai.com/post/114658",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-16T00:39:40.000Z",
+      "publishedAt": "2026-09-17T00:25:30.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -188,31 +111,107 @@
       "author": "少数派编辑部"
     },
     {
-      "id": "c1434c90f8992f70",
-      "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
-      "url": "https://sspai.com/post/114613",
+      "id": "886ef09b703b9b62",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "titleZh": "Snap 试图再次为其 2200 $的智能眼镜辩护",
+      "summary": "Snap 本周推出了智能眼镜的新功能。",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-09-17T00:58:49.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 103,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "97f04bc156448164",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "titleZh": "OpenSpec –轻量级且可配置的人工智能规范框架",
+      "summary": "Hacker News 热帖，当前积分 72，评论 26。",
+      "url": "https://openspec.dev/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-09-16T23:06:39.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 109,
+      "sourceType": "api"
+    },
+    {
+      "id": "df70d1c67f4e1858",
+      "title": "codex 要重置就每周都重置，偏偏这周我早早蹬完了，没奶了",
+      "summary": "😂🤣",
+      "url": "https://www.v2ex.com/t/1242560#reply8",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-16T23:27:03.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 106,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "jkfadsljlasdgs"
+    }
+  ],
+  "featuredTools": [
+    {
+      "id": "1b361652b0db950c",
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。查看全文",
+      "url": "https://sspai.com/post/114658",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "publishedAt": "2026-09-17T00:25:30.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 90,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "Matrix机器人"
+      "author": "少数派编辑部"
     },
     {
-      "id": "c2e3ef893dd6db5f",
-      "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
-      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
-      "url": "https://sspai.com/post/114565",
+      "id": "67e7700b930d5061",
+      "title": "探秘柬埔寨，千年吴哥窟",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/114454",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "publishedAt": "2026-09-16T09:33:41.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 91,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "PJHubs"
+    },
+    {
+      "id": "0fecd92225498eb6",
+      "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+      "summary": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。查看全文",
+      "url": "https://sspai.com/post/114607",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -224,31 +223,31 @@
       "author": "少数派编辑部"
     },
     {
-      "id": "d5bac462ae3e988d",
-      "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
-      "summary": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。查看全文",
-      "url": "https://sspai.com/post/47126",
+      "id": "93c6c8d114cb3578",
+      "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+      "summary": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。查看全文",
+      "url": "https://sspai.com/post/113295",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-15T03:10:08.000Z",
+      "publishedAt": "2026-09-16T02:38:34.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 78,
+      "score": 77,
       "sourceType": "rss",
       "cover": "",
-      "author": "也谈钱"
+      "author": "Nullpinter"
     },
     {
-      "id": "6f4ae1068e146ef0",
-      "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-      "summary": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等 查看全文",
-      "url": "https://sspai.com/post/114593",
+      "id": "5c958bf714a93ccc",
+      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+      "summary": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。查看全文",
+      "url": "https://sspai.com/post/114638",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-15T00:06:40.000Z",
+      "publishedAt": "2026-09-16T00:39:40.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -260,22 +259,23 @@
       "author": "少数派编辑部"
     },
     {
-      "id": "abcb5f026fa85db4",
-      "title": "派评｜近期值得关注的 App",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
-      "url": "https://sspai.com/post/114577",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-14T09:24:02.000Z",
+      "id": "cd07ea070ec5e167",
+      "title": "ZeroClick",
+      "titleZh": "ZeroClick",
+      "summary": "将您的产品销售给人工智能代理",
+      "url": "https://www.producthunt.com/products/zeroclick",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-09-16T00:01:56.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 58,
+      "score": 70,
       "sourceType": "rss",
       "cover": "",
-      "author": "少数派编辑部"
+      "author": "Jamie Barton"
     }
   ],
   "sections": [
@@ -284,6 +284,25 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "5cf5f845b27011e6",
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+          "titleZh": "停止像处理传统媒体查询一样处理 CSS 容器查询",
+          "summary": "尽管有广泛的浏览器支持，但容器查询仍未得到充分利用，并经常被误解。让我们来看看它们与媒体查询有何不同，何时……",
+          "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-09-16T13:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)"
+        },
         {
           "id": "b01344d827ce47d5",
           "title": "新时代下的tooltip提示效果的最佳实现",
@@ -299,7 +318,7 @@
             "JS实例",
             "锚点定位"
           ],
-          "score": 84,
+          "score": 64,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202609/2026-9-15_103737.webp",
           "author": ""
@@ -377,24 +396,6 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
           "author": "hello@smashingmagazine.com (Carrie Webster)"
-        },
-        {
-          "id": "2b067d8a9341ad94",
-          "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-          "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
-          "source": "阮一峰的网络日志",
-          "sourceUrl": "https://www.ruanyifeng.com/blog/",
-          "publishedAt": "2026-09-03T23:59:05.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "技术周刊"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn.beekka.com/blogimg/asset/202608/bg2026082702.webp",
-          "author": "阮一峰"
         }
       ]
     },
@@ -403,6 +404,101 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "585b9cbfd8314241",
+          "title": "Our framework for reporting model misalignment",
+          "titleZh": "我们的模型错位报告框架",
+          "summary": "OpenAI 共享一个用于跟踪、调查和披露模型错位的框架，以及六份关于意外或相关模型行为的报告。",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-16T17:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "82e5fe8b7011b339",
+          "title": "Helping older adults use AI in everyday life",
+          "titleZh": "帮助老年人在日常生活中使用人工智能",
+          "summary": "OpenAI 和 AARP 正在为美国 10 个城市的 1000 名老年人提供免费的实践 ChatGPT 研讨会，以安全地培养实用的人工智能技能。",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-16T16:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "60922657a8707f84",
+          "title": "Reimagining advertising with AI",
+          "titleZh": "用人工智能重新构想广告",
+          "summary": "探索 OpenAI 新的人工智能驱动广告体验，包括赞助商、营销人员工具以及与 HubSpot 和 Shopify 的集成。",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-16T13:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 105,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "4fba200974ba45aa",
+          "title": "How to connect AI usage to business value",
+          "titleZh": "如何将人工智能使用与业务价值联系起来",
+          "summary": "了解 ChatGPT Work 和 Codex 分析如何帮助团队了解人工智能的使用和支出，确定培训需求，并将采用与业务成果联系起来。",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-16T12:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "dcf27b39f0c8d7a5",
+          "title": "How workers are unlocking new ways of working",
+          "titleZh": "员工如何开启新的工作方式",
+          "summary": "新的 OpenAI 经济研究显示了员工如何在传统角色之外使用人工智能，以及哪些新活动成为他们工作的重复部分。",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-16T09:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "8de62cae65824a67",
           "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -417,102 +513,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 101,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "d882d0c4bad5e5ff",
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "titleZh": "Fyxer 如何建立人们信任的人工智能行政助理",
-          "summary": "Fyxer 使用 OpenAI 模型、微调、记忆和真实的用户反馈来组织收件箱，并以每个用户的声音起草电子邮件。",
-          "url": "https://openai.com/index/fyxer",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-14T12:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "9e54e043d6448281",
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "titleZh": "Perplexity 信任 GPT-6 Astra 的端到端系统",
-          "summary": "Perplexity 使用 Astra 编写通信、更改软件和监控生产系统，并与早期型号相比，签入的频率要低得多。",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-14T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "11682eee30ccdb35",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "titleZh": "Cognition 帮助 Devin 使用 GPT ‑ 6 Astra 测试自己的工作",
-          "summary": "GPT ‑ 6 Astra 提高了 Devin 测试软件并证明其有效性的能力，其目标是帮助工程师减少代码审核并增加出货量。",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-11T16:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "b1dfb70500a504c4",
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "titleZh": "快速扩展在线存储，为超过 10 亿 ChatGPT 用户提供服务",
-          "summary": "了解 OpenAI 如何将 Habitat 从 Python 库发展成为全球分布式存储平台，为 10 亿 ChatGPT 用户提供服务，每秒处理 2200 万个请求。",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-11T10:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a9c7432af68a0458",
-          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "titleZh": "研究人员如何使用 Codex 和 ChatGPT 来寻找新的抗菌分子",
-          "summary": "César de la Fuente 的实验室使用 Codex 和 ChatGPT 搜索活体和已灭绝的基因组，寻找对抗耐药性感染的候选抗菌药物。",
-          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-10T16:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
+          "score": 62,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -525,14 +526,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "0c8401df3f145f6c",
-          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-          "titleZh": "Nvidia 的 Jensen Huang 表示，我们不需要人工智能监管—将安全问题留给我们",
-          "summary": "根据 Jensen Huang 的说法，人工智能并不是“外星人思维”的新形式。它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全性。",
-          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+          "id": "886ef09b703b9b62",
+          "title": "Snap tries to make the case again for its $2,200 smart glasses",
+          "titleZh": "Snap 试图再次为其 2200 $的智能眼镜辩护",
+          "summary": "Snap 本周推出了智能眼镜的新功能。",
+          "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-16T00:20:39.000Z",
+          "publishedAt": "2026-09-17T00:58:49.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f78d3c6d98b12387",
+          "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+          "titleZh": "阿尔·戈尔（Al Gore）表示，真正的人工智能风险不是数据中心，而是行业领导者发出的警告",
+          "summary": "在接受 TechCrunch 采访时，阿尔·戈尔（Al Gore）表示，他并没有因为人工智能数据中心的排放而失眠--他更担心人工智能行业自己对人工智能排放的警告。",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-16T23:43:09.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -544,14 +564,14 @@
           "author": ""
         },
         {
-          "id": "827114d0ebd3fd76",
-          "title": "The AI data center boom is colliding with cities scarred by big industry",
-          "titleZh": "人工智能数据中心的繁荣正在与被大型产业蹂躏的城市相撞",
-          "summary": "全国对数据中心建设的强烈抗议已经蔓延到费城，官员们建议在一个已经受到影响的社区进行建设。",
-          "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "id": "f5f0deb9a691f940",
+          "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+          "titleZh": "马斯克的长期支持者正在向其投资者提供 SpaceX 股票",
+          "summary": "Valor Equity Partners 正在向其有限合伙人发放股票，而不是现金回报。",
+          "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-15T21:47:38.000Z",
+          "publishedAt": "2026-09-16T23:50:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -563,14 +583,33 @@
           "author": ""
         },
         {
-          "id": "914ab2affdc9b26f",
-          "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-          "titleZh": "Meta 现在允许人工智能代理处理 WhatsApp Business 设置的无聊部分",
-          "summary": "新的 WhatsApp Business MCP 服务器允许开发人员使用 Claude、Cursor、Codex 和 ChatGPT 等 AI 编码代理来处理设置、消息传递模板、测试和故障……",
-          "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+          "id": "4eb4137e9c765b06",
+          "title": "US automakers could soon be forced to include AM radio for free",
+          "titleZh": "美国汽车制造商可能很快被迫免费提供调幅收音机",
+          "summary": "众议院在罕见的两党支持下，以压倒性多数通过立法，要求新车配备调幅无线电。",
+          "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-15T20:12:53.000Z",
+          "publishedAt": "2026-09-16T22:37:08.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f33970d7dab8038c",
+          "title": "Noise wants to help everyday people become paid content creators",
+          "titleZh": "Noise 希望帮助日常用户成为付费内容创作者",
+          "summary": "营销平台 Noise 的使命是帮助任何拥有智能手机的人从他们的内容中赚钱。",
+          "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-16T21:35:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -582,59 +621,21 @@
           "author": ""
         },
         {
-          "id": "073e1664b0fc0b9a",
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "titleZh": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
-          "summary": "从苹果一再推迟 Siri AI 到 OpenAI 凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
-          "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-15T19:00:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 96,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "202a73faade286a6",
-          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-          "titleZh": "到 2035年，美国数据中心的天然气消耗量可能超过德国和日本的总和",
-          "summary": "人工智能的狂热可能会推动美国数据中心成为世界上最大的天然气消费国之一。",
-          "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-15T18:29:20.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 94,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "14c05b67904e0f2f",
-          "title": "60+ new creative growth ideas",
-          "titleZh": "60 多个新的创意成长理念",
-          "summary": "当每个人都在运行相同的剧本时，如何脱颖而出",
-          "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+          "id": "ef226082559f3ec0",
+          "title": "Muse review: The personal AI agent that gets consumer UX right",
+          "titleZh": "Muse 评论：让消费者用户体验正确的个人 AI 代理",
+          "summary": "立即观看（38分钟） |🎙️我给了 Meta 的 Muse 我的日历，我的电子邮件和我孩子的混乱日程，它产生了一个比我更美丽的一次性家庭 PDF...",
+          "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-09-15T12:45:28.000Z",
+          "publishedAt": "2026-09-16T12:02:14.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 83,
+          "score": 86,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!NVVg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20cbbe62-5c82-4d4f-a316-de9b885e56f2_1456x970.png",
+          "cover": "https://api.substack.com/feed/podcast/215710078/f0a34674483a4a7ee6a05d4ec88e3ffe.mp3",
           "author": ""
         }
       ]
@@ -644,6 +645,44 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "270f6a46d0ed1c84",
+          "title": "What Shakespeare got wrong about AI",
+          "titleZh": "莎士比亚对人工智能的错误认识",
+          "summary": "",
+          "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-16T15:21:34.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "fc059b19e2ba89e2",
+          "title": "Don’t let AI build a Winchester Mystery House",
+          "titleZh": "不要让人工智能建造温彻斯特神秘屋",
+          "summary": "",
+          "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-16T07:27:23.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 83,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "5b763e5af466b921",
           "title": "The hidden culture layer in AI",
@@ -658,7 +697,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 93,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1672/1*YsoO1glOlAn8SFiqMCsHYg.png",
           "author": ""
@@ -677,7 +716,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 93,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*Gt0J2HNO_8hg5rgx_pnIjw.jpeg",
           "author": ""
@@ -696,7 +735,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 83,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1678/1*9kBhbHVmZg6lAjgW1Pof1g.png",
           "author": ""
@@ -715,44 +754,6 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 62,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "2c2ace88ed23af78",
-          "title": "For the Designless",
-          "titleZh": "For the Designless",
-          "summary": "",
-          "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-14T13:59:28.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "dbef641cac1ec450",
-          "title": "Five eras of UX, First drafts, Logos made of data, Voice AIUX patterns",
-          "titleZh": "用户体验的五个时代、初稿、数据徽标、语音 AIUX 模式",
-          "summary": "",
-          "url": "https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-14T11:26:18.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 55,
           "sourceType": "rss",
           "cover": "",
@@ -766,31 +767,31 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "7890cf5200ba2208",
-          "title": "在职场上，感觉只有 10%的程序员是有天赋的",
-          "summary": "对于那种聊起设计思路一点就通，能瞬间在脑子里建模，考虑端到端流程的人，感觉他们拥有一种与生俱来天赋，与年龄、经验无关，跟他们聊起编程，永远会有一种英雄所见略同的感觉。但是无论在大厂还是小厂，他们的比例只有 10%左右，或者说大多数程序员只是因为种种原因正好做了这份工作，然后用自己的经验应付日常，而 AI 的工业革命，让蠢人更蠢，聪明…",
-          "url": "https://www.v2ex.com/t/1242318#reply5",
+          "id": "fd669d6d37fad74b",
+          "title": "[感慨]不知不觉已经几个月没有打开过 vscode 了, vibecoding 还真是完全重构了我的工作习惯.",
+          "summary": "回忆最初的 gpt3 时代, 一开始是手动复制怀疑的代码片段到网页上, gpt 辅助我翻译代码 debug. 到后来 copilot 时代来临, 写好注释之后无限 tab, 惊为天人. 再之后的 vibecoding 推出, 我从最初的不信任,必须使用 vscode 插件, 不停的授权给它看着它一步步的修改. 每一遍我都要反复 re…",
+          "url": "https://www.v2ex.com/t/1242582#reply25",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-16T01:43:44.000Z",
+          "publishedAt": "2026-09-17T01:21:42.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "Tsing2"
+          "author": "cvooc"
         },
         {
-          "id": "dddf0622e597dd50",
-          "title": "codex 新玩法：制作微信表情",
-          "summary": "周末没事想整蛊一下基友，就把他的丑照发给 codex，然后把微信表情开放平台的文档发给 codex，让它生成一套微信表情，然后上传到微信表情开放平台，全程半小时（中途只需要人来确定风格和扫码登录），质量还挺高。大家可以微信扫码看一下效果：",
-          "url": "https://www.v2ex.com/t/1242312#reply4",
+          "id": "3d9408908c51e1cb",
+          "title": "3 分钟用完 Codex 5 小时额度",
+          "summary": "Plus 账户，这周没怎么用，觉得周额度剩的还多，就用 GPT6 Astra 中开了个任务，然后 10 分 05秒用完了完整的 5小时额度，任务没跑完，等重置后继续执行没跑完的任务，3 分 08秒再次用完 5小时限额。给俺干沉默了...",
+          "url": "https://www.v2ex.com/t/1242585#reply11",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-16T01:31:31.000Z",
+          "publishedAt": "2026-09-17T01:27:11.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -798,17 +799,17 @@
           ],
           "score": 113,
           "sourceType": "rss",
-          "cover": "https://i.imgur.com/8AVQsT1.png",
-          "author": "youweiks"
+          "cover": "",
+          "author": "CyanHaze"
         },
         {
-          "id": "a20b872244ceaacb",
-          "title": "紅米舊機器手把沒震動，核心沒開支援，核心源碼又不全, 乾脆自己 magisk module 補上了",
-          "summary": "我用紅米 Note 12 Pro 5G 接 GameSir G8+，手把能連上，但就是不會震動。後來和 AI 一起查，才發現手機原廠核心沒有開啟 Sony 手把的震動支援，而 G8+ 當時用的是 DS4 藍牙模式。一開始以為得重編整個核心，偏偏小米公開的原始碼又和手機上的版本對不上。最後走通的方式，是另外編一個有震動功能的驅動，讓…",
-          "url": "https://www.v2ex.com/t/1242285#reply4",
+          "id": "43c90376964be5a9",
+          "title": "[求助] 请问获取 BOSS 直聘职位描述区域的信息？",
+          "summary": "在职位描述区域无法点击鼠标左键、右键，打开浏览器的开发者工具的话标签直接就关闭了。",
+          "url": "https://www.v2ex.com/t/1242607#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-15T23:08:21.000Z",
+          "publishedAt": "2026-09-17T02:11:09.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -816,18 +817,37 @@
           ],
           "score": 111,
           "sourceType": "rss",
-          "cover": "",
-          "author": "JerryHo"
+          "cover": "https://i.imgur.com/6tgmFvz.jpeg",
+          "author": "sungnix"
         },
         {
-          "id": "c849c6d0959ac52b",
-          "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-          "titleZh": "在 FPGA 上重建 Voodoo 图形和 20 世纪 90年代末的游戏 PC",
-          "summary": "Hacker News 热帖，当前积分 35，评论 7。",
-          "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+          "id": "8dface29979f3441",
+          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "titleZh": "使用 Copilot 将 GitHub Copilot 运行时迁移到 Rust",
+          "summary": "在客服代表之前，这种规模的重写是负担不起的。以下是将 Copilot 代理运行时移植到 Rust 的 80 万行生产中的实际操作。Migratin 的职位……",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+          "source": "GitHub Blog",
+          "sourceUrl": "https://github.blog/",
+          "publishedAt": "2026-09-17T00:26:43.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发平台"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "97f04bc156448164",
+          "title": "OpenSpec – A lightweight and configurable AI spec framework",
+          "titleZh": "OpenSpec –轻量级且可配置的人工智能规范框架",
+          "summary": "Hacker News 热帖，当前积分 72，评论 26。",
+          "url": "https://openspec.dev/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-15T22:50:55.000Z",
+          "publishedAt": "2026-09-16T23:06:39.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -835,46 +855,26 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 108,
+          "score": 109,
           "sourceType": "api"
         },
         {
-          "id": "3ca3d63d35550b0a",
-          "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-          "titleZh": "德国莱茵金属开源其 Battlesuite 联网武器系统 protcol",
-          "summary": "Hacker News 热帖，当前积分 133，评论 40。",
-          "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-15T21:07:47.000Z",
+          "id": "df70d1c67f4e1858",
+          "title": "codex 要重置就每周都重置，偏偏这周我早早蹬完了，没奶了",
+          "summary": "😂🤣",
+          "url": "https://www.v2ex.com/t/1242560#reply8",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-16T23:27:03.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
+            "开发者社区"
           ],
           "score": 106,
-          "sourceType": "api"
-        },
-        {
-          "id": "0094d343aa77a3e4",
-          "title": "Jean-Pierre Serre is 100 years old today",
-          "titleZh": "让-皮埃尔·塞尔（Jean-Pierre Serre）今天已经 100 岁了",
-          "summary": "Hacker News 热帖，当前积分 92，评论 13。",
-          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-15T20:57:18.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 105,
-          "sourceType": "api"
+          "sourceType": "rss",
+          "cover": "",
+          "author": "jkfadsljlasdgs"
         }
       ]
     }
@@ -928,7 +928,7 @@
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -936,15 +936,15 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "科技公司",
+      "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "开发平台",
+      "tag": "科技公司",
       "count": 5
     },
     {
