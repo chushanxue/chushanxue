@@ -1,141 +1,161 @@
 {
-  "generatedAt": "2026-09-23T02:13:28.682Z",
+  "generatedAt": "2026-09-24T02:13:48.237Z",
   "headline": {
-    "id": "16da5a4b16ad5d89",
-    "title": "做了一个通过 Web 远程操作 Mac 终端和 AI 编程 Agent 的工具： TermRelay",
-    "summary": "最近做了一个叫 TermRelay 的开源工具，用来从手机或其他电脑远程访问 Mac 上的终端和 AI 编程 Agent。它由三个部分组成：Mac App：管理本地终端、工作目录和 Agent 进程 Server：负责设备连接、会话同步、认证和事件持久化 Web：在浏览器里查看并操作远程会话 目前支持：普通 PTY 终端 C…",
-    "url": "https://www.v2ex.com/t/1244146#reply0",
+    "id": "f1693e3ed616e91f",
+    "title": "Muse 注册的新方法，已经成功",
+    "summary": "https://cloud.browser-use.com/ 去注册个账号，然后直接输入打开 https://muse.ai/join，直接正常注册就行。如果不想绑定信用卡直接绑定个自己的 facebook 就可以跳过了。实测成功 在加入后的 48小时内通过“设置”兑现我的邀请码，我们就能分别获得 10 亿个 Muse 词元。…",
+    "url": "https://www.v2ex.com/t/1244403#reply37",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-09-23T02:04:03.000Z",
+    "publishedAt": "2026-09-24T01:04:48.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 116,
+    "score": 114,
     "sourceType": "rss",
     "cover": "",
-    "author": "wqywangweijia"
+    "author": "398961347"
   },
   "latest": [
     {
-      "id": "16da5a4b16ad5d89",
-      "title": "做了一个通过 Web 远程操作 Mac 终端和 AI 编程 Agent 的工具： TermRelay",
-      "summary": "最近做了一个叫 TermRelay 的开源工具，用来从手机或其他电脑远程访问 Mac 上的终端和 AI 编程 Agent。它由三个部分组成：Mac App：管理本地终端、工作目录和 Agent 进程 Server：负责设备连接、会话同步、认证和事件持久化 Web：在浏览器里查看并操作远程会话 目前支持：普通 PTY 终端 C…",
-      "url": "https://www.v2ex.com/t/1244146#reply0",
+      "id": "f1693e3ed616e91f",
+      "title": "Muse 注册的新方法，已经成功",
+      "summary": "https://cloud.browser-use.com/ 去注册个账号，然后直接输入打开 https://muse.ai/join，直接正常注册就行。如果不想绑定信用卡直接绑定个自己的 facebook 就可以跳过了。实测成功 在加入后的 48小时内通过“设置”兑现我的邀请码，我们就能分别获得 10 亿个 Muse 词元。…",
+      "url": "https://www.v2ex.com/t/1244403#reply37",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-23T02:04:03.000Z",
+      "publishedAt": "2026-09-24T01:04:48.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 116,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "wqywangweijia"
+      "author": "398961347"
     },
     {
-      "id": "10fd63f5cb42355d",
-      "title": "咨询 gpt20x 的 sub2api 额度",
-      "summary": "各位佬，如题，想知道 gpt20x 使用 sub2api 的话，周限额现在大概是多少？我 8月份的时候，周限额大概是 2600 多一点，但现在更新了 astra，我看还有人反馈使用 astra 的话额度会很少，所以想借这个帖子统计一下，大家的 20x 使用 sub2api，额度大概是多少？我后面想续费一下 20x 账号，…",
-      "url": "https://www.v2ex.com/t/1244144#reply1",
+      "id": "1ebe61ac3e7f9f61",
+      "title": "codex 邀请,各得 1000credit(等价$40),三个名额,老哥们发 codex 邮箱即可",
+      "summary": "要求: 受邀者在过去 2 个月内不得使用过 ChatGPT 桌面版。",
+      "url": "https://www.v2ex.com/t/1244435#reply5",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-23T01:58:04.000Z",
+      "publishedAt": "2026-09-24T01:58:20.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 111,
       "sourceType": "rss",
-      "cover": "",
-      "author": "MrdotX"
+      "cover": "https://i.imgur.com/OwnJo4r.png",
+      "author": "unco020511"
     },
     {
-      "id": "f151e83db6f78c7f",
-      "title": "gpt6 luna 和 gpt 5 sol 选谁效果好呢",
-      "summary": "gpt6 luna 和 gpt 5 sol 选谁效果好呢",
-      "url": "https://www.v2ex.com/t/1244116#reply9",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-23T01:19:34.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "ignore"
-    },
-    {
-      "id": "fe75dd33662b2cdd",
-      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
-      "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文",
-      "url": "https://sspai.com/post/114889",
+      "id": "f3fbed9129917459",
+      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
+      "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文",
+      "url": "https://sspai.com/post/114913",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-22T23:30:05.000Z",
+      "publishedAt": "2026-09-24T00:19:37.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 112,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "0fefbedaa39d94d0",
-      "title": "claude opus 5.5 和 gpt 6 sol ,你们都用上了吗？",
-      "summary": "我主要做 vibe coding 工具用，大神们支招，哪个对新手能更友好一点呢？",
-      "url": "https://www.v2ex.com/t/1244099#reply6",
+      "id": "f911434b27c38e37",
+      "title": "我要结构化入库一本书《内科学 十四五 第十版.pdf》",
+      "summary": "现在的做法是按照目录切分成块，后面想根据不同疾病来抽取书本知识，这一步计划工程做，然后组装 prompt 给大模型出针对某个疾病的专业的学习资料+考核题目+模拟接诊。目前在结构化入库阶段 但是其中的图标怎么解析与什么样数据结构存比较好呢？V 友有没有经验的，望不吝赐教（抱拳） 以下是几个典型的图，我让 ai 给 coding 出…",
+      "url": "https://www.v2ex.com/t/1244392#reply2",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-09-22T22:53:27.000Z",
+      "publishedAt": "2026-09-24T00:23:24.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 106,
+      "score": 113,
       "sourceType": "rss",
-      "cover": "",
-      "author": "weiqi554177834"
+      "cover": "https://i.imgur.com/BsmCbAw.png",
+      "author": "EasonIndie"
     },
     {
-      "id": "0abbdf0a11626639",
-      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-      "titleZh": "Opus 5.5 vs. GPT-6 Sol：哪个型号赢得了我的盲品测试？",
-      "summary": "现在观看（39分钟） |🎙️我对写作、前端原型、长期运行的代理任务、SVG、编码和视频编辑进行了盲目评估，然后将 Opus 5.5 t...",
-      "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-      "source": "Lenny's Newsletter",
-      "sourceUrl": "https://www.lennysnewsletter.com/",
-      "publishedAt": "2026-09-22T23:12:49.000Z",
+      "id": "4e78fe2f6a0189d0",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "titleZh": "Meta 的人工智能代理 Muse 即将推出的所有新功能",
+      "summary": "首席执行官马克·扎克伯格(Mark Zuckerberg)周三在门洛帕克(Menlo Park)拉开了公司年度 Connect 活动的序幕，他在主题演讲中明确表示了一件事：Meta 正在全力投入 Muse。它……",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-09-24T01:13:32.000Z",
       "category": "product",
       "tags": [
-        "产品/商业"
+        "产品/商业",
+        "科技公司"
       ],
-      "score": 104,
+      "score": 107,
       "sourceType": "rss",
-      "cover": "https://api.substack.com/feed/podcast/216986081/4e28f684cb755ce703f7e39c9b492e85.mp3",
+      "cover": "",
       "author": ""
     },
     {
-      "id": "59ffd93442b867d6",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "titleZh": "TechCrunch 创始人峰会的议程揭晓：11月4日在波士顿解锁筹款、招聘和人工智能洞察",
-      "summary": "创始人不应该以最艰难的方式学习最艰难的教训。TechCrunch 创始人峰会旨在使创办公司的挑战变得更加容易，并……",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "id": "6ddbd051de9619bf",
+      "title": "注册 Meta 的 muse，免费领取 10 亿 token",
+      "summary": "1.打开 gemini pro 的 spark--> 输入:打开 https://muse.ai/join-- > 授予权限--> 在 remote 浏览器中进行注册--> 输入邮箱--> 接验证码--> 要求验证年龄--> 选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡)--> 注册成功. 登录后在设置中输入邀请码…",
+      "url": "https://www.v2ex.com/t/1244389#reply49",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-09-24T00:12:09.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "emmathoermer"
+    },
+    {
+      "id": "801ea8d403235e53",
+      "title": "Meta VR Glasses",
+      "titleZh": "Meta VR 眼镜",
+      "summary": "Hacker News 热帖，当前积分 230，评论 186。",
+      "url": "https://www.meta.com/vr-glasses/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-09-23T23:47:56.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "947299bd22d13037",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "titleZh": "Meta 正在（再次）尝试 VR 眼镜，这次是更多的 IMAX",
+      "summary": "Meta 重返 VR 眼镜领域带来了轻量级外形和增强娱乐选项的有前途的组合。",
+      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-09-22T23:21:49.000Z",
+      "publishedAt": "2026-09-23T23:47:35.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
@@ -145,28 +165,81 @@
       "sourceType": "rss",
       "cover": "",
       "author": ""
-    },
-    {
-      "id": "92fb7d5e183d9b99",
-      "title": "Better prompt caching for GPT-6",
-      "titleZh": "GPT-6 的更好提示缓存",
-      "summary": "了解 GPT-6 如何通过更高的缓存命中率、新的诊断、显式断点和控制来改善快速缓存，从而降低延迟和成本。",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news/",
-      "publishedAt": "2026-09-22T21:00:00.000Z",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "模型产品"
-      ],
-      "score": 118,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "f3fbed9129917459",
+      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
+      "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文",
+      "url": "https://sspai.com/post/114913",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-24T00:19:37.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "192e993fd140d884",
+      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文",
+      "url": "https://sspai.com/post/114904",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-23T09:02:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 90,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Matrix机器人"
+    },
+    {
+      "id": "a6f4dccb7d405cdf",
+      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+      "summary": "Apple 于 9月15日凌晨正式发布了 iOS27、iPadOS27、macOS27GoldenGate 和 watchOS27、visionOS27 等系统的正式版本。其中，visionOS27 加入了 Siri ... 查看全文",
+      "url": "https://sspai.com/post/114901",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-23T07:30:57.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "79cbaa0a96272edc",
+      "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+      "summary": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文",
+      "url": "https://sspai.com/post/114211",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-09-23T02:19:17.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 77,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "sha2kyou"
+    },
     {
       "id": "fe75dd33662b2cdd",
       "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
@@ -180,7 +253,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 112,
+      "score": 73,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -198,82 +271,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 98,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "waychane"
-    },
-    {
-      "id": "9a98e200776feae7",
-      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-      "summary": "黄金时代「时尚与科技结合」的浪漫。查看全文",
-      "url": "https://sspai.com/post/114551",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-22T08:11:03.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 86,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "随便好啦"
-    },
-    {
-      "id": "2092aaa5f70e431a",
-      "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
-      "summary": "从大学时代入不敷出开始记账，到 10年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文",
-      "url": "https://sspai.com/post/114479",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-22T06:39:39.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 87,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "thisLeon"
-    },
-    {
-      "id": "3210e7f46769432b",
-      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
-      "summary": "如果你关注了前段时间的少数派众测，应该已经见过 PopSockets 泡泡骚 LowPro 极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ... 查看全文",
-      "url": "https://sspai.com/post/114823",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-22T02:44:06.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 80,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "什么陈"
-    },
-    {
-      "id": "9383bd599ddb8212",
-      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
-      "summary": "少数派的近期动态少数派会员 2026 周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选 40 份用心回答，每份送出 50 元面值京东卡。参与调研口袋先知新版本 1.3. ... 查看全文",
-      "url": "https://sspai.com/post/114840",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-22T00:09:01.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 76,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -406,52 +407,90 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "92fb7d5e183d9b99",
-          "title": "Better prompt caching for GPT-6",
-          "titleZh": "GPT-6 的更好提示缓存",
-          "summary": "了解 GPT-6 如何通过更高的缓存命中率、新的诊断、显式断点和控制来改善快速缓存，从而降低延迟和成本。",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-22T21:00:00.000Z",
+          "id": "bdc92b6c65b9bbde",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "titleZh": "如何使用 NVIDIA WARP 和 MjWarp 加速机器人模拟和学习工作流程",
+          "summary": "",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-09-23T18:41:40.000Z",
           "category": "ai",
           "tags": [
             "AI",
-            "模型产品"
+            "开源模型"
           ],
-          "score": 118,
+          "score": 105,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "006dbbc9abc18d4d",
-          "title": "Introducing GPT-6 Sol and Luna",
-          "titleZh": "隆重推出 GPT-6 Sol 和 Luna",
-          "summary": "认识 GPT-6 Sol 和 Luna，这是两款将前沿智能带入日常工作的模型，具有不同的能力和成本平衡。",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "id": "3367028ca346929a",
+          "title": "Two years of OpenAI Academy",
+          "titleZh": "两年的 OpenAI 学院",
+          "summary": "标志着 OpenAI 学院成立两年，并将人工智能技能带给更多社区。",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-22T18:00:00.000Z",
+          "publishedAt": "2026-09-23T16:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "模型产品"
           ],
-          "score": 112,
+          "score": 107,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "48ce3efb1d2f6736",
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-          "titleZh": "使用 GPT ‑ 6 Astra 将研究时间和成本并行削减一半",
-          "summary": "GPT ‑ 6 Astra 使 Parallel 的代理商能够以一半的时间和一半的成本研究并合成劳动力市场数据。",
-          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "id": "29c13a733e0a8758",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "titleZh": "OpenAI 将网络访问扩展到乌克兰用于民防",
+          "summary": "OpenAI 正在将其 Daybreak 计划的访问权限扩展到乌克兰政府，以支持民用基础设施的网络防御。",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-22T12:00:00.000Z",
+          "publishedAt": "2026-09-23T13:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 105,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "d0941a68fcceac70",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "titleZh": "Invideo 如何使用 GPT ‑ 6 Astra 将色彩分级提高 3 倍",
+          "summary": "借助 GPT ‑ 6 Astra，invideo 可以更精确地规划编辑，将色彩校正和分级提高三倍，并在一天内产生 50 个自定义效果。",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "e5e80902e3c76303",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "titleZh": "山姆·奥尔特曼在联合国安理会的讲话",
+          "summary": "OpenAI 首席执行官 Sam Altman 在向联合国安理会发表的讲话中讨论了人工智能的安全、人为控制和国际合作。",
+          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
@@ -463,58 +502,20 @@
           "author": ""
         },
         {
-          "id": "5e3e57f38cfe6f61",
-          "title": "Priorities and principles for effective third party assessments",
-          "titleZh": "有效第三方评估的优先事项和原则",
-          "summary": "OpenAI 概述了对前沿模型和保障措施进行严格、安全和独立的第三方人工智能安全评估的优先事项和原则。",
-          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "id": "4b72a18b920f209c",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "titleZh": "Harvey 使用 GPT-6 Astra 将法律背景转化为更强大的草案",
+          "summary": "GPT-6 ASTRA 生成更具结构化、上下文感知的法律文件，使律师能够专注于战略。",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "模型产品"
           ],
-          "score": 84,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "4effd70e112638e0",
-          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "titleZh": "UK AISI 和 EvalEval 如何使基准结果可复制",
-          "summary": "",
-          "url": "https://huggingface.co/blog/evaleval-aisi",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 75,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "18f9838860a3d5d8",
-          "title": "Transformers now runs llama.cpp quants",
-          "titleZh": "变压器现在运行 llama.cpp quants",
-          "summary": "",
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 75,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -526,6 +527,101 @@
       "title": "产品 / 商业",
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
+        {
+          "id": "4e78fe2f6a0189d0",
+          "title": "Everything new coming to Meta’s AI agent Muse",
+          "titleZh": "Meta 的人工智能代理 Muse 即将推出的所有新功能",
+          "summary": "首席执行官马克·扎克伯格(Mark Zuckerberg)周三在门洛帕克(Menlo Park)拉开了公司年度 Connect 活动的序幕，他在主题演讲中明确表示了一件事：Meta 正在全力投入 Muse。它……",
+          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-24T01:13:32.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 107,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "947299bd22d13037",
+          "title": "Meta is trying VR glasses (again), this time with more IMAX",
+          "titleZh": "Meta 正在（再次）尝试 VR 眼镜，这次是更多的 IMAX",
+          "summary": "Meta 重返 VR 眼镜领域带来了轻量级外形和增强娱乐选项的有前途的组合。",
+          "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-23T23:47:35.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f4c85518ddf47c6e",
+          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+          "titleZh": "Meta 为其 Muse AI 代理制作了类似 Tamagotchi 的可穿戴设备",
+          "summary": "这款微型硬件设备为其 AI 代理 Muse 创建了另一个移动房屋。",
+          "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-24T00:46:17.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "84d3fc3c01b3fe9c",
+          "title": "Meta introduces camera-free AI glasses",
+          "titleZh": "Meta 推出无摄像头 AI 眼镜",
+          "summary": "Meta 表示，无相机眼镜将更轻，电池续航时间长达 12小时。",
+          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-23T23:39:44.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "2d5be9aa802782a5",
+          "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+          "titleZh": "《Vogue》杂志将机器人送上了《Vogue World》的跑道，但人们并没有留下深刻的印象",
+          "summary": "没有什么能像中国机器人为“L 'Amour Toujours”做套索那样说出意大利工艺。",
+          "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-09-23T23:33:22.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "0abbdf0a11626639",
           "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
@@ -539,103 +635,9 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 104,
+          "score": 65,
           "sourceType": "rss",
           "cover": "https://api.substack.com/feed/podcast/216986081/4e28f684cb755ce703f7e39c9b492e85.mp3",
-          "author": ""
-        },
-        {
-          "id": "59ffd93442b867d6",
-          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-          "titleZh": "TechCrunch 创始人峰会的议程揭晓：11月4日在波士顿解锁筹款、招聘和人工智能洞察",
-          "summary": "创始人不应该以最艰难的方式学习最艰难的教训。TechCrunch 创始人峰会旨在使创办公司的挑战变得更加容易，并……",
-          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-22T23:21:49.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 104,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "8e21288cca902702",
-          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-          "titleZh": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至 35亿美元（$35 亿）",
-          "summary": "这家拥有七年历史的初创公司已经筹集了 3.5亿美元的 E 轮融资，以推动其数据即服务的方法。",
-          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-22T21:56:43.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f9ec8871ee6aa6cc",
-          "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-          "titleZh": "Meta 承认 Muse 与 OpenClaw 的肖像并非巧合",
-          "summary": "Meta 表示，Muse 是从头开始构建的，但承认 AI 助手“深受 OpenClaw 的启发” —包括其一些工作区文件名和内容。",
-          "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-22T19:09:11.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "7a57177c0d48412c",
-          "title": "I left Claude for months. Opus 5.5 is why I'm back",
-          "titleZh": "我离开克劳德好几个月了。Opus 5.5 是我回来的原因",
-          "summary": "立即观看（25分钟） |🎙️我抛弃了克劳德几个月，因为这让我发疯。Opus 5.5 改变了这一点，我将向您展示它究竟在哪里赢得一席之地......",
-          "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-09-22T19:06:40.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/216949144/18479e36b6288c9b1639e0f61d72a7ab.mp3",
-          "author": ""
-        },
-        {
-          "id": "b690bbe74fba78e2",
-          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-          "titleZh": "高通推出两款以人工智能为重点的新型智能手机芯片",
-          "summary": "高通表示，其新的顶级芯片可以在本地运行 30B 混合专家模型。",
-          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-09-22T20:00:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 96,
-          "sourceType": "rss",
-          "cover": "",
           "author": ""
         }
       ]
@@ -645,6 +647,44 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "f9f26c06907d1c3b",
+          "title": "Why the best resume may be the wrong resume for a design team",
+          "titleZh": "为什么最佳简历可能是设计团队的错误简历",
+          "summary": "设计领导层在团队的经验、专业知识和创新方面存在什么错误。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-23T04:06:17.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 82,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*oHmLt81qrX-Zs6ErghxYUA.jpeg",
+          "author": ""
+        },
+        {
+          "id": "44b22ccac0324543",
+          "title": "The origins, side B — birth of the un-cool",
+          "titleZh": "起源，B 面—不酷的诞生",
+          "summary": "软件的采用伴随着复杂性危机……然后不断增长继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-09-23T04:04:28.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 81,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1916/1*ietntUmuf8EWKid_c0Ybgg.png",
+          "author": ""
+        },
         {
           "id": "fb9c963fc53471b8",
           "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
@@ -659,28 +699,9 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 105,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
-          "author": ""
-        },
-        {
-          "id": "632dd6ab93bdb33d",
-          "title": "Where does your work go when the tool shuts down?",
-          "titleZh": "当工具关闭时，您的工作将何去何从？",
-          "summary": "过去十年的网页中有四分之一已经消失，主要来自仍然在线的网站。谁在将您的信息存档？继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-22T11:21:28.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 94,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/1024/1*H8UQmv8qfQSi9gYi8BgVxQ.png",
           "author": ""
         },
         {
@@ -697,7 +718,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 93,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*DJLSCzqhulbOdF-oFyT31w.jpeg",
           "author": ""
@@ -716,7 +737,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 93,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1400/0*L26pG42n_QiDFkgQ.jpg",
           "author": ""
@@ -735,26 +756,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 89,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "26f10f866fa3e68e",
-          "title": "Nobody starts as an accessibility expert",
-          "titleZh": "没有人会从无障碍设施专家开始",
-          "summary": "",
-          "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-22T04:33:52.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 78,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -767,86 +769,86 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "16da5a4b16ad5d89",
-          "title": "做了一个通过 Web 远程操作 Mac 终端和 AI 编程 Agent 的工具： TermRelay",
-          "summary": "最近做了一个叫 TermRelay 的开源工具，用来从手机或其他电脑远程访问 Mac 上的终端和 AI 编程 Agent。它由三个部分组成：Mac App：管理本地终端、工作目录和 Agent 进程 Server：负责设备连接、会话同步、认证和事件持久化 Web：在浏览器里查看并操作远程会话 目前支持：普通 PTY 终端 C…",
-          "url": "https://www.v2ex.com/t/1244146#reply0",
+          "id": "f1693e3ed616e91f",
+          "title": "Muse 注册的新方法，已经成功",
+          "summary": "https://cloud.browser-use.com/ 去注册个账号，然后直接输入打开 https://muse.ai/join，直接正常注册就行。如果不想绑定信用卡直接绑定个自己的 facebook 就可以跳过了。实测成功 在加入后的 48小时内通过“设置”兑现我的邀请码，我们就能分别获得 10 亿个 Muse 词元。…",
+          "url": "https://www.v2ex.com/t/1244403#reply37",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-23T02:04:03.000Z",
+          "publishedAt": "2026-09-24T01:04:48.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 116,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "wqywangweijia"
+          "author": "398961347"
         },
         {
-          "id": "10fd63f5cb42355d",
-          "title": "咨询 gpt20x 的 sub2api 额度",
-          "summary": "各位佬，如题，想知道 gpt20x 使用 sub2api 的话，周限额现在大概是多少？我 8月份的时候，周限额大概是 2600 多一点，但现在更新了 astra，我看还有人反馈使用 astra 的话额度会很少，所以想借这个帖子统计一下，大家的 20x 使用 sub2api，额度大概是多少？我后面想续费一下 20x 账号，…",
-          "url": "https://www.v2ex.com/t/1244144#reply1",
+          "id": "1ebe61ac3e7f9f61",
+          "title": "codex 邀请,各得 1000credit(等价$40),三个名额,老哥们发 codex 邮箱即可",
+          "summary": "要求: 受邀者在过去 2 个月内不得使用过 ChatGPT 桌面版。",
+          "url": "https://www.v2ex.com/t/1244435#reply5",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-23T01:58:04.000Z",
+          "publishedAt": "2026-09-24T01:58:20.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 111,
           "sourceType": "rss",
-          "cover": "",
-          "author": "MrdotX"
+          "cover": "https://i.imgur.com/OwnJo4r.png",
+          "author": "unco020511"
         },
         {
-          "id": "f151e83db6f78c7f",
-          "title": "gpt6 luna 和 gpt 5 sol 选谁效果好呢",
-          "summary": "gpt6 luna 和 gpt 5 sol 选谁效果好呢",
-          "url": "https://www.v2ex.com/t/1244116#reply9",
+          "id": "f911434b27c38e37",
+          "title": "我要结构化入库一本书《内科学 十四五 第十版.pdf》",
+          "summary": "现在的做法是按照目录切分成块，后面想根据不同疾病来抽取书本知识，这一步计划工程做，然后组装 prompt 给大模型出针对某个疾病的专业的学习资料+考核题目+模拟接诊。目前在结构化入库阶段 但是其中的图标怎么解析与什么样数据结构存比较好呢？V 友有没有经验的，望不吝赐教（抱拳） 以下是几个典型的图，我让 ai 给 coding 出…",
+          "url": "https://www.v2ex.com/t/1244392#reply2",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-23T01:19:34.000Z",
+          "publishedAt": "2026-09-24T00:23:24.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 109,
+          "score": 113,
           "sourceType": "rss",
-          "cover": "",
-          "author": "ignore"
+          "cover": "https://i.imgur.com/BsmCbAw.png",
+          "author": "EasonIndie"
         },
         {
-          "id": "0fefbedaa39d94d0",
-          "title": "claude opus 5.5 和 gpt 6 sol ,你们都用上了吗？",
-          "summary": "我主要做 vibe coding 工具用，大神们支招，哪个对新手能更友好一点呢？",
-          "url": "https://www.v2ex.com/t/1244099#reply6",
+          "id": "6ddbd051de9619bf",
+          "title": "注册 Meta 的 muse，免费领取 10 亿 token",
+          "summary": "1.打开 gemini pro 的 spark--> 输入:打开 https://muse.ai/join-- > 授予权限--> 在 remote 浏览器中进行注册--> 输入邮箱--> 接验证码--> 要求验证年龄--> 选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡)--> 注册成功. 登录后在设置中输入邀请码…",
+          "url": "https://www.v2ex.com/t/1244389#reply49",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-09-22T22:53:27.000Z",
+          "publishedAt": "2026-09-24T00:12:09.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 106,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "weiqi554177834"
+          "author": "emmathoermer"
         },
         {
-          "id": "7e8ee7678fed0bab",
-          "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-          "titleZh": "微软在 2007年杀死了 FoxPro。总之，这里是复活的 FoxPro",
-          "summary": "Visual FoxPro 在 2007年停止了第 9 版。令人惊讶的是，它仍在运行，以 32 位为单位，因为重写一个已有 20年历史的商业应用程序是您失去购买力的方式……",
-          "url": "https://foxscript.org/",
+          "id": "801ea8d403235e53",
+          "title": "Meta VR Glasses",
+          "titleZh": "Meta VR 眼镜",
+          "summary": "Hacker News 热帖，当前积分 230，评论 186。",
+          "url": "https://www.meta.com/vr-glasses/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-22T21:00:30.000Z",
+          "publishedAt": "2026-09-23T23:47:56.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -858,14 +860,14 @@
           "sourceType": "api"
         },
         {
-          "id": "42d31247807af922",
-          "title": "SAML: A fractal of bad design",
-          "titleZh": "SAML：糟糕设计的分形",
-          "summary": "Hacker News 热帖，当前积分 163，评论 91。",
-          "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+          "id": "81d0873dc60504bc",
+          "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+          "titleZh": "ArXiv 获得多年承诺，作为一个独立的非营利组织为其提供支持",
+          "summary": "Hacker News 热帖，当前积分 60，评论 10。",
+          "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-09-22T18:57:17.000Z",
+          "publishedAt": "2026-09-23T22:45:49.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -873,7 +875,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 102,
+          "score": 108,
           "sourceType": "api"
         }
       ]
@@ -885,7 +887,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 85,
+    "totalItems": 82,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -900,16 +902,16 @@
       "count": 19
     },
     {
-      "tag": "工具/网站",
-      "count": 12
-    },
-    {
       "tag": "设计/UI",
       "count": 12
     },
     {
       "tag": "产品/商业",
       "count": 10
+    },
+    {
+      "tag": "工具/网站",
+      "count": 9
     },
     {
       "tag": "工程效率",
@@ -928,19 +930,15 @@
       "count": 6
     },
     {
+      "tag": "开源模型",
+      "count": 6
+    },
+    {
       "tag": "模型产品",
       "count": 6
     },
     {
       "tag": "交互设计",
-      "count": 6
-    },
-    {
-      "tag": "开源模型",
-      "count": 6
-    },
-    {
-      "tag": "新产品",
       "count": 6
     },
     {
@@ -950,6 +948,10 @@
     {
       "tag": "开发平台",
       "count": 5
+    },
+    {
+      "tag": "新产品",
+      "count": 3
     },
     {
       "tag": "技术周刊",
