@@ -1,51 +1,34 @@
 {
-  "generatedAt": "2026-10-04T02:46:22.466Z",
+  "generatedAt": "2026-10-05T02:23:58.344Z",
   "headline": {
-    "id": "b43bb9003db09392",
-    "title": "大模型对 Vuejs 支持不如 react：",
-    "summary": "估计，可能不是亲生的有关",
-    "url": "https://www.v2ex.com/t/1246345#reply1",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-10-04T02:23:34.000Z",
+    "id": "1d7f31a207e42625",
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "titleZh": "无能为力的 F1 车手对巴林 F1 软件故障感到沮丧",
+    "summary": "Hacker News 热帖，当前积分 22，评论 3。",
+    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "publishedAt": "2026-10-05T01:54:08.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "开发者社区"
+      "工程效率",
+      "Hacker News",
+      "讨论"
     ],
-    "score": 110,
-    "sourceType": "rss",
-    "cover": "",
-    "author": "Rust2015"
+    "score": 113,
+    "sourceType": "api"
   },
   "latest": [
     {
-      "id": "b43bb9003db09392",
-      "title": "大模型对 Vuejs 支持不如 react：",
-      "summary": "估计，可能不是亲生的有关",
-      "url": "https://www.v2ex.com/t/1246345#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-04T02:23:34.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Rust2015"
-    },
-    {
-      "id": "8fc1292fa9802640",
-      "title": "Bob Cringely Has Died",
-      "titleZh": "Bob Cringely 去世",
-      "summary": "我从家人的一位朋友那里听说，鲍勃星期六早些时候在睡梦中去世了。非常悲伤的消息。Bob，真名是 Mark Stevens，是 Ap 的早期员工……",
-      "url": "https://news.ycombinator.com/item?id=49949438",
+      "id": "1d7f31a207e42625",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "titleZh": "无能为力的 F1 车手对巴林 F1 软件故障感到沮丧",
+      "summary": "Hacker News 热帖，当前积分 22，评论 3。",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-04T00:50:52.000Z",
+      "publishedAt": "2026-10-05T01:54:08.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,17 +36,17 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 116,
+      "score": 113,
       "sourceType": "api"
     },
     {
-      "id": "e47c497e1fde7e0d",
-      "title": "用 AI 把存在 nas 上的动画和电影资源全部按照能够被 emby 识别的方式重新命名整理了",
-      "summary": "国庆闲来无事，翻出了以前的旧 hhd，心血来潮想要看看里面的存货，发现文件乱的不行，突发奇想想要试试用 AI 重新整理，一通操作下来，发现传统的 tmdb 刮削软件在 AI 出现后没有什么意义了，比如说 TinyMediaManager 之类的。AI 能够实现的功能如下：1、做到更加精准高效的识别，会自动根据影片所在文件夹命…",
-      "url": "https://www.v2ex.com/t/1246337#reply5",
+      "id": "bc00ad3e91252308",
+      "title": "wreq- Python ：重写协程桥接后的性能提升",
+      "summary": "国庆闲来无事，跑了一下 wreq-python 和其他 Python HTTP 客户端的 HTTPS 性能基准，发现自己的结果不太理想，于是顺着火焰图查了一下瓶颈。项目地址：https://github.com/0x676e67/wreq-python 之前通过 PyO3 和 pyo3-async-runtimes 做异步桥接，…",
+      "url": "https://www.v2ex.com/t/1246447#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-04T01:00:36.000Z",
+      "publishedAt": "2026-10-05T00:34:58.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -71,17 +54,17 @@
       ],
       "score": 113,
       "sourceType": "rss",
-      "cover": "",
-      "author": "desususula"
+      "cover": "https://i.imgur.com/tUZabs7.png",
+      "author": "6778471"
     },
     {
-      "id": "80724eb4264597e0",
-      "title": "macOS 上 ChatGPT 客户端长期无法使用",
-      "summary": "自从 OpenAI 把 ChatGPT 和 Codex 二合一后，我就再没办法用 macOS 客户端了…… 我平时其实用 Chat 功能的频次远高于用 Agent，但诸多原因导致客户端的 Chat 功能我无法使用：1.Classic 客户端有个无法用 thinking 的 bug，而我常用 thinking；2.新版二合一…",
-      "url": "https://www.v2ex.com/t/1246331#reply9",
+      "id": "ffdb24bf74c26c65",
+      "title": "ai 时代怎么感觉招 js/ts 全栈还是那么少？",
+      "summary": "现在网上各种 ts ai 全干，之前感觉 ai 时代 很多新公司 新业务搞全栈不应该首选 ts 了，昨晚看本地二线城市招聘信息 全是各种 java 全栈，php，python 全栈都比 ts 多，烦了几个一线城市，感觉好像也这样，但是从网上一看 全是 ts 全栈，是受外网影响吗，国外好像是 ts 全栈比较流行吧？",
+      "url": "https://www.v2ex.com/t/1246444#reply7",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-04T00:04:50.000Z",
+      "publishedAt": "2026-10-05T00:17:16.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -90,73 +73,35 @@
       "score": 112,
       "sourceType": "rss",
       "cover": "",
-      "author": "xin1284"
+      "author": "guin"
     },
     {
-      "id": "44ec5090af08bc91",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "titleZh": "我们几乎所有的项目都需要默认的硬性预算上限",
-      "summary": "Hacker News 热帖，当前积分 202，评论 106。",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-04T00:20:16.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "8dbfbead73bbbe1e",
-      "title": "建个站，要怎样的提示词或方法， gpt 可以自己做呢？",
-      "summary": "只告诉我的想法，尽可能少的更改，能做出好的效果出来呢？求赐教",
-      "url": "https://www.v2ex.com/t/1246338#reply3",
+      "id": "472fc86688cced86",
+      "title": "Tibo：在接下来的 28 天里，我们每天要么推出一项明显的改进，要么进行一次全面重置",
+      "summary": "在接下来的 28天里，我们要么每天运送一件明显改进且与大多数法典/工作用户相关的东西，要么运送一件完全重置的东西。让改良者……",
+      "url": "https://www.v2ex.com/t/1246442#reply3",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-04T01:07:46.000Z",
+      "publishedAt": "2026-10-04T23:09:52.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "weiqi554177834"
-    },
-    {
-      "id": "53f069eedb8f9c6a",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "titleZh": "经纪人说已经完成了。数据库不同意。",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-10-03T22:56:48.000Z",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "开源模型"
-      ],
       "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "testsb"
     },
     {
-      "id": "b00b5be6689e57c4",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "titleZh": "OpenAI 安全负责人辞职，警告人工智能公司的文化“破碎”",
-      "summary": "Hacker News 热帖，当前积分 188，评论 134。",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "id": "3e387055541c8750",
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "titleZh": "使用 SSH 和 Nginx 的自托管 HTTP 隧道",
+      "summary": "Hacker News 热帖，当前积分 69，评论 19。",
+      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-03T22:18:13.000Z",
+      "publishedAt": "2026-10-04T22:25:10.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -166,9 +111,103 @@
       ],
       "score": 107,
       "sourceType": "api"
+    },
+    {
+      "id": "9b003d6024619f6a",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "titleZh": "关闭后，网上出现了动画材料的数字档案",
+      "summary": "Hacker News 热帖，当前积分 35，评论 3。",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-04T21:01:28.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 105,
+      "sourceType": "api"
+    },
+    {
+      "id": "0654fe1b0ec34bf8",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "titleZh": "在 macOS 27 上关闭 Apple Intelligence 并恢复其磁盘空间",
+      "summary": "Hacker News 热帖，当前积分 386，评论 246。",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-04T19:42:25.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 103,
+      "sourceType": "api"
+    },
+    {
+      "id": "85a29be07e25b524",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "titleZh": "由于人工智能提交量“大幅增加”，谷歌冻结了其开源漏洞奖励计划",
+      "summary": "AI SLOP 似乎是压倒性的漏洞赏金计划。",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-10-04T20:31:07.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 95,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "aab7c123a102fdbe",
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
+      "url": "https://sspai.com/post/115308",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-04T07:58:39.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "waychane"
+    },
+    {
+      "id": "af2d767117e0f6ce",
+      "title": "Capybara Court",
+      "titleZh": "Capybara Court",
+      "summary": "小纠纷，由水豚法官轻轻解决",
+      "url": "https://www.producthunt.com/products/capybara-court",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-03T19:47:47.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 64,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Jungsik Byun"
+    },
     {
       "id": "025541e18122a6e9",
       "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
@@ -182,10 +221,48 @@
         "工具/网站",
         "效率"
       ],
-      "score": 83,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "KingTsui"
+    },
+    {
+      "id": "16aff5ff6c34f075",
+      "title": "Pass Designer",
+      "titleZh": "通行证设计师",
+      "summary": "设计 Apple Wallet 通行证，查看真实卡片",
+      "url": "https://www.producthunt.com/products/apple",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-03T04:13:21.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Zac Zuo"
+    },
+    {
+      "id": "b242ed1be13e738f",
+      "title": "TinyFolder",
+      "titleZh": "TinyFolder",
+      "summary": "专为您的 Mac Dock 设计的应用文件夹",
+      "url": "https://www.producthunt.com/products/tinyfolder",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-02T21:27:59.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Sergey Filkov"
     },
     {
       "id": "5aa5d120d9e5f3a8",
@@ -204,79 +281,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "166a9c365f02595b",
-      "title": "FoundrRadio",
-      "titleZh": "FoundrRadio",
-      "summary": "选择一个频率，启动您的广播电台并播出",
-      "url": "https://www.producthunt.com/products/foundrradio",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-01T09:34:01.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "fmerian"
-    },
-    {
-      "id": "a7916b48384f371c",
-      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
-      "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文",
-      "url": "https://sspai.com/post/115070",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-30T14:32:58.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Plutonium"
-    },
-    {
-      "id": "60484ab6b7995f86",
-      "title": "经典任务管理软件的现代重构：新版 2Do 详解",
-      "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。查看全文",
-      "url": "https://sspai.com/post/115166",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "广陵止息"
-    },
-    {
-      "id": "1f5bc36e3b51fed9",
-      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-      "summary": "祝你旅途顺遂，假期自由。查看全文",
-      "url": "https://sspai.com/post/114945",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-09-30T03:02:18.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "胡九思"
     }
   ],
   "sections": [
@@ -423,7 +427,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 111,
+          "score": 73,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -442,7 +446,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 71,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -461,7 +465,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 60,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -531,6 +535,100 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
+          "id": "85a29be07e25b524",
+          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+          "titleZh": "由于人工智能提交量“大幅增加”，谷歌冻结了其开源漏洞奖励计划",
+          "summary": "AI SLOP 似乎是压倒性的漏洞赏金计划。",
+          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-04T20:31:07.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "41f3337234661b2a",
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "titleZh": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？",
+          "summary": "关于 Equity，我们讨论了特朗普政府重塑 AI 品牌的尝试。",
+          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-04T20:08:34.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "e6a058786e03122d",
+          "title": "TechCrunch Mobility: Reining in robotaxis",
+          "titleZh": "TechCrunch Mobility：控制机器人出租车",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
+          "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-04T16:05:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "abd212273053681b",
+          "title": "Trump unveils his new Super Intelligence Force",
+          "titleZh": "特朗普推出他的新超级情报部队",
+          "summary": "这个新的工作组是特朗普对人工智能安全辩论的最新回应。",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-04T15:15:10.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "295dc99a059ea91e",
+          "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+          "titleZh": "OpenAI 的 ChatGPT 负责人：我们再次进入人工智能的新时代| Tibo Sottiaux",
+          "summary": "立即收听（37分钟） | Tibo Sottiaux，了解为什么 Dots 是 OpenAI 最大的赌注，为什么代理商将主导互联网流量，以及哪些构建商仍然出错",
+          "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+          "source": "Lenny's Newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/",
+          "publishedAt": "2026-10-04T12:32:47.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业"
+          ],
+          "score": 86,
+          "sourceType": "rss",
+          "cover": "https://api.substack.com/feed/podcast/217274136/c23e92a6cc478dbff494fdb2430bfdd5.mp3",
+          "author": ""
+        },
+        {
           "id": "0b70cba90a26c7ef",
           "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
           "titleZh": "联邦法官称 Flock 为“不分青红皂白的大规模监控”",
@@ -544,101 +642,7 @@
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "5f7dc0033bd3b32c",
-          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-          "titleZh": "亚马逊回应数据中心的强烈反对，表示不再使用保密协议",
-          "summary": "亚马逊网络服务（Amazon Web Services）的首席执行官试图抵制对数据中心的广泛怀疑。",
-          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-03T18:43:57.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 93,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "9c9e3ee92b7ddeb5",
-          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-          "titleZh": "OpenAI 安全员工辞职，声称公司的“文化被打破”",
-          "summary": "大卫·罗宾逊（David Robinson）自己承认，他“有些陈词滥调”：一家领先的人工智能公司的员工在辞职时发出可怕的警告。",
-          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-03T16:30:01.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 92,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "bfd6ad2eb77c0186",
-          "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
-          "titleZh": "🧠 社区智慧：在不交出收件箱的情况下从个人人工智能代理那里获取价值，从 IC 到经理的自我威胁，不寻常的谈判福利等",
-          "summary": "社区智慧 301",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
-          "source": "Lenny's Newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-10-03T17:00:49.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业"
-          ],
-          "score": 88,
-          "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-          "author": ""
-        },
-        {
-          "id": "e74e388494bf3487",
-          "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-          "titleZh": "Jack Dorsey 的 Bitchat 在政府下令后从印度的应用商店中消失",
-          "summary": "由于这些限制，Bitchat 在印度基本上不可用。",
-          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-03T15:02:01.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 87,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "56eb6de862d63b4c",
-          "title": "Vessev built an electric ferry that almost flies",
-          "titleZh": "Vessev 建造了一艘几乎能飞的电动渡轮",
-          "summary": "Vessev 希望其电动水翼渡轮将改变人们和城市对船只的看法。",
-          "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-03T14:42:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 87,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -650,6 +654,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "22d7a0e1005131bf",
+          "title": "The building was there first",
+          "titleZh": "这栋楼是先来的",
+          "summary": "风格的真正输出不是它所产生的。这是它安装在任何看起来像的人身上的类别。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-04T14:34:28.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2500/1*D81JpDsqoeWmW9smhqc5Qw.jpeg",
+          "author": ""
+        },
         {
           "id": "dc5ea3761d65b9d5",
           "title": "The feed I produce myself",
@@ -664,7 +687,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 88,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -744,25 +767,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "dfbf2ad29bafbd92",
-          "title": "Five-step color balancing with GenAI",
-          "titleZh": "使用 GenAI 实现五步色彩平衡",
-          "summary": "双子座和定性数据配色方案设计继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-09-30T23:11:26.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 58,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/1802/1*6ah6Bk3d0xv3NgQqL9dTMg.png",
-          "author": ""
         }
       ]
     },
@@ -772,32 +776,14 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "b43bb9003db09392",
-          "title": "大模型对 Vuejs 支持不如 react：",
-          "summary": "估计，可能不是亲生的有关",
-          "url": "https://www.v2ex.com/t/1246345#reply1",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-04T02:23:34.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "Rust2015"
-        },
-        {
-          "id": "8fc1292fa9802640",
-          "title": "Bob Cringely Has Died",
-          "titleZh": "Bob Cringely 去世",
-          "summary": "我从家人的一位朋友那里听说，鲍勃星期六早些时候在睡梦中去世了。非常悲伤的消息。Bob，真名是 Mark Stevens，是 Ap 的早期员工……",
-          "url": "https://news.ycombinator.com/item?id=49949438",
+          "id": "1d7f31a207e42625",
+          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+          "titleZh": "无能为力的 F1 车手对巴林 F1 软件故障感到沮丧",
+          "summary": "Hacker News 热帖，当前积分 22，评论 3。",
+          "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-04T00:50:52.000Z",
+          "publishedAt": "2026-10-05T01:54:08.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -805,17 +791,17 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 116,
+          "score": 113,
           "sourceType": "api"
         },
         {
-          "id": "e47c497e1fde7e0d",
-          "title": "用 AI 把存在 nas 上的动画和电影资源全部按照能够被 emby 识别的方式重新命名整理了",
-          "summary": "国庆闲来无事，翻出了以前的旧 hhd，心血来潮想要看看里面的存货，发现文件乱的不行，突发奇想想要试试用 AI 重新整理，一通操作下来，发现传统的 tmdb 刮削软件在 AI 出现后没有什么意义了，比如说 TinyMediaManager 之类的。AI 能够实现的功能如下：1、做到更加精准高效的识别，会自动根据影片所在文件夹命…",
-          "url": "https://www.v2ex.com/t/1246337#reply5",
+          "id": "bc00ad3e91252308",
+          "title": "wreq- Python ：重写协程桥接后的性能提升",
+          "summary": "国庆闲来无事，跑了一下 wreq-python 和其他 Python HTTP 客户端的 HTTPS 性能基准，发现自己的结果不太理想，于是顺着火焰图查了一下瓶颈。项目地址：https://github.com/0x676e67/wreq-python 之前通过 PyO3 和 pyo3-async-runtimes 做异步桥接，…",
+          "url": "https://www.v2ex.com/t/1246447#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-04T01:00:36.000Z",
+          "publishedAt": "2026-10-05T00:34:58.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -823,17 +809,17 @@
           ],
           "score": 113,
           "sourceType": "rss",
-          "cover": "",
-          "author": "desususula"
+          "cover": "https://i.imgur.com/tUZabs7.png",
+          "author": "6778471"
         },
         {
-          "id": "80724eb4264597e0",
-          "title": "macOS 上 ChatGPT 客户端长期无法使用",
-          "summary": "自从 OpenAI 把 ChatGPT 和 Codex 二合一后，我就再没办法用 macOS 客户端了…… 我平时其实用 Chat 功能的频次远高于用 Agent，但诸多原因导致客户端的 Chat 功能我无法使用：1.Classic 客户端有个无法用 thinking 的 bug，而我常用 thinking；2.新版二合一…",
-          "url": "https://www.v2ex.com/t/1246331#reply9",
+          "id": "ffdb24bf74c26c65",
+          "title": "ai 时代怎么感觉招 js/ts 全栈还是那么少？",
+          "summary": "现在网上各种 ts ai 全干，之前感觉 ai 时代 很多新公司 新业务搞全栈不应该首选 ts 了，昨晚看本地二线城市招聘信息 全是各种 java 全栈，php，python 全栈都比 ts 多，烦了几个一线城市，感觉好像也这样，但是从网上一看 全是 ts 全栈，是受外网影响吗，国外好像是 ts 全栈比较流行吧？",
+          "url": "https://www.v2ex.com/t/1246444#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-04T00:04:50.000Z",
+          "publishedAt": "2026-10-05T00:17:16.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -842,17 +828,35 @@
           "score": 112,
           "sourceType": "rss",
           "cover": "",
-          "author": "xin1284"
+          "author": "guin"
         },
         {
-          "id": "44ec5090af08bc91",
-          "title": "We're going to need default hard budget caps on pretty much everything",
-          "titleZh": "我们几乎所有的项目都需要默认的硬性预算上限",
-          "summary": "Hacker News 热帖，当前积分 202，评论 106。",
-          "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "id": "472fc86688cced86",
+          "title": "Tibo：在接下来的 28 天里，我们每天要么推出一项明显的改进，要么进行一次全面重置",
+          "summary": "在接下来的 28天里，我们要么每天运送一件明显改进且与大多数法典/工作用户相关的东西，要么运送一件完全重置的东西。让改良者……",
+          "url": "https://www.v2ex.com/t/1246442#reply3",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-04T23:09:52.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "testsb"
+        },
+        {
+          "id": "3e387055541c8750",
+          "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+          "titleZh": "使用 SSH 和 Nginx 的自托管 HTTP 隧道",
+          "summary": "Hacker News 热帖，当前积分 69，评论 19。",
+          "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-04T00:20:16.000Z",
+          "publishedAt": "2026-10-04T22:25:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -860,26 +864,27 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 110,
+          "score": 107,
           "sourceType": "api"
         },
         {
-          "id": "8dbfbead73bbbe1e",
-          "title": "建个站，要怎样的提示词或方法， gpt 可以自己做呢？",
-          "summary": "只告诉我的想法，尽可能少的更改，能做出好的效果出来呢？求赐教",
-          "url": "https://www.v2ex.com/t/1246338#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-04T01:07:46.000Z",
+          "id": "9b003d6024619f6a",
+          "title": "In the wake of closure, a digital archive of animated materials appears online",
+          "titleZh": "关闭后，网上出现了动画材料的数字档案",
+          "summary": "Hacker News 热帖，当前积分 35，评论 3。",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-04T21:01:28.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "开发者社区"
+            "工程效率",
+            "Hacker News",
+            "讨论"
           ],
-          "score": 108,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "weiqi554177834"
+          "score": 105,
+          "sourceType": "api"
         }
       ]
     }
@@ -890,7 +895,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -909,11 +914,11 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
-      "count": 10
+      "tag": "工具/网站",
+      "count": 11
     },
     {
-      "tag": "工具/网站",
+      "tag": "产品/商业",
       "count": 10
     },
     {
@@ -929,15 +934,15 @@
       "count": 6
     },
     {
-      "tag": "开源模型",
-      "count": 6
-    },
-    {
       "tag": "交互设计",
       "count": 6
     },
     {
       "tag": "效率",
+      "count": 6
+    },
+    {
+      "tag": "开源模型",
       "count": 6
     },
     {
@@ -949,12 +954,12 @@
       "count": 5
     },
     {
-      "tag": "开发平台",
+      "tag": "新产品",
       "count": 5
     },
     {
-      "tag": "新产品",
-      "count": 4
+      "tag": "开发平台",
+      "count": 5
     },
     {
       "tag": "CSS相关",
