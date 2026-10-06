@@ -1,70 +1,50 @@
 {
-  "generatedAt": "2026-10-05T02:23:58.344Z",
+  "generatedAt": "2026-10-06T02:16:58.512Z",
   "headline": {
-    "id": "1d7f31a207e42625",
-    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "titleZh": "无能为力的 F1 车手对巴林 F1 软件故障感到沮丧",
-    "summary": "Hacker News 热帖，当前积分 22，评论 3。",
-    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "publishedAt": "2026-10-05T01:54:08.000Z",
+    "id": "77cd2c626691a59b",
+    "title": "DeepSeek V4.1 Flash 还有 Qwen3.8 Flash 总是不好好整理文件，是 Harness 的问题吗？",
+    "summary": "最近有些简单的任务分配给了 DeepSeek V4 Flash 还有 Qwen3.8 Flash, 前者用的是 DSH 后者是在 Codex 本地模式，发现有个共通的毛病就是在不特殊交代的情况下，它们总是会把一些脚本还有调研记录等中间产物直接放到项目的根目录，导致几轮过后一打开项目文件夹根目录下一堆乱七八糟的文件，看着就烦 使用 C…",
+    "url": "https://www.v2ex.com/t/1246591#reply1",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-10-06T02:02:00.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "工程效率",
-      "Hacker News",
-      "讨论"
+      "开发者社区"
     ],
-    "score": 113,
-    "sourceType": "api"
+    "score": 115,
+    "sourceType": "rss",
+    "cover": "",
+    "author": "baicai321"
   },
   "latest": [
     {
-      "id": "1d7f31a207e42625",
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "titleZh": "无能为力的 F1 车手对巴林 F1 软件故障感到沮丧",
-      "summary": "Hacker News 热帖，当前积分 22，评论 3。",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-05T01:54:08.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 113,
-      "sourceType": "api"
-    },
-    {
-      "id": "bc00ad3e91252308",
-      "title": "wreq- Python ：重写协程桥接后的性能提升",
-      "summary": "国庆闲来无事，跑了一下 wreq-python 和其他 Python HTTP 客户端的 HTTPS 性能基准，发现自己的结果不太理想，于是顺着火焰图查了一下瓶颈。项目地址：https://github.com/0x676e67/wreq-python 之前通过 PyO3 和 pyo3-async-runtimes 做异步桥接，…",
-      "url": "https://www.v2ex.com/t/1246447#reply0",
+      "id": "77cd2c626691a59b",
+      "title": "DeepSeek V4.1 Flash 还有 Qwen3.8 Flash 总是不好好整理文件，是 Harness 的问题吗？",
+      "summary": "最近有些简单的任务分配给了 DeepSeek V4 Flash 还有 Qwen3.8 Flash, 前者用的是 DSH 后者是在 Codex 本地模式，发现有个共通的毛病就是在不特殊交代的情况下，它们总是会把一些脚本还有调研记录等中间产物直接放到项目的根目录，导致几轮过后一打开项目文件夹根目录下一堆乱七八糟的文件，看着就烦 使用 C…",
+      "url": "https://www.v2ex.com/t/1246591#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-05T00:34:58.000Z",
+      "publishedAt": "2026-10-06T02:02:00.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 113,
+      "score": 115,
       "sourceType": "rss",
-      "cover": "https://i.imgur.com/tUZabs7.png",
-      "author": "6778471"
+      "cover": "",
+      "author": "baicai321"
     },
     {
-      "id": "ffdb24bf74c26c65",
-      "title": "ai 时代怎么感觉招 js/ts 全栈还是那么少？",
-      "summary": "现在网上各种 ts ai 全干，之前感觉 ai 时代 很多新公司 新业务搞全栈不应该首选 ts 了，昨晚看本地二线城市招聘信息 全是各种 java 全栈，php，python 全栈都比 ts 多，烦了几个一线城市，感觉好像也这样，但是从网上一看 全是 ts 全栈，是受外网影响吗，国外好像是 ts 全栈比较流行吧？",
-      "url": "https://www.v2ex.com/t/1246444#reply7",
+      "id": "1ff90687f6af1011",
+      "title": "codex 的电脑控制用的是什么技术？",
+      "summary": "在 macos 右上角菜单栏有个电脑的图标，图标右下角有个小人头像。在被控制的 app 左上角也有显示这个图标；可以在后台操作这个 app，不阻塞用户使用电脑。",
+      "url": "https://www.v2ex.com/t/1246590#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-05T00:17:16.000Z",
+      "publishedAt": "2026-10-06T02:01:46.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -73,35 +53,35 @@
       "score": 112,
       "sourceType": "rss",
       "cover": "",
-      "author": "guin"
+      "author": "jiuzhougege"
     },
     {
-      "id": "472fc86688cced86",
-      "title": "Tibo：在接下来的 28 天里，我们每天要么推出一项明显的改进，要么进行一次全面重置",
-      "summary": "在接下来的 28天里，我们要么每天运送一件明显改进且与大多数法典/工作用户相关的东西，要么运送一件完全重置的东西。让改良者……",
-      "url": "https://www.v2ex.com/t/1246442#reply3",
+      "id": "f79756402a03ca77",
+      "title": "个人使用 Claude 防止封号的经验分享",
+      "summary": "我是之前 IP 在 US 和 JP 乱窜，开了几个月的 Claude，被封号了。现在改成一下的配置，目前稳定使用了 3 个月 梯子是自建的 aws lightsail 东京，5 刀每月，一个 t 的流量，协议是 vless 加上 reality，原理是伪装成大站的 https 服务器，IP 被封几率小 联通宽带，翻墙稳定 所有…",
+      "url": "https://www.v2ex.com/t/1246574#reply12",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-04T23:09:52.000Z",
+      "publishedAt": "2026-10-06T00:42:00.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 111,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "testsb"
+      "author": "loveleyla2013"
     },
     {
-      "id": "3e387055541c8750",
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "titleZh": "使用 SSH 和 Nginx 的自托管 HTTP 隧道",
-      "summary": "Hacker News 热帖，当前积分 69，评论 19。",
-      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "id": "3511d812b9ef3370",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "titleZh": "在为期两年的学校实验中与 Khanmigo 一起辅导人工智能",
+      "summary": "Hacker News 热帖，当前积分 30，评论 22。",
+      "url": "https://edworkingpapers.com/ai26-1551",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-04T22:25:10.000Z",
+      "publishedAt": "2026-10-06T00:00:45.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -109,68 +89,142 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 107,
+      "score": 110,
       "sourceType": "api"
     },
     {
-      "id": "9b003d6024619f6a",
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "titleZh": "关闭后，网上出现了动画材料的数字档案",
-      "summary": "Hacker News 热帖，当前积分 35，评论 3。",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-04T21:01:28.000Z",
+      "id": "155ee1ec28dd6d53",
+      "title": "codex 现在这消耗也太快了吧",
+      "summary": "5x，基本一次对话就消耗 20 ％周额度，也就改了几百行代码而已；当然我开的是 6 astra ultra",
+      "url": "https://www.v2ex.com/t/1246573#reply7",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-06T00:35:02.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
+        "开发者社区"
       ],
-      "score": 105,
-      "sourceType": "api"
-    },
-    {
-      "id": "0654fe1b0ec34bf8",
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "titleZh": "在 macOS 27 上关闭 Apple Intelligence 并恢复其磁盘空间",
-      "summary": "Hacker News 热帖，当前积分 386，评论 246。",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-04T19:42:25.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 103,
-      "sourceType": "api"
-    },
-    {
-      "id": "85a29be07e25b524",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "titleZh": "由于人工智能提交量“大幅增加”，谷歌冻结了其开源漏洞奖励计划",
-      "summary": "AI SLOP 似乎是压倒性的漏洞赏金计划。",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-04T20:31:07.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 95,
+      "score": 109,
       "sourceType": "rss",
       "cover": "",
+      "author": "jiuzhougege"
+    },
+    {
+      "id": "4f80af42981b5211",
+      "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+      "titleZh": "Meta 的新 AI 代理是否因为可爱而更容易信任？",
+      "summary": "Muse 附带您设计的头像和钥匙圈小工具。很少有人会交出他们的密码，但它在美国应用商店中名列前茅。继续阅读 UX Collectiv……",
+      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-10-05T22:00:31.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "https://cdn-images-1.medium.com/max/852/1*784GNB8X9O9PcH2kPQC5wg.png",
       "author": ""
+    },
+    {
+      "id": "32b6bdd2607c85bf",
+      "title": "AI skill atrophy: Are we forgetting how to think?",
+      "titleZh": "人工智能技能萎缩：我们是否忘记了如何思考？",
+      "summary": "将我们的思想外包给人工智能的隐性成本。继续阅读 UX Collective »",
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-10-05T22:00:12.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "https://cdn-images-1.medium.com/max/1536/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+      "author": ""
+    },
+    {
+      "id": "52952ad6471b56aa",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "titleZh": "ChatGPT 正在将真实漫画家的签名添加到虚假的《纽约客》漫画中",
+      "summary": "Hacker News 热帖，当前积分 268，评论 148。",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-05T22:46:45.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "9eef8e097c082cd8",
+      "title": "HyperFrames Studio (Desktop)",
+      "titleZh": "HyperFrames Studio （桌面）",
+      "summary": "首款为代理构建的视频编辑器",
+      "url": "https://www.producthunt.com/products/heygen",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-05T06:03:02.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 80,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Rajiv Ayyangar"
+    },
+    {
+      "id": "b36d6129752f0112",
+      "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+      "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
+      "url": "https://sspai.com/post/114536",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-05T02:59:24.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 78,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "谷雨G2rain"
+    },
+    {
+      "id": "ca6699fc7c4d121b",
+      "title": "Spira Maxima",
+      "titleZh": "Spira Maxima",
+      "summary": "将脚本转化为病毒式社交媒体视频的视频模型",
+      "url": "https://www.producthunt.com/products/spira-ai",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-05T01:32:19.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 74,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Justin Jincaid"
+    },
     {
       "id": "aab7c123a102fdbe",
       "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
@@ -184,29 +238,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 86,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "waychane"
     },
     {
-      "id": "af2d767117e0f6ce",
-      "title": "Capybara Court",
-      "titleZh": "Capybara Court",
-      "summary": "小纠纷，由水豚法官轻轻解决",
-      "url": "https://www.producthunt.com/products/capybara-court",
+      "id": "58a05151a16aadf6",
+      "title": "Reactive Resume v6",
+      "titleZh": "Reactive Resume v6",
+      "summary": "一个免费的开源简历生成器",
+      "url": "https://www.producthunt.com/products/reactive-resume",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-03T19:47:47.000Z",
+      "publishedAt": "2026-10-04T00:44:32.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 64,
+      "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "Jungsik Byun"
+      "author": "Amruth Pillai"
     },
     {
       "id": "025541e18122a6e9",
@@ -225,62 +279,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "KingTsui"
-    },
-    {
-      "id": "16aff5ff6c34f075",
-      "title": "Pass Designer",
-      "titleZh": "通行证设计师",
-      "summary": "设计 Apple Wallet 通行证，查看真实卡片",
-      "url": "https://www.producthunt.com/products/apple",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-03T04:13:21.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Zac Zuo"
-    },
-    {
-      "id": "b242ed1be13e738f",
-      "title": "TinyFolder",
-      "titleZh": "TinyFolder",
-      "summary": "专为您的 Mac Dock 设计的应用文件夹",
-      "url": "https://www.producthunt.com/products/tinyfolder",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-02T21:27:59.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 55,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Sergey Filkov"
-    },
-    {
-      "id": "5aa5d120d9e5f3a8",
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "summary": "📅本周新预告《泥面人》终极预告 9月24日，DC 新片《泥面人》发布了终极预告，将于 10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ... 查看全文",
-      "url": "https://sspai.com/post/115211",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-02T09:30:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -414,6 +412,44 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "399903aa7230416d",
+          "title": "Our approach to EU text provenance rules",
+          "titleZh": "我们对欧盟文本来源规则的方法",
+          "summary": "OpenAI 如何根据欧盟规则处理文本水印。了解水印的应用范围、检测工作原理以及访问权限从研究人员开始的原因。",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-05T15:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "cbbe3b195490c6f4",
+          "title": "Building advertising for the way people use AI",
+          "titleZh": "为人们使用人工智能的方式构建广告",
+          "summary": "OpenAI 在 ChatGPT 中引入了一种新的视觉广告格式，并扩展了衡量工具、归因合作伙伴关系和广告客户的品牌适用性。",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-05T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 100,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "53f069eedb8f9c6a",
           "title": "The Agent Said It Was Done. The Database Disagreed.",
           "titleZh": "经纪人说已经完成了。数据库不同意。",
@@ -427,7 +463,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 73,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -488,44 +524,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "269ffd333bf202fc",
-          "title": "Chatham scales its capital markets expertise with OpenAI",
-          "titleZh": "Chatham 通过 OpenAI 扩展其资本市场专业知识",
-          "summary": "Chatham Financial 使用 Codex 和 GPT-5.6 来构建技术和重新设计工作流程，将交易验证从 30分钟缩短到 4分钟以下。",
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "ee549801a16e209e",
-          "title": "The eternal complement",
-          "titleZh": "永恒的补充",
-          "summary": "高级人工智能对于突破性创意背后的日常工作可能最为重要。探索为什么执行可以塑造下一个经济和进步的步伐。",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-01T17:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -535,116 +533,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "85a29be07e25b524",
-          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-          "titleZh": "由于人工智能提交量“大幅增加”，谷歌冻结了其开源漏洞奖励计划",
-          "summary": "AI SLOP 似乎是压倒性的漏洞赏金计划。",
-          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "id": "12389ef225d4e063",
+          "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+          "titleZh": "Lucid Motors 的电动汽车产量降至近 2年来的最低水平",
+          "summary": "经过多年努力寻找大众市场对其电动汽车的需求后，该公司故意限制生产。",
+          "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-04T20:31:07.000Z",
+          "publishedAt": "2026-10-05T21:54:01.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 95,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "41f3337234661b2a",
-          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-          "titleZh": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？",
-          "summary": "关于 Equity，我们讨论了特朗普政府重塑 AI 品牌的尝试。",
-          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "id": "76a98821f6a91dcc",
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "titleZh": "OpenAI 将开始在欧盟为 ChatGPT 的文本添加水印",
+          "summary": "OpenAI 将在欧盟对 ChatGPT 和 Codex 文本进行水印，以符合《人工智能法》。它说，编辑会使隐形标记更难被检测到。",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-04T20:08:34.000Z",
+          "publishedAt": "2026-10-05T20:36:48.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 95,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e6a058786e03122d",
-          "title": "TechCrunch Mobility: Reining in robotaxis",
-          "titleZh": "TechCrunch Mobility：控制机器人出租车",
-          "summary": "欢迎回到 TechCrunch Mobility，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
-          "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+          "id": "96cd78a7d7f13f2d",
+          "title": "Etched fields funding offers at $40B+ valuation, sources say",
+          "titleZh": "消息人士称，蚀刻领域的资金报价为 $400 亿+估值",
+          "summary": "消息人士告诉 T……，在最后一次大幅加薪后的几个月，这家人工智能芯片初创公司已经获得了两倍或更高当前价值的投资报价。",
+          "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-04T16:05:00.000Z",
+          "publishedAt": "2026-10-05T20:24:09.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 91,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "abd212273053681b",
-          "title": "Trump unveils his new Super Intelligence Force",
-          "titleZh": "特朗普推出他的新超级情报部队",
-          "summary": "这个新的工作组是特朗普对人工智能安全辩论的最新回应。",
-          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "id": "2b54afe35cbf79f4",
+          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+          "titleZh": "Reflection 推出开放式权重 AI 模型 Beam，以更低的计算成本与中国机型相媲美",
+          "summary": "Reflection 将 Beam 和未来模型瞄准企业和主权国家。推销的目的是建立“人工智能工厂”，这种产品可以让机构建立……",
+          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-04T15:15:10.000Z",
+          "publishedAt": "2026-10-05T19:33:53.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 88,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "295dc99a059ea91e",
-          "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-          "titleZh": "OpenAI 的 ChatGPT 负责人：我们再次进入人工智能的新时代| Tibo Sottiaux",
-          "summary": "立即收听（37分钟） | Tibo Sottiaux，了解为什么 Dots 是 OpenAI 最大的赌注，为什么代理商将主导互联网流量，以及哪些构建商仍然出错",
-          "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+          "id": "577acb4910539f3d",
+          "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+          "titleZh": "在工厂与 Khosla 公开争吵之后，Menlo 自豪地投资",
+          "summary": "在维诺德·科斯拉（Vinod Khosla）称工厂也是一个苦苦挣扎的人之后的几天，门洛（Menlo）出现了一张支票和一篇发光的博客文章",
+          "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-05T19:38:07.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "7c2b42e38608f4f3",
+          "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+          "titleZh": "🎙️ How I AI：8 个真正的 JEV 用例+ OpenAI 如何使用 ChatGPT 网站（在 DevDay 现场直播！) + Claire 的开发日回顾",
+          "summary": "您的每周收听《How I AI》，这是 Lenny 播客网络的一部分",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-10-04T12:32:47.000Z",
+          "publishedAt": "2026-10-05T15:03:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 86,
+          "score": 87,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/217274136/c23e92a6cc478dbff494fdb2430bfdd5.mp3",
-          "author": ""
-        },
-        {
-          "id": "0b70cba90a26c7ef",
-          "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-          "titleZh": "联邦法官称 Flock 为“不分青红皂白的大规模监控”",
-          "summary": "一名联邦法官裁定，治安官的副手在没有逮捕令的情况下使用 Flock 搜索她的车牌时侵犯了女性的第四修正案权利。",
-          "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-03T19:33:15.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "",
+          "cover": "https://substack-post-media.s3.amazonaws.com/public/images/c5cdfeff-de11-47d2-b9eb-9686c14dff8d_1456x1048.png",
           "author": ""
         }
       ]
@@ -654,6 +652,82 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "4f80af42981b5211",
+          "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+          "titleZh": "Meta 的新 AI 代理是否因为可爱而更容易信任？",
+          "summary": "Muse 附带您设计的头像和钥匙圈小工具。很少有人会交出他们的密码，但它在美国应用商店中名列前茅。继续阅读 UX Collectiv……",
+          "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-05T22:00:31.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/852/1*784GNB8X9O9PcH2kPQC5wg.png",
+          "author": ""
+        },
+        {
+          "id": "32b6bdd2607c85bf",
+          "title": "AI skill atrophy: Are we forgetting how to think?",
+          "titleZh": "人工智能技能萎缩：我们是否忘记了如何思考？",
+          "summary": "将我们的思想外包给人工智能的隐性成本。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-05T22:00:12.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1536/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+          "author": ""
+        },
+        {
+          "id": "83bfc52a9e24737d",
+          "title": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building",
+          "titleZh": "品味悖论：为什么每个人都说重要的技能是我们停止建立的技能",
+          "summary": "",
+          "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-05T21:59:40.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "2664aff3c4b1981b",
+          "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
+          "titleZh": "以自画像的形式提示，让您的设计脱颖而出，战略设计师",
+          "summary": "",
+          "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-05T11:01:01.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "22d7a0e1005131bf",
           "title": "The building was there first",
@@ -668,7 +742,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 98,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2500/1*D81JpDsqoeWmW9smhqc5Qw.jpeg",
           "author": ""
@@ -691,82 +765,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "c3a2d125f1dfc2d8",
-          "title": "In/tension modeling: what gives us the right?",
-          "titleZh": "在/张力建模：是什么赋予了我们权利？",
-          "summary": "",
-          "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-02T11:09:56.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "beabfbd364642042",
-          "title": "Design’s consensus was AI’s first casualty",
-          "titleZh": "设计的共识是人工智能的第一个牺牲品",
-          "summary": "关于人工智能的同样证据被解读为两种相反的方式，让设计师在没有明确共识的情况下进行选择。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-01T22:51:02.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 61,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2500/1*k4Gl0Tb1QEUT4UCinL8mng.jpeg",
-          "author": ""
-        },
-        {
-          "id": "4f6ed337feb6e5d8",
-          "title": "AI beyond average: from chatting to collaborating",
-          "titleZh": "AI 超越平均水平：从聊天到协作",
-          "summary": "背景、技能和反馈如何将同一个模型转化为不同类型的协作者继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-01T22:49:51.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 60,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/1456/0*QUMNBmWOyUMJce0y.png",
-          "author": ""
-        },
-        {
-          "id": "c313e3b91cdc780d",
-          "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
-          "titleZh": "别再把人工智能速度慢归咎于模型。使用 Doherty 阈值作为指南。",
-          "summary": "",
-          "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-01T22:52:26.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -776,50 +774,31 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "1d7f31a207e42625",
-          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-          "titleZh": "无能为力的 F1 车手对巴林 F1 软件故障感到沮丧",
-          "summary": "Hacker News 热帖，当前积分 22，评论 3。",
-          "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-05T01:54:08.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 113,
-          "sourceType": "api"
-        },
-        {
-          "id": "bc00ad3e91252308",
-          "title": "wreq- Python ：重写协程桥接后的性能提升",
-          "summary": "国庆闲来无事，跑了一下 wreq-python 和其他 Python HTTP 客户端的 HTTPS 性能基准，发现自己的结果不太理想，于是顺着火焰图查了一下瓶颈。项目地址：https://github.com/0x676e67/wreq-python 之前通过 PyO3 和 pyo3-async-runtimes 做异步桥接，…",
-          "url": "https://www.v2ex.com/t/1246447#reply0",
+          "id": "77cd2c626691a59b",
+          "title": "DeepSeek V4.1 Flash 还有 Qwen3.8 Flash 总是不好好整理文件，是 Harness 的问题吗？",
+          "summary": "最近有些简单的任务分配给了 DeepSeek V4 Flash 还有 Qwen3.8 Flash, 前者用的是 DSH 后者是在 Codex 本地模式，发现有个共通的毛病就是在不特殊交代的情况下，它们总是会把一些脚本还有调研记录等中间产物直接放到项目的根目录，导致几轮过后一打开项目文件夹根目录下一堆乱七八糟的文件，看着就烦 使用 C…",
+          "url": "https://www.v2ex.com/t/1246591#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-05T00:34:58.000Z",
+          "publishedAt": "2026-10-06T02:02:00.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 113,
+          "score": 115,
           "sourceType": "rss",
-          "cover": "https://i.imgur.com/tUZabs7.png",
-          "author": "6778471"
+          "cover": "",
+          "author": "baicai321"
         },
         {
-          "id": "ffdb24bf74c26c65",
-          "title": "ai 时代怎么感觉招 js/ts 全栈还是那么少？",
-          "summary": "现在网上各种 ts ai 全干，之前感觉 ai 时代 很多新公司 新业务搞全栈不应该首选 ts 了，昨晚看本地二线城市招聘信息 全是各种 java 全栈，php，python 全栈都比 ts 多，烦了几个一线城市，感觉好像也这样，但是从网上一看 全是 ts 全栈，是受外网影响吗，国外好像是 ts 全栈比较流行吧？",
-          "url": "https://www.v2ex.com/t/1246444#reply7",
+          "id": "1ff90687f6af1011",
+          "title": "codex 的电脑控制用的是什么技术？",
+          "summary": "在 macos 右上角菜单栏有个电脑的图标，图标右下角有个小人头像。在被控制的 app 左上角也有显示这个图标；可以在后台操作这个 app，不阻塞用户使用电脑。",
+          "url": "https://www.v2ex.com/t/1246590#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-05T00:17:16.000Z",
+          "publishedAt": "2026-10-06T02:01:46.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -828,35 +807,35 @@
           "score": 112,
           "sourceType": "rss",
           "cover": "",
-          "author": "guin"
+          "author": "jiuzhougege"
         },
         {
-          "id": "472fc86688cced86",
-          "title": "Tibo：在接下来的 28 天里，我们每天要么推出一项明显的改进，要么进行一次全面重置",
-          "summary": "在接下来的 28天里，我们要么每天运送一件明显改进且与大多数法典/工作用户相关的东西，要么运送一件完全重置的东西。让改良者……",
-          "url": "https://www.v2ex.com/t/1246442#reply3",
+          "id": "f79756402a03ca77",
+          "title": "个人使用 Claude 防止封号的经验分享",
+          "summary": "我是之前 IP 在 US 和 JP 乱窜，开了几个月的 Claude，被封号了。现在改成一下的配置，目前稳定使用了 3 个月 梯子是自建的 aws lightsail 东京，5 刀每月，一个 t 的流量，协议是 vless 加上 reality，原理是伪装成大站的 https 服务器，IP 被封几率小 联通宽带，翻墙稳定 所有…",
+          "url": "https://www.v2ex.com/t/1246574#reply12",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-04T23:09:52.000Z",
+          "publishedAt": "2026-10-06T00:42:00.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 111,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "testsb"
+          "author": "loveleyla2013"
         },
         {
-          "id": "3e387055541c8750",
-          "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-          "titleZh": "使用 SSH 和 Nginx 的自托管 HTTP 隧道",
-          "summary": "Hacker News 热帖，当前积分 69，评论 19。",
-          "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+          "id": "3511d812b9ef3370",
+          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "titleZh": "在为期两年的学校实验中与 Khanmigo 一起辅导人工智能",
+          "summary": "Hacker News 热帖，当前积分 30，评论 22。",
+          "url": "https://edworkingpapers.com/ai26-1551",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-04T22:25:10.000Z",
+          "publishedAt": "2026-10-06T00:00:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -864,18 +843,36 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 107,
+          "score": 110,
           "sourceType": "api"
         },
         {
-          "id": "9b003d6024619f6a",
-          "title": "In the wake of closure, a digital archive of animated materials appears online",
-          "titleZh": "关闭后，网上出现了动画材料的数字档案",
-          "summary": "Hacker News 热帖，当前积分 35，评论 3。",
-          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+          "id": "155ee1ec28dd6d53",
+          "title": "codex 现在这消耗也太快了吧",
+          "summary": "5x，基本一次对话就消耗 20 ％周额度，也就改了几百行代码而已；当然我开的是 6 astra ultra",
+          "url": "https://www.v2ex.com/t/1246573#reply7",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-06T00:35:02.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "jiuzhougege"
+        },
+        {
+          "id": "52952ad6471b56aa",
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "titleZh": "ChatGPT 正在将真实漫画家的签名添加到虚假的《纽约客》漫画中",
+          "summary": "Hacker News 热帖，当前积分 268，评论 148。",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-04T21:01:28.000Z",
+          "publishedAt": "2026-10-05T22:46:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -883,7 +880,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 105,
+          "score": 108,
           "sourceType": "api"
         }
       ]
@@ -938,6 +935,10 @@
       "count": 6
     },
     {
+      "tag": "模型产品",
+      "count": 6
+    },
+    {
       "tag": "效率",
       "count": 6
     },
@@ -946,19 +947,15 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
-      "count": 6
-    },
-    {
       "tag": "科技公司",
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "开发平台",
+      "tag": "新产品",
       "count": 5
     },
     {
