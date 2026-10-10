@@ -1,175 +1,226 @@
 {
-  "generatedAt": "2026-10-09T02:23:09.083Z",
+  "generatedAt": "2026-10-10T02:21:03.020Z",
   "headline": {
-    "id": "8e2b580615e91256",
-    "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-    "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型 查看全文",
-    "url": "https://sspai.com/post/115532",
-    "source": "少数派",
-    "sourceUrl": "https://sspai.com/",
-    "publishedAt": "2026-10-09T00:51:10.000Z",
-    "category": "tools",
+    "id": "7ffc79fbe2a649d7",
+    "title": "claude 使用新方法",
+    "summary": "在 grok bot 的云电脑里安装 tailscale，orca,claude。全程只和 grok bot 对话，让 grok bot 去用英文指挥 claude 干活。grok bot 连接谷歌或者微软云盘。文件交接放在这。暂时没被 a/封",
+    "url": "https://www.v2ex.com/t/1247516#reply5",
+    "source": "V2EX 技术",
+    "sourceUrl": "https://www.v2ex.com/?tab=tech",
+    "publishedAt": "2026-10-10T01:38:17.000Z",
+    "category": "industry",
     "tags": [
-      "工具/网站",
-      "效率"
+      "行业热点",
+      "开发者社区"
     ],
     "score": 113,
     "sourceType": "rss",
     "cover": "",
-    "author": "少数派编辑部"
+    "author": "syyyyy"
   },
   "latest": [
     {
-      "id": "8e2b580615e91256",
-      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-      "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型 查看全文",
-      "url": "https://sspai.com/post/115532",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-09T00:51:10.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "d6f9ab0542e87a38",
-      "title": "Claude 封号和 IP，支付没啥关系，一个小模型基于内容抽检做判断足够了",
-      "summary": "封了 4 个 MAX 账号，换了 ip，换了支付方式，全程代理，只登录一台电脑，只用 claude code。啥用没有 为啥封号是玄学，每个人的对话内容都不一样，自然玄学。",
-      "url": "https://www.v2ex.com/t/1247238#reply11",
+      "id": "7ffc79fbe2a649d7",
+      "title": "claude 使用新方法",
+      "summary": "在 grok bot 的云电脑里安装 tailscale，orca,claude。全程只和 grok bot 对话，让 grok bot 去用英文指挥 claude 干活。grok bot 连接谷歌或者微软云盘。文件交接放在这。暂时没被 a/封",
+      "url": "https://www.v2ex.com/t/1247516#reply5",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-09T01:06:55.000Z",
+      "publishedAt": "2026-10-10T01:38:17.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "syyyyy"
+    },
+    {
+      "id": "3cb9152e5cb2c271",
+      "title": "IP 被 v 站封了一个，请教下这块机制",
+      "summary": "事情经过：昨天我发帖的时候，弹窗提醒一大段文字，没有细看，大概意思就是说被标记了。后面 IP 就被封了，访问网站报错 403。请教下 v 站是有关键词之类的机制吗，帖子不能放 telegram 链接吗，IP 还能解封吗，是永久封禁吗，求大佬解答下！",
+      "url": "https://www.v2ex.com/t/1247520#reply5",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-10T01:41:15.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "trumpmaga"
+    },
+    {
+      "id": "689f28fa6fc518e9",
+      "title": "有没有好用的 HK 主机推荐",
+      "summary": "有没有好用的 hongkong 主机可以推荐，现在用的 banwagon，速率还可以，但是 netflix 视频平台太卡了",
+      "url": "https://www.v2ex.com/t/1247536#reply2",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-10T02:09:12.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "FF0EAA1C"
+    },
+    {
+      "id": "ecd1ec9767890527",
+      "title": "Deno 宣布停止长期开发独立运行时",
+      "summary": "Deno 创始人 Ryan Dahl 正式宣布：整个 Deno 团队将加入 Cloudflare，并逐步停止 Deno 独立运行时的开发。https://deno.com/blog/cloudflare 让 ai 看了下，deno 之后就交给社区维护了。对于这么复杂的项目来说，感觉不是好消息",
+      "url": "https://www.v2ex.com/t/1247507#reply11",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-10T01:06:09.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "EscYezi"
+    },
+    {
+      "id": "5394af3b60548d5d",
+      "title": "五年后，还有多少程序员能靠写代码活着？",
+      "summary": "AI 进化得越快，程序员的角色就被削得越薄。说到底，算盘高手终究输给了按计算器的小学生——不是输在技术，是输在时代换了赛道。程序员这个岗位还能撑几年？有没有大佬已经悄悄铺好后路，像炒股一样，嗅到风向不对就提前离场了？",
+      "url": "https://www.v2ex.com/t/1247509#reply20",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-10T01:19:29.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "diandian666"
+    },
+    {
+      "id": "77b4b53fc7c094c9",
+      "title": "REA Reverse – Engineer Anything",
+      "titleZh": "REA 逆向–工程师任何事情",
+      "summary": "Hacker News 热帖，当前积分 88，评论 15。",
+      "url": "https://rea.tools/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-10T00:37:07.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
       "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "bc0d18c90d7af90b",
+      "title": "超过 500 行的代码改动， codex 根本无法独立完成。astra 也不行",
+      "summary": "自回归模型不回归 怪不得 OpenAI 要推迟上市",
+      "url": "https://www.v2ex.com/t/1247511#reply28",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-10T01:26:21.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 109,
       "sourceType": "rss",
       "cover": "",
       "author": "penzi"
     },
     {
-      "id": "93c19259c1171742",
-      "title": "codex 更新之后，不能只管看到当前项目 git 分支信息了咋办。。。",
-      "summary": "",
-      "url": "https://www.v2ex.com/t/1247243#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-09T01:18:37.000Z",
+      "id": "1ab0ab331348792e",
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "titleZh": "23 个核心开源项目中有 11 个在 1 或 2人上运行",
+      "summary": "Hacker News 热帖，当前积分 57，评论 21。",
+      "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-09T23:56:55.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发者社区"
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "v219861d"
-    },
-    {
-      "id": "6817a71c13b7e10e",
-      "title": "Tesler’s Law: complexity moved to a different part of the journey",
-      "titleZh": "特斯勒定律：复杂性转移到旅程的不同部分",
-      "summary": "",
-      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-10-08T23:17:58.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "118a9fdff4dcb3f5",
-      "title": "Are synthetic users (really) the future of UX research?",
-      "titleZh": "合成用户（真的）是用户体验研究的未来吗？",
-      "summary": "",
-      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-10-08T23:16:42.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "6f9f53426381f067",
-      "title": "Synthetic users are making me rethink “imperfect research”",
-      "titleZh": "合成用户让我重新思考“不完美的研究”",
-      "summary": "",
-      "url": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-10-08T23:16:30.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "aefe950964845499",
-      "title": "AI-generated UI is fast design, not UX",
-      "titleZh": "AI 生成的 UI 是快速设计，而不是用户体验",
-      "summary": "",
-      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-10-08T23:16:10.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "08cb6641dbbb509e",
-      "title": "What the AI era owes you",
-      "titleZh": "人工智能时代欠你什么",
-      "summary": "",
-      "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-10-08T23:15:43.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 110,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "0ea12ce48c54ef97",
+      "title": "本周看什么 | 最近值得一看的 11 部作品",
+      "summary": "📅本周新预告《寒夜怪谈》新预告 10月1日，电影《寒夜怪谈》发布了新预告，将于 11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ... 查看全文",
+      "url": "https://sspai.com/post/115566",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-09T10:04:09.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 92,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "5eca4eb5a8c25200",
+      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+      "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。查看全文",
+      "url": "https://sspai.com/post/115456",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-09T06:43:28.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 83,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Microhoo"
+    },
+    {
+      "id": "3dcca6aa1797d3cc",
+      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/114869",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-09T02:08:37.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 79,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "JJYing"
+    },
     {
       "id": "8e2b580615e91256",
       "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
@@ -183,101 +234,48 @@
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "f305b469cd6fbd02",
-      "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/115282",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-08T09:28:11.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 91,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "lavande"
-    },
-    {
-      "id": "70b1c801f4e8e8c7",
-      "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
-      "summary": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把 Mole 从开源 CLI 做到 Mac 付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ... 查看全文",
-      "url": "https://sspai.com/post/113843",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-08T08:10:51.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 88,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Tw93"
-    },
-    {
-      "id": "06912b313cfbceb7",
-      "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
-      "summary": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。查看全文",
-      "url": "https://sspai.com/post/115209",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-08T06:42:14.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 84,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "鸿苓"
-    },
-    {
-      "id": "b4df410d7dc6f738",
-      "title": "ClawCall",
-      "titleZh": "ClawCall",
-      "summary": "您的人工智能代理的电话可拨号、保持和报告",
-      "url": "https://www.producthunt.com/products/clawcall",
+      "id": "2a9b4e6d47c1f3da",
+      "title": "Amazon Alexa Tablets",
+      "titleZh": "亚马逊 Alexa 平板电脑",
+      "summary": "完整的 Google Play、Alexa +和 Kindle 阅读模式",
+      "url": "https://www.producthunt.com/products/amazon-alexa-tablets",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-08T05:27:12.000Z",
+      "publishedAt": "2026-10-08T15:51:14.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 79,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
-      "author": "Panshul Jindal"
+      "author": "Zac Zuo"
     },
     {
-      "id": "ee5405a1560a1a56",
-      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
-      "summary": "10月8日，Apple 发布《中国 AppStore 生态系统——2025年开发者与用户价值研究》。这份由 Apple 提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家 MarkusvonWa ... 查看全文",
-      "url": "https://sspai.com/post/115462",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-08T01:47:59.000Z",
+      "id": "595a3a85848628f0",
+      "title": "Gemini Agent for Google Cloud",
+      "titleZh": "适用于 Google Cloud 的 Gemini 代理",
+      "summary": "在 Gemini 和 Claude 上运行的工作代理",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-08T12:31:02.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 78,
+      "score": 55,
       "sourceType": "rss",
       "cover": "",
-      "author": "waychane"
+      "author": "Kate Ramakaieva"
     }
   ],
   "sections": [
@@ -299,7 +297,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 105,
+          "score": 67,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026100816.webp",
           "author": "阮一峰"
@@ -318,7 +316,7 @@
             "CSS",
             "画中画"
           ],
-          "score": 96,
+          "score": 63,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202610/2026-10-8_183336.webp",
           "author": ""
@@ -408,6 +406,63 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "fc2ebb465a62d215",
+          "title": "Impactful scheduling for GPU clusters",
+          "titleZh": "对 GPU 集群进行有影响的调度",
+          "summary": "",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-10-09T15:20:29.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "de373bb41197dd8f",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "titleZh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短 96%",
+          "summary": "了解 Sophos 如何利用 OpenAI 的 Daybreak 将网络威胁调查时间缩短 96%，并自动化 52%的 MDR 案例，同时保持人为监督。",
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-09T07:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "0402f96935bd0f05",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "titleZh": "Asana 使用 GPT-6.1 Sol 将浏览器测试中的模型成本降低了 76 倍",
+          "summary": "Asana 在 Codex 中使用 GPT-6 Astra，使其浏览器代理的测试成本降低了 76 倍，测试速度提高了 5 倍，从而为客户提供更强大的模型。",
+          "url": "https://openai.com/index/asana-browser-agent",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-09T07:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "32e439b326fb97d4",
           "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "titleZh": "Oracle 如何通过 ChatGPT 和 Codex 将工作日变为几分钟",
@@ -421,7 +476,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 109,
+          "score": 71,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -440,7 +495,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 104,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -459,64 +514,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "8737323c51037d4b",
-          "title": "Disrupting AI-enabled “false front” operations",
-          "titleZh": "颠覆人工智能的“虚假前沿”运营",
-          "summary": "OpenAI 破坏了两项支持人工智能的影响力行动，这两项行动利用虚假新闻记者和智囊团传播地缘政治信息。",
-          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-08T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 84,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a7272e6f9bfc676b",
-          "title": "The model that didn't exist, so you made it yourself",
-          "titleZh": "不存在的模型，所以你自己做的",
-          "summary": "",
-          "url": "https://huggingface.co/blog/building-with-ml-intern",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-10-08T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 75,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "45e04defb55123ab",
-          "title": "Multimodal open d1 decision models for the edge",
-          "titleZh": "边缘的多模态开放式 d1 决策模型",
-          "summary": "",
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-10-07T16:54:33.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 63,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -529,71 +527,71 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "4150cb0ac0420cc1",
-          "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-          "titleZh": "特朗普总统向科技巨头捐赠者颁发国家最高科学奖",
-          "summary": "获奖者共同向与特朗普及其政府有关的努力捐赠了近 60 $。",
-          "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+          "id": "35d76d7c3c2d7600",
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "titleZh": "Anthropic 无法可靠地控制其 AI 代理。相反，它正在从实时互联网中切断其内部淘汰",
+          "summary": "Anthropic 表示，在另行通知之前，它“关闭了所有内部评估的实时互联网接入”。",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-08T22:33:59.000Z",
+          "publishedAt": "2026-10-10T00:18:32.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 100,
+          "score": 103,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "d5992a7c134e1373",
-          "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-          "titleZh": "假装你坐在伊丽莎白·福尔摩斯（Elizabeth Holmes）的办公桌前，在这个奇怪的详细网站上",
-          "summary": "Extend 工程师 Bo Lau 使用来自美国诉伊丽莎白·霍姆斯案审判的一千多封电子邮件、幻灯片、文本和文件，创建了一个模拟...",
-          "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+          "id": "25125766d44e5760",
+          "title": "Long live the mechanical keyboard",
+          "titleZh": "机械键盘万岁",
+          "summary": "2017年，Keychron 在 Kickstarter 上推出后，声名鹊起。今天，它提供了有价值的 K2 型号以及各种其他版本，包括...",
+          "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-08T21:00:00.000Z",
+          "publishedAt": "2026-10-09T22:08:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 100,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "21648da4ca1f0469",
-          "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-          "titleZh": "被解雇的 OpenAI 安全研究人员对不当行为索赔提出异议，警告其产生寒蝉效应",
-          "summary": "三名被解雇的 OpenAI 安全研究人员对有关不当处理敏感信息的指控提出异议，并在一封公开信中警告说，他们的解雇正在制造令人不寒而栗的...",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "id": "1054b4a208cfbfac",
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "titleZh": "非文本人工智能模型制造商 Jev 在发布几周后价值 75亿美元",
+          "summary": "用户和大公司对 JEV 如此兴奋的原因是 TypeSafe 声称它的工作速度比 LLM 快得多，使用的代币也少得多。",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-08T20:04:26.000Z",
+          "publishedAt": "2026-10-09T21:41:29.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e7703b89519693a3",
-          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-          "titleZh": "Ben Affleck 是个人工智能书呆子，互联网给人留下了深刻的印象",
-          "summary": "本·阿弗莱克（Ben Affleck）因其对人工智能的深入了解而广为人知，从神经网络和变压器到开放式权重。这位演员把他的人工智能电影创业公司卖给了 Netfli……",
-          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+          "id": "af39f23589dafd65",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "titleZh": "Anthropic AI 模型向费城警方发送了虚假的凶杀案提示",
+          "summary": "Anthropic 直到其 AI 提交虚假提示两个多月后才发现这种行为。",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-08T18:20:32.000Z",
+          "publishedAt": "2026-10-09T19:36:56.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -605,20 +603,20 @@
           "author": ""
         },
         {
-          "id": "3cee4fbee19653ab",
-          "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-          "titleZh": "观看 Netflix 关于 FTX 丑闻的节目“利他主义者”的预告片",
-          "summary": "一个虚构的 Sam Bankman-Fried 将于 11月19日出现在你的电视屏幕上。",
-          "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+          "id": "a5d4aec06ebe2938",
+          "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+          "titleZh": "电池现在比许多数据中心使用的天然气涡轮机便宜",
+          "summary": "随着数据中心热潮推高价格，电池现在比天然气涡轮机便宜。",
+          "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-08T18:30:00.000Z",
+          "publishedAt": "2026-10-09T18:57:58.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 94,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -649,6 +647,25 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
+          "id": "17076c3349af85ce",
+          "title": "Designing for an idea before it exists",
+          "titleZh": "在创意存在之前为其进行设计",
+          "summary": "在空座位、隐喻和不太合适的有用部分上继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-09T20:32:02.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 107,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2596/1*Eh2lcjsP8dAxfwd3RZTOUw.png",
+          "author": ""
+        },
+        {
           "id": "6817a71c13b7e10e",
           "title": "Tesler’s Law: complexity moved to a different part of the journey",
           "titleZh": "特斯勒定律：复杂性转移到旅程的不同部分",
@@ -662,7 +679,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -681,7 +698,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -700,7 +717,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -719,7 +736,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -738,26 +755,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 108,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "2e3e41b7ba2f585b",
-          "title": "AI: incidents by design",
-          "titleZh": "人工智能：设计的事件",
-          "summary": "",
-          "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-08T09:20:37.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 85,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -770,114 +768,112 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "d6f9ab0542e87a38",
-          "title": "Claude 封号和 IP，支付没啥关系，一个小模型基于内容抽检做判断足够了",
-          "summary": "封了 4 个 MAX 账号，换了 ip，换了支付方式，全程代理，只登录一台电脑，只用 claude code。啥用没有 为啥封号是玄学，每个人的对话内容都不一样，自然玄学。",
-          "url": "https://www.v2ex.com/t/1247238#reply11",
+          "id": "7ffc79fbe2a649d7",
+          "title": "claude 使用新方法",
+          "summary": "在 grok bot 的云电脑里安装 tailscale，orca,claude。全程只和 grok bot 对话，让 grok bot 去用英文指挥 claude 干活。grok bot 连接谷歌或者微软云盘。文件交接放在这。暂时没被 a/封",
+          "url": "https://www.v2ex.com/t/1247516#reply5",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-09T01:06:55.000Z",
+          "publishedAt": "2026-10-10T01:38:17.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "syyyyy"
+        },
+        {
+          "id": "3cb9152e5cb2c271",
+          "title": "IP 被 v 站封了一个，请教下这块机制",
+          "summary": "事情经过：昨天我发帖的时候，弹窗提醒一大段文字，没有细看，大概意思就是说被标记了。后面 IP 就被封了，访问网站报错 403。请教下 v 站是有关键词之类的机制吗，帖子不能放 telegram 链接吗，IP 还能解封吗，是永久封禁吗，求大佬解答下！",
+          "url": "https://www.v2ex.com/t/1247520#reply5",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-10T01:41:15.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "trumpmaga"
+        },
+        {
+          "id": "689f28fa6fc518e9",
+          "title": "有没有好用的 HK 主机推荐",
+          "summary": "有没有好用的 hongkong 主机可以推荐，现在用的 banwagon，速率还可以，但是 netflix 视频平台太卡了",
+          "url": "https://www.v2ex.com/t/1247536#reply2",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-10T02:09:12.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "FF0EAA1C"
+        },
+        {
+          "id": "ecd1ec9767890527",
+          "title": "Deno 宣布停止长期开发独立运行时",
+          "summary": "Deno 创始人 Ryan Dahl 正式宣布：整个 Deno 团队将加入 Cloudflare，并逐步停止 Deno 独立运行时的开发。https://deno.com/blog/cloudflare 让 ai 看了下，deno 之后就交给社区维护了。对于这么复杂的项目来说，感觉不是好消息",
+          "url": "https://www.v2ex.com/t/1247507#reply11",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-10T01:06:09.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "EscYezi"
+        },
+        {
+          "id": "5394af3b60548d5d",
+          "title": "五年后，还有多少程序员能靠写代码活着？",
+          "summary": "AI 进化得越快，程序员的角色就被削得越薄。说到底，算盘高手终究输给了按计算器的小学生——不是输在技术，是输在时代换了赛道。程序员这个岗位还能撑几年？有没有大佬已经悄悄铺好后路，像炒股一样，嗅到风向不对就提前离场了？",
+          "url": "https://www.v2ex.com/t/1247509#reply20",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-10T01:19:29.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "diandian666"
+        },
+        {
+          "id": "77b4b53fc7c094c9",
+          "title": "REA Reverse – Engineer Anything",
+          "titleZh": "REA 逆向–工程师任何事情",
+          "summary": "Hacker News 热帖，当前积分 88，评论 15。",
+          "url": "https://rea.tools/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-10T00:37:07.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
           ],
           "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "penzi"
-        },
-        {
-          "id": "93c19259c1171742",
-          "title": "codex 更新之后，不能只管看到当前项目 git 分支信息了咋办。。。",
-          "summary": "",
-          "url": "https://www.v2ex.com/t/1247243#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-09T01:18:37.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 108,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "v219861d"
-        },
-        {
-          "id": "985f5b8b44a09694",
-          "title": "AI-ready biological data: $1.8B global commitment",
-          "titleZh": "人工智能就绪生物数据：全球承诺 $18 亿",
-          "summary": "Hacker News 热帖，当前积分 76，评论 10。",
-          "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-08T20:46:25.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 105,
-          "sourceType": "api"
-        },
-        {
-          "id": "a76482423027d5d0",
-          "title": "为了用 claude， 在美国公司没下来之前， 我先用了国外的朋友家里主机",
-          "summary": "几个月前分别托管了 3 台电脑跑在国外朋友家里，现在终于派上用场了，今天先用了其中一台电脑配置了利用 rustdesk 远程登录，并使用朋友注册/注册 claude 账号，完美临时可以用了。半夜去越南的网络超快，和本地操作没区别，一直使用 windows/macos, 晚上转了操作下 debian 桌面，感觉切换成本很低。还有…",
-          "url": "https://www.v2ex.com/t/1247220#reply8",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-08T19:37:21.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 105,
-          "sourceType": "rss",
-          "cover": "https://i.v2ex.co/jI469ZBb.png",
-          "author": "wises"
-        },
-        {
-          "id": "02f74f75ea829472",
-          "title": "The value of not getting to the point (2015)",
-          "titleZh": "未触及要点的价值（2015年）",
-          "summary": "Hacker News 热帖，当前积分 127，评论 40。",
-          "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-08T19:04:56.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 102,
-          "sourceType": "api"
-        },
-        {
-          "id": "592040d5d9843ab0",
-          "title": "Theranos.world",
-          "titleZh": "Theranos.world",
-          "summary": "Hacker News 热帖，当前积分 296，评论 118。",
-          "url": "https://www.theranos.world/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-08T17:51:49.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 100,
           "sourceType": "api"
         }
       ]
@@ -889,7 +885,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 84,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -908,11 +904,11 @@
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 11
+      "tag": "产品/商业",
+      "count": 10
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
@@ -924,10 +920,6 @@
       "count": 8
     },
     {
-      "tag": "效率",
-      "count": 6
-    },
-    {
       "tag": "开发者社区",
       "count": 6
     },
@@ -936,11 +928,15 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "效率",
+      "count": 6
+    },
+    {
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -953,7 +949,7 @@
     },
     {
       "tag": "新产品",
-      "count": 5
+      "count": 4
     },
     {
       "tag": "技术周刊",
