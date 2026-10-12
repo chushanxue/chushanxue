@@ -1,32 +1,86 @@
 {
-  "generatedAt": "2026-10-11T02:22:38.694Z",
+  "generatedAt": "2026-10-12T02:29:23.423Z",
   "headline": {
-    "id": "b3b3d917fcff342c",
-    "title": "grokbot 有 bug 啊",
-    "summary": "GrokBot 的回复存在复制粘贴问题：中文回复：复制的文本在粘贴时变成乱码。英文回复：复制粘贴工作完全正常。这似乎是一个影响中文的字符编码问题 这里不能发视频，我把视频发在 x 上了：[grokbot 回复复制乱码问题]( https://x.com/liuxu_qingdao/status/210852738057081…",
-    "url": "https://www.v2ex.com/t/1247756#reply0",
+    "id": "17d48856b8ff357e",
+    "title": "「编程已死，编程万岁」： pstack 作者 poteto 写给正在哀悼写代码这件事的程序员",
+    "summary": "pstack 的作者 poteto （Lauren Tan） 9月25日在 X 上发了一篇短文《Coding is dead, long live Coding》，站里放了中文译文，版权归原作者，原文链接在下面。她也是自学编程，从高中开始写代码，爱的就是逐行琢磨怎么写得更优雅。但她觉得：- 亲手写代码这门手艺会消失…",
+    "url": "https://www.v2ex.com/t/1247995#reply0",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-10-10T23:57:14.000Z",
+    "publishedAt": "2026-10-12T02:26:47.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 112,
+    "score": 116,
     "sourceType": "rss",
     "cover": "",
     "author": "liuluxu1989"
   },
   "latest": [
     {
-      "id": "b3b3d917fcff342c",
-      "title": "grokbot 有 bug 啊",
-      "summary": "GrokBot 的回复存在复制粘贴问题：中文回复：复制的文本在粘贴时变成乱码。英文回复：复制粘贴工作完全正常。这似乎是一个影响中文的字符编码问题 这里不能发视频，我把视频发在 x 上了：[grokbot 回复复制乱码问题]( https://x.com/liuxu_qingdao/status/210852738057081…",
-      "url": "https://www.v2ex.com/t/1247756#reply0",
+      "id": "17d48856b8ff357e",
+      "title": "「编程已死，编程万岁」： pstack 作者 poteto 写给正在哀悼写代码这件事的程序员",
+      "summary": "pstack 的作者 poteto （Lauren Tan） 9月25日在 X 上发了一篇短文《Coding is dead, long live Coding》，站里放了中文译文，版权归原作者，原文链接在下面。她也是自学编程，从高中开始写代码，爱的就是逐行琢磨怎么写得更优雅。但她觉得：- 亲手写代码这门手艺会消失…",
+      "url": "https://www.v2ex.com/t/1247995#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-10T23:57:14.000Z",
+      "publishedAt": "2026-10-12T02:26:47.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 116,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "liuluxu1989"
+    },
+    {
+      "id": "286c30c7b5cc6d35",
+      "title": "被 Claude 钓鱼执法了，这套路我服",
+      "summary": "简单说一下前后过程：10日中午我发现 Claude 给我埋雷（生成的宣传图中包含 台 x 独 x 字样），然后我立即让 Claude 修改，移除政治敏感词，结果触发人工审核，次日凌晨被封号。详细的过程参见我的两篇公众号文章：https://mp.weixin.qq.com/s/0xka1XVVy-HGPVo50AVcZQ h…",
+      "url": "https://www.v2ex.com/t/1247985#reply9",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-12T02:05:39.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Lucups"
+    },
+    {
+      "id": "5b09a5023a1f45b0",
+      "title": "用 Codex 很不爽，我退订了，拜拜",
+      "summary": "月初一天蹬完一周的量，急得没办法准备去开通 200美元的订阅，结果苹果给我拦了，说是礼品卡有 3天待审时间。我谢谢你，帮我省了 200 刀。更谢谢你让我换了 Deepseek。Astra 现在给我的感觉就是弱智，几乎每一轮都有要返工的点，消耗还贼快，好不容易重置了，开多个任务，卡得要死，而且听说开多任务还会被标记降智？可能我…",
+      "url": "https://www.v2ex.com/t/1247987#reply6",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-12T02:09:18.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "lemolee"
+    },
+    {
+      "id": "ca8337240dbbd9fc",
+      "title": "困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？",
+      "summary": "我发现大模型后台 API KEY，复制策略分 2 种 1、可以明码查看复制的，比如：阶跃星辰 step 2、首次复制，以后就隐藏的，比如：ds 第 2 种所谓安全，实则脱裤子 XX",
+      "url": "https://www.v2ex.com/t/1247979#reply14",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-12T01:54:25.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -35,92 +89,53 @@
       "score": 112,
       "sourceType": "rss",
       "cover": "",
-      "author": "liuluxu1989"
+      "author": "yanerweb"
     },
     {
-      "id": "1d17a5603cfe0ff6",
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "titleZh": "WallHop – 12ft.io 不见了，所以我建立了一个替代品",
-      "summary": "Hacker News 热帖，当前积分 91，评论 50。",
-      "url": "https://wallhop.io/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-11T00:46:48.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "18399c4b7bcaf4c6",
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "titleZh": "生成式人工智能丑闻已经出现在尼康的一场比赛中",
-      "summary": "Hacker News 热帖，当前积分 21，评论 4。",
-      "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-11T00:47:37.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "c3d8d3a460971e77",
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "titleZh": "PSPi 6 – PSP 中的 Raspberry Pi",
-      "summary": "Hacker News 热帖，当前积分 13，评论 2。",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-11T00:45:49.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "f76355a86b8399be",
-      "title": "微软新开源 LiteBox library OS",
-      "summary": "https://github.com/microsoft/litebox 微软非要把 Windows 糊成 Linux？WSL 还没玩溜呢",
-      "url": "https://www.v2ex.com/t/1247760#reply2",
+      "id": "5015477f571ec164",
+      "title": "Claude 突然显示组织被封禁了，各位大佬该怎么办？",
+      "summary": "账号没封，可以正常登陆查看，但是聊天等各种功能不可用了，提示组织被封禁。向官方申诉无效。这是什么情况，第一次遇到，这个账号还能用吗？切换新组织会不会被钓鱼啊",
+      "url": "https://www.v2ex.com/t/1247968#reply7",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-11T01:05:24.000Z",
+      "publishedAt": "2026-10-12T01:38:45.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 110,
+      "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "cj323"
+      "author": "Taylor77"
     },
     {
-      "id": "dfc41a4e166a91c9",
-      "title": "Build your own decision model",
-      "titleZh": "构建您自己的决策模型",
-      "summary": "Hacker News 热帖，当前积分 122，评论 26。",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "id": "dbb20e7c00c71681",
+      "title": "我开源项目给用户免费用 GPT6 Luna，还是招来了一堆素质极差的人盗刷。",
+      "summary": "最近和一个中转站合作，每月提供一些额度，我本身 OpenAI 就给我免费使用，所以我这些额度就开放了 GPT6 Luna 给用户免费用。因为开源免费，所以也不会开发登录这种功能，所以提供模型的地址密钥在仓库里都可以看得到。结果就引来了存心不良的人来盗刷，我看了一下日志，几乎都是各种 AI 工具在调用，应该是某些用户看了源码之后刷了…",
+      "url": "https://www.v2ex.com/t/1247932#reply22",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-12T00:19:42.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "461229187"
+    },
+    {
+      "id": "06a0cdfe51285289",
+      "title": "HashiCorp archives the Boundary open source repo",
+      "titleZh": "HashiCorp 归档 Boundary 开源存储库",
+      "summary": "Hacker News 热帖，当前积分 42，评论 6。",
+      "url": "https://github.com/hashicorp/boundary",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-10T22:50:10.000Z",
+      "publishedAt": "2026-10-12T00:02:45.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -128,47 +143,66 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 110,
       "sourceType": "api"
     },
     {
-      "id": "efb750d3b4246731",
-      "title": "grok bot 说是接上 opus5.5, 30 刀够用吗？",
-      "summary": "vibe coding 用起来比 gpt 好用吗？要装技能吗？",
-      "url": "https://www.v2ex.com/t/1247754#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-10T23:26:33.000Z",
-      "category": "industry",
+      "id": "ea9ddcb230bb2d07",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "titleZh": "TechCrunch Disrupt 2026 创始人指南：您需要了解的一切",
+      "summary": "TechCrunch Disrupt 2026 围绕一个问题构建：如何在人工智能时代建立一家持久的公司？我们的节目和扬声器阵容反映了这一点。",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-10-12T00:59:01.000Z",
+      "category": "product",
       "tags": [
-        "行业热点",
-        "开发者社区"
+        "产品/商业",
+        "科技公司"
       ],
       "score": 106,
       "sourceType": "rss",
       "cover": "",
-      "author": "weiqi554177834"
-    },
-    {
-      "id": "55899e5715c848f9",
-      "title": "codex 下午 15:00~16:00 重置？",
-      "summary": "EOD = =一天结束？",
-      "url": "https://www.v2ex.com/t/1247751#reply9",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-10T22:38:54.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/Aq4xVN7.png",
-      "author": "jiuzhougege"
+      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "bc12a53e386e2427",
+      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+      "summary": "工信部等就进一步加强汽车产品创新设计管理征求意见 三季度全球 PC 出货量骤降 法国判决 Cloudflare 无须通过 DNS 屏蔽盗版 Anthropic 宣布切断内部评估环境的互联网访问权限 AI 助力老游戏移植到浏览器 3C 证书大面积暂停，电动自行车销售接近停滞 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/115845",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-11T22:34:54.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "015923d007e41d05",
+      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+      "summary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ... 查看全文",
+      "url": "https://sspai.com/post/115568",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-11T07:00:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "阿帅的健康笔记"
+    },
     {
       "id": "f05c3bfaf00e171a",
       "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
@@ -182,48 +216,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 76,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "少玩手机多睡觉"
-    },
-    {
-      "id": "b687aeb4f46fbaaa",
-      "title": "PixRater",
-      "titleZh": "PixRater",
-      "summary": "更快地剔除照片并为其评分",
-      "url": "https://www.producthunt.com/products/pixrater",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-09T22:26:44.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 68,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Stefan Oltmann"
-    },
-    {
-      "id": "542962583f0d6fcb",
-      "title": "AgentDock",
-      "titleZh": "AgentDock",
-      "summary": "在任何终端中的一个收件箱中回答 Claude Code & Codex",
-      "url": "https://www.producthunt.com/products/agentdock",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-09T21:55:39.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 68,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Tihomir Videnov"
     },
     {
       "id": "0ea12ce48c54ef97",
@@ -262,23 +258,22 @@
       "author": "Microhoo"
     },
     {
-      "id": "2764a316022cc50a",
-      "title": "PocketWebTools for Mac",
-      "titleZh": "Mac 版 PocketWebTools",
-      "summary": "在一个 Mac 应用程序中使用本地 AI 聊天、转录和视频工具",
-      "url": "https://www.producthunt.com/products/pocketwebtools",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-09T07:00:05.000Z",
+      "id": "3dcca6aa1797d3cc",
+      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/114869",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-09T02:08:37.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "新产品"
+        "效率"
       ],
-      "score": 56,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
-      "author": "Shafu"
+      "author": "JJYing"
     }
   ],
   "sections": [
@@ -422,7 +417,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 61,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -530,14 +525,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "3131a793223b1629",
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-          "titleZh": "微软的萨蒂亚·纳德拉（Satya Nadella）表示，人工智能模型需要“紧急制动”",
-          "summary": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
-          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "id": "ea9ddcb230bb2d07",
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "titleZh": "TechCrunch Disrupt 2026 创始人指南：您需要了解的一切",
+          "summary": "TechCrunch Disrupt 2026 围绕一个问题构建：如何在人工智能时代建立一家持久的公司？我们的节目和扬声器阵容反映了这一点。",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-10T21:47:51.000Z",
+          "publishedAt": "2026-10-12T00:59:01.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "584fa997f56e514e",
+          "title": "Will the HomeView be Apple’s first smart home success?",
+          "titleZh": "HomeView 会是苹果智能家居的首次成功吗？",
+          "summary": "在过去的几年里，我们已经看到多份报告称苹果正在开发一款新的智能家居产品，但现在看来该产品有一个名字和一个发布日期……",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-11T21:14:40.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -549,97 +563,78 @@
           "author": ""
         },
         {
-          "id": "41dc9a200cf7655c",
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-          "titleZh": "苹果披露从个性化播客初创公司 Huxe 聘请团队和许可技术的交易",
-          "summary": "苹果是否希望进入人工智能生成的播客业务？",
-          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "id": "aa4eb2d25a4af213",
+          "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+          "titleZh": "亚伦·索金（Aaron Sorkin）的《社会清算》（Social Reckoning）开局疲软",
+          "summary": "这对于由邪恶的科技公司首席执行官主演的电影来说意味着什么？",
+          "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-10T19:50:00.000Z",
+          "publishedAt": "2026-10-11T20:51:47.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 94,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "819a165b5b936d42",
-          "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-          "titleZh": "Petra Power 寻求数据中心和国防车辆的能源现代化",
-          "summary": "这家初创公司表示，其燃料电池非常高效，在科技行业无法获得足够电力的时候降低了燃料成本。",
-          "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+          "id": "af3e4887d6bd9e51",
+          "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "titleZh": "距离 TechCrunch Disrupt 2026 有 48小时的路程—直接聆听开发人员的心声",
+          "summary": "在不到 48小时的时间里，TechCrunch Disrupt 2026 在旧金山的 Moscone West 启动。在价格上涨前，通行证最多可节省 $100，还可享受 50%的优惠……",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-10T17:00:00.000Z",
+          "publishedAt": "2026-10-11T19:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 93,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "e48a8ecd93fa9439",
-          "title": "Cloudflare acquires Deno to improve its Workers programming model",
-          "titleZh": "Cloudflare 收购 Deno 以改进其 Workers 编程模型",
-          "summary": "Cloudflare 将利用此次收购来改进其 Workers 编程模型和平台。",
-          "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+          "id": "cdbaeed23acf47b2",
+          "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "titleZh": "TechCrunch Disrupt 2026 投资者指南：您需要了解的一切",
+          "summary": "年复一年，探索博览馆、会见创始人并从同行那里学习的投资者已经证明了为什么您需要在 10月13日的 Disrupt 大会上站稳脚跟。",
+          "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-10T16:25:42.000Z",
+          "publishedAt": "2026-10-11T17:53:37.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 90,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "09a46a38dfa2a3d9",
-          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-          "titleZh": "距离 TechCrunch Disrupt 2026 还有 3天：在创业公司成为主流之前与它们见面",
-          "summary": "TechCrunch Disrupt 2026 将于 10月13日至 15日在旧金山举行。超过 300 家初创公司将向 10,000 名技术领导者展示他们已经建立了什么。此外，还读取了 250 多个扬声器……",
-          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-10T15:00:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 91,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "478c08af7f6a4df6",
-          "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
-          "titleZh": "🧠 社区智慧：社区智慧顶级贡献者暑期班 2026 +机器学习推荐系统、被解雇后重新投入产品、决定何时退出辅助项目等",
-          "summary": "社区智慧 301",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+          "id": "22630490a778eba5",
+          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "titleZh": "为什么现在每家公司都需要像实验室团队一样思考和运营| Josh Woodward （Google Labs、Gemini、AI Studio）",
+          "summary": "立即聆听（62分钟） | Google Labs 的乔希·伍德沃德（Josh Woodward）讲述了伟大的创意从何而来，知道什么时候该扼杀它们，并构建了一个世界，在这个世界里，可能发生的变化",
+          "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-10-10T13:01:38.000Z",
+          "publishedAt": "2026-10-11T12:31:59.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 82,
+          "score": 86,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "cover": "https://api.substack.com/feed/podcast/216810191/cd6b71ea3c31023c957a24b2c468ce30.mp3",
           "author": ""
         }
       ]
@@ -663,7 +658,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 69,
+          "score": 59,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2596/1*Eh2lcjsP8dAxfwd3RZTOUw.png",
           "author": ""
@@ -771,13 +766,67 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "b3b3d917fcff342c",
-          "title": "grokbot 有 bug 啊",
-          "summary": "GrokBot 的回复存在复制粘贴问题：中文回复：复制的文本在粘贴时变成乱码。英文回复：复制粘贴工作完全正常。这似乎是一个影响中文的字符编码问题 这里不能发视频，我把视频发在 x 上了：[grokbot 回复复制乱码问题]( https://x.com/liuxu_qingdao/status/210852738057081…",
-          "url": "https://www.v2ex.com/t/1247756#reply0",
+          "id": "17d48856b8ff357e",
+          "title": "「编程已死，编程万岁」： pstack 作者 poteto 写给正在哀悼写代码这件事的程序员",
+          "summary": "pstack 的作者 poteto （Lauren Tan） 9月25日在 X 上发了一篇短文《Coding is dead, long live Coding》，站里放了中文译文，版权归原作者，原文链接在下面。她也是自学编程，从高中开始写代码，爱的就是逐行琢磨怎么写得更优雅。但她觉得：- 亲手写代码这门手艺会消失…",
+          "url": "https://www.v2ex.com/t/1247995#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-10T23:57:14.000Z",
+          "publishedAt": "2026-10-12T02:26:47.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 116,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "liuluxu1989"
+        },
+        {
+          "id": "286c30c7b5cc6d35",
+          "title": "被 Claude 钓鱼执法了，这套路我服",
+          "summary": "简单说一下前后过程：10日中午我发现 Claude 给我埋雷（生成的宣传图中包含 台 x 独 x 字样），然后我立即让 Claude 修改，移除政治敏感词，结果触发人工审核，次日凌晨被封号。详细的过程参见我的两篇公众号文章：https://mp.weixin.qq.com/s/0xka1XVVy-HGPVo50AVcZQ h…",
+          "url": "https://www.v2ex.com/t/1247985#reply9",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-12T02:05:39.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 115,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "Lucups"
+        },
+        {
+          "id": "5b09a5023a1f45b0",
+          "title": "用 Codex 很不爽，我退订了，拜拜",
+          "summary": "月初一天蹬完一周的量，急得没办法准备去开通 200美元的订阅，结果苹果给我拦了，说是礼品卡有 3天待审时间。我谢谢你，帮我省了 200 刀。更谢谢你让我换了 Deepseek。Astra 现在给我的感觉就是弱智，几乎每一轮都有要返工的点，消耗还贼快，好不容易重置了，开多个任务，卡得要死，而且听说开多任务还会被标记降智？可能我…",
+          "url": "https://www.v2ex.com/t/1247987#reply6",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-12T02:09:18.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 115,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "lemolee"
+        },
+        {
+          "id": "ca8337240dbbd9fc",
+          "title": "困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？",
+          "summary": "我发现大模型后台 API KEY，复制策略分 2 种 1、可以明码查看复制的，比如：阶跃星辰 step 2、首次复制，以后就隐藏的，比如：ds 第 2 种所谓安全，实则脱裤子 XX",
+          "url": "https://www.v2ex.com/t/1247979#reply14",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-12T01:54:25.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -786,101 +835,43 @@
           "score": 112,
           "sourceType": "rss",
           "cover": "",
-          "author": "liuluxu1989"
+          "author": "yanerweb"
         },
         {
-          "id": "1d17a5603cfe0ff6",
-          "title": "WallHop – 12ft.io is gone, so I built a replacement",
-          "titleZh": "WallHop – 12ft.io 不见了，所以我建立了一个替代品",
-          "summary": "Hacker News 热帖，当前积分 91，评论 50。",
-          "url": "https://wallhop.io/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-11T00:46:48.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "18399c4b7bcaf4c6",
-          "title": "Generative AI scandal has come to one of Nikon's competitions",
-          "titleZh": "生成式人工智能丑闻已经出现在尼康的一场比赛中",
-          "summary": "Hacker News 热帖，当前积分 21，评论 4。",
-          "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-11T00:47:37.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "c3d8d3a460971e77",
-          "title": "PSPi 6 – Raspberry Pi in a PSP",
-          "titleZh": "PSPi 6 – PSP 中的 Raspberry Pi",
-          "summary": "Hacker News 热帖，当前积分 13，评论 2。",
-          "url": "https://github.com/othermod/PSPi-Version-6",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-11T00:45:49.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 111,
-          "sourceType": "api"
-        },
-        {
-          "id": "f76355a86b8399be",
-          "title": "微软新开源 LiteBox library OS",
-          "summary": "https://github.com/microsoft/litebox 微软非要把 Windows 糊成 Linux？WSL 还没玩溜呢",
-          "url": "https://www.v2ex.com/t/1247760#reply2",
+          "id": "5015477f571ec164",
+          "title": "Claude 突然显示组织被封禁了，各位大佬该怎么办？",
+          "summary": "账号没封，可以正常登陆查看，但是聊天等各种功能不可用了，提示组织被封禁。向官方申诉无效。这是什么情况，第一次遇到，这个账号还能用吗？切换新组织会不会被钓鱼啊",
+          "url": "https://www.v2ex.com/t/1247968#reply7",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-11T01:05:24.000Z",
+          "publishedAt": "2026-10-12T01:38:45.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 110,
+          "score": 111,
           "sourceType": "rss",
           "cover": "",
-          "author": "cj323"
+          "author": "Taylor77"
         },
         {
-          "id": "dfc41a4e166a91c9",
-          "title": "Build your own decision model",
-          "titleZh": "构建您自己的决策模型",
-          "summary": "Hacker News 热帖，当前积分 122，评论 26。",
-          "url": "https://nishtahir.com/build-your-own-decision-model/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-10T22:50:10.000Z",
+          "id": "dbb20e7c00c71681",
+          "title": "我开源项目给用户免费用 GPT6 Luna，还是招来了一堆素质极差的人盗刷。",
+          "summary": "最近和一个中转站合作，每月提供一些额度，我本身 OpenAI 就给我免费使用，所以我这些额度就开放了 GPT6 Luna 给用户免费用。因为开源免费，所以也不会开发登录这种功能，所以提供模型的地址密钥在仓库里都可以看得到。结果就引来了存心不良的人来盗刷，我看了一下日志，几乎都是各种 AI 工具在调用，应该是某些用户看了源码之后刷了…",
+          "url": "https://www.v2ex.com/t/1247932#reply22",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-12T00:19:42.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
+            "开发者社区"
           ],
-          "score": 108,
-          "sourceType": "api"
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "461229187"
         }
       ]
     }
