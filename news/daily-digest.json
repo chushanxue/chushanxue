@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T02:29:23.423Z",
+  "generatedAt": "2026-10-13T02:25:52.824Z",
   "headline": {
-    "id": "17d48856b8ff357e",
-    "title": "「编程已死，编程万岁」： pstack 作者 poteto 写给正在哀悼写代码这件事的程序员",
-    "summary": "pstack 的作者 poteto （Lauren Tan） 9月25日在 X 上发了一篇短文《Coding is dead, long live Coding》，站里放了中文译文，版权归原作者，原文链接在下面。她也是自学编程，从高中开始写代码，爱的就是逐行琢磨怎么写得更优雅。但她觉得：- 亲手写代码这门手艺会消失…",
-    "url": "https://www.v2ex.com/t/1247995#reply0",
+    "id": "63a641facbde0ee8",
+    "title": "纯前端对接接口的痛， AI 真的解决了吗？",
+    "summary": "现在虽然有 AI 辅助，但我还是想请教下各位前端：你们做前后端对接时，是不是也这样干？1. 后端导出 Swagger/OpenAPI，用工具或 AI 自动生成 TS 类型；2. 把请求封装、统一返回结构和示例代码喂给 AI；3. 按模块先让 AI 写 API 层；4. 等页面做完，再让 AI 根据 API 把页面数据对接…",
+    "url": "https://www.v2ex.com/t/1248294#reply8",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-10-12T02:26:47.000Z",
+    "publishedAt": "2026-10-13T02:13:09.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
@@ -16,17 +16,17 @@
     "score": 116,
     "sourceType": "rss",
     "cover": "",
-    "author": "liuluxu1989"
+    "author": "Katttes"
   },
   "latest": [
     {
-      "id": "17d48856b8ff357e",
-      "title": "「编程已死，编程万岁」： pstack 作者 poteto 写给正在哀悼写代码这件事的程序员",
-      "summary": "pstack 的作者 poteto （Lauren Tan） 9月25日在 X 上发了一篇短文《Coding is dead, long live Coding》，站里放了中文译文，版权归原作者，原文链接在下面。她也是自学编程，从高中开始写代码，爱的就是逐行琢磨怎么写得更优雅。但她觉得：- 亲手写代码这门手艺会消失…",
-      "url": "https://www.v2ex.com/t/1247995#reply0",
+      "id": "63a641facbde0ee8",
+      "title": "纯前端对接接口的痛， AI 真的解决了吗？",
+      "summary": "现在虽然有 AI 辅助，但我还是想请教下各位前端：你们做前后端对接时，是不是也这样干？1. 后端导出 Swagger/OpenAPI，用工具或 AI 自动生成 TS 类型；2. 把请求封装、统一返回结构和示例代码喂给 AI；3. 按模块先让 AI 写 API 层；4. 等页面做完，再让 AI 根据 API 把页面数据对接…",
+      "url": "https://www.v2ex.com/t/1248294#reply8",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-12T02:26:47.000Z",
+      "publishedAt": "2026-10-13T02:13:09.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -35,70 +35,34 @@
       "score": 116,
       "sourceType": "rss",
       "cover": "",
-      "author": "liuluxu1989"
+      "author": "Katttes"
     },
     {
-      "id": "286c30c7b5cc6d35",
-      "title": "被 Claude 钓鱼执法了，这套路我服",
-      "summary": "简单说一下前后过程：10日中午我发现 Claude 给我埋雷（生成的宣传图中包含 台 x 独 x 字样），然后我立即让 Claude 修改，移除政治敏感词，结果触发人工审核，次日凌晨被封号。详细的过程参见我的两篇公众号文章：https://mp.weixin.qq.com/s/0xka1XVVy-HGPVo50AVcZQ h…",
-      "url": "https://www.v2ex.com/t/1247985#reply9",
+      "id": "c5f97dff4bae4d2d",
+      "title": "本地大模型：统一内存(UMA)和显存+内存(分层卸载), 统一内存 UMA 才是普通用户的未来！",
+      "summary": "UMA 统一内存，GPU 直接访问共享内存池，硬件层面消除显式拷贝，不用软件层手动搬数据。独立显卡 VRAM + 系统内存分层卸载，模型权重、KV Cache 按需在显存和内存之间动态搬运。未来只会留在发烧友、工作站、专业推理场景",
+      "url": "https://www.v2ex.com/t/1248290#reply2",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-12T02:05:39.000Z",
+      "publishedAt": "2026-10-13T02:08:33.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 115,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "Lucups"
+      "author": "jinsongzhaocn"
     },
     {
-      "id": "5b09a5023a1f45b0",
-      "title": "用 Codex 很不爽，我退订了，拜拜",
-      "summary": "月初一天蹬完一周的量，急得没办法准备去开通 200美元的订阅，结果苹果给我拦了，说是礼品卡有 3天待审时间。我谢谢你，帮我省了 200 刀。更谢谢你让我换了 Deepseek。Astra 现在给我的感觉就是弱智，几乎每一轮都有要返工的点，消耗还贼快，好不容易重置了，开多个任务，卡得要死，而且听说开多任务还会被标记降智？可能我…",
-      "url": "https://www.v2ex.com/t/1247987#reply6",
+      "id": "9cd04f4b31f4d380",
+      "title": "找工作乏了，感觉岗位越来越少，社会经济越来越差",
+      "summary": "麻木了，现在还车贷还房贷。工作又难找，工作本身屎又难吃。。",
+      "url": "https://www.v2ex.com/t/1248302#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-12T02:09:18.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "lemolee"
-    },
-    {
-      "id": "ca8337240dbbd9fc",
-      "title": "困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？",
-      "summary": "我发现大模型后台 API KEY，复制策略分 2 种 1、可以明码查看复制的，比如：阶跃星辰 step 2、首次复制，以后就隐藏的，比如：ds 第 2 种所谓安全，实则脱裤子 XX",
-      "url": "https://www.v2ex.com/t/1247979#reply14",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-12T01:54:25.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "yanerweb"
-    },
-    {
-      "id": "5015477f571ec164",
-      "title": "Claude 突然显示组织被封禁了，各位大佬该怎么办？",
-      "summary": "账号没封，可以正常登陆查看，但是聊天等各种功能不可用了，提示组织被封禁。向官方申诉无效。这是什么情况，第一次遇到，这个账号还能用吗？切换新组织会不会被钓鱼啊",
-      "url": "https://www.v2ex.com/t/1247968#reply7",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-12T01:38:45.000Z",
+      "publishedAt": "2026-10-13T02:23:46.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -107,35 +71,71 @@
       "score": 111,
       "sourceType": "rss",
       "cover": "",
-      "author": "Taylor77"
+      "author": "wutianhao4173"
     },
     {
-      "id": "dbb20e7c00c71681",
-      "title": "我开源项目给用户免费用 GPT6 Luna，还是招来了一堆素质极差的人盗刷。",
-      "summary": "最近和一个中转站合作，每月提供一些额度，我本身 OpenAI 就给我免费使用，所以我这些额度就开放了 GPT6 Luna 给用户免费用。因为开源免费，所以也不会开发登录这种功能，所以提供模型的地址密钥在仓库里都可以看得到。结果就引来了存心不良的人来盗刷，我看了一下日志，几乎都是各种 AI 工具在调用，应该是某些用户看了源码之后刷了…",
-      "url": "https://www.v2ex.com/t/1247932#reply22",
+      "id": "ce08a5c0fd532ef8",
+      "title": "10. 13 [day 8] 今天又有重置 tibo 全局 下午 3 点前",
+      "summary": "Global reset landing by EOD PST time. Enjoy https://codex-reset.com/zh/#signals https://x.com/thsottiaux/status/2109812360596865224 下午 3 点前，蹬 /fast",
+      "url": "https://www.v2ex.com/t/1248265#reply17",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-12T00:19:42.000Z",
+      "publishedAt": "2026-10-13T01:09:14.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 112,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
-      "author": "461229187"
+      "author": "privateproxies"
     },
     {
-      "id": "06a0cdfe51285289",
-      "title": "HashiCorp archives the Boundary open source repo",
-      "titleZh": "HashiCorp 归档 Boundary 开源存储库",
-      "summary": "Hacker News 热帖，当前积分 42，评论 6。",
-      "url": "https://github.com/hashicorp/boundary",
+      "id": "e317e425a3fa133b",
+      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+      "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选 40 份用心回答，每份送出 50 元面值京东卡。参与调研能让 AI 助手通过自然语言指令直接与您的 Quote/0 摘录墨水屏交互 ... 查看全文",
+      "url": "https://sspai.com/post/116033",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-13T00:01:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "d52d0a96ee2589ca",
+      "title": "现在 AI 是不是逐渐能取代很多高水平程序员了",
+      "summary": "一句话，codex 帮我把光追加入到了我正在开发的游戏引擎中，感觉我已经不用干啥了。这在以前好像是很难想象的。目标是给 vulkan 渲染器加上光追，但一次就写对，并完美整合到现有代码中，这种能力其实已经说明了 AI 对很多代码的理解度不再比人类差了。下面是我发的视频，大伙可以看下效果：[我只说了“要有光”，codex 就帮我…",
+      "url": "https://www.v2ex.com/t/1248259#reply40",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-13T00:35:14.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "sunxfancy"
+    },
+    {
+      "id": "ea3485807203d9d0",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "titleZh": "Janas：由 SSD 的流媒体专家运行大于 RAM 的 LLM",
+      "summary": "Hacker News 热帖，当前积分 40，评论 19。",
+      "url": "https://github.com/prabanta-dev/janas",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-12T00:02:45.000Z",
+      "publishedAt": "2026-10-12T22:05:43.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -143,30 +143,121 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 110,
+      "score": 107,
       "sourceType": "api"
     },
     {
-      "id": "ea9ddcb230bb2d07",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "titleZh": "TechCrunch Disrupt 2026 创始人指南：您需要了解的一切",
-      "summary": "TechCrunch Disrupt 2026 围绕一个问题构建：如何在人工智能时代建立一家持久的公司？我们的节目和扬声器阵容反映了这一点。",
-      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-12T00:59:01.000Z",
-      "category": "product",
+      "id": "133e4955bea92fe2",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "titleZh": "英特尔 D270 GPU AI 加速器-高达 480 GB LPDDR5X",
+      "summary": "Hacker News 热帖，当前积分 80，评论 32。",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-12T21:35:35.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
       "score": 106,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "e317e425a3fa133b",
+      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+      "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选 40 份用心回答，每份送出 50 元面值京东卡。参与调研能让 AI 助手通过自然语言指令直接与您的 Quote/0 摘录墨水屏交互 ... 查看全文",
+      "url": "https://sspai.com/post/116033",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-13T00:01:49.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "d993b6246692ffea",
+      "title": "派评 | 近期值得关注的 App",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "url": "https://sspai.com/post/115934",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-12T09:30:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 89,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "70ddf7f8f194b0c1",
+      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+      "summary": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。查看全文",
+      "url": "https://sspai.com/post/115242",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 85,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "ElijahLee"
+    },
+    {
+      "id": "4af57dd04219b6be",
+      "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+      "summary": "来看看一种消失已久的笔记本。查看全文",
+      "url": "https://sspai.com/post/114821",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-12T03:20:18.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 77,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "随便好啦"
+    },
+    {
+      "id": "0b32082cda2c8000",
+      "title": "Kudos 3.0",
+      "titleZh": "KUDOS 3.0",
+      "summary": "找到您丢失的钱并将其找回的人工智能",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-12T01:58:06.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 74,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Tikue Anazodo"
+    },
     {
       "id": "bc12a53e386e2427",
       "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
@@ -180,100 +271,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "015923d007e41d05",
-      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
-      "summary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ... 查看全文",
-      "url": "https://sspai.com/post/115568",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-11T07:00:49.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 86,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "阿帅的健康笔记"
-    },
-    {
-      "id": "f05c3bfaf00e171a",
-      "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
-      "summary": "把决定使用时长的时机，放到每次打开应用之前。查看全文",
-      "url": "https://sspai.com/post/115237",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-10T02:19:52.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少玩手机多睡觉"
-    },
-    {
-      "id": "0ea12ce48c54ef97",
-      "title": "本周看什么 | 最近值得一看的 11 部作品",
-      "summary": "📅本周新预告《寒夜怪谈》新预告 10月1日，电影《寒夜怪谈》发布了新预告，将于 11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ... 查看全文",
-      "url": "https://sspai.com/post/115566",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-09T10:04:09.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "5eca4eb5a8c25200",
-      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-      "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。查看全文",
-      "url": "https://sspai.com/post/115456",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-09T06:43:28.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Microhoo"
-    },
-    {
-      "id": "3dcca6aa1797d3cc",
-      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/114869",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-09T02:08:37.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 60,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "JJYing"
     }
   ],
   "sections": [
@@ -339,6 +340,25 @@
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
         },
         {
+          "id": "eb70a3d706fa1f37",
+          "title": "New to the web platform in September",
+          "titleZh": "9月新加入网络平台",
+          "summary": "探索 2026年9月期间出现在稳定版和测试版网络浏览器中的一些有趣功能。",
+          "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
+          "source": "Web.dev",
+          "sourceUrl": "https://web.dev/",
+          "publishedAt": "2026-10-02T07:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "Web Platform"
+          ],
+          "score": 70,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "0a5dc064a5ff1bcb",
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "titleZh": "Under Autumn's Spell （2026年10月壁纸版）",
@@ -375,25 +395,6 @@
           "score": 63,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202609/2026-9-30_170254.webp",
-          "author": ""
-        },
-        {
-          "id": "9747792ed705de54",
-          "title": "独家：CSS背景色单方向扩展技术",
-          "summary": "不知道了吧，除了传统的 border-image 属性，现在 border-shape 属性也能轻松实现背景色任意方向的扩展，是不占据布局尺寸的那种哦。😏",
-          "url": "https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/",
-          "source": "张鑫旭博客",
-          "sourceUrl": "https://www.zhangxinxu.com/",
-          "publishedAt": "2026-09-29T03:31:56.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS",
-            "CSS相关"
-          ],
-          "score": 64,
-          "sourceType": "rss",
-          "cover": "https://image.zhangxinxu.com/image/blog/202609/2026-9-29_112854.webp",
           "author": ""
         }
       ]
@@ -525,90 +526,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "ea9ddcb230bb2d07",
-          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "titleZh": "TechCrunch Disrupt 2026 创始人指南：您需要了解的一切",
-          "summary": "TechCrunch Disrupt 2026 围绕一个问题构建：如何在人工智能时代建立一家持久的公司？我们的节目和扬声器阵容反映了这一点。",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "id": "b3d3d6bdc47038ec",
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "titleZh": "Meta 发布其首款前沿车型 Muse Wonder",
+          "summary": "Muse Spark 的目标是成为一个可以在低延迟下执行的轻量级模型，而 Wonder 模型更大，据说更强大，具有更高的基准性能……",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-12T00:59:01.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 106,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "584fa997f56e514e",
-          "title": "Will the HomeView be Apple’s first smart home success?",
-          "titleZh": "HomeView 会是苹果智能家居的首次成功吗？",
-          "summary": "在过去的几年里，我们已经看到多份报告称苹果正在开发一款新的智能家居产品，但现在看来该产品有一个名字和一个发布日期……",
-          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-11T21:14:40.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 100,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "aa4eb2d25a4af213",
-          "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
-          "titleZh": "亚伦·索金（Aaron Sorkin）的《社会清算》（Social Reckoning）开局疲软",
-          "summary": "这对于由邪恶的科技公司首席执行官主演的电影来说意味着什么？",
-          "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-11T20:51:47.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 96,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "af3e4887d6bd9e51",
-          "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-          "titleZh": "距离 TechCrunch Disrupt 2026 有 48小时的路程—直接聆听开发人员的心声",
-          "summary": "在不到 48小时的时间里，TechCrunch Disrupt 2026 在旧金山的 Moscone West 启动。在价格上涨前，通行证最多可节省 $100，还可享受 50%的优惠……",
-          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-11T19:00:00.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "cdbaeed23acf47b2",
-          "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "titleZh": "TechCrunch Disrupt 2026 投资者指南：您需要了解的一切",
-          "summary": "年复一年，探索博览馆、会见创始人并从同行那里学习的投资者已经证明了为什么您需要在 10月13日的 Disrupt 大会上站稳脚跟。",
-          "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-11T17:53:37.000Z",
+          "publishedAt": "2026-10-12T17:56:56.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -620,21 +545,97 @@
           "author": ""
         },
         {
-          "id": "22630490a778eba5",
-          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-          "titleZh": "为什么现在每家公司都需要像实验室团队一样思考和运营| Josh Woodward （Google Labs、Gemini、AI Studio）",
-          "summary": "立即聆听（62分钟） | Google Labs 的乔希·伍德沃德（Josh Woodward）讲述了伟大的创意从何而来，知道什么时候该扼杀它们，并构建了一个世界，在这个世界里，可能发生的变化",
-          "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+          "id": "923be9cbe732d1bd",
+          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "titleZh": "WindBorne 因其气球数据赢得了美国空军的巨额合同",
+          "summary": "一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近 5000 万美元的美国军事合同。",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-12T17:19:14.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 93,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "e8c5f880e55cdca9",
+          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+          "titleZh": "Honeyjar 提供人工智能工具来改善每家公司的公关和通信",
+          "summary": "记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断。但人工智能真的能让事情变得更好吗？",
+          "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-12T15:45:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "b8ea1fa0f31f5f6f",
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "titleZh": "这家 AI 初创公司表示，它可以在几分钟内生成许可证就绪的蓝图",
+          "summary": "Blueprints AI 是一家总部位于圣莫尼卡的初创公司，它开发的软件可以从照片、PDF 或草图中生成符合代码的施工蓝图。",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-12T15:27:59.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 91,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "04457b0d4a440f11",
+          "title": "Microsoft president says UK is best placed to drive AI regulation",
+          "titleZh": "微软总裁表示，英国最适合推动人工智能监管",
+          "summary": "微软总裁布拉德·史密斯（Brad Smith）呼吁对人工智能进行紧急监管，称牛奶和洗衣机比人工智能公司拥有更多的监",
+          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-12T15:31:19.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "64e157c98fc60cf0",
+          "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+          "titleZh": "🎙️ How I AI：与 Alex Cornell 一起设计 Muse",
+          "summary": "您的每周收听《How I AI》，这是 Lenny 播客网络的一部分",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-10-11T12:31:59.000Z",
+          "publishedAt": "2026-10-12T15:00:38.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 86,
+          "score": 87,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/216810191/cd6b71ea3c31023c957a24b2c468ce30.mp3",
+          "cover": "https://substack-post-media.s3.amazonaws.com/public/images/135a1e19-04d6-423c-86c8-c957635b14f1_1456x1048.png",
           "author": ""
         }
       ]
@@ -644,6 +645,101 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "685bdef530d10975",
+          "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+          "titleZh": "人工智能正在掏空设计的中间部分，留下一个沙漏",
+          "summary": "十五年来，设计过程不断发展，而制造产品的时间却不断缩短。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-12T20:17:45.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png",
+          "author": ""
+        },
+        {
+          "id": "3b09a29bad6dcdce",
+          "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+          "titleZh": "特工机器人：即使您看不到他们，无障碍设施对特工也很重要",
+          "summary": "",
+          "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-12T20:19:31.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "5ee24bc4d0a9a304",
+          "title": "Borrowed slopes",
+          "titleZh": "借用斜坡",
+          "summary": "当交通线弯曲时，新闻编辑室会找到数字设计中最古老的套件。它花费的读者是他们最需要的。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-12T11:35:36.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/2600/1*IbVtg3VuQMgLQFcfz2HdTg.png",
+          "author": ""
+        },
+        {
+          "id": "ff406bc4584a7a9a",
+          "title": "On M.F. Husain and multiple meanings of the colour orange",
+          "titleZh": "关于 M.F. Husain 和橙色的多重含义",
+          "summary": "这幅画向我介绍了艺术的力量和目的继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-12T11:35:46.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1400/1*Yc9QAhRnaqd-pQvINYKLhQ.png",
+          "author": ""
+        },
+        {
+          "id": "deb8e1c4c867b0a3",
+          "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+          "titleZh": "AI 生成的 UI，AI 时代欠你的东西，Amazing Glass，Jev for UX",
+          "summary": "",
+          "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-12T09:07:53.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "17076c3349af85ce",
           "title": "Designing for an idea before it exists",
@@ -662,101 +758,6 @@
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2596/1*Eh2lcjsP8dAxfwd3RZTOUw.png",
           "author": ""
-        },
-        {
-          "id": "6817a71c13b7e10e",
-          "title": "Tesler’s Law: complexity moved to a different part of the journey",
-          "titleZh": "特斯勒定律：复杂性转移到旅程的不同部分",
-          "summary": "",
-          "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-08T23:17:58.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "118a9fdff4dcb3f5",
-          "title": "Are synthetic users (really) the future of UX research?",
-          "titleZh": "合成用户（真的）是用户体验研究的未来吗？",
-          "summary": "",
-          "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-08T23:16:42.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "6f9f53426381f067",
-          "title": "Synthetic users are making me rethink “imperfect research”",
-          "titleZh": "合成用户让我重新思考“不完美的研究”",
-          "summary": "",
-          "url": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-08T23:16:30.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "aefe950964845499",
-          "title": "AI-generated UI is fast design, not UX",
-          "titleZh": "AI 生成的 UI 是快速设计，而不是用户体验",
-          "summary": "",
-          "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-08T23:16:10.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "08cb6641dbbb509e",
-          "title": "What the AI era owes you",
-          "titleZh": "人工智能时代欠你什么",
-          "summary": "",
-          "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-08T23:15:43.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -766,13 +767,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "17d48856b8ff357e",
-          "title": "「编程已死，编程万岁」： pstack 作者 poteto 写给正在哀悼写代码这件事的程序员",
-          "summary": "pstack 的作者 poteto （Lauren Tan） 9月25日在 X 上发了一篇短文《Coding is dead, long live Coding》，站里放了中文译文，版权归原作者，原文链接在下面。她也是自学编程，从高中开始写代码，爱的就是逐行琢磨怎么写得更优雅。但她觉得：- 亲手写代码这门手艺会消失…",
-          "url": "https://www.v2ex.com/t/1247995#reply0",
+          "id": "63a641facbde0ee8",
+          "title": "纯前端对接接口的痛， AI 真的解决了吗？",
+          "summary": "现在虽然有 AI 辅助，但我还是想请教下各位前端：你们做前后端对接时，是不是也这样干？1. 后端导出 Swagger/OpenAPI，用工具或 AI 自动生成 TS 类型；2. 把请求封装、统一返回结构和示例代码喂给 AI；3. 按模块先让 AI 写 API 层；4. 等页面做完，再让 AI 根据 API 把页面数据对接…",
+          "url": "https://www.v2ex.com/t/1248294#reply8",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-12T02:26:47.000Z",
+          "publishedAt": "2026-10-13T02:13:09.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -781,70 +782,34 @@
           "score": 116,
           "sourceType": "rss",
           "cover": "",
-          "author": "liuluxu1989"
+          "author": "Katttes"
         },
         {
-          "id": "286c30c7b5cc6d35",
-          "title": "被 Claude 钓鱼执法了，这套路我服",
-          "summary": "简单说一下前后过程：10日中午我发现 Claude 给我埋雷（生成的宣传图中包含 台 x 独 x 字样），然后我立即让 Claude 修改，移除政治敏感词，结果触发人工审核，次日凌晨被封号。详细的过程参见我的两篇公众号文章：https://mp.weixin.qq.com/s/0xka1XVVy-HGPVo50AVcZQ h…",
-          "url": "https://www.v2ex.com/t/1247985#reply9",
+          "id": "c5f97dff4bae4d2d",
+          "title": "本地大模型：统一内存(UMA)和显存+内存(分层卸载), 统一内存 UMA 才是普通用户的未来！",
+          "summary": "UMA 统一内存，GPU 直接访问共享内存池，硬件层面消除显式拷贝，不用软件层手动搬数据。独立显卡 VRAM + 系统内存分层卸载，模型权重、KV Cache 按需在显存和内存之间动态搬运。未来只会留在发烧友、工作站、专业推理场景",
+          "url": "https://www.v2ex.com/t/1248290#reply2",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-12T02:05:39.000Z",
+          "publishedAt": "2026-10-13T02:08:33.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 115,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "Lucups"
+          "author": "jinsongzhaocn"
         },
         {
-          "id": "5b09a5023a1f45b0",
-          "title": "用 Codex 很不爽，我退订了，拜拜",
-          "summary": "月初一天蹬完一周的量，急得没办法准备去开通 200美元的订阅，结果苹果给我拦了，说是礼品卡有 3天待审时间。我谢谢你，帮我省了 200 刀。更谢谢你让我换了 Deepseek。Astra 现在给我的感觉就是弱智，几乎每一轮都有要返工的点，消耗还贼快，好不容易重置了，开多个任务，卡得要死，而且听说开多任务还会被标记降智？可能我…",
-          "url": "https://www.v2ex.com/t/1247987#reply6",
+          "id": "9cd04f4b31f4d380",
+          "title": "找工作乏了，感觉岗位越来越少，社会经济越来越差",
+          "summary": "麻木了，现在还车贷还房贷。工作又难找，工作本身屎又难吃。。",
+          "url": "https://www.v2ex.com/t/1248302#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-12T02:09:18.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "lemolee"
-        },
-        {
-          "id": "ca8337240dbbd9fc",
-          "title": "困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？",
-          "summary": "我发现大模型后台 API KEY，复制策略分 2 种 1、可以明码查看复制的，比如：阶跃星辰 step 2、首次复制，以后就隐藏的，比如：ds 第 2 种所谓安全，实则脱裤子 XX",
-          "url": "https://www.v2ex.com/t/1247979#reply14",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-12T01:54:25.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "yanerweb"
-        },
-        {
-          "id": "5015477f571ec164",
-          "title": "Claude 突然显示组织被封禁了，各位大佬该怎么办？",
-          "summary": "账号没封，可以正常登陆查看，但是聊天等各种功能不可用了，提示组织被封禁。向官方申诉无效。这是什么情况，第一次遇到，这个账号还能用吗？切换新组织会不会被钓鱼啊",
-          "url": "https://www.v2ex.com/t/1247968#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-12T01:38:45.000Z",
+          "publishedAt": "2026-10-13T02:23:46.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -853,25 +818,62 @@
           "score": 111,
           "sourceType": "rss",
           "cover": "",
-          "author": "Taylor77"
+          "author": "wutianhao4173"
         },
         {
-          "id": "dbb20e7c00c71681",
-          "title": "我开源项目给用户免费用 GPT6 Luna，还是招来了一堆素质极差的人盗刷。",
-          "summary": "最近和一个中转站合作，每月提供一些额度，我本身 OpenAI 就给我免费使用，所以我这些额度就开放了 GPT6 Luna 给用户免费用。因为开源免费，所以也不会开发登录这种功能，所以提供模型的地址密钥在仓库里都可以看得到。结果就引来了存心不良的人来盗刷，我看了一下日志，几乎都是各种 AI 工具在调用，应该是某些用户看了源码之后刷了…",
-          "url": "https://www.v2ex.com/t/1247932#reply22",
+          "id": "ce08a5c0fd532ef8",
+          "title": "10. 13 [day 8] 今天又有重置 tibo 全局 下午 3 点前",
+          "summary": "Global reset landing by EOD PST time. Enjoy https://codex-reset.com/zh/#signals https://x.com/thsottiaux/status/2109812360596865224 下午 3 点前，蹬 /fast",
+          "url": "https://www.v2ex.com/t/1248265#reply17",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-12T00:19:42.000Z",
+          "publishedAt": "2026-10-13T01:09:14.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "461229187"
+          "author": "privateproxies"
+        },
+        {
+          "id": "d52d0a96ee2589ca",
+          "title": "现在 AI 是不是逐渐能取代很多高水平程序员了",
+          "summary": "一句话，codex 帮我把光追加入到了我正在开发的游戏引擎中，感觉我已经不用干啥了。这在以前好像是很难想象的。目标是给 vulkan 渲染器加上光追，但一次就写对，并完美整合到现有代码中，这种能力其实已经说明了 AI 对很多代码的理解度不再比人类差了。下面是我发的视频，大伙可以看下效果：[我只说了“要有光”，codex 就帮我…",
+          "url": "https://www.v2ex.com/t/1248259#reply40",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-13T00:35:14.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "sunxfancy"
+        },
+        {
+          "id": "ea3485807203d9d0",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "titleZh": "Janas：由 SSD 的流媒体专家运行大于 RAM 的 LLM",
+          "summary": "Hacker News 热帖，当前积分 40，评论 19。",
+          "url": "https://github.com/prabanta-dev/janas",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-12T22:05:43.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 107,
+          "sourceType": "api"
         }
       ]
     }
@@ -882,7 +884,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 85,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -897,15 +899,15 @@
       "count": 19
     },
     {
+      "tag": "工具/网站",
+      "count": 12
+    },
+    {
       "tag": "设计/UI",
       "count": 12
     },
     {
       "tag": "产品/商业",
-      "count": 10
-    },
-    {
-      "tag": "工具/网站",
       "count": 10
     },
     {
@@ -929,6 +931,10 @@
       "count": 6
     },
     {
+      "tag": "新产品",
+      "count": 6
+    },
+    {
       "tag": "开源模型",
       "count": 6
     },
@@ -937,16 +943,12 @@
       "count": 6
     },
     {
-      "tag": "科技公司",
-      "count": 5
-    },
-    {
       "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "新产品",
-      "count": 4
+      "tag": "科技公司",
+      "count": 5
     },
     {
       "tag": "技术周刊",
