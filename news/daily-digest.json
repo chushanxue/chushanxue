@@ -1,107 +1,127 @@
 {
-  "generatedAt": "2026-10-16T02:12:15.763Z",
+  "generatedAt": "2026-10-17T02:12:05.276Z",
   "headline": {
-    "id": "a46af070370fbc59",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "titleZh": "扩展指标预训练：2.8 万亿代币和开放数据生成管道",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "source": "Hugging Face Blog",
-    "sourceUrl": "https://huggingface.co/blog",
-    "publishedAt": "2026-10-16T01:44:47.000Z",
-    "category": "ai",
+    "id": "e11c79b60d1050d9",
+    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+    "titleZh": "Flexport 正在招聘首席执行官办公室的业务运营主管",
+    "summary": "Hacker News 热帖，当前积分 1，评论 0。",
+    "url": "https://www.flexport.com/company/careers/",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "publishedAt": "2026-10-17T01:01:51.000Z",
+    "category": "industry",
     "tags": [
-      "AI",
-      "开源模型"
+      "行业热点",
+      "工程效率",
+      "Hacker News",
+      "招聘"
     ],
-    "score": 116,
-    "sourceType": "rss",
-    "cover": "",
-    "author": ""
+    "score": 112,
+    "sourceType": "api"
   },
   "latest": [
     {
-      "id": "a46af070370fbc59",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "titleZh": "扩展指标预训练：2.8 万亿代币和开放数据生成管道",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-10-16T01:44:47.000Z",
-      "category": "ai",
+      "id": "e11c79b60d1050d9",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "titleZh": "Flexport 正在招聘首席执行官办公室的业务运营主管",
+      "summary": "Hacker News 热帖，当前积分 1，评论 0。",
+      "url": "https://www.flexport.com/company/careers/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-17T01:01:51.000Z",
+      "category": "industry",
       "tags": [
-        "AI",
-        "开源模型"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "招聘"
       ],
-      "score": 116,
+      "score": 112,
+      "sourceType": "api"
+    },
+    {
+      "id": "5a93ddaa4eab8947",
+      "title": "libcr 项目组发布免费瀑布流相册应用 crPhotos 1.9.0 for Linux , 支持 安卓快速分享",
+      "summary": "crPhotos 是一款纯 C++开发的瀑布流相册应用，构建自 chromium 154 版本 内置 GPU 渲染加速，视频硬件解码的高性能相册应用 保持全平台 UI 体验一致性，同步支持所有主流桌面系统 新增 Android QuickShare 协议支持，方便设备间分享 在 Pixel 手机，LineageOS, Window…",
+      "url": "https://www.v2ex.com/t/1249506#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-16T23:24:21.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/Jsji4i4.jpeg",
+      "author": "wuruxu"
+    },
+    {
+      "id": "35986a3de7434342",
+      "title": "许个愿，开个开源软件的 windows 商店",
+      "summary": "windows 电脑在 GitHub 上下载和安装了开源软件，希望有个统一的界面友好的商店管理起来，能更新和下载特定的软件。可以有推荐、排名什么的。github 上找了一圈，没有轮子。",
+      "url": "https://www.v2ex.com/t/1249504#reply6",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-16T21:06:16.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 105,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "seedhkz2019"
+    },
+    {
+      "id": "bfaa1b39ca04459c",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "titleZh": "首席执行官表示，Replit 不再与 Anthropic 合作",
+      "summary": "马萨德说，做出这一决定有许多不同的原因，包括成本。Replit 于 8月宣布与 OpenAI 建立合作伙伴关系，但从未有任何迹象……",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 101,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "8f0e954d817cb92c",
-      "title": "你们的 GPT 遇到过输出菠菜内容的吗？",
-      "summary": "我发的问题是 “在当前任务中发送“你好”。不要执行其他工作。” GPT 的回复是 “9 手机天天彩票? system says exact XML. Use.” 老哥们，你们遇到过没？这个是代理问题还是 GPT 的问题？我担心的是，你写代码或者写文档的时候一个不小心没检查到，AI 把这些菠菜内容加进去了。那岂不是直接把你给炸…",
-      "url": "https://www.v2ex.com/t/1249257#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-16T02:09:49.000Z",
-      "category": "industry",
+      "id": "0498aa927bdb4658",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "titleZh": "Itaú如何为整个客户群构建生成式人工智能",
+      "summary": "借助对话界面 ia.i 和 IARA 治理平台，Itaú正在将其 AI First 战略应用于客户和员工—这是巴西最受关注的...",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news/",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "category": "ai",
       "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 116,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "forbreak"
-    },
-    {
-      "id": "4c144284037ea8b2",
-      "title": "claude 最近封了 3 个号，过来交流下经验啊都",
-      "summary": "前两个月用了 1年的老号封了，之前是固定 IP 不跳 iOS 礼品卡基本上就稳，最近肯定是大迭代了，看看一起聊下经验能不能互相验证下啊。月初买的 outlook 邮箱号，mac 里跑 linux 虚拟机保证出口都走 mac 的代理，机场固定日本 IP 不变，iOS 礼品卡，只用 CC 其他不开，15天 以为稳了，突然封了。然…",
-      "url": "https://www.v2ex.com/t/1249237#reply2",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-16T01:44:24.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
+        "AI",
+        "模型产品"
       ],
       "score": 115,
       "sourceType": "rss",
       "cover": "",
-      "author": "xiaotianhu"
+      "author": ""
     },
     {
-      "id": "1b542323a2c86544",
-      "title": "分享一个用 Rust 写的分布式缓存/存储项目 Curvine，内存占用极低，顺便聊聊大家在 AI/大数据场景下的缓存选型",
-      "summary": "V 友们好，最近在研究和参与 AI 训练加速以及大数据场景的存储优化，关注到了一个挺有意思的开源分布式缓存系统 Curvine，试用和压测下来效果不错，分享给有类似需求的朋友们。👉 项目地址：https://github.com/CurvineIO/curvine 💡 它解决什么痛点？大家在做 AI 训练（比如 Ag…",
-      "url": "https://www.v2ex.com/t/1249221#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-16T01:21:46.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "shayne9527"
-    },
-    {
-      "id": "6f0b739e1581e306",
-      "title": "Tesla Roadster",
-      "titleZh": "特斯拉跑车",
-      "summary": "Hacker News 热帖，当前积分 133，评论 113。",
-      "url": "https://www.tesla.com/roadster",
+      "id": "d3dc8fa8a7c613a7",
+      "title": "FLUX 3 Image Klein",
+      "titleZh": "FLUX 3 Image Klein",
+      "summary": "Hacker News 热帖，当前积分 117，评论 29。",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-16T01:32:45.000Z",
+      "publishedAt": "2026-10-16T19:47:13.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -109,67 +129,122 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 113,
+      "score": 103,
       "sourceType": "api"
     },
     {
-      "id": "b6897df394243a41",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "titleZh": "特斯拉推出 SpaceX 驱动的跑车，时尚地飞行和坠落",
-      "summary": "这款新车使用推进器在德克萨斯州的一次演示中超越了 Cybercab、Cybertruck、Tesla Semi、Model Y 和 Model 3。",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-16T01:17:43.000Z",
-      "category": "product",
+      "id": "0894a893f11d0683",
+      "title": "Claude reveals ECDSA curve origins",
+      "titleZh": "克劳德揭示 ECDSA 曲线起源",
+      "summary": "https://words.filippo.io/seeds-solved/",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-16T18:55:59.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 102,
+      "sourceType": "api"
     },
     {
-      "id": "fc823b83ea16112e",
-      "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
-      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
-      "source": "阮一峰的网络日志",
-      "sourceUrl": "https://www.ruanyifeng.com/blog/",
-      "publishedAt": "2026-10-16T00:02:56.000Z",
-      "category": "frontend",
+      "id": "153a7275f9b69487",
+      "title": "You could have invented transformers from memory",
+      "titleZh": "你可以从记忆中发明变压器",
+      "summary": "Hacker News 热帖，当前积分 154，评论 41。",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-16T19:01:17.000Z",
+      "category": "industry",
       "tags": [
-        "前端技术",
-        "技术周刊"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 120,
-      "sourceType": "rss",
-      "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026101524.webp",
-      "author": "阮一峰"
-    },
-    {
-      "id": "177889aaa2b01105",
-      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-      "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
-      "url": "https://sspai.com/post/116355",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-16T00:23:12.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
+      "score": 102,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
     {
+      "id": "921c51d011ca4125",
+      "title": "本周看什么 | 最近值得一看的 13 部作品",
+      "summary": "📅本周新预告《哥斯拉-0.0》终极预告 10月11日，电影《哥斯拉-0.0》发布了终极预告，将于 11月3日在日本上映、11月6日在北美上映。该片为首部为 IMAX 拍摄的日本电影，山崎贵执导、编剧，神木隆之 ... 查看全文",
+      "url": "https://sspai.com/post/116423",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-16T10:21:07.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 92,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "e0473e1f3f94ada6",
+      "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+      "summary": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。查看全文",
+      "url": "https://sspai.com/post/114836",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-16T06:24:47.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 84,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "一群小羊说"
+    },
+    {
+      "id": "cba03e1a2112c0dd",
+      "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+      "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。查看全文",
+      "url": "https://sspai.com/post/115679",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-16T04:41:05.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 80,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "什么陈"
+    },
+    {
+      "id": "f0aae355963b90b2",
+      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+      "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文",
+      "url": "https://sspai.com/post/115688",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-16T02:18:38.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 77,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "jiayifun"
+    },
+    {
       "id": "177889aaa2b01105",
       "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
       "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
@@ -182,100 +257,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 113,
+      "score": 74,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "58c7913796ffb758",
-      "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
-      "url": "https://sspai.com/post/116246",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-15T09:10:14.000Z",
+      "id": "cfc5b197d4679e4d",
+      "title": "GBrain Tools",
+      "titleZh": "GBrain 工具",
+      "summary": "人工智能密码管理器",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-16T00:51:53.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
-        "效率"
+        "新产品"
       ],
-      "score": 90,
+      "score": 71,
       "sourceType": "rss",
       "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "2de5117f35a92e05",
-      "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-      "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ... 查看全文",
-      "url": "https://sspai.com/post/116181",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-15T08:09:12.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 89,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "0aa9288379e4993a",
-      "title": "学得会的快捷指令，零基础入门苹果效率魔法",
-      "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在 iPhone/Mac 上频繁手动操作，可以节省大量时间。然而想要熟练掌 ... 查看全文",
-      "url": "https://sspai.com/post/116182",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-15T06:30:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 86,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Tp"
-    },
-    {
-      "id": "e8a105058c03616e",
-      "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-      "summary": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。查看全文",
-      "url": "https://sspai.com/post/115238",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-15T03:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 78,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "zac"
-    },
-    {
-      "id": "bfb9927073edfa3b",
-      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
-      "summary": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。查看全文",
-      "url": "https://sspai.com/post/116193",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-15T00:31:01.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
+      "author": "Brad Gessler"
     }
   ],
   "sections": [
@@ -284,6 +288,25 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "9c28299cbd60c6f6",
+          "title": "Is Your Organization Messing Up AI Adoption?",
+          "titleZh": "您的组织是否搞砸了人工智能的采用？",
+          "summary": "关于人工智能的采用，数字化转型可以教给我们什么？Paul Boag 重温了他的书《Digital Adaptation》，以展示过去的经验教训如何帮助组织导航……",
+          "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-10-16T10:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 97,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+          "author": "hello@smashingmagazine.com (Paul Boag)"
+        },
         {
           "id": "fc823b83ea16112e",
           "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
@@ -297,7 +320,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 120,
+          "score": 82,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026101524.webp",
           "author": "阮一峰"
@@ -378,25 +401,6 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
-        },
-        {
-          "id": "eb70a3d706fa1f37",
-          "title": "New to the web platform in September",
-          "titleZh": "9月新加入网络平台",
-          "summary": "探索 2026年9月期间出现在稳定版和测试版网络浏览器中的一些有趣功能。",
-          "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
-          "source": "Web.dev",
-          "sourceUrl": "https://web.dev/",
-          "publishedAt": "2026-10-02T07:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "Web Platform"
-          ],
-          "score": 70,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -405,6 +409,25 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "0498aa927bdb4658",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "titleZh": "Itaú如何为整个客户群构建生成式人工智能",
+          "summary": "借助对话界面 ia.i 和 IARA 治理平台，Itaú正在将其 AI First 战略应用于客户和员工—这是巴西最受关注的...",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-16T19:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 115,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "a46af070370fbc59",
           "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -419,7 +442,45 @@
             "AI",
             "开源模型"
           ],
-          "score": 116,
+          "score": 78,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "c6727af7bc007dbb",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "titleZh": "Stack Overflow for Agents 使用 ChatGPT 插件将注册增加三倍",
+          "summary": "两位工程师通过 Codex 在几周内推出了 Stack Overflow for Agents，其 ChatGPT 插件帮助推动了高达 10 倍的代理创建增长。",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 84,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "00d5c170bd3c1fcd",
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "titleZh": "Welcome Beam：您可以拥有、定制和扩展的 501B 开放式模型",
+          "summary": "",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 75,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -438,7 +499,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 108,
+          "score": 70,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -457,64 +518,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "393523649a025cfc",
-          "title": "Teaching students to think and learn through questions",
-          "titleZh": "教导学生通过问题进行思考和学习",
-          "summary": "用巴西葡萄牙语的 AI for Educators 庆祝教师节，并了解学习模式如何帮助教师支持积极、循序渐进的学习。",
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-15T13:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 105,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "65e35bd91f9f7238",
-          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-          "titleZh": "Sullivan & Cromwell 将法律专业知识引入协议审查",
-          "summary": "Sullivan & Cromwell 与 OpenAI 合作开发了协议分析器，这是一种用于识别协议草案中问题的人工智能工具。",
-          "url": "https://openai.com/index/sullivan-cromwell",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-15T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 84,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "96f84d856747d329",
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "titleZh": "Welcome Muse Spark Open：来自 Meta 的开放权重前沿多式联运专家混合模型",
-          "summary": "",
-          "url": "https://huggingface.co/blog/meta-muse-spark-open",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-10-15T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 75,
+          "score": 76,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,96 +531,96 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "b6897df394243a41",
-          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-          "titleZh": "特斯拉推出 SpaceX 驱动的跑车，时尚地飞行和坠落",
-          "summary": "这款新车使用推进器在德克萨斯州的一次演示中超越了 Cybercab、Cybertruck、Tesla Semi、Model Y 和 Model 3。",
-          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+          "id": "bfaa1b39ca04459c",
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "titleZh": "首席执行官表示，Replit 不再与 Anthropic 合作",
+          "summary": "马萨德说，做出这一决定有许多不同的原因，包括成本。Replit 于 8月宣布与 OpenAI 建立合作伙伴关系，但从未有任何迹象……",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-16T01:17:43.000Z",
+          "publishedAt": "2026-10-16T21:22:28.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b23d94c37c778e0d",
-          "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-          "titleZh": "当谈到 Cal AI 的病毒式成功时，一小群有影响力的人得到了回报",
-          "summary": "该公司在两年内创造了超过 3000 万美元的收入，并于 3月被 MyFitnessPal 以未披露的金额收购。",
-          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+          "id": "43060c2532bfee30",
+          "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+          "titleZh": "保时捷电动 Macan Turbo 是一场汽车生存危机",
+          "summary": "2026 保时捷 Macan Turbo EV 是一款双排跨界车，功率为 630 马力，电池功率为 100 千瓦时。",
+          "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-15T23:44:56.000Z",
+          "publishedAt": "2026-10-16T19:40:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 104,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "443cc15e8addc714",
-          "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-          "titleZh": "《颠覆 2026》创业战场的获胜者是：Intero Biosystems",
-          "summary": "Intero Biosystems 击败其他 199 家 Startup Battlefield 公司，在 TechCrunch Disrupt 2026 上获得 10 万美元的大奖 $100,000。",
-          "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+          "id": "6cec019add8003c7",
+          "title": "India becomes the latest country to report rogue AI agent activity",
+          "titleZh": "印度成为报告流氓 AI 代理活动的最新国家",
+          "summary": "代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-15T23:33:45.000Z",
+          "publishedAt": "2026-10-16T17:52:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "0fd5671de0a0039c",
-          "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-          "titleZh": "亚马逊设备主管帕诺斯·帕奈（Panos Panay）谈失败的重要性并从中恢复过来",
-          "summary": "Panay 表示，在构建产品时，可以从各种故障中恢复和学习，甚至是灾难性的故障。",
-          "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+          "id": "62f669d34f438a9d",
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "titleZh": "英伟达内部人士转向 VC，解释为什么机器人技术还没有达到其 ChatGPT 时刻",
+          "summary": "Amulya Vishwanath 在 NVIDIA 机器人平台的产品营销方面花了七年的时间，她说机器人目前处于“乐高时代”，基本构建……",
+          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-15T20:38:13.000Z",
+          "publishedAt": "2026-10-16T16:30:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "2c40369499552109",
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "titleZh": "Meta 推出在 Mac 上运行的开放式权重 AI 模型",
-          "summary": "Meta 和苹果已经联手推出了这家社交媒体巨头的最新型号 Muse Spark Open，它将在苹果芯片上本地运行。",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "id": "2f2ca88d6ff6c93d",
+          "title": "Waymo’s robotaxis are headed to Canada",
+          "titleZh": "Waymo 的机器人出租车将前往加拿大",
+          "summary": "该公司将首先在多伦多的街道上测试其自动驾驶汽车。",
+          "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-15T20:04:53.000Z",
+          "publishedAt": "2026-10-16T16:06:38.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 90,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -660,7 +664,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 112,
+          "score": 74,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1090/1*k8ZtBFSgpFpKPc4Mh1ZfNA.png",
           "author": ""
@@ -679,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 109,
+          "score": 71,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*Ok5Itk7d8_4S-9NmG94wVQ.png",
           "author": ""
@@ -698,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -717,7 +721,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -736,7 +740,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -755,7 +759,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 68,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -768,105 +772,69 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "8f0e954d817cb92c",
-          "title": "你们的 GPT 遇到过输出菠菜内容的吗？",
-          "summary": "我发的问题是 “在当前任务中发送“你好”。不要执行其他工作。” GPT 的回复是 “9 手机天天彩票? system says exact XML. Use.” 老哥们，你们遇到过没？这个是代理问题还是 GPT 的问题？我担心的是，你写代码或者写文档的时候一个不小心没检查到，AI 把这些菠菜内容加进去了。那岂不是直接把你给炸…",
-          "url": "https://www.v2ex.com/t/1249257#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-16T02:09:49.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 116,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "forbreak"
-        },
-        {
-          "id": "4c144284037ea8b2",
-          "title": "claude 最近封了 3 个号，过来交流下经验啊都",
-          "summary": "前两个月用了 1年的老号封了，之前是固定 IP 不跳 iOS 礼品卡基本上就稳，最近肯定是大迭代了，看看一起聊下经验能不能互相验证下啊。月初买的 outlook 邮箱号，mac 里跑 linux 虚拟机保证出口都走 mac 的代理，机场固定日本 IP 不变，iOS 礼品卡，只用 CC 其他不开，15天 以为稳了，突然封了。然…",
-          "url": "https://www.v2ex.com/t/1249237#reply2",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-16T01:44:24.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "xiaotianhu"
-        },
-        {
-          "id": "1b542323a2c86544",
-          "title": "分享一个用 Rust 写的分布式缓存/存储项目 Curvine，内存占用极低，顺便聊聊大家在 AI/大数据场景下的缓存选型",
-          "summary": "V 友们好，最近在研究和参与 AI 训练加速以及大数据场景的存储优化，关注到了一个挺有意思的开源分布式缓存系统 Curvine，试用和压测下来效果不错，分享给有类似需求的朋友们。👉 项目地址：https://github.com/CurvineIO/curvine 💡 它解决什么痛点？大家在做 AI 训练（比如 Ag…",
-          "url": "https://www.v2ex.com/t/1249221#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-16T01:21:46.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "shayne9527"
-        },
-        {
-          "id": "6f0b739e1581e306",
-          "title": "Tesla Roadster",
-          "titleZh": "特斯拉跑车",
-          "summary": "Hacker News 热帖，当前积分 133，评论 113。",
-          "url": "https://www.tesla.com/roadster",
+          "id": "e11c79b60d1050d9",
+          "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+          "titleZh": "Flexport 正在招聘首席执行官办公室的业务运营主管",
+          "summary": "Hacker News 热帖，当前积分 1，评论 0。",
+          "url": "https://www.flexport.com/company/careers/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-16T01:32:45.000Z",
+          "publishedAt": "2026-10-17T01:01:51.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "工程效率",
             "Hacker News",
-            "讨论"
+            "招聘"
           ],
-          "score": 113,
+          "score": 112,
           "sourceType": "api"
         },
         {
-          "id": "b72183688335bc85",
-          "title": "用 rea 重写一切，这次是 listary",
-          "summary": "mac 上一直找不到好用的查找工具 用 rea 逆向了 listary 的 windows 版本，基本功能可用，搜索增加目前有性能问题建议不要开启 提交完 claude 就被封号了，bug 和使用体验问题请自己用 ai 修复。https://github.com/enhay/listary",
-          "url": "https://www.v2ex.com/t/1249200#reply17",
+          "id": "5a93ddaa4eab8947",
+          "title": "libcr 项目组发布免费瀑布流相册应用 crPhotos 1.9.0 for Linux , 支持 安卓快速分享",
+          "summary": "crPhotos 是一款纯 C++开发的瀑布流相册应用，构建自 chromium 154 版本 内置 GPU 渲染加速，视频硬件解码的高性能相册应用 保持全平台 UI 体验一致性，同步支持所有主流桌面系统 新增 Android QuickShare 协议支持，方便设备间分享 在 Pixel 手机，LineageOS, Window…",
+          "url": "https://www.v2ex.com/t/1249506#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-16T00:12:30.000Z",
+          "publishedAt": "2026-10-16T23:24:21.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 112,
+          "score": 111,
           "sourceType": "rss",
-          "cover": "",
-          "author": "zhaohua"
+          "cover": "https://i.imgur.com/Jsji4i4.jpeg",
+          "author": "wuruxu"
         },
         {
-          "id": "6a59d8a25b717ba4",
-          "title": "RPKI now protects 70% of internet routes",
-          "titleZh": "RPKI 现在保护了 70%的互联网路由",
-          "summary": "Hacker News 热帖，当前积分 37，评论 6。",
-          "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+          "id": "35986a3de7434342",
+          "title": "许个愿，开个开源软件的 windows 商店",
+          "summary": "windows 电脑在 GitHub 上下载和安装了开源软件，希望有个统一的界面友好的商店管理起来，能更新和下载特定的软件。可以有推荐、排名什么的。github 上找了一圈，没有轮子。",
+          "url": "https://www.v2ex.com/t/1249504#reply6",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-16T21:06:16.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 105,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "seedhkz2019"
+        },
+        {
+          "id": "d3dc8fa8a7c613a7",
+          "title": "FLUX 3 Image Klein",
+          "titleZh": "FLUX 3 Image Klein",
+          "summary": "Hacker News 热帖，当前积分 117，评论 29。",
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-16T00:52:35.000Z",
+          "publishedAt": "2026-10-16T19:47:13.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -874,7 +842,45 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
+          "score": 103,
+          "sourceType": "api"
+        },
+        {
+          "id": "0894a893f11d0683",
+          "title": "Claude reveals ECDSA curve origins",
+          "titleZh": "克劳德揭示 ECDSA 曲线起源",
+          "summary": "https://words.filippo.io/seeds-solved/",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-16T18:55:59.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 102,
+          "sourceType": "api"
+        },
+        {
+          "id": "153a7275f9b69487",
+          "title": "You could have invented transformers from memory",
+          "titleZh": "你可以从记忆中发明变压器",
+          "summary": "Hacker News 热帖，当前积分 154，评论 41。",
+          "url": "https://alexwang.ai/posts/associative-memory/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-16T19:01:17.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 102,
           "sourceType": "api"
         }
       ]
@@ -898,18 +904,18 @@
     },
     {
       "tag": "行业热点",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "设计/UI",
       "count": 12
     },
     {
-      "tag": "产品/商业",
-      "count": 10
+      "tag": "工具/网站",
+      "count": 11
     },
     {
-      "tag": "工具/网站",
+      "tag": "产品/商业",
       "count": 10
     },
     {
@@ -918,14 +924,10 @@
     },
     {
       "tag": "讨论",
-      "count": 8
+      "count": 7
     },
     {
-      "tag": "开源模型",
-      "count": 6
-    },
-    {
-      "tag": "开发者社区",
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -933,15 +935,23 @@
       "count": 6
     },
     {
+      "tag": "开源模型",
+      "count": 6
+    },
+    {
       "tag": "交互设计",
       "count": 6
     },
     {
-      "tag": "模型产品",
-      "count": 6
+      "tag": "开发者社区",
+      "count": 5
     },
     {
       "tag": "科技公司",
+      "count": 5
+    },
+    {
+      "tag": "新产品",
       "count": 5
     },
     {
@@ -950,10 +960,6 @@
     },
     {
       "tag": "CSS相关",
-      "count": 4
-    },
-    {
-      "tag": "新产品",
       "count": 4
     }
   ]
