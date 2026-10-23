@@ -1,50 +1,32 @@
 {
-  "generatedAt": "2026-10-22T02:14:00.119Z",
+  "generatedAt": "2026-10-23T02:14:10.098Z",
   "headline": {
-    "id": "f879585316857903",
-    "title": "和大家同步一下宝塔面板关于 PHP 漏洞的发布进展",
-    "summary": "看到社区有很多小伙伴在说，先说一下抱歉，昨天主要忙着在群和公众号发布更新，没来得及打开社区 先说一下进展：昨天 14:47 分左右，在社群和公众号同步了临时缓解方案和公告 昨晚 21:40 左右，监控到 PHP 官方已经发布修复，随后开始进行编译测试，因为宝塔需要兼容大量且多版本的系统，所以测试的比较久了一点 昨晚 23:05 分…",
-    "url": "https://www.v2ex.com/t/1250832#reply0",
+    "id": "0d3f53d3358f4b94",
+    "title": "claude 的重置是真的狗",
+    "summary": "讲个笑话，昨天为了有效利用 10月23日到期的 Claude 的一次重置机会，晚上加班狂蹬做自己的额度，终于用到将近 80%的周限额，说明天 10月23 号，等早上起来就重置。结果一觉醒来，发现唯一的重置已经没有了。。。。令人安慰的是，codex 可能知道我比较失落，一大早给我重置到 100%了。",
+    "url": "https://www.v2ex.com/t/1251149#reply6",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-10-22T02:09:08.000Z",
+    "publishedAt": "2026-10-23T02:03:22.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 116,
+    "score": 115,
     "sourceType": "rss",
-    "cover": "https://picui.ogmua.cn/s1/2026/10/22/6ad96dbe36b08.webp",
-    "author": "btpanel"
+    "cover": "",
+    "author": "wyfig"
   },
   "latest": [
     {
-      "id": "f879585316857903",
-      "title": "和大家同步一下宝塔面板关于 PHP 漏洞的发布进展",
-      "summary": "看到社区有很多小伙伴在说，先说一下抱歉，昨天主要忙着在群和公众号发布更新，没来得及打开社区 先说一下进展：昨天 14:47 分左右，在社群和公众号同步了临时缓解方案和公告 昨晚 21:40 左右，监控到 PHP 官方已经发布修复，随后开始进行编译测试，因为宝塔需要兼容大量且多版本的系统，所以测试的比较久了一点 昨晚 23:05 分…",
-      "url": "https://www.v2ex.com/t/1250832#reply0",
+      "id": "0d3f53d3358f4b94",
+      "title": "claude 的重置是真的狗",
+      "summary": "讲个笑话，昨天为了有效利用 10月23日到期的 Claude 的一次重置机会，晚上加班狂蹬做自己的额度，终于用到将近 80%的周限额，说明天 10月23 号，等早上起来就重置。结果一觉醒来，发现唯一的重置已经没有了。。。。令人安慰的是，codex 可能知道我比较失落，一大早给我重置到 100%了。",
+      "url": "https://www.v2ex.com/t/1251149#reply6",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-22T02:09:08.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 116,
-      "sourceType": "rss",
-      "cover": "https://picui.ogmua.cn/s1/2026/10/22/6ad96dbe36b08.webp",
-      "author": "btpanel"
-    },
-    {
-      "id": "59ef39516e576ef0",
-      "title": "断了 $200 Pro 的我现在居然还能订阅到 20x 的？？",
-      "summary": "很神奇，今天老的订阅方式被封了，然后想通过 Google pay 去订阅 Pro，居然看到这个 20x 的 200$选项？？有没有人遇到类似的情况，不是说已经没有这个选项了现在都是限额的了吗？============================== 我直接升级了，不管了，写有 20x 我就当 20x 用吧。就是不知道有没有真…",
-      "url": "https://www.v2ex.com/t/1250818#reply5",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-22T01:40:57.000Z",
+      "publishedAt": "2026-10-23T02:03:22.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -52,36 +34,127 @@
       ],
       "score": 115,
       "sourceType": "rss",
-      "cover": "https://i.v2ex.co/2VsG989e.jpeg",
-      "author": "Jiahim"
+      "cover": "",
+      "author": "wyfig"
     },
     {
-      "id": "6b06d3553c2af4c8",
-      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
-      "url": "https://sspai.com/post/116953",
+      "id": "5fb9dc9ba93f7c16",
+      "title": "google pro 量太少了",
+      "summary": "还只是在网页端 gemini 使用 Argon High 思考强度问了 2 个问题，直接干满 5h 额度，这简直离谱了。话说 google pro 网页额度和 agent 额度是分开的吗，如果使用 google antigravity cli 也是这个额度，那根本玩不了了",
+      "url": "https://www.v2ex.com/t/1251145#reply4",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-23T01:53:30.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 114,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "momowei"
+    },
+    {
+      "id": "696af76a3d488a86",
+      "title": "求一个 Claude Team 车位，想直接进 Team",
+      "summary": "有没有靠谱的渠道提供 Claude Team？想直接付费加入现成的 Team，不想自己注册账号、折腾 KYC 之类的一堆流程了 😂 有稳定、靠谱的车队可以带带吗？价格合理就行",
+      "url": "https://www.v2ex.com/t/1251135#reply1",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-23T01:40:24.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 112,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "NullIsLife"
+    },
+    {
+      "id": "383cd839d28d516e",
+      "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+      "source": "阮一峰的网络日志",
+      "sourceUrl": "https://www.ruanyifeng.com/blog/",
+      "publishedAt": "2026-10-23T00:06:16.000Z",
+      "category": "frontend",
+      "tags": [
+        "前端技术",
+        "技术周刊"
+      ],
+      "score": 120,
+      "sourceType": "rss",
+      "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026102201.webp",
+      "author": "阮一峰"
+    },
+    {
+      "id": "59c91f927d8afb9f",
+      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情 iPhone 少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的 A ... 查看全文",
+      "url": "https://sspai.com/post/117104",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-22T00:29:05.000Z",
+      "publishedAt": "2026-10-23T00:20:32.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 112,
+      "score": 115,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "b05724b2c75effd3",
-      "title": "mitmproxy adds --emudhra option",
-      "titleZh": "mitmproxy 添加了--emudhra 选项",
-      "summary": "Hacker News 热帖，当前积分 207，评论 52。",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "id": "29d695d933f306c9",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "titleZh": "“自然语言编程”的愚蠢（1978年）",
+      "summary": "Hacker News 热帖，当前积分 29，评论 25。",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-21T23:51:37.000Z",
+      "publishedAt": "2026-10-23T00:52:01.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "fb8fa0ad5f578913",
+      "title": "老实回答，你们硬要用 Claude 的人是不是有 M 倾向？",
+      "summary": "",
+      "url": "https://www.v2ex.com/t/1251139#reply15",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-23T01:42:22.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "xiaowoli"
+    },
+    {
+      "id": "0b51c44c5aafae88",
+      "title": "Docker is weird",
+      "titleZh": "Docker 很奇怪",
+      "summary": "Hacker News 热帖，当前积分 136，评论 60。",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-22T23:45:56.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -91,83 +164,100 @@
       ],
       "score": 110,
       "sourceType": "api"
-    },
-    {
-      "id": "3348f4e0fa8424bc",
-      "title": "Claude 20 刀 5h/每周有多少额度？",
-      "summary": "只用 Opus5.5 的话，思考程度 high 和 xhigh",
-      "url": "https://www.v2ex.com/t/1250796#reply10",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-22T00:50:25.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "DejavuMoe"
-    },
-    {
-      "id": "f7f67ca6514609b2",
-      "title": "Tesla says it will start selling Cybercabs by end of year",
-      "titleZh": "特斯拉表示将在年底前开始销售 Cybercabs",
-      "summary": "特斯拉周三表示，它将在今年年底前开始向客户出售其 Cybercab，尽管联邦监管机构正在调查这款车是否符合标准。",
-      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-22T00:17:54.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 106,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "00d25fb576a077a2",
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "titleZh": "这个 PHP 漏洞不容易被利用",
-      "summary": "Hacker News 热帖，当前积分 165，评论 79。",
-      "url": "https://eliastaylor.com/noexploit/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-21T23:13:27.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 109,
-      "sourceType": "api"
-    },
-    {
-      "id": "b73112bbd2cfbed4",
-      "title": "PHP 这个漏洞是谁公布出来的？为啥这么不负责任",
-      "summary": "太坑人了",
-      "url": "https://www.v2ex.com/t/1250786#reply19",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-21T23:16:51.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "jedeft"
     }
   ],
   "featuredTools": [
+    {
+      "id": "59c91f927d8afb9f",
+      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情 iPhone 少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的 A ... 查看全文",
+      "url": "https://sspai.com/post/117104",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-23T00:20:32.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "ef90091cfdd9e9d7",
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/115437",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-22T09:10:03.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 90,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "log"
+    },
+    {
+      "id": "47fd3cb56e993597",
+      "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+      "summary": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。查看全文",
+      "url": "https://sspai.com/post/116923",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 84,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Vanilla"
+    },
+    {
+      "id": "710062754b3bf9e1",
+      "title": "Tetriz Engg Intelligence + Connectors",
+      "titleZh": "Tetriz Engg 智能+连接器",
+      "summary": "将编码会话与公关、问题、质量和投资回报率联系起来",
+      "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-22T06:09:23.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 81,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Prasanna R"
+    },
+    {
+      "id": "d4d9c87e60a82c2d",
+      "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
+      "summary": "药物不能解决所有问题，这是是我学到的重要一课。查看全文",
+      "url": "https://sspai.com/post/115090",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-22T03:36:57.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 79,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "LOSSES"
+    },
     {
       "id": "6b06d3553c2af4c8",
       "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
@@ -181,97 +271,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "930a07bc82898c14",
-      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
-      "url": "https://sspai.com/post/116820",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 90,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Matrix机器人"
-    },
-    {
-      "id": "854bd269586f0a56",
-      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
-      "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文",
-      "url": "https://sspai.com/post/116445",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-21T07:00:00.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 86,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "ElijahLee"
-    },
-    {
-      "id": "3e85385c3aefdef3",
-      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
-      "summary": "电脑与平板之间的界限，早在 20年前的三星 Q1 上就已经可以随意切换了。查看全文",
-      "url": "https://sspai.com/post/115107",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-21T02:23:21.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 77,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "随便好啦"
-    },
-    {
-      "id": "bfe2b893948b765b",
-      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-      "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文",
-      "url": "https://sspai.com/post/116887",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-21T00:07:07.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
       "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "46e3108af7308ac6",
-      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-      "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla 随 Firefox157 推出了代号为 Nova 的全新设计。这是继 2021年 Proton 改版以来，Fire ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/inside-release-notes-261020",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-20T10:01:54.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 61,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -283,6 +283,24 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "383cd839d28d516e",
+          "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-10-23T00:06:16.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 120,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026102201.webp",
+          "author": "阮一峰"
+        },
         {
           "id": "3a9e4924abecd157",
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
@@ -377,25 +395,6 @@
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026100816.webp",
           "author": "阮一峰"
-        },
-        {
-          "id": "e1d3da265c6fd372",
-          "title": "Document Picture-in-Picture API与任意元素画中画实现",
-          "summary": "好消息，之前只有视频元素才能画中画，现在任意元素都能独立成画中画窗口了，小屏摸鱼有了新选择。",
-          "url": "https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/",
-          "source": "张鑫旭博客",
-          "sourceUrl": "https://www.zhangxinxu.com/",
-          "publishedAt": "2026-10-08T10:38:55.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS",
-            "画中画"
-          ],
-          "score": 63,
-          "sourceType": "rss",
-          "cover": "https://image.zhangxinxu.com/image/blog/202610/2026-10-8_183336.webp",
-          "author": ""
         }
       ]
     },
@@ -405,52 +404,33 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
-          "id": "c708e0ed509c0d14",
-          "title": "Broad access through consistent standards",
-          "titleZh": "通过一致的标准实现广泛的访问",
-          "summary": "OpenAI 如何与分销合作伙伴合作，以维护一致的保障措施，支持负责任的访问，并在我们的使用政策中明确期望。",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-21T21:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 118,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "06bce55b659f250c",
-          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "titleZh": "NVIDIA Kumo Relational 在关系数据方面优于监督机器学习，无需培训",
+          "id": "090a93ae9b47da5f",
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "titleZh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行培训后座席",
           "summary": "",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
           "source": "Hugging Face Blog",
           "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-10-21T18:26:30.000Z",
+          "publishedAt": "2026-10-22T22:24:34.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "开源模型"
           ],
-          "score": 105,
+          "score": 111,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "bad29b512b66fbe6",
-          "title": "How AT&T is rethinking in-house legal work with OpenAI",
-          "titleZh": "AT&T 如何与 OpenAI 重新思考内部法律工作",
-          "summary": "AT&T 正在与 OpenAI 合作，使法律知识更容易获取。了解其 LegalEdge 团队如何重新考虑录取和扩大法律判决。",
-          "url": "https://openai.com/index/att-legal",
+          "id": "847c79f1e42798c5",
+          "title": "Build more responsive apps with the Decisions API",
+          "titleZh": "使用 Decisions API 构建响应速度更快的应用程序",
+          "summary": "适用于任何应用程序的快速、专注、低成本决策。",
+          "url": "https://openai.com/index/decisions-api",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-21T17:00:00.000Z",
+          "publishedAt": "2026-10-22T19:00:00.000Z",
           "category": "ai",
           "tags": [
             "AI",
@@ -462,33 +442,14 @@
           "author": ""
         },
         {
-          "id": "c53a763b3f4146e8",
-          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "titleZh": "在实际应用中，SLM 词汇专业化如何将推理成本降低 77%",
+          "id": "aae4e5b51cf647f0",
+          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "titleZh": "OlmoEarth v1.3：最先进的全球嵌入式系统",
           "summary": "",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
           "source": "Hugging Face Blog",
           "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-10-21T17:35:36.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "8763b07ac3ee95ca",
-          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "titleZh": "分析 TorchNeuron （第 1 部分）：AWS Trainium 上的系统级分析。",
-          "summary": "",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-10-21T16:04:43.000Z",
+          "publishedAt": "2026-10-22T16:11:31.000Z",
           "category": "ai",
           "tags": [
             "AI",
@@ -500,20 +461,58 @@
           "author": ""
         },
         {
-          "id": "722d806d29bed2b8",
-          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "titleZh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
+          "id": "b2a3344ff87c6b09",
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "titleZh": "使用 IBM Granite 时间序列模型进行集成预测",
           "summary": "",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
           "source": "Hugging Face Blog",
           "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-10-21T14:58:18.000Z",
+          "publishedAt": "2026-10-22T07:51:31.000Z",
           "category": "ai",
           "tags": [
             "AI",
             "开源模型"
           ],
-          "score": 99,
+          "score": 88,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "bd03ee8c7f73aca3",
+          "title": "What FDE means at OpenAI",
+          "titleZh": "FDE 在 OpenAI 意味着什么",
+          "summary": "OpenAI 的前沿部署工程意味着什么",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-22T06:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "52a54846f100907c",
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "titleZh": "优步通过 OpenAI 为所有员工提供 ChatGPT Work",
+          "summary": "优步正在为 3 万多名员工推出 ChatGPT Work，帮助团队研究、分析数据、创建演示文稿并完成复杂的工作流程。",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-22T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 84,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -526,14 +525,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "f7f67ca6514609b2",
-          "title": "Tesla says it will start selling Cybercabs by end of year",
-          "titleZh": "特斯拉表示将在年底前开始销售 Cybercabs",
-          "summary": "特斯拉周三表示，它将在今年年底前开始向客户出售其 Cybercab，尽管联邦监管机构正在调查这款车是否符合标准。",
-          "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+          "id": "dc5f63626240682d",
+          "title": "Left alone with nothing to do, AI agents started playing",
+          "titleZh": "独自一人无事可做，人工智能特工开始玩",
+          "summary": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了 13 个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-22T00:17:54.000Z",
+          "publishedAt": "2026-10-23T00:45:37.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -545,33 +544,52 @@
           "author": ""
         },
         {
-          "id": "aae762c76fc1a983",
-          "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-          "titleZh": "爱彼迎限制了房客的杂务，引发了房东的强烈反对",
-          "summary": "在爱彼迎表示不再要求房客脱掉床铺或做其他耗时的清洁工作后，房东威胁要离开平台。",
-          "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+          "id": "42f213a210d78b60",
+          "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+          "titleZh": "马克·扎克伯格（Mark Zuckerberg）的创意计划，在不失去对 Meta 的控制权的情况下支付加利福尼亚州",
+          "summary": "新推出的股票类别部分是为了帮助 Meta 创始人兼首席执行官马克·扎克伯格（Mark Zuckerberg）支付“亿万富翁税”，如果该措施被投票……",
+          "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-21T22:16:05.000Z",
+          "publishedAt": "2026-10-22T23:50:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 105,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "f5b66f0484cd366a",
-          "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-          "titleZh": "Meta 希望通过新创建的股票类别为其广泛的人工智能构建付费",
-          "summary": "这家社交媒体巨头正在计划一项新的股票策略，以帮助其对人工智能模型和服务进行广泛的投资。",
-          "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+          "id": "6ac84bd12aa421e2",
+          "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+          "titleZh": "Warhound 筹集了 2亿美元，用于制造战犬，并用 Anduril 装备武装它们",
+          "summary": "本·拉姆（Ben Lamm）和帕尔默·拉基（Palmer Luckey）的创意 Warhound 从隐身中脱颖而出，成为军事和执法部门的基因工程犬。",
+          "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-21T22:45:34.000Z",
+          "publishedAt": "2026-10-22T23:15:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "9b619e65e23bf25c",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "titleZh": "OpenAI 在 IPO 之前以 $1.25 T 的估值进行新的 $300 亿加息",
+          "summary": "如果 OpenAI 在这轮融资中获得超过 1 万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录。",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-22T22:08:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -583,39 +601,20 @@
           "author": ""
         },
         {
-          "id": "81561d5c88b43bc4",
-          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-          "titleZh": "Blackstone 的 Jas Khaira 表示，对人工智能建设债务的担忧被夸大了",
-          "summary": "Blackstone 的人工智能分析了为什么这家私募股权巨头不会对市场紧张感到恐慌。",
-          "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "id": "5396631552fe028d",
+          "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+          "titleZh": "随着区块链投资不再流行，a16z Crypto 更名为 a16z Frontier",
+          "summary": "由克里斯·迪克森（Chris Dixon）领导的数字资产部门扩大了业务范围。",
+          "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-21T22:51:22.000Z",
+          "publishedAt": "2026-10-22T22:34:54.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 100,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "b29f1e1292bfd910",
-          "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-          "titleZh": "TechCrunch 创始人峰会 2026：您需要了解的一切",
-          "summary": "TechCrunch 创始人峰会于 11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得……",
-          "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-21T21:16:20.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 101,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -633,7 +632,7 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 99,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://api.substack.com/feed/podcast/221540875/8d8085b07ba439d243299d78bf5353ce.mp3",
           "author": ""
@@ -645,6 +644,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "d3d74dbc044641de",
+          "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+          "titleZh": "购买与构建现在也是一个用户体验决策，特别是在企业中",
+          "summary": "",
+          "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-10-22T21:55:36.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "8336eede10cf028c",
           "title": "Can you take AI at its word?",
@@ -659,7 +677,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 112,
+          "score": 73,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png",
           "author": ""
@@ -678,7 +696,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -697,7 +715,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 71,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2600/1*0RuE6NZm_DgJUlA0IGG-Aw.jpeg",
           "author": ""
@@ -716,25 +734,6 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "1b18be10d0691195",
-          "title": "Human attention is the new old bottleneck. We have to design for it even more.",
-          "titleZh": "人类的注意力是新的旧瓶颈。我们必须为此进行更多的设计。",
-          "summary": "",
-          "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-19T21:39:27.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
           "score": 55,
           "sourceType": "rss",
           "cover": "",
@@ -748,31 +747,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "f879585316857903",
-          "title": "和大家同步一下宝塔面板关于 PHP 漏洞的发布进展",
-          "summary": "看到社区有很多小伙伴在说，先说一下抱歉，昨天主要忙着在群和公众号发布更新，没来得及打开社区 先说一下进展：昨天 14:47 分左右，在社群和公众号同步了临时缓解方案和公告 昨晚 21:40 左右，监控到 PHP 官方已经发布修复，随后开始进行编译测试，因为宝塔需要兼容大量且多版本的系统，所以测试的比较久了一点 昨晚 23:05 分…",
-          "url": "https://www.v2ex.com/t/1250832#reply0",
+          "id": "0d3f53d3358f4b94",
+          "title": "claude 的重置是真的狗",
+          "summary": "讲个笑话，昨天为了有效利用 10月23日到期的 Claude 的一次重置机会，晚上加班狂蹬做自己的额度，终于用到将近 80%的周限额，说明天 10月23 号，等早上起来就重置。结果一觉醒来，发现唯一的重置已经没有了。。。。令人安慰的是，codex 可能知道我比较失落，一大早给我重置到 100%了。",
+          "url": "https://www.v2ex.com/t/1251149#reply6",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-22T02:09:08.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 116,
-          "sourceType": "rss",
-          "cover": "https://picui.ogmua.cn/s1/2026/10/22/6ad96dbe36b08.webp",
-          "author": "btpanel"
-        },
-        {
-          "id": "59ef39516e576ef0",
-          "title": "断了 $200 Pro 的我现在居然还能订阅到 20x 的？？",
-          "summary": "很神奇，今天老的订阅方式被封了，然后想通过 Google pay 去订阅 Pro，居然看到这个 20x 的 200$选项？？有没有人遇到类似的情况，不是说已经没有这个选项了现在都是限额的了吗？============================== 我直接升级了，不管了，写有 20x 我就当 20x 用吧。就是不知道有没有真…",
-          "url": "https://www.v2ex.com/t/1250818#reply5",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-22T01:40:57.000Z",
+          "publishedAt": "2026-10-23T02:03:22.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -780,18 +761,91 @@
           ],
           "score": 115,
           "sourceType": "rss",
-          "cover": "https://i.v2ex.co/2VsG989e.jpeg",
-          "author": "Jiahim"
+          "cover": "",
+          "author": "wyfig"
         },
         {
-          "id": "b05724b2c75effd3",
-          "title": "mitmproxy adds --emudhra option",
-          "titleZh": "mitmproxy 添加了--emudhra 选项",
-          "summary": "Hacker News 热帖，当前积分 207，评论 52。",
-          "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+          "id": "5fb9dc9ba93f7c16",
+          "title": "google pro 量太少了",
+          "summary": "还只是在网页端 gemini 使用 Argon High 思考强度问了 2 个问题，直接干满 5h 额度，这简直离谱了。话说 google pro 网页额度和 agent 额度是分开的吗，如果使用 google antigravity cli 也是这个额度，那根本玩不了了",
+          "url": "https://www.v2ex.com/t/1251145#reply4",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-23T01:53:30.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 114,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "momowei"
+        },
+        {
+          "id": "696af76a3d488a86",
+          "title": "求一个 Claude Team 车位，想直接进 Team",
+          "summary": "有没有靠谱的渠道提供 Claude Team？想直接付费加入现成的 Team，不想自己注册账号、折腾 KYC 之类的一堆流程了 😂 有稳定、靠谱的车队可以带带吗？价格合理就行",
+          "url": "https://www.v2ex.com/t/1251135#reply1",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-23T01:40:24.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 112,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "NullIsLife"
+        },
+        {
+          "id": "29d695d933f306c9",
+          "title": "The foolishness of \"natural language programming\" (1978)",
+          "titleZh": "“自然语言编程”的愚蠢（1978年）",
+          "summary": "Hacker News 热帖，当前积分 29，评论 25。",
+          "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-21T23:51:37.000Z",
+          "publishedAt": "2026-10-23T00:52:01.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "fb8fa0ad5f578913",
+          "title": "老实回答，你们硬要用 Claude 的人是不是有 M 倾向？",
+          "summary": "",
+          "url": "https://www.v2ex.com/t/1251139#reply15",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-23T01:42:22.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "xiaowoli"
+        },
+        {
+          "id": "0b51c44c5aafae88",
+          "title": "Docker is weird",
+          "titleZh": "Docker 很奇怪",
+          "summary": "Hacker News 热帖，当前积分 136，评论 60。",
+          "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-22T23:45:56.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -801,61 +855,6 @@
           ],
           "score": 110,
           "sourceType": "api"
-        },
-        {
-          "id": "3348f4e0fa8424bc",
-          "title": "Claude 20 刀 5h/每周有多少额度？",
-          "summary": "只用 Opus5.5 的话，思考程度 high 和 xhigh",
-          "url": "https://www.v2ex.com/t/1250796#reply10",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-22T00:50:25.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 109,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "DejavuMoe"
-        },
-        {
-          "id": "00d25fb576a077a2",
-          "title": "There isn't an easy exploit for this PHP vulnerability",
-          "titleZh": "这个 PHP 漏洞不容易被利用",
-          "summary": "Hacker News 热帖，当前积分 165，评论 79。",
-          "url": "https://eliastaylor.com/noexploit/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-21T23:13:27.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 109,
-          "sourceType": "api"
-        },
-        {
-          "id": "b73112bbd2cfbed4",
-          "title": "PHP 这个漏洞是谁公布出来的？为啥这么不负责任",
-          "summary": "太坑人了",
-          "url": "https://www.v2ex.com/t/1250786#reply19",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-21T23:16:51.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 105,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "jedeft"
         }
       ]
     }
@@ -909,11 +908,11 @@
       "count": 6
     },
     {
-      "tag": "模型产品",
+      "tag": "开源模型",
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "模型产品",
       "count": 6
     },
     {
