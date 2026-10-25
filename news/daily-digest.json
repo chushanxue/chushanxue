@@ -1,123 +1,34 @@
 {
-  "generatedAt": "2026-10-24T02:12:11.688Z",
+  "generatedAt": "2026-10-25T02:13:46.596Z",
   "headline": {
-    "id": "f6bc2e7208765af8",
-    "title": "做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
-    "summary": "刚开始构思匿名举报（Whistleblowing）系统时，思路看起来很简单：前端放个表单，后端落库，再做个后台给 HR 或 Auditing 团队看。但真正设计架构时才发现，提交表单是全系统最简单的部分。核心难题全在数据落库之后：动态权限、数据最小化以及无身份通信。总结了我们在实际工程中遇到的几个核心冲突，想和大家探讨一下…",
-    "url": "https://www.v2ex.com/t/1251413#reply3",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-10-24T01:57:18.000Z",
+    "id": "e8e3396b26e7e51b",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "titleZh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能有多少钱？",
+    "summary": "Hacker News 热帖，当前积分 176，评论 147。",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "publishedAt": "2026-10-24T23:11:54.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "开发者社区"
+      "工程效率",
+      "Hacker News",
+      "讨论"
     ],
-    "score": 115,
-    "sourceType": "rss",
-    "cover": "",
-    "author": "VictorBvieira"
+    "score": 109,
+    "sourceType": "api"
   },
   "latest": [
     {
-      "id": "f6bc2e7208765af8",
-      "title": "做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
-      "summary": "刚开始构思匿名举报（Whistleblowing）系统时，思路看起来很简单：前端放个表单，后端落库，再做个后台给 HR 或 Auditing 团队看。但真正设计架构时才发现，提交表单是全系统最简单的部分。核心难题全在数据落库之后：动态权限、数据最小化以及无身份通信。总结了我们在实际工程中遇到的几个核心冲突，想和大家探讨一下…",
-      "url": "https://www.v2ex.com/t/1251413#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-24T01:57:18.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "VictorBvieira"
-    },
-    {
-      "id": "fd458e34e12c4eaf",
-      "title": "Personal Agent 大家平时都拿来干啥？都有啥定时任务？",
-      "summary": "AI 助理（Grok Bot、Dots、Muse 之类的）也出了一段时间了，确实在某些方面省了点事 但是感觉到最后还是个美丽的小废物，也就是看看邮件，看看活动啥的。。。有没有真离不开的用法？感觉我做的那些定时任务玩两天就吃灰了",
-      "url": "https://www.v2ex.com/t/1251415#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-24T02:03:53.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "smallhml"
-    },
-    {
-      "id": "39f31462594cbf77",
-      "title": "别说开发了, 这把运维真给干没了把",
-      "summary": "以前运维不说多少技术 反正是个幸苦活, 公司必须养着 毕竟经常晚上 2,3 点上线得有人盯着啊 现在 ai 弄个定时任务, 到 3 点上去怕怕一顿忙活, 可能几分钟就搞定了 现在 ai 写脚本, sql, 干运维等东西肯定远比人强多了 还能 24小时干活, 谁能比",
-      "url": "https://www.v2ex.com/t/1251410#reply11",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-24T01:27:59.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "iorilu"
-    },
-    {
-      "id": "7c0b3a254d8bce91",
-      "title": "1024 程序员节好",
-      "summary": "这一周安全新闻扎堆，差点把今天忘了。尽管 0day 和 AI 攻击多如牛毛，别忘了 1024 程序员节哦。还在线的，1024 快乐。",
-      "url": "https://www.v2ex.com/t/1251414#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-24T02:01:29.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
-      "sourceType": "rss",
-      "cover": "https://i.v2ex.co/77IAuX7B.jpeg",
-      "author": "trafly"
-    },
-    {
-      "id": "94c2a0929a7ff8d4",
-      "title": "又发现一款类 ARC 浏览器 Yab，安装包不到 90m",
-      "summary": "昨天还在推荐 crest，今天换成 Yab，都是 webkit，Yab 速度感觉快一点",
-      "url": "https://www.v2ex.com/t/1251408#reply1",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-24T01:04:36.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "oriver"
-    },
-    {
-      "id": "1928c34614c93e04",
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "titleZh": "不断发展的威胁：http2shell 是 node、Python 等中的 RCE",
-      "summary": "Hacker News 热帖，当前积分 85，评论 32。",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "id": "e8e3396b26e7e51b",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "titleZh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能有多少钱？",
+      "summary": "Hacker News 热帖，当前积分 176，评论 147。",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-23T23:30:17.000Z",
+      "publishedAt": "2026-10-24T23:11:54.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -129,45 +40,176 @@
       "sourceType": "api"
     },
     {
-      "id": "480507f691665fc5",
-      "title": "Startups don’t need to go viral to win customers",
-      "titleZh": "初创公司无需病毒式传播即可赢得客户",
-      "summary": "在上周的 TechCrunch Disrupt 大会上，两位创始人和一位风险投资人讨论了如何不仅获得早期追随者，而且保留早期追随者。",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "id": "b506bd405daec363",
+      "title": "Why Gopher in 2026?",
+      "titleZh": "为什么是 2026年的 Gopher？",
+      "summary": "Hacker News 热帖，当前积分 27，评论 7。",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-24T23:33:19.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 109,
+      "sourceType": "api"
+    },
+    {
+      "id": "a15b9ffc2eeb0e3a",
+      "title": "We should be more ambitious with the software we build",
+      "titleZh": "我们应该更加雄心勃勃地使用我们构建的软件",
+      "summary": "Hacker News 热帖，当前积分 183，评论 140。",
+      "url": "https://danluu.com/ambitious/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-24T21:47:31.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 107,
+      "sourceType": "api"
+    },
+    {
+      "id": "2cac2d5e76e15cc8",
+      "title": "Small Programs and Languages",
+      "titleZh": "小程序和语言",
+      "summary": "Hacker News 热帖，当前积分 45，评论 1。",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-24T21:44:23.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 106,
+      "sourceType": "api"
+    },
+    {
+      "id": "6271fa4d9cdb548d",
+      "title": "team codex 额度 vs GPT PLUS 额度如何？",
+      "summary": "楼主是一个经常使用 gpt team 的 ai 爱好者。某天发现有个 48team 活动，参与后就一发不可收拾。因为发现很划算，又因为发现一个不够用，于是我开一个又一个的 team，顺便找拼友一起分担。最后开了很多个用 cpa 串起来，一起用。为了方便拼友，以及懒得每月催债，我甚至拉起了网站让拼友自助。但是现在我还不清楚，…",
+      "url": "https://www.v2ex.com/t/1251586#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-10-24T20:04:20.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 106,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "zgdselina26"
+    },
+    {
+      "id": "3de06df0927a279c",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "titleZh": "Starlink 似乎在乌克兰恢复正常工作",
+      "summary": "据报道，埃隆·马斯克（Elon Musk）命令 SpaceX 限制乌克兰的 Starlink 访问权限。",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-23T23:07:45.000Z",
+      "publishedAt": "2026-10-24T20:46:34.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 102,
+      "score": 97,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "2e2a3e183219fe5d",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "titleZh": "OpenAI 表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
-      "summary": "OpenAI 将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-23T23:05:49.000Z",
-      "category": "product",
+      "id": "2341c2223901b8ff",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "titleZh": "收听和阅读美国核力量紧急行动信息，收听频率为 11175 kHz",
+      "summary": "Hacker News 热帖，当前积分 121，评论 79。",
+      "url": "https://missileer.watch",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-24T19:43:27.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 102,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 103,
+      "sourceType": "api"
+    },
+    {
+      "id": "4d3514e416107d9d",
+      "title": "SpeedCrunch 1.1",
+      "titleZh": "SpeedCrunch 1.1",
+      "summary": "Hacker News 热帖，当前积分 78，评论 10。",
+      "url": "https://www.speedcrunch.org/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-24T19:19:43.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 103,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "5450a6b854418b84",
+      "title": "在硅谷，遇见个人计算机历史",
+      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文",
+      "url": "https://sspai.com/post/116128",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-24T08:26:02.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 86,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "StephenFang"
+    },
+    {
+      "id": "458e2216a5287d06",
+      "title": "sideOS.ai",
+      "titleZh": "sideOS.ai",
+      "summary": "用于听写、会议、后台任务等的本地 AI",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-23T13:28:40.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 56,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Bugrahan Zeki Kadak"
+    },
     {
       "id": "2376d02edaab9de3",
       "title": "本周看什么 | 最近值得一看的 12 部作品",
@@ -181,7 +223,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 92,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -199,29 +241,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 87,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "KingTsui"
-    },
-    {
-      "id": "d143408bbf740dba",
-      "title": "Termi Protocol",
-      "titleZh": "TERMI 协议",
-      "summary": "观看 AI 代理 3D 编码并交接工作",
-      "url": "https://www.producthunt.com/products/termi-protocol",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-23T04:32:57.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 78,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Eric Omer Ercan"
     },
     {
       "id": "811f8b78bb3b31ac",
@@ -236,7 +259,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 81,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "苏志斌SUiTHiNK"
@@ -254,28 +277,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 76,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "ef90091cfdd9e9d7",
-      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/115437",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-22T09:10:03.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
       "score": 60,
       "sourceType": "rss",
       "cover": "",
-      "author": "log"
+      "author": "少数派编辑部"
     }
   ],
   "sections": [
@@ -298,7 +303,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 102,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)"
@@ -316,7 +321,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 82,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026102201.webp",
           "author": "阮一峰"
@@ -419,7 +424,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 111,
+          "score": 73,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -438,7 +443,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 101,
+          "score": 63,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -457,7 +462,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 100,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -476,7 +481,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 85,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -495,7 +500,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 75,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -514,7 +519,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 73,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,116 +532,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "480507f691665fc5",
-          "title": "Startups don’t need to go viral to win customers",
-          "titleZh": "初创公司无需病毒式传播即可赢得客户",
-          "summary": "在上周的 TechCrunch Disrupt 大会上，两位创始人和一位风险投资人讨论了如何不仅获得早期追随者，而且保留早期追随者。",
-          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "id": "3de06df0927a279c",
+          "title": "Starlink seems to be working normally again in Ukraine",
+          "titleZh": "Starlink 似乎在乌克兰恢复正常工作",
+          "summary": "据报道，埃隆·马斯克（Elon Musk）命令 SpaceX 限制乌克兰的 Starlink 访问权限。",
+          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-23T23:07:45.000Z",
+          "publishedAt": "2026-10-24T20:46:34.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "2e2a3e183219fe5d",
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "titleZh": "OpenAI 表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
-          "summary": "OpenAI 将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "id": "b0c690c43d201060",
+          "title": "Will AI expose the rickety infrastructure of the internet?",
+          "titleZh": "人工智能会暴露互联网摇摇欲坠的基础设施吗？",
+          "summary": "当你意识到互联网“被胶水和梦想粘合在一起”时。",
+          "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-23T23:05:49.000Z",
+          "publishedAt": "2026-10-24T20:15:33.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "1d2edf4eadc59ab0",
-          "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-          "titleZh": "圣诞节最热门的玩具？英伟达首席执行官与可爱的 Microduck 机器人玩耍，售出 2 万台",
-          "summary": "机器人跺着小脚，发出微小的 R2-D2 声音，坐了下来，摔死了“小睡一会儿”，然后在语音命令下翻腾起来。",
-          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "id": "a1a3a0387156ed16",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "titleZh": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+          "summary": "从苹果一再推迟 Siri AI 到 OpenAI 凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-23T21:59:19.000Z",
+          "publishedAt": "2026-10-24T19:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "50448c14dc71f2da",
-          "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-          "titleZh": "VC、Superhuman Mail 创始人分享产品与市场契合度的危险信号",
-          "summary": "Iconiq 和 Sapphire Ventures 的顶级投资者以及 Superhuman Mail 的创始人 Rahul Vohra 分享了构建热门产品的注意事项。",
-          "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+          "id": "6cbac4c042de2280",
+          "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+          "titleZh": "据报道，Instacart 与 DoorDash 和优步讨论了自我推销事宜",
+          "summary": "Instacart 可能会将自己卖给更大的竞争对手。",
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-23T20:57:13.000Z",
+          "publishedAt": "2026-10-24T16:30:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 100,
+          "score": 89,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "49f584bb9783bf46",
-          "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-          "titleZh": "TechCrunch 创始人峰会 2026 圆桌会议：深入了解创始人正在解决的挑战",
-          "summary": "TechCrunch 创始人峰会 2026 将于 11月4日在波士顿的 SoWa 电站举行，将创始人、投资者和运营商聚集在一起，进行一整天的坦诚交流……",
-          "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+          "id": "9d76d9c8bc0235be",
+          "title": "Block’s new voice model sounds eerily human",
+          "titleZh": "Block 的新声音模型听起来很人性化",
+          "summary": "布洛克说，语音模型可以在 MacBook M4 Max 上本地运行",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-23T20:03:14.000Z",
+          "publishedAt": "2026-10-24T16:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 99,
+          "score": 89,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "03efc35dbc6ed00d",
-          "title": "Claude Duet is beautiful. I still forgot to use it",
-          "titleZh": "Claude Duet 很漂亮。我仍然忘记了使用它",
-          "summary": "立即观看（16分钟） |🎙️我在真实工作中测试了 Anthropic 设计精美的新个人经纪人 Claude Duet，看看它是否能战胜我的个人经纪人疲劳和……",
-          "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+          "id": "7c7eddad454f66cd",
+          "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+          "titleZh": "🧠 社区智慧：谈判低价优惠、设计师在产品决策中占有一席之地、构建 MCP 服务器的资源等",
+          "summary": "社区智慧 303",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-10-21T20:25:18.000Z",
+          "publishedAt": "2026-10-24T15:11:42.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 86,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/221540875/8d8085b07ba439d243299d78bf5353ce.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
           "author": ""
         }
       ]
@@ -660,7 +665,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 89,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -679,7 +684,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 89,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -698,7 +703,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 67,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -749,104 +754,14 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "f6bc2e7208765af8",
-          "title": "做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
-          "summary": "刚开始构思匿名举报（Whistleblowing）系统时，思路看起来很简单：前端放个表单，后端落库，再做个后台给 HR 或 Auditing 团队看。但真正设计架构时才发现，提交表单是全系统最简单的部分。核心难题全在数据落库之后：动态权限、数据最小化以及无身份通信。总结了我们在实际工程中遇到的几个核心冲突，想和大家探讨一下…",
-          "url": "https://www.v2ex.com/t/1251413#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-24T01:57:18.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "VictorBvieira"
-        },
-        {
-          "id": "fd458e34e12c4eaf",
-          "title": "Personal Agent 大家平时都拿来干啥？都有啥定时任务？",
-          "summary": "AI 助理（Grok Bot、Dots、Muse 之类的）也出了一段时间了，确实在某些方面省了点事 但是感觉到最后还是个美丽的小废物，也就是看看邮件，看看活动啥的。。。有没有真离不开的用法？感觉我做的那些定时任务玩两天就吃灰了",
-          "url": "https://www.v2ex.com/t/1251415#reply1",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-24T02:03:53.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 114,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "smallhml"
-        },
-        {
-          "id": "39f31462594cbf77",
-          "title": "别说开发了, 这把运维真给干没了把",
-          "summary": "以前运维不说多少技术 反正是个幸苦活, 公司必须养着 毕竟经常晚上 2,3 点上线得有人盯着啊 现在 ai 弄个定时任务, 到 3 点上去怕怕一顿忙活, 可能几分钟就搞定了 现在 ai 写脚本, sql, 干运维等东西肯定远比人强多了 还能 24小时干活, 谁能比",
-          "url": "https://www.v2ex.com/t/1251410#reply11",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-24T01:27:59.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "iorilu"
-        },
-        {
-          "id": "7c0b3a254d8bce91",
-          "title": "1024 程序员节好",
-          "summary": "这一周安全新闻扎堆，差点把今天忘了。尽管 0day 和 AI 攻击多如牛毛，别忘了 1024 程序员节哦。还在线的，1024 快乐。",
-          "url": "https://www.v2ex.com/t/1251414#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-24T02:01:29.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
-          "sourceType": "rss",
-          "cover": "https://i.v2ex.co/77IAuX7B.jpeg",
-          "author": "trafly"
-        },
-        {
-          "id": "94c2a0929a7ff8d4",
-          "title": "又发现一款类 ARC 浏览器 Yab，安装包不到 90m",
-          "summary": "昨天还在推荐 crest，今天换成 Yab，都是 webkit，Yab 速度感觉快一点",
-          "url": "https://www.v2ex.com/t/1251408#reply1",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-24T01:04:36.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "oriver"
-        },
-        {
-          "id": "1928c34614c93e04",
-          "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-          "titleZh": "不断发展的威胁：http2shell 是 node、Python 等中的 RCE",
-          "summary": "Hacker News 热帖，当前积分 85，评论 32。",
-          "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+          "id": "e8e3396b26e7e51b",
+          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "titleZh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能有多少钱？",
+          "summary": "Hacker News 热帖，当前积分 176，评论 147。",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-23T23:30:17.000Z",
+          "publishedAt": "2026-10-24T23:11:54.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -855,6 +770,100 @@
             "讨论"
           ],
           "score": 109,
+          "sourceType": "api"
+        },
+        {
+          "id": "b506bd405daec363",
+          "title": "Why Gopher in 2026?",
+          "titleZh": "为什么是 2026年的 Gopher？",
+          "summary": "Hacker News 热帖，当前积分 27，评论 7。",
+          "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-24T23:33:19.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 109,
+          "sourceType": "api"
+        },
+        {
+          "id": "a15b9ffc2eeb0e3a",
+          "title": "We should be more ambitious with the software we build",
+          "titleZh": "我们应该更加雄心勃勃地使用我们构建的软件",
+          "summary": "Hacker News 热帖，当前积分 183，评论 140。",
+          "url": "https://danluu.com/ambitious/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-24T21:47:31.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 107,
+          "sourceType": "api"
+        },
+        {
+          "id": "2cac2d5e76e15cc8",
+          "title": "Small Programs and Languages",
+          "titleZh": "小程序和语言",
+          "summary": "Hacker News 热帖，当前积分 45，评论 1。",
+          "url": "https://ratfactor.com/cards/pl-small",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-24T21:44:23.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 106,
+          "sourceType": "api"
+        },
+        {
+          "id": "6271fa4d9cdb548d",
+          "title": "team codex 额度 vs GPT PLUS 额度如何？",
+          "summary": "楼主是一个经常使用 gpt team 的 ai 爱好者。某天发现有个 48team 活动，参与后就一发不可收拾。因为发现很划算，又因为发现一个不够用，于是我开一个又一个的 team，顺便找拼友一起分担。最后开了很多个用 cpa 串起来，一起用。为了方便拼友，以及懒得每月催债，我甚至拉起了网站让拼友自助。但是现在我还不清楚，…",
+          "url": "https://www.v2ex.com/t/1251586#reply0",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-10-24T20:04:20.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "zgdselina26"
+        },
+        {
+          "id": "2341c2223901b8ff",
+          "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+          "titleZh": "收听和阅读美国核力量紧急行动信息，收听频率为 11175 kHz",
+          "summary": "Hacker News 热帖，当前积分 121，评论 79。",
+          "url": "https://missileer.watch",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-24T19:43:27.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 103,
           "sourceType": "api"
         }
       ]
@@ -866,7 +875,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 80,
+    "totalItems": 81,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -889,6 +898,10 @@
       "count": 10
     },
     {
+      "tag": "工具/网站",
+      "count": 9
+    },
+    {
       "tag": "工程效率",
       "count": 8
     },
@@ -897,11 +910,11 @@
       "count": 8
     },
     {
-      "tag": "工具/网站",
-      "count": 8
+      "tag": "开发者社区",
+      "count": 6
     },
     {
-      "tag": "开发者社区",
+      "tag": "效率",
       "count": 6
     },
     {
@@ -910,10 +923,6 @@
     },
     {
       "tag": "开源模型",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
@@ -933,7 +942,7 @@
       "count": 4
     },
     {
-      "tag": "技术周刊",
+      "tag": "新产品",
       "count": 3
     }
   ]
