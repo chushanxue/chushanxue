@@ -1,124 +1,51 @@
 {
-  "generatedAt": "2026-10-31T02:08:08.660Z",
+  "generatedAt": "2026-11-01T02:08:34.559Z",
   "headline": {
-    "id": "66a85df716f7b43a",
-    "title": "AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗",
-    "summary": "前几天，我在一个平台发了条动态，预告自己在做的一个写作发布工具。底下有人说没啥用，不如做个抢优惠券的；也有人说别自嗨。我没有生气，也没往心里去，但它让我想了很久。平台上的读者来自四面八方，关心的东西差别很大，同一件事在不同的人眼里，价值完全不同，这很正常。我真正在意的是另一件事：我想写的东西，是不是只能放进推荐流里，等一个不确定的…",
-    "url": "https://www.v2ex.com/t/1253343#reply7",
+    "id": "fae13a17e4feb6fe",
+    "title": "[数据分享] 基于 ISLP 负载实测： OCI Ampere A1 (ARM64)、Kaggle、Lightning 与本地 6800H 多线程性能对比",
+    "summary": "跑《统计学习导论》(ISLP) 实验时，顺手测了一下常用免费云端算力实例与本地标压笔记本在基础机器学习负载下的性能差异。非严格学术评测，仅记录单机工程数据供参考 一、测试环境 OCI ARM：Ampere Altra 架构，4 OCPU （独立物理核），24 GB RAM，Ubuntu 22.04 Lightning AI：…",
+    "url": "https://www.v2ex.com/t/1253491#reply1",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-10-31T01:06:13.000Z",
+    "publishedAt": "2026-11-01T01:56:07.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 114,
+    "score": 116,
     "sourceType": "rss",
-    "cover": "https://cdn.jsdelivr.net/gh/kingshuaishuai/ys-imgs@main/quirepub/4dfc71519187e9dc8176a7145ec7e6a4.png",
-    "author": "1244943563"
+    "cover": "",
+    "author": "GoogolChrome111"
   },
   "latest": [
     {
-      "id": "66a85df716f7b43a",
-      "title": "AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗",
-      "summary": "前几天，我在一个平台发了条动态，预告自己在做的一个写作发布工具。底下有人说没啥用，不如做个抢优惠券的；也有人说别自嗨。我没有生气，也没往心里去，但它让我想了很久。平台上的读者来自四面八方，关心的东西差别很大，同一件事在不同的人眼里，价值完全不同，这很正常。我真正在意的是另一件事：我想写的东西，是不是只能放进推荐流里，等一个不确定的…",
-      "url": "https://www.v2ex.com/t/1253343#reply7",
+      "id": "fae13a17e4feb6fe",
+      "title": "[数据分享] 基于 ISLP 负载实测： OCI Ampere A1 (ARM64)、Kaggle、Lightning 与本地 6800H 多线程性能对比",
+      "summary": "跑《统计学习导论》(ISLP) 实验时，顺手测了一下常用免费云端算力实例与本地标压笔记本在基础机器学习负载下的性能差异。非严格学术评测，仅记录单机工程数据供参考 一、测试环境 OCI ARM：Ampere Altra 架构，4 OCPU （独立物理核），24 GB RAM，Ubuntu 22.04 Lightning AI：…",
+      "url": "https://www.v2ex.com/t/1253491#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-31T01:06:13.000Z",
+      "publishedAt": "2026-11-01T01:56:07.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "https://cdn.jsdelivr.net/gh/kingshuaishuai/ys-imgs@main/quirepub/4dfc71519187e9dc8176a7145ec7e6a4.png",
-      "author": "1244943563"
-    },
-    {
-      "id": "38448336ca89eb5c",
-      "title": "使用强度是不是才是 Claude 发起审核的最主要因素？",
-      "summary": "如题 背景：因为比较佛 Pro 一直保持 50%以内的周额度使用（本地 app），毫无问题。突发奇想开了一个高强度的研究类项目，反复推进，周额度 90 以上连续两周，然后 9月底封禁",
-      "url": "https://www.v2ex.com/t/1253354#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-31T01:49:48.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "yesqu"
-    },
-    {
-      "id": "55b5a899445f45b3",
-      "title": "台湾 Claude 号生意有搞头吗",
-      "summary": "全套本地 KYC + 付款 + 手机验证 + 家宽 IP 代开的话。我有资源，不知道市场需求怎么样。",
-      "url": "https://www.v2ex.com/t/1253348#reply7",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-31T01:38:04.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "383394544"
-    },
-    {
-      "id": "033c2f216870022b",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "titleZh": "英伟达将为 Nscale 位于西弗吉尼亚州的人工智能数据中心配音",
-      "summary": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-31T01:20:05.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 106,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "48d0d04d50286627",
-      "title": "大家目前被封禁了几个 Claude 账户？",
-      "summary": "看了最近不少 Claude 封号的帖子，也想分享一下自己的情况 我的账号目前都还正常，最早的一个已经使用了 1年3 个月。注册初期甚至有 3 个月是在设备设置为北京时间的 iPhone 上使用的，后来还在 iPhone 上订阅过一个月 Pro 目前没有 Max 的需求 大家的 Claude 账号都是什么情况？最长用了多久？",
-      "url": "https://www.v2ex.com/t/1253335#reply11",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-10-30T23:47:21.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 112,
+      "score": 116,
       "sourceType": "rss",
       "cover": "",
       "author": "GoogolChrome111"
     },
     {
-      "id": "998e198f1e09a8a3",
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "titleZh": "SHOW HN：向帕特里克·斯图尔特爵士致敬，享受 TNG 剧集猜测游戏",
-      "summary": "Hacker News 热帖，当前积分 59，评论 18。",
-      "url": "https://tng.episodle.com/",
+      "id": "36cfd0872673cd74",
+      "title": "When electric cars were for women",
+      "titleZh": "当电动汽车适合女性时",
+      "summary": "Hacker News 热帖，当前积分 37，评论 9。",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-30T23:51:24.000Z",
+      "publishedAt": "2026-10-31T23:08:12.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -126,37 +53,93 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 110,
+      "score": 109,
       "sourceType": "api"
     },
     {
-      "id": "c6739debaed2eaa1",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "titleZh": "专注于隐私的人工智能助手 Ollie 正在关闭",
-      "summary": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手 Ollie 的创始人表示，它将在短短几天内关闭......",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-30T22:56:13.000Z",
-      "category": "product",
+      "id": "25d0b6835854af1b",
+      "title": "tibo 发重置卡了 注意查收（day 27）",
+      "summary": "https://codex-reset.com/zh/#signals 已到账 12月1 号到期",
+      "url": "https://www.v2ex.com/t/1253476#reply3",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-11-01T00:05:19.000Z",
+      "category": "industry",
       "tags": [
-        "产品/商业",
-        "科技公司"
+        "行业热点",
+        "开发者社区"
       ],
-      "score": 104,
+      "score": 108,
       "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "privateproxies"
     },
     {
-      "id": "f1fbbdcb0be46cf0",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "titleZh": "Salesforce 的并购热潮仍在继续，据报道，国防科技初创公司 Rune 获得了 3.75亿美元的交易",
-      "summary": "这家 AI 物流初创公司将加强 CRM 巨头的 Missionforce 防御平台。",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "id": "11baa156f75d5d65",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "titleZh": "一位意大利农民在他的阁楼上发现了一些未知的种子，并种下了它们",
+      "summary": "Hacker News 热帖，当前积分 159，评论 47。",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-31T22:41:06.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "1284c0833104a611",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "titleZh": "Memdoor：由 5 名 Qwen3.8-27B 型号组成的团队在 LiveCodeBench Hard 上击败 Fable 5",
+      "summary": "Hacker News 热帖，当前积分 84，评论 42。",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-31T22:46:12.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "00cc0f793f28cdae",
+      "title": "Altoids Project",
+      "titleZh": "Altoids 项目",
+      "summary": "Hacker News 热帖，当前积分 44，评论 1。",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-10-31T22:54:55.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "2b0a0f648a0feca3",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "titleZh": "还剩 4天：TechCrunch 创始人峰会如何帮助您建立更有用的联系以扩大规模",
+      "summary": "11月4日，在波士顿的 SoWa 发电站，准备好一整天，充满有意义的网络机会，可操作的见解和连接，可以......",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-30T23:21:23.000Z",
+      "publishedAt": "2026-10-31T21:36:07.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
@@ -166,9 +149,83 @@
       "sourceType": "rss",
       "cover": "",
       "author": ""
+    },
+    {
+      "id": "87d5bedc3deb14c3",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "titleZh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+      "summary": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 98,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "aa3c334eef8c59e1",
+      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+      "summary": "欢迎你在评论区分享 10月新作的游玩体验。查看全文",
+      "url": "https://sspai.com/post/117960",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-31T05:29:19.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 82,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "板斧"
+    },
+    {
+      "id": "1638242f24be792e",
+      "title": "一图流 | 一张图看懂中国版 Apple 智能",
+      "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。查看全文",
+      "url": "https://sspai.com/post/117953",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-10-31T04:10:39.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 80,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "143db27d4e997c9c",
+      "title": "ChainPoints",
+      "titleZh": "ChainPoints",
+      "summary": "您在 Google 航班上的积分机票价格",
+      "url": "https://www.producthunt.com/products/chainpoints",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-30T17:51:42.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 61,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Adityaraj Padmanabhan"
+    },
     {
       "id": "876e89424dd5e86f",
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -182,7 +239,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 92,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -200,7 +257,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 85,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "Roark"
@@ -218,65 +275,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 82,
+      "score": 61,
       "sourceType": "rss",
       "cover": "",
       "author": "阿帅的健康笔记"
-    },
-    {
-      "id": "9a8b768d8df08692",
-      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-      "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。查看全文",
-      "url": "https://sspai.com/post/116435",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-30T03:13:40.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 80,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "jyf15"
-    },
-    {
-      "id": "dead7ef57dae002d",
-      "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
-      "summary": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。查看全文",
-      "url": "https://sspai.com/post/117827",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-30T00:13:38.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "7ac5b05287642817",
-      "title": "Canva Brush",
-      "titleZh": "Canva 画笔",
-      "summary": "编辑设计的视觉语言模型",
-      "url": "https://www.producthunt.com/products/canva",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-29T19:23:23.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 64,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Rohan Chaubey"
     }
   ],
   "sections": [
@@ -285,6 +287,25 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "a413ec328a5434b6",
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "titleZh": "11月灰色的色彩火花（2026年壁纸版）",
+          "summary": "让我们从 11月开始，推出全新的桌面壁纸系列！壁纸由来自世界各地的创意人士设计，具有各种屏幕分辨率……",
+          "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-10-31T08:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)"
+        },
         {
           "id": "8c06805372988b0e",
           "title": "懒加载图片新支持了sizes=”auto”属性，其作用是？",
@@ -300,7 +321,7 @@
             "HTML相关",
             "图片"
           ],
-          "score": 100,
+          "score": 65,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202610/2026-10-30_193746.webp",
           "author": ""
@@ -318,7 +339,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 82,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202610/bg2026102923.webp",
           "author": "阮一峰"
@@ -379,25 +400,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "bb0d302473cd100c",
-          "title": "算了，还是讲下named-feature() @supports规则检测吧",
-          "summary": "named-feature() @supports 规则检测本身没什么好多的，就是 CSS 规范里显式登记的特殊特征变化检测，但是其支持的特性背后的故事却是值得好好说道说道的。",
-          "url": "https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/",
-          "source": "张鑫旭博客",
-          "sourceUrl": "https://www.zhangxinxu.com/",
-          "publishedAt": "2026-10-26T07:09:37.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS",
-            "CSS相关"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "https://image.zhangxinxu.com/image/blog/202610/2026-10-26_150640.webp",
-          "author": ""
         }
       ]
     },
@@ -420,26 +422,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 104,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "57eaf063eda18273",
-          "title": "Making it easier for websites to express AI training preferences",
-          "titleZh": "让网站更容易表达人工智能培训偏好",
-          "summary": "OpenAI 将尊重共享的 robots.txt 信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。",
-          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-10-30T09:30:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 99,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -458,7 +441,26 @@
             "AI",
             "模型产品"
           ],
-          "score": 99,
+          "score": 69,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "57eaf063eda18273",
+          "title": "Making it easier for websites to express AI training preferences",
+          "titleZh": "让网站更容易表达人工智能培训偏好",
+          "summary": "OpenAI 将尊重共享的 robots.txt 信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-10-30T09:30:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -477,7 +479,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 85,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -496,7 +498,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 73,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -528,52 +530,14 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "033c2f216870022b",
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "titleZh": "英伟达将为 Nscale 位于西弗吉尼亚州的人工智能数据中心配音",
-          "summary": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "id": "2b0a0f648a0feca3",
+          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "titleZh": "还剩 4天：TechCrunch 创始人峰会如何帮助您建立更有用的联系以扩大规模",
+          "summary": "11月4日，在波士顿的 SoWa 发电站，准备好一整天，充满有意义的网络机会，可操作的见解和连接，可以......",
+          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-31T01:20:05.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 106,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "c6739debaed2eaa1",
-          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-          "titleZh": "专注于隐私的人工智能助手 Ollie 正在关闭",
-          "summary": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手 Ollie 的创始人表示，它将在短短几天内关闭......",
-          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-30T22:56:13.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 104,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f1fbbdcb0be46cf0",
-          "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-          "titleZh": "Salesforce 的并购热潮仍在继续，据报道，国防科技初创公司 Rune 获得了 3.75亿美元的交易",
-          "summary": "这家 AI 物流初创公司将加强 CRM 巨头的 Missionforce 防御平台。",
-          "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-30T23:21:23.000Z",
+          "publishedAt": "2026-10-31T21:36:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -585,59 +549,97 @@
           "author": ""
         },
         {
-          "id": "629b43081d274015",
-          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "titleZh": "英国《金融时报》报告称，Anthropic 预计将在 IPO 后获得信贷机构的高“垃圾”评级",
-          "summary": "Blackstone 的预测只是一个预测，但自然，高垃圾评级将使 Anthropic 更难以筹集资金来保持资金……",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "id": "87d5bedc3deb14c3",
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "titleZh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+          "summary": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-30T21:52:03.000Z",
+          "publishedAt": "2026-10-31T21:41:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "1563cde66f0f702e",
-          "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-          "titleZh": "英特尔股市崩盘，从政府持股中损失 120 亿 $",
-          "summary": "随着人工智能行业吞噬内存和其他组件导致个人电脑价格上涨，英特尔正受到个人电脑销售的影响。",
-          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+          "id": "ab7465c33e925d35",
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "titleZh": "法官允许 NAACP 就 xAI 数据中心污染提起诉讼",
+          "summary": "全国有色人种协进会（NAACP）的一起诉讼指控 SpaceX 拥有的人工智能公司违反了《清洁空气法》。",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-30T21:54:34.000Z",
+          "publishedAt": "2026-10-31T21:17:03.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 100,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "73ed36e1cdd48abe",
-          "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-          "titleZh": "Grok vs. Dot vs. Muse vs. Claude 二重奏：哪一个能击败竞争对手？",
-          "summary": "立即收听|🎙️我在 9 个真实任务中对 Grok Bot、Dot、Muse 和 Claude Duet 进行了排名，分数告诉我哪个代理负责我的工作，哪个负责我的生活",
-          "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+          "id": "1f079abc3a37f8a8",
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "titleZh": "据报道，OpenAI 降低了新一轮融资目标",
+          "summary": "OpenAI 的最新一轮融资似乎没有达到预期。",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-31T16:12:55.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 90,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "5e58dd42ca1ab5e4",
+          "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+          "titleZh": "从餐厅指南到付款，以下是 TikTok 如何构建超级应用程序",
+          "summary": "TikTok 可能正在努力成为人们用于大多数数字活动的应用程序。",
+          "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-10-31T15:41:57.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 89,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "64438312c32cec96",
+          "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
+          "titleZh": "🧠 社区智慧：项目经理的最大干扰来源、通过案例研究与行为访谈聘用初级项目经理、构建人工智能驱动开发的产品线等",
+          "summary": "社区智慧 304",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-10-28T12:04:22.000Z",
+          "publishedAt": "2026-10-31T16:14:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 88,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/222355930/43e8e8ad01ac79d11b39b82b1bff4592.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
           "author": ""
         }
       ]
@@ -661,7 +663,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 82,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -769,86 +771,32 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "66a85df716f7b43a",
-          "title": "AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗",
-          "summary": "前几天，我在一个平台发了条动态，预告自己在做的一个写作发布工具。底下有人说没啥用，不如做个抢优惠券的；也有人说别自嗨。我没有生气，也没往心里去，但它让我想了很久。平台上的读者来自四面八方，关心的东西差别很大，同一件事在不同的人眼里，价值完全不同，这很正常。我真正在意的是另一件事：我想写的东西，是不是只能放进推荐流里，等一个不确定的…",
-          "url": "https://www.v2ex.com/t/1253343#reply7",
+          "id": "fae13a17e4feb6fe",
+          "title": "[数据分享] 基于 ISLP 负载实测： OCI Ampere A1 (ARM64)、Kaggle、Lightning 与本地 6800H 多线程性能对比",
+          "summary": "跑《统计学习导论》(ISLP) 实验时，顺手测了一下常用免费云端算力实例与本地标压笔记本在基础机器学习负载下的性能差异。非严格学术评测，仅记录单机工程数据供参考 一、测试环境 OCI ARM：Ampere Altra 架构，4 OCPU （独立物理核），24 GB RAM，Ubuntu 22.04 Lightning AI：…",
+          "url": "https://www.v2ex.com/t/1253491#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-31T01:06:13.000Z",
+          "publishedAt": "2026-11-01T01:56:07.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 114,
-          "sourceType": "rss",
-          "cover": "https://cdn.jsdelivr.net/gh/kingshuaishuai/ys-imgs@main/quirepub/4dfc71519187e9dc8176a7145ec7e6a4.png",
-          "author": "1244943563"
-        },
-        {
-          "id": "38448336ca89eb5c",
-          "title": "使用强度是不是才是 Claude 发起审核的最主要因素？",
-          "summary": "如题 背景：因为比较佛 Pro 一直保持 50%以内的周额度使用（本地 app），毫无问题。突发奇想开了一个高强度的研究类项目，反复推进，周额度 90 以上连续两周，然后 9月底封禁",
-          "url": "https://www.v2ex.com/t/1253354#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-31T01:49:48.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "yesqu"
-        },
-        {
-          "id": "55b5a899445f45b3",
-          "title": "台湾 Claude 号生意有搞头吗",
-          "summary": "全套本地 KYC + 付款 + 手机验证 + 家宽 IP 代开的话。我有资源，不知道市场需求怎么样。",
-          "url": "https://www.v2ex.com/t/1253348#reply7",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-31T01:38:04.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "383394544"
-        },
-        {
-          "id": "48d0d04d50286627",
-          "title": "大家目前被封禁了几个 Claude 账户？",
-          "summary": "看了最近不少 Claude 封号的帖子，也想分享一下自己的情况 我的账号目前都还正常，最早的一个已经使用了 1年3 个月。注册初期甚至有 3 个月是在设备设置为北京时间的 iPhone 上使用的，后来还在 iPhone 上订阅过一个月 Pro 目前没有 Max 的需求 大家的 Claude 账号都是什么情况？最长用了多久？",
-          "url": "https://www.v2ex.com/t/1253335#reply11",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-10-30T23:47:21.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 112,
+          "score": 116,
           "sourceType": "rss",
           "cover": "",
           "author": "GoogolChrome111"
         },
         {
-          "id": "998e198f1e09a8a3",
-          "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-          "titleZh": "SHOW HN：向帕特里克·斯图尔特爵士致敬，享受 TNG 剧集猜测游戏",
-          "summary": "Hacker News 热帖，当前积分 59，评论 18。",
-          "url": "https://tng.episodle.com/",
+          "id": "36cfd0872673cd74",
+          "title": "When electric cars were for women",
+          "titleZh": "当电动汽车适合女性时",
+          "summary": "Hacker News 热帖，当前积分 37，评论 9。",
+          "url": "https://spectrum.ieee.org/early-electric-vehicles",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-30T23:51:24.000Z",
+          "publishedAt": "2026-10-31T23:08:12.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -856,18 +804,36 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 110,
+          "score": 109,
           "sourceType": "api"
         },
         {
-          "id": "42579b7fcc6718c2",
-          "title": "Jules Verne's Lost Novel",
-          "titleZh": "儒勒·凡尔纳的失落小说",
-          "summary": "Hacker News 热帖，当前积分 83，评论 19。",
-          "url": "https://blue-continuum.com/verne-paris",
+          "id": "25d0b6835854af1b",
+          "title": "tibo 发重置卡了 注意查收（day 27）",
+          "summary": "https://codex-reset.com/zh/#signals 已到账 12月1 号到期",
+          "url": "https://www.v2ex.com/t/1253476#reply3",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-11-01T00:05:19.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "privateproxies"
+        },
+        {
+          "id": "11baa156f75d5d65",
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "titleZh": "一位意大利农民在他的阁楼上发现了一些未知的种子，并种下了它们",
+          "summary": "Hacker News 热帖，当前积分 159，评论 47。",
+          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-30T19:55:10.000Z",
+          "publishedAt": "2026-10-31T22:41:06.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -875,7 +841,45 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 104,
+          "score": 108,
+          "sourceType": "api"
+        },
+        {
+          "id": "1284c0833104a611",
+          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+          "titleZh": "Memdoor：由 5 名 Qwen3.8-27B 型号组成的团队在 LiveCodeBench Hard 上击败 Fable 5",
+          "summary": "Hacker News 热帖，当前积分 84，评论 42。",
+          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-31T22:46:12.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
+          "sourceType": "api"
+        },
+        {
+          "id": "00cc0f793f28cdae",
+          "title": "Altoids Project",
+          "titleZh": "Altoids 项目",
+          "summary": "Hacker News 热帖，当前积分 44，评论 1。",
+          "url": "https://uvdn7.github.io/altoids-project/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-10-31T22:54:55.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
           "sourceType": "api"
         }
       ]
@@ -887,7 +891,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 84,
+    "totalItems": 82,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -906,12 +910,12 @@
       "count": 12
     },
     {
-      "tag": "工具/网站",
-      "count": 11
-    },
-    {
       "tag": "产品/商业",
       "count": 10
+    },
+    {
+      "tag": "工具/网站",
+      "count": 9
     },
     {
       "tag": "工程效率",
@@ -926,15 +930,15 @@
       "count": 6
     },
     {
+      "tag": "效率",
+      "count": 6
+    },
+    {
       "tag": "开源模型",
       "count": 6
     },
     {
       "tag": "模型产品",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
@@ -946,12 +950,12 @@
       "count": 5
     },
     {
-      "tag": "新产品",
+      "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "开发平台",
-      "count": 5
+      "tag": "新产品",
+      "count": 3
     },
     {
       "tag": "技术周刊",
