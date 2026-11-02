@@ -1,176 +1,229 @@
 {
-  "generatedAt": "2026-11-01T02:08:34.559Z",
+  "generatedAt": "2026-11-02T02:08:38.301Z",
   "headline": {
-    "id": "fae13a17e4feb6fe",
-    "title": "[数据分享] 基于 ISLP 负载实测： OCI Ampere A1 (ARM64)、Kaggle、Lightning 与本地 6800H 多线程性能对比",
-    "summary": "跑《统计学习导论》(ISLP) 实验时，顺手测了一下常用免费云端算力实例与本地标压笔记本在基础机器学习负载下的性能差异。非严格学术评测，仅记录单机工程数据供参考 一、测试环境 OCI ARM：Ampere Altra 架构，4 OCPU （独立物理核），24 GB RAM，Ubuntu 22.04 Lightning AI：…",
-    "url": "https://www.v2ex.com/t/1253491#reply1",
+    "id": "1d19677499d49007",
+    "title": "Codex Pro 100$续费订阅额度会重置吗？",
+    "summary": "我的 codex 额度显式 11月4 号重置，但是我的订阅今晚就要续费了。我续费之后额度会重置吗？还是说续费之后也得等到 11.04 才会重置？官网档案也没有明确说明这种情况，现在在纠结要不要用重置卡，有没有老哥懂这一块的？感谢老哥们的解答。",
+    "url": "https://www.v2ex.com/t/1253674#reply1",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-11-01T01:56:07.000Z",
+    "publishedAt": "2026-11-02T01:58:35.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 116,
+    "score": 114,
     "sourceType": "rss",
     "cover": "",
-    "author": "GoogolChrome111"
+    "author": "Lasia"
   },
   "latest": [
     {
-      "id": "fae13a17e4feb6fe",
-      "title": "[数据分享] 基于 ISLP 负载实测： OCI Ampere A1 (ARM64)、Kaggle、Lightning 与本地 6800H 多线程性能对比",
-      "summary": "跑《统计学习导论》(ISLP) 实验时，顺手测了一下常用免费云端算力实例与本地标压笔记本在基础机器学习负载下的性能差异。非严格学术评测，仅记录单机工程数据供参考 一、测试环境 OCI ARM：Ampere Altra 架构，4 OCPU （独立物理核），24 GB RAM，Ubuntu 22.04 Lightning AI：…",
-      "url": "https://www.v2ex.com/t/1253491#reply1",
+      "id": "1d19677499d49007",
+      "title": "Codex Pro 100$续费订阅额度会重置吗？",
+      "summary": "我的 codex 额度显式 11月4 号重置，但是我的订阅今晚就要续费了。我续费之后额度会重置吗？还是说续费之后也得等到 11.04 才会重置？官网档案也没有明确说明这种情况，现在在纠结要不要用重置卡，有没有老哥懂这一块的？感谢老哥们的解答。",
+      "url": "https://www.v2ex.com/t/1253674#reply1",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-01T01:56:07.000Z",
+      "publishedAt": "2026-11-02T01:58:35.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 116,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
-      "author": "GoogolChrome111"
+      "author": "Lasia"
     },
     {
-      "id": "36cfd0872673cd74",
-      "title": "When electric cars were for women",
-      "titleZh": "当电动汽车适合女性时",
-      "summary": "Hacker News 热帖，当前积分 37，评论 9。",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "id": "d002dd0bb0757155",
+      "title": "Codex 之前赠送的 6w 多额度有过期时间吗",
+      "summary": "之前送的重置卡过期太心疼了，我在 codex 中没看到额度有过期时间显示，这个是永久的吗",
+      "url": "https://www.v2ex.com/t/1253662#reply3",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-11-02T01:40:58.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "layxy"
+    },
+    {
+      "id": "3a3a5d196045ef80",
+      "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
+      "summary": "前两天买了个 ESP Mosaico，我感觉我真的要完了，嵌入式开发也彻底没救了。mosaico.ai > 个人体验，只要把这个模块插上电脑，然后跟 AI 说你想要在上面做什么功能，它就会自己分析 UI 应该怎么画、传感器怎么选配，然后先在上位机仿真，再到下位机 debug （对的，可以直接 debug 下位机）。以下两个小应…",
+      "url": "https://www.v2ex.com/t/1253635#reply19",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-11-02T00:38:23.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "DawnMoon"
+    },
+    {
+      "id": "43c5172865fccb37",
+      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "summary": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/118191",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-01T23:22:45.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "805ce264a0efd60f",
+      "title": "OccupySaaS",
+      "titleZh": "OccupySaaS",
+      "summary": "Hacker News 热帖，当前积分 36，评论 9。",
+      "url": "https://occupysaas.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-31T23:08:12.000Z",
+      "publishedAt": "2026-11-02T00:17:27.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "工程效率",
         "Hacker News",
         "讨论"
+      ],
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "d91196e78e389ffa",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "titleZh": "Game Off 2026：主题是转变",
+      "summary": "GitHub 一年一度的为期一个月的游戏果酱已回归第 14 个年头！今年11月，制作一款受主题转变启发的游戏。改变齿轮，交换视角，弯曲现实，或……",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-11-01T21:36:00.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发平台"
       ],
       "score": 109,
-      "sourceType": "api"
-    },
-    {
-      "id": "25d0b6835854af1b",
-      "title": "tibo 发重置卡了 注意查收（day 27）",
-      "summary": "https://codex-reset.com/zh/#signals 已到账 12月1 号到期",
-      "url": "https://www.v2ex.com/t/1253476#reply3",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-01T00:05:19.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 108,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "privateproxies"
-    },
-    {
-      "id": "11baa156f75d5d65",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "titleZh": "一位意大利农民在他的阁楼上发现了一些未知的种子，并种下了它们",
-      "summary": "Hacker News 热帖，当前积分 159，评论 47。",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-31T22:41:06.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 108,
-      "sourceType": "api"
-    },
-    {
-      "id": "1284c0833104a611",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "titleZh": "Memdoor：由 5 名 Qwen3.8-27B 型号组成的团队在 LiveCodeBench Hard 上击败 Fable 5",
-      "summary": "Hacker News 热帖，当前积分 84，评论 42。",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-31T22:46:12.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 108,
-      "sourceType": "api"
-    },
-    {
-      "id": "00cc0f793f28cdae",
-      "title": "Altoids Project",
-      "titleZh": "Altoids 项目",
-      "summary": "Hacker News 热帖，当前积分 44，评论 1。",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-10-31T22:54:55.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 108,
-      "sourceType": "api"
-    },
-    {
-      "id": "2b0a0f648a0feca3",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "titleZh": "还剩 4天：TechCrunch 创始人峰会如何帮助您建立更有用的联系以扩大规模",
-      "summary": "11月4日，在波士顿的 SoWa 发电站，准备好一整天，充满有意义的网络机会，可操作的见解和连接，可以......",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-31T21:36:07.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 101,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "87d5bedc3deb14c3",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "titleZh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
-      "summary": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "id": "37b6264e0eee99ef",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "titleZh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”",
+      "summary": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 98,
+      "score": 99,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "29e7982bc892ced4",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "titleZh": "人工智能可以让科技 CEO 的生活更轻松。其他人呢？",
+      "summary": "在 Equity 上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 97,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "43c5172865fccb37",
+      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "summary": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "url": "https://sspai.com/post/118191",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-01T23:22:45.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "a40a2c0e0ee546d0",
+      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/116991",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-01T07:02:46.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 87,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "随便好啦"
+    },
+    {
+      "id": "e3c7f3efac96a2bc",
+      "title": "agentmash",
+      "titleZh": "agentmash",
+      "summary": "面向团队编程代理的开源多人 AI",
+      "url": "https://www.producthunt.com/products/agentmash",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-10-31T18:08:19.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 62,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Damir Iskakov"
+    },
     {
       "id": "aa3c334eef8c59e1",
       "title": "本月玩什么｜影之刃零、战争机器：事变日等",
@@ -184,7 +237,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 82,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "板斧"
@@ -202,29 +255,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 80,
+      "score": 58,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "143db27d4e997c9c",
-      "title": "ChainPoints",
-      "titleZh": "ChainPoints",
-      "summary": "您在 Google 航班上的积分机票价格",
-      "url": "https://www.producthunt.com/products/chainpoints",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-10-30T17:51:42.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 61,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Adityaraj Padmanabhan"
     },
     {
       "id": "876e89424dd5e86f",
@@ -243,42 +277,6 @@
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
-    },
-    {
-      "id": "e31d0a17a48027dd",
-      "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
-      "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。查看全文",
-      "url": "https://sspai.com/post/116047",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-30T06:59:21.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 58,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Roark"
-    },
-    {
-      "id": "8e8dc6da3b91813a",
-      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
-      "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/zhuanglesha-261030",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-10-30T03:30:43.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 61,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "阿帅的健康笔记"
     }
   ],
   "sections": [
@@ -301,7 +299,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 94,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
           "author": "hello@smashingmagazine.com (Cosima Mielke)"
@@ -422,7 +420,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 66,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -530,71 +528,71 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "2b0a0f648a0feca3",
-          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-          "titleZh": "还剩 4天：TechCrunch 创始人峰会如何帮助您建立更有用的联系以扩大规模",
-          "summary": "11月4日，在波士顿的 SoWa 发电站，准备好一整天，充满有意义的网络机会，可操作的见解和连接，可以......",
-          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+          "id": "37b6264e0eee99ef",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "titleZh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”",
+          "summary": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-31T21:36:07.000Z",
+          "publishedAt": "2026-11-01T21:55:23.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 99,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "87d5bedc3deb14c3",
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "titleZh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
-          "summary": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
-          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "id": "29e7982bc892ced4",
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "titleZh": "人工智能可以让科技 CEO 的生活更轻松。其他人呢？",
+          "summary": "在 Equity 上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
+          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-31T21:41:00.000Z",
+          "publishedAt": "2026-11-01T20:57:58.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 97,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "ab7465c33e925d35",
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "titleZh": "法官允许 NAACP 就 xAI 数据中心污染提起诉讼",
-          "summary": "全国有色人种协进会（NAACP）的一起诉讼指控 SpaceX 拥有的人工智能公司违反了《清洁空气法》。",
-          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "id": "b1d3114c96ad384e",
+          "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+          "titleZh": "TechCrunch Mobility：新的、更大的自动驾驶汽车热潮来了",
+          "summary": "欢迎回到 TechCrunch Mobility，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
+          "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-31T21:17:03.000Z",
+          "publishedAt": "2026-11-01T17:04:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 98,
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "1f079abc3a37f8a8",
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "titleZh": "据报道，OpenAI 降低了新一轮融资目标",
-          "summary": "OpenAI 的最新一轮融资似乎没有达到预期。",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "id": "7cb4ce788b1d4ed0",
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "titleZh": "币安在 63亿美元违规后恢复提款",
+          "summary": "加密货币交易所表示，它现在已经覆盖了 95%的被盗资产。",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-31T16:12:55.000Z",
+          "publishedAt": "2026-11-01T16:20:10.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -606,40 +604,40 @@
           "author": ""
         },
         {
-          "id": "5e58dd42ca1ab5e4",
-          "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-          "titleZh": "从餐厅指南到付款，以下是 TikTok 如何构建超级应用程序",
-          "summary": "TikTok 可能正在努力成为人们用于大多数数字活动的应用程序。",
-          "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+          "id": "dbe45ee7f973955b",
+          "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+          "titleZh": "Pixel 11 Pro 折叠：在广阔的世界中呈现坚固的矩形",
+          "summary": "谷歌制造了一款坚固的手机，但可折叠世界的竞争越来越激烈。",
+          "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-10-31T15:41:57.000Z",
+          "publishedAt": "2026-11-01T15:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 89,
+          "score": 88,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "64438312c32cec96",
-          "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
-          "titleZh": "🧠 社区智慧：项目经理的最大干扰来源、通过案例研究与行为访谈聘用初级项目经理、构建人工智能驱动开发的产品线等",
-          "summary": "社区智慧 304",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
+          "id": "37ef5d66d07a2bd9",
+          "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+          "titleZh": "一位 19 岁的实习生如何为这家价值 $20 亿的人工智能公司打造增长引擎| Hector Serrano",
+          "summary": "立即聆听（88分钟） | Hector Serrano 讲述如何构建 Wispr Flow 的付费 UGC 机器，聘请年轻的人才而不是抛光的简历，以及为什么最好的营销人员“对……过敏”",
+          "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-10-31T16:14:41.000Z",
+          "publishedAt": "2026-11-01T13:31:36.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 88,
+          "score": 89,
           "sourceType": "rss",
-          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "cover": "https://api.substack.com/feed/podcast/222540764/f275dfcf515e562def6dae7092c58a8f.mp3",
           "author": ""
         }
       ]
@@ -649,6 +647,101 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "8b927acde0059d3f",
+          "title": "Your design system was never about components",
+          "titleZh": "您的设计系统从来都不是关于组件的",
+          "summary": "由于设计背后的原因，Google、Atlassian 和 Figma 现在发布了一个文件。没有什么能让机器跟随它。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-01T14:32:36.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1632/0*EBbFKwaDeO0sVSNR",
+          "author": ""
+        },
+        {
+          "id": "35e8ada1f00fecdd",
+          "title": "Samia Halaby and the Amiga 1000",
+          "titleZh": "Samia Halaby 和 Amiga 1000",
+          "summary": "摩托罗拉 68000 的独特功能促进了像素艺术的迷人黄金时代继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-01T14:32:15.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/831/1*JWGksfqy6Y6lG9Zbk4Uk5w.png",
+          "author": ""
+        },
+        {
+          "id": "9b7528c519f90a01",
+          "title": "When colors pass but palettes fail",
+          "titleZh": "当颜色通过但调色板失败时",
+          "summary": "生成式人工智能不同调色板的可访问性挑战。继续阅读 UX Collective »",
+          "url": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-01T14:34:07.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1860/1*CbBydIIo0J2Xk9HmxB1EYg.png",
+          "author": ""
+        },
+        {
+          "id": "9c29105c930a68fd",
+          "title": "How to design transparent AI cost controls",
+          "titleZh": "如何设计透明的人工智能成本控制",
+          "summary": "",
+          "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-01T14:33:14.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "0000b1789088198f",
+          "title": "Context is the new interface",
+          "titleZh": "上下文是新的界面",
+          "summary": "",
+          "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-01T14:32:56.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "af90036883a2599b",
           "title": "The people using AI should set its strategy",
@@ -667,101 +760,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "d145d1374bb49929",
-          "title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
-          "titleZh": "设计自主：游戏化和人工智能如何尊重（或重写）我们的选择",
-          "summary": "所有设计都会影响行为。道德路线是人们是否能够看到影响力，但仍然选择不受影响。继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-28T23:21:43.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 60,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/0*62KpMnOToALw-E7f",
-          "author": ""
-        },
-        {
-          "id": "ff7c475b5e0b979a",
-          "title": "Beyond chatbots: UX for deep AI research",
-          "titleZh": "超越聊天机器人：深度人工智能研究的用户体验",
-          "summary": "当答案需要时间时，Gemini、Perplexity、Copilot 和 Consensus 会做什么继续阅读 UX Collective »",
-          "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-28T23:23:05.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/1*Tqg1rP0B6d3ahTwuShJERg.png",
-          "author": ""
-        },
-        {
-          "id": "8afba3856df6630c",
-          "title": "How I stopped dreading AI and started studying it full-time",
-          "titleZh": "我不再害怕人工智能，而是开始全职学习",
-          "summary": "",
-          "url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-28T23:24:01.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "7535520916725f60",
-          "title": "The AI reckoning in UX was 20 years in the making",
-          "titleZh": "AI 在用户体验方面的估算是 20年来的酝酿",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-28T23:22:26.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "0a70f97385a97ab1",
-          "title": "Smaller teams want design leaders who make, again. Here’s how.",
-          "titleZh": "规模较小的团队希望再次成为设计领导者。具体操作方法如下。",
-          "summary": "",
-          "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-10-28T09:37:57.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -771,107 +769,106 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "fae13a17e4feb6fe",
-          "title": "[数据分享] 基于 ISLP 负载实测： OCI Ampere A1 (ARM64)、Kaggle、Lightning 与本地 6800H 多线程性能对比",
-          "summary": "跑《统计学习导论》(ISLP) 实验时，顺手测了一下常用免费云端算力实例与本地标压笔记本在基础机器学习负载下的性能差异。非严格学术评测，仅记录单机工程数据供参考 一、测试环境 OCI ARM：Ampere Altra 架构，4 OCPU （独立物理核），24 GB RAM，Ubuntu 22.04 Lightning AI：…",
-          "url": "https://www.v2ex.com/t/1253491#reply1",
+          "id": "1d19677499d49007",
+          "title": "Codex Pro 100$续费订阅额度会重置吗？",
+          "summary": "我的 codex 额度显式 11月4 号重置，但是我的订阅今晚就要续费了。我续费之后额度会重置吗？还是说续费之后也得等到 11.04 才会重置？官网档案也没有明确说明这种情况，现在在纠结要不要用重置卡，有没有老哥懂这一块的？感谢老哥们的解答。",
+          "url": "https://www.v2ex.com/t/1253674#reply1",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-01T01:56:07.000Z",
+          "publishedAt": "2026-11-02T01:58:35.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 116,
+          "score": 114,
           "sourceType": "rss",
           "cover": "",
-          "author": "GoogolChrome111"
+          "author": "Lasia"
         },
         {
-          "id": "36cfd0872673cd74",
-          "title": "When electric cars were for women",
-          "titleZh": "当电动汽车适合女性时",
-          "summary": "Hacker News 热帖，当前积分 37，评论 9。",
-          "url": "https://spectrum.ieee.org/early-electric-vehicles",
+          "id": "d002dd0bb0757155",
+          "title": "Codex 之前赠送的 6w 多额度有过期时间吗",
+          "summary": "之前送的重置卡过期太心疼了，我在 codex 中没看到额度有过期时间显示，这个是永久的吗",
+          "url": "https://www.v2ex.com/t/1253662#reply3",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-11-02T01:40:58.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "layxy"
+        },
+        {
+          "id": "3a3a5d196045ef80",
+          "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
+          "summary": "前两天买了个 ESP Mosaico，我感觉我真的要完了，嵌入式开发也彻底没救了。mosaico.ai > 个人体验，只要把这个模块插上电脑，然后跟 AI 说你想要在上面做什么功能，它就会自己分析 UI 应该怎么画、传感器怎么选配，然后先在上位机仿真，再到下位机 debug （对的，可以直接 debug 下位机）。以下两个小应…",
+          "url": "https://www.v2ex.com/t/1253635#reply19",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-11-02T00:38:23.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": "DawnMoon"
+        },
+        {
+          "id": "805ce264a0efd60f",
+          "title": "OccupySaaS",
+          "titleZh": "OccupySaaS",
+          "summary": "Hacker News 热帖，当前积分 36，评论 9。",
+          "url": "https://occupysaas.com/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-31T23:08:12.000Z",
+          "publishedAt": "2026-11-02T00:17:27.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "工程效率",
             "Hacker News",
             "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "d91196e78e389ffa",
+          "title": "Game Off 2026: The theme is SHIFT",
+          "titleZh": "Game Off 2026：主题是转变",
+          "summary": "GitHub 一年一度的为期一个月的游戏果酱已回归第 14 个年头！今年11月，制作一款受主题转变启发的游戏。改变齿轮，交换视角，弯曲现实，或……",
+          "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+          "source": "GitHub Blog",
+          "sourceUrl": "https://github.blog/",
+          "publishedAt": "2026-11-01T21:36:00.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发平台"
           ],
           "score": 109,
-          "sourceType": "api"
-        },
-        {
-          "id": "25d0b6835854af1b",
-          "title": "tibo 发重置卡了 注意查收（day 27）",
-          "summary": "https://codex-reset.com/zh/#signals 已到账 12月1 号到期",
-          "url": "https://www.v2ex.com/t/1253476#reply3",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-01T00:05:19.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 108,
           "sourceType": "rss",
           "cover": "",
-          "author": "privateproxies"
+          "author": ""
         },
         {
-          "id": "11baa156f75d5d65",
-          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-          "titleZh": "一位意大利农民在他的阁楼上发现了一些未知的种子，并种下了它们",
-          "summary": "Hacker News 热帖，当前积分 159，评论 47。",
-          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "id": "2e4d19ced3fa13e3",
+          "title": "Ask HN: Which TV do you recommend for privacy?",
+          "titleZh": "问问 HN：您推荐哪种电视来保护隐私？",
+          "summary": "我已经多年没有电视了，希望能有一台尊重我隐私的电视。有没有电视能很好地做到这一点？我正在寻找 60 英寸至 80 英寸范围内的产品，并……",
+          "url": "https://news.ycombinator.com/item?id=50328896",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-31T22:41:06.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 108,
-          "sourceType": "api"
-        },
-        {
-          "id": "1284c0833104a611",
-          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-          "titleZh": "Memdoor：由 5 名 Qwen3.8-27B 型号组成的团队在 LiveCodeBench Hard 上击败 Fable 5",
-          "summary": "Hacker News 热帖，当前积分 84，评论 42。",
-          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-31T22:46:12.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 108,
-          "sourceType": "api"
-        },
-        {
-          "id": "00cc0f793f28cdae",
-          "title": "Altoids Project",
-          "titleZh": "Altoids 项目",
-          "summary": "Hacker News 热帖，当前积分 44，评论 1。",
-          "url": "https://uvdn7.github.io/altoids-project/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-10-31T22:54:55.000Z",
+          "publishedAt": "2026-11-01T19:35:27.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -891,7 +888,7 @@
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 82,
+    "totalItems": 81,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -903,19 +900,19 @@
     },
     {
       "tag": "行业热点",
-      "count": 19
+      "count": 17
     },
     {
       "tag": "设计/UI",
       "count": 12
     },
     {
-      "tag": "产品/商业",
+      "tag": "工具/网站",
       "count": 10
     },
     {
-      "tag": "工具/网站",
-      "count": 9
+      "tag": "产品/商业",
+      "count": 10
     },
     {
       "tag": "工程效率",
@@ -926,11 +923,11 @@
       "count": 8
     },
     {
-      "tag": "开发者社区",
+      "tag": "效率",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -942,20 +939,20 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
-      "count": 6
+      "tag": "开发平台",
+      "count": 5
     },
     {
       "tag": "科技公司",
       "count": 5
     },
     {
-      "tag": "开发平台",
-      "count": 5
+      "tag": "开发者社区",
+      "count": 4
     },
     {
       "tag": "新产品",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "技术周刊",
