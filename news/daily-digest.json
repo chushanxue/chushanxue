@@ -1,89 +1,34 @@
 {
-  "generatedAt": "2026-11-07T02:07:41.557Z",
+  "generatedAt": "2026-11-08T02:08:10.923Z",
   "headline": {
-    "id": "f76e8fb267c001da",
-    "title": "原来达里奥切除过睾丸，很少有人知道",
-    "summary": "Anthropic 的达里曾经得过睾丸癌。2014年，他确诊后接受化疗，最终完全康复。这段经历此前鲜为人知。《纽约时报》 2026年11月5日左右的深度报道（Ryan Mac 等）首次较详细公开了这件事。报道称，两名认识他的人透露，Dario Amodei 在 2014年被诊断出睾丸癌，当时他在斯坦福做癌症细胞相关…",
-    "url": "https://www.v2ex.com/t/1255134#reply6",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-11-07T01:34:14.000Z",
+    "id": "3d7e06f445b6026a",
+    "title": "GitHub New pull request overview page in public preview",
+    "titleZh": "GitHub 公开预览中的新拉取请求概述页面",
+    "summary": "Hacker News 热帖，当前积分 64，评论 48。",
+    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "publishedAt": "2026-11-07T23:09:40.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "开发者社区"
+      "工程效率",
+      "Hacker News",
+      "讨论"
     ],
-    "score": 115,
-    "sourceType": "rss",
-    "cover": "",
-    "author": "FFM"
+    "score": 109,
+    "sourceType": "api"
   },
   "latest": [
     {
-      "id": "f76e8fb267c001da",
-      "title": "原来达里奥切除过睾丸，很少有人知道",
-      "summary": "Anthropic 的达里曾经得过睾丸癌。2014年，他确诊后接受化疗，最终完全康复。这段经历此前鲜为人知。《纽约时报》 2026年11月5日左右的深度报道（Ryan Mac 等）首次较详细公开了这件事。报道称，两名认识他的人透露，Dario Amodei 在 2014年被诊断出睾丸癌，当时他在斯坦福做癌症细胞相关…",
-      "url": "https://www.v2ex.com/t/1255134#reply6",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-07T01:34:14.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "FFM"
-    },
-    {
-      "id": "2a2e7aabe9ce22bf",
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "titleZh": "我参观了 Unitree 的工厂。我更看好西方",
-      "summary": "Hacker News 热帖，当前积分 18，评论 7。",
-      "url": "https://josef.cn/blog/unitree",
+      "id": "3d7e06f445b6026a",
+      "title": "GitHub New pull request overview page in public preview",
+      "titleZh": "GitHub 公开预览中的新拉取请求概述页面",
+      "summary": "Hacker News 热帖，当前积分 64，评论 48。",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-07T01:05:16.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "4b0971f328903d85",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "titleZh": "Crusoe 将陷入困境的怀俄明州数据中心项目出售给谷歌",
-      "summary": "这笔交易凸显了开发大规模人工智能数据中心的挑战。",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-07T01:40:28.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 105,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "54f518779591dee1",
-      "title": "Libghostty 1.0",
-      "titleZh": "Libghostty 1.0",
-      "summary": "Hacker News 热帖，当前积分 188，评论 25。",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-06T23:30:52.000Z",
+      "publishedAt": "2026-11-07T23:09:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -95,71 +40,70 @@
       "sourceType": "api"
     },
     {
-      "id": "1e56dd5fcecf996d",
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "titleZh": "超越代码生成：代理工程开发人员指南",
-      "summary": "编写代码的速度更快。围绕它的工作没有。了解如何使用 GitHub Copilot 规划、编写代码、审查更改和调查生产问题，以及如何……",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "source": "GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-11-06T22:15:59.000Z",
+      "id": "0363d28031878dfe",
+      "title": "用 codex 把 飞书 消息模块用 solidjs 重写了一遍，体验瞬间变得丝滑了",
+      "summary": "",
+      "url": "https://www.v2ex.com/t/1255290#reply0",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-11-07T23:58:06.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发平台"
+        "开发者社区"
       ],
-      "score": 110,
+      "score": 106,
       "sourceType": "rss",
       "cover": "",
-      "author": ""
+      "author": "SonicKang"
     },
     {
-      "id": "03da57789a5ee226",
-      "title": "After the AI bubble: a manifesto",
-      "titleZh": "人工智能泡沫之后：宣言",
-      "summary": "",
-      "url": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-11-06T22:42:58.000Z",
-      "category": "design",
+      "id": "e7d58286edf62606",
+      "title": "Making any integer with four 2s (2025)",
+      "titleZh": "用 4 个 2 做任意整数(2025)",
+      "summary": "Hacker News 热帖，当前积分 61，评论 12。",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-07T22:38:58.000Z",
+      "category": "industry",
       "tags": [
-        "设计/UI",
-        "交互设计"
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
       ],
-      "score": 107,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "score": 108,
+      "sourceType": "api"
     },
     {
-      "id": "12310f31dfd1f0bb",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "titleZh": "据报道，OpenAI 以 1.25 万亿美元的估值额外筹集了 110亿美元",
-      "summary": "据报道，作为一轮融资的一部分，OpenAI 又筹集了 110亿美元，这轮融资尚未结束，但预计将在未来几周内完成。",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "id": "cb523fab90b21f6a",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "titleZh": "根据美国情报备忘录，Megaspeed 高管被招募来监视 Nvidia 首席执行官",
+      "summary": "据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官。",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-06T22:53:46.000Z",
+      "publishedAt": "2026-11-07T21:17:08.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 103,
+      "score": 101,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "bfcfc4e6802f6759",
-      "title": "The Duo apps are coming, says Apple",
-      "titleZh": "苹果表示，Duo 应用即将推出",
-      "summary": "苹果公司表示，现在有 10 万个 Duo 优化的应用程序，每天还有数千个应用程序到达。",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "id": "a756d0f9b322a928",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "titleZh": "期中考试结束后，埃隆·马斯克（Elon Musk）和数据中心的情况看起来很糟糕",
+      "summary": "在股票方面，我们揭示了期中考试对科技行业的意义。",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-06T21:38:05.000Z",
+      "publishedAt": "2026-11-07T22:07:22.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
@@ -169,9 +113,122 @@
       "sourceType": "rss",
       "cover": "",
       "author": ""
+    },
+    {
+      "id": "f5d9f0a2bf245032",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "titleZh": "Claude Code 的“Don 't Ask Again”公开了 1,122 个公共 GitHub 文件中的密码",
+      "summary": "Hacker News 热帖，当前积分 186，评论 129。",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-07T20:45:32.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 105,
+      "sourceType": "api"
+    },
+    {
+      "id": "62949e3548622161",
+      "title": "Otherwise you’re just a machine",
+      "titleZh": "否则你只是一台机器",
+      "summary": "",
+      "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-11-07T20:15:42.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 103,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "5ff549b956f2894f",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "titleZh": "Show HN：Coldframe，一个冒充超市冰箱控制器的蜜罐",
+      "summary": "我建造了 Coldframe，这是一个伪装成超市制冷控制器的蜜罐。受到过去几周工业冰箱安装事件的启发，……",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-07T17:27:30.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 105,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "e2f76522510561e5",
+      "title": "一个 05 后的个人数码编年史",
+      "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。查看全文",
+      "url": "https://sspai.com/post/116750",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-07T09:05:06.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "星光都死了"
+    },
+    {
+      "id": "6877f49b2d87e0ab",
+      "title": "Muse Realtime Avatar",
+      "titleZh": "Muse 实时头像",
+      "summary": "使用 Muse 将语音聊天转换为实时视频通话",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-11-06T18:21:58.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 62,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Kate Ramakaieva"
+    },
+    {
+      "id": "93be0bc36c087115",
+      "title": "Sequence Tool",
+      "titleZh": "序列工具",
+      "summary": "用文字编辑：将长篇录音变成精美的故事",
+      "url": "https://www.producthunt.com/products/sequence-tool",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-11-06T14:55:13.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 57,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "James Seddon"
+    },
     {
       "id": "48990ef2f2aefbac",
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -185,7 +242,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 91,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -203,7 +260,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 87,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "张奕源Nick"
@@ -221,65 +278,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 80,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "张奕源Nick"
-    },
-    {
-      "id": "a893fc051b6a76ec",
-      "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-      "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
-      "url": "https://sspai.com/post/118587",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-06T00:24:39.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "dd715e02a3fbe8f6",
-      "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-      "summary": "全新 MacBook Pro，开启 Mac 的下一个世代。查看全文",
-      "url": "https://sspai.com/post/118546",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-05T14:00:51.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 57,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "waychane"
-    },
-    {
-      "id": "b2c493405f3db904",
-      "title": "PostMyPace",
-      "titleZh": "PostMyPace",
-      "summary": "将您的跑步变成现成的 Instagram 故事或卷轴",
-      "url": "https://www.producthunt.com/products/postmypace",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-11-05T13:26:15.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 56,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Pedro Gandra"
     }
   ],
   "sections": [
@@ -288,25 +290,6 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
-        {
-          "id": "1df4d037be389596",
-          "title": "RSS Club: CSS-Tricks Redesign Preview",
-          "titleZh": "RSS 俱乐部：CSS 技巧重新设计预览",
-          "summary": "嘿，你们这些出色的 RSS 订阅者！我们只是轻轻地推动了网站的重新设计，并希望为您提供第一个提示。完整的报道即将到来，但这里是高调的……",
-          "url": "https://css-tricks.com/css-tricks-redesign-preview/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-11-06T18:52:59.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
         {
           "id": "45c1722cb15912f7",
           "title": "JS拖拽交互必用setPointerCapture方法",
@@ -320,7 +303,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 97,
+          "score": 65,
           "sourceType": "rss",
           "cover": "https://image.zhangxinxu.com/image/blog/202611/2026-11-6_174901.webp",
           "author": ""
@@ -339,7 +322,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 94,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
           "author": "hello@smashingmagazine.com (Paul Boag)"
@@ -357,29 +340,10 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 81,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026110501.webp",
           "author": "阮一峰"
-        },
-        {
-          "id": "e14f8e137c8d87b5",
-          "title": "Taming Typography: Building a Modern CSS Reset",
-          "titleZh": "驯服排版：构建现代 CSS 重置",
-          "summary": "Stu 创建了 tidy-typography.css：使用现代 CSS 功能驯服排版的样式重置，适用于从流体排版和垂直节奏，到连字符和……",
-          "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-11-05T14:55:31.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         },
         {
           "id": "d5db8a15590d5308",
@@ -399,6 +363,44 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
           "author": "hello@smashingmagazine.com (Eric Bailey)"
+        },
+        {
+          "id": "4799b7992e7988c3",
+          "title": "Modern CSS Might Make Your Front-End More Complex",
+          "titleZh": "现代 CSS 可能会使您的前端更加复杂",
+          "summary": "用现代 CSS 功能替换 JavaScript 可以简化一段代码，同时使更广泛的应用程序更难推理。Gabriel Shoyombo 探讨了……",
+          "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-11-03T10:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 65,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)"
+        },
+        {
+          "id": "a413ec328a5434b6",
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "titleZh": "11月灰色的色彩火花（2026年壁纸版）",
+          "summary": "让我们从 11月开始，推出全新的桌面壁纸系列！壁纸由来自世界各地的创意人士设计，具有各种屏幕分辨率……",
+          "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-10-31T08:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 65,
+          "sourceType": "rss",
+          "cover": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)"
         }
       ]
     },
@@ -421,7 +423,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 98,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -440,7 +442,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 97,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -459,7 +461,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 84,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -478,7 +480,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 75,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -497,7 +499,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 77,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -516,7 +518,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 68,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -529,52 +531,33 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "4b0971f328903d85",
-          "title": "Crusoe sells troubled Wyoming data center project to Google",
-          "titleZh": "Crusoe 将陷入困境的怀俄明州数据中心项目出售给谷歌",
-          "summary": "这笔交易凸显了开发大规模人工智能数据中心的挑战。",
-          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "id": "cb523fab90b21f6a",
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "titleZh": "根据美国情报备忘录，Megaspeed 高管被招募来监视 Nvidia 首席执行官",
+          "summary": "据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官。",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-07T01:40:28.000Z",
+          "publishedAt": "2026-11-07T21:17:08.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "12310f31dfd1f0bb",
-          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-          "titleZh": "据报道，OpenAI 以 1.25 万亿美元的估值额外筹集了 110亿美元",
-          "summary": "据报道，作为一轮融资的一部分，OpenAI 又筹集了 110亿美元，这轮融资尚未结束，但预计将在未来几周内完成。",
-          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "id": "a756d0f9b322a928",
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "titleZh": "期中考试结束后，埃隆·马斯克（Elon Musk）和数据中心的情况看起来很糟糕",
+          "summary": "在股票方面，我们揭示了期中考试对科技行业的意义。",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-06T22:53:46.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "bfcfc4e6802f6759",
-          "title": "The Duo apps are coming, says Apple",
-          "titleZh": "苹果表示，Duo 应用即将推出",
-          "summary": "苹果公司表示，现在有 10 万个 Duo 优化的应用程序，每天还有数千个应用程序到达。",
-          "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-06T21:38:05.000Z",
+          "publishedAt": "2026-11-07T22:07:22.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -586,14 +569,14 @@
           "author": ""
         },
         {
-          "id": "5c3b6a56e0a3dbc0",
-          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-          "titleZh": "数百个公开暴露在网络中的 Artex AI 黑客工具",
-          "summary": "安全研究人员发现，数百台托管渗透测试工具 Artex 的服务器暴露在互联网上，允许任何人访问黑客工具。",
-          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "id": "1e3931f726537feb",
+          "title": "Parents want safer phones for kids. These companies are answering the call.",
+          "titleZh": "父母希望孩子的手机更安全。这些公司正在接听电话。",
+          "summary": "随着家长们寻找不受限制的智能手机的替代品，越来越多的公司正在开发专为儿童设计的手机，包括功能有限的手机……",
+          "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-06T18:44:38.000Z",
+          "publishedAt": "2026-11-07T19:00:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -605,20 +588,39 @@
           "author": ""
         },
         {
-          "id": "8c53d24c022115f5",
-          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-          "titleZh": "Meta 引入了 Spaces，这是一种与 Muse 代理进行协作的新方法",
-          "summary": "Meta 的 Muse 代理继续获得新功能和集成。Spaces 有望成为与人工智能助手互动的新方式。",
-          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "id": "a2dab50ad24a3ce9",
+          "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+          "titleZh": "亚马逊的新款基本款 Kindle 证明您不需要所有的铃声和口哨声",
+          "summary": "亚马逊重新设计的基本 Kindle 的成本比以前高，但其更轻的构建和改进的显示屏为跳过更昂贵的型号提供了一个令人信服的理由。",
+          "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-06T18:44:20.000Z",
+          "publishedAt": "2026-11-07T17:18:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 96,
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "696ae75d408eb52f",
+          "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+          "titleZh": "在 63亿美元的黑客攻击后，币安首席财务官将离开“追求新企业” $",
+          "summary": "在黑客从币安用户那里窃取了价值 63亿美元的加密货币后不到一周的时间里，就宣布了这一消息。",
+          "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-11-07T17:24:07.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -649,6 +651,25 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
+          "id": "62949e3548622161",
+          "title": "Otherwise you’re just a machine",
+          "titleZh": "否则你只是一台机器",
+          "summary": "",
+          "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-07T20:15:42.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "03da57789a5ee226",
           "title": "After the AI bubble: a manifesto",
           "titleZh": "人工智能泡沫之后：宣言",
@@ -662,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 107,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -681,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 78,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -700,7 +721,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 78,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -742,25 +763,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "1b935806097ff3b7",
-          "title": "In a world of panic, calm and certainty win",
-          "titleZh": "在一个充满恐慌、平静和确定性的世界中赢得胜利",
-          "summary": "",
-          "url": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-11-04T22:13:21.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 55,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -770,51 +772,14 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "f76e8fb267c001da",
-          "title": "原来达里奥切除过睾丸，很少有人知道",
-          "summary": "Anthropic 的达里曾经得过睾丸癌。2014年，他确诊后接受化疗，最终完全康复。这段经历此前鲜为人知。《纽约时报》 2026年11月5日左右的深度报道（Ryan Mac 等）首次较详细公开了这件事。报道称，两名认识他的人透露，Dario Amodei 在 2014年被诊断出睾丸癌，当时他在斯坦福做癌症细胞相关…",
-          "url": "https://www.v2ex.com/t/1255134#reply6",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-07T01:34:14.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 115,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "FFM"
-        },
-        {
-          "id": "2a2e7aabe9ce22bf",
-          "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-          "titleZh": "我参观了 Unitree 的工厂。我更看好西方",
-          "summary": "Hacker News 热帖，当前积分 18，评论 7。",
-          "url": "https://josef.cn/blog/unitree",
+          "id": "3d7e06f445b6026a",
+          "title": "GitHub New pull request overview page in public preview",
+          "titleZh": "GitHub 公开预览中的新拉取请求概述页面",
+          "summary": "Hacker News 热帖，当前积分 64，评论 48。",
+          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-07T01:05:16.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 112,
-          "sourceType": "api"
-        },
-        {
-          "id": "54f518779591dee1",
-          "title": "Libghostty 1.0",
-          "titleZh": "Libghostty 1.0",
-          "summary": "Hacker News 热帖，当前积分 188，评论 25。",
-          "url": "https://mitchellh.com/writing/libghostty-1-0",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-06T23:30:52.000Z",
+          "publishedAt": "2026-11-07T23:09:40.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -826,33 +791,51 @@
           "sourceType": "api"
         },
         {
-          "id": "1e56dd5fcecf996d",
-          "title": "Beyond code generation: A developer’s guide to agentic engineering",
-          "titleZh": "超越代码生成：代理工程开发人员指南",
-          "summary": "编写代码的速度更快。围绕它的工作没有。了解如何使用 GitHub Copilot 规划、编写代码、审查更改和调查生产问题，以及如何……",
-          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-          "source": "GitHub Blog",
-          "sourceUrl": "https://github.blog/",
-          "publishedAt": "2026-11-06T22:15:59.000Z",
+          "id": "0363d28031878dfe",
+          "title": "用 codex 把 飞书 消息模块用 solidjs 重写了一遍，体验瞬间变得丝滑了",
+          "summary": "",
+          "url": "https://www.v2ex.com/t/1255290#reply0",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-11-07T23:58:06.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
-            "开发平台"
+            "开发者社区"
           ],
-          "score": 110,
+          "score": 106,
           "sourceType": "rss",
           "cover": "",
-          "author": ""
+          "author": "SonicKang"
         },
         {
-          "id": "0b5d20f73afbd023",
-          "title": "AI is dramatically accelerating AI research",
-          "titleZh": "人工智能正在大大加速人工智能研究",
-          "summary": "Hacker News 热帖，当前积分 206，评论 157。",
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "id": "e7d58286edf62606",
+          "title": "Making any integer with four 2s (2025)",
+          "titleZh": "用 4 个 2 做任意整数(2025)",
+          "summary": "Hacker News 热帖，当前积分 61，评论 12。",
+          "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-06T20:27:23.000Z",
+          "publishedAt": "2026-11-07T22:38:58.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 108,
+          "sourceType": "api"
+        },
+        {
+          "id": "f5d9f0a2bf245032",
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "titleZh": "Claude Code 的“Don 't Ask Again”公开了 1,122 个公共 GitHub 文件中的密码",
+          "summary": "Hacker News 热帖，当前积分 186，评论 129。",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-07T20:45:32.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -864,14 +847,14 @@
           "sourceType": "api"
         },
         {
-          "id": "f9028760446c995c",
-          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-          "titleZh": "可以向 Opus 寻求帮助的 Jev 以 4 倍的成本提供 Opus 精度",
-          "summary": "Hacker News 热帖，当前积分 339，评论 73。",
-          "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+          "id": "5ff549b956f2894f",
+          "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+          "titleZh": "Show HN：Coldframe，一个冒充超市冰箱控制器的蜜罐",
+          "summary": "我建造了 Coldframe，这是一个伪装成超市制冷控制器的蜜罐。受到过去几周工业冰箱安装事件的启发，……",
+          "url": "https://github.com/hedgerow-dev/coldframe",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-06T19:48:51.000Z",
+          "publishedAt": "2026-11-07T17:27:30.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -879,27 +862,47 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 104,
+          "score": 105,
+          "sourceType": "api"
+        },
+        {
+          "id": "5c2f7d00ffb7176d",
+          "title": "The end of Microsoft Research's AI Frontiers group",
+          "titleZh": "微软研究院人工智能前沿小组的终结",
+          "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft...",
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-07T18:02:17.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 103,
           "sourceType": "api"
         }
       ]
     }
   ],
   "sourceFailures": [
+    "CSS-Tricks: CSS-Tricks 返回 403",
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
     "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 79,
     "totalSources": 18,
-    "succeededSources": 15,
-    "failedSources": 3
+    "succeededSources": 14,
+    "failedSources": 4
   },
   "trendingTags": [
     {
       "tag": "前端技术",
-      "count": 26
+      "count": 20
     },
     {
       "tag": "行业热点",
@@ -910,11 +913,11 @@
       "count": 12
     },
     {
-      "tag": "产品/商业",
-      "count": 10
+      "tag": "工具/网站",
+      "count": 12
     },
     {
-      "tag": "工具/网站",
+      "tag": "产品/商业",
       "count": 10
     },
     {
@@ -934,11 +937,15 @@
       "count": 6
     },
     {
-      "tag": "开源模型",
+      "tag": "效率",
       "count": 6
     },
     {
-      "tag": "效率",
+      "tag": "新产品",
+      "count": 6
+    },
+    {
+      "tag": "开源模型",
       "count": 6
     },
     {
@@ -952,10 +959,6 @@
     {
       "tag": "开发平台",
       "count": 5
-    },
-    {
-      "tag": "新产品",
-      "count": 4
     },
     {
       "tag": "技术周刊",
