@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T02:08:10.814Z",
+  "generatedAt": "2026-11-13T02:07:47.541Z",
   "headline": {
-    "id": "2407253e58cefe5e",
-    "title": "Windows11 更新后右键经典菜单失效了，能恢复么？",
-    "summary": "之前一直使用修改注册表的方式恢复传统右键菜单。reg add \"HKCU\\Software\\Classes\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32\" /f taskkill /F /IM explorer.exe explorer.exe 今天更新之后…",
-    "url": "https://www.v2ex.com/t/1256361#reply0",
+    "id": "114881927dcab4ff",
+    "title": "花 100 块让 AI 做了个 50 层魔塔网页游戏《星穹塔》",
+    "summary": "最近 claude 写 3A 大作很流行，由于预算有限，所以我花了 100 块试了试，让 claude 陪我从头做了一个 50 层魔塔风格的网页游戏《星穹塔》，一直写到今天凌晨 3 点。早上来看竟然复原了 90%的原版场景，以后程序员真的要淘汰了吗？游戏的主界面：他竟然会自己开了 4 个任务：PS.基础功能由 Haiku 5.…",
+    "url": "https://www.v2ex.com/t/1256697#reply2",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-11-12T02:05:37.000Z",
+    "publishedAt": "2026-11-13T01:56:27.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
@@ -15,18 +15,18 @@
     ],
     "score": 116,
     "sourceType": "rss",
-    "cover": "",
-    "author": "Eagleyes"
+    "cover": "https://i.imgur.com/sylrBfb.png",
+    "author": "niancode"
   },
   "latest": [
     {
-      "id": "2407253e58cefe5e",
-      "title": "Windows11 更新后右键经典菜单失效了，能恢复么？",
-      "summary": "之前一直使用修改注册表的方式恢复传统右键菜单。reg add \"HKCU\\Software\\Classes\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32\" /f taskkill /F /IM explorer.exe explorer.exe 今天更新之后…",
-      "url": "https://www.v2ex.com/t/1256361#reply0",
+      "id": "114881927dcab4ff",
+      "title": "花 100 块让 AI 做了个 50 层魔塔网页游戏《星穹塔》",
+      "summary": "最近 claude 写 3A 大作很流行，由于预算有限，所以我花了 100 块试了试，让 claude 陪我从头做了一个 50 层魔塔风格的网页游戏《星穹塔》，一直写到今天凌晨 3 点。早上来看竟然复原了 90%的原版场景，以后程序员真的要淘汰了吗？游戏的主界面：他竟然会自己开了 4 个任务：PS.基础功能由 Haiku 5.…",
+      "url": "https://www.v2ex.com/t/1256697#reply2",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-12T02:05:37.000Z",
+      "publishedAt": "2026-11-13T01:56:27.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -34,17 +34,17 @@
       ],
       "score": 116,
       "sourceType": "rss",
-      "cover": "",
-      "author": "Eagleyes"
+      "cover": "https://i.imgur.com/sylrBfb.png",
+      "author": "niancode"
     },
     {
-      "id": "0fa76c62ae7ebd68",
-      "title": "为什么最近好多梯子都强制用户使用自家的客户端了？",
-      "summary": "大家说说，是有啥猫腻吗？",
-      "url": "https://www.v2ex.com/t/1256358#reply1",
+      "id": "691a32d10cdad905",
+      "title": "微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了",
+      "summary": "如图，微软这一帮草台也在抗议老黄离职吗",
+      "url": "https://www.v2ex.com/t/1256701#reply0",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-12T02:04:35.000Z",
+      "publishedAt": "2026-11-13T02:05:10.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -53,91 +53,109 @@
       "score": 110,
       "sourceType": "rss",
       "cover": "",
-      "author": "chirsxp"
+      "author": "dafen7"
     },
     {
-      "id": "291315ca39401cbc",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "titleZh": "Gilbert + Tobin 借助人工智能重新思考法律业务",
-      "summary": "与 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话。",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news/",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "category": "ai",
+      "id": "a74062c60d151b1c",
+      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+      "source": "阮一峰的网络日志",
+      "sourceUrl": "https://www.ruanyifeng.com/blog/",
+      "publishedAt": "2026-11-13T00:08:29.000Z",
+      "category": "frontend",
       "tags": [
-        "AI",
-        "模型产品"
+        "前端技术",
+        "技术周刊"
       ],
-      "score": 121,
+      "score": 120,
       "sourceType": "rss",
-      "cover": "",
-      "author": ""
+      "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111203.webp",
+      "author": "阮一峰"
     },
     {
-      "id": "78a5321fcc5a9135",
-      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
-      "url": "https://sspai.com/post/118935",
+      "id": "d7b785b187c3f9f8",
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "summary": "2026年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
+      "url": "https://sspai.com/post/118966",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-12T00:22:09.000Z",
+      "publishedAt": "2026-11-13T00:48:17.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 112,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "413f3d2b36cdeb0a",
-      "title": "感觉两台 16g 的 macmini，不如一台 32g 的 macmini",
-      "summary": "因为我几乎什么软件都没开，就已经占用 8g 多了好像",
-      "url": "https://www.v2ex.com/t/1256326#reply17",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-12T00:53:51.000Z",
+      "id": "6fdb695014ed8c2b",
+      "title": "GitHub availability report: October 2026",
+      "titleZh": "GitHub 可用性报告：2026年10月",
+      "summary": "10月份，我们经历了八起导致 GitHub 各项服务性能下降的事件。文章《GitHub 可用性报告：2026年10月》首次发布于……",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "source": "GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-11-13T00:20:16.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
-        "开发者社区"
+        "开发平台"
       ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "kongkongye"
-    },
-    {
-      "id": "d67d7264f729cc2d",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "titleZh": "正在发酵的黄仁勋丑闻：时间线",
-      "summary": "随着美国和中国竞相发展最先进的人工智能基础设施，此事可能对国家安全产生影响。",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-11T23:50:00.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 104,
+      "score": 113,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "e950d28afcdb58b8",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "titleZh": "93% 的颜料飞溅是有效的 Perl 程序（2019年）",
-      "summary": "Hacker News 热帖，当前积分 161，评论 25。",
-      "url": "https://www.mcmillen.dev/sigbovik/",
+      "id": "efcccc89c2e74a21",
+      "title": "请问大家能否推荐一本 PowerShell 7 书。现在能找到的几乎都是 6 或者 5.1。尽量中文，英文也行",
+      "summary": "目前主要在 Windows 终端下用 pwsh （PowerShell 7）配合 Claude Code 和 Codex 干活，想系统了解一下 PowerShell 的对象管道、参数绑定以及安全边界机制，方便审查 AI 生成的脚本。我害怕突然清空硬盘 搜了一圈发现经典书（比如《PowerShell 实战》）基本都停留在 5.1…",
+      "url": "https://www.v2ex.com/t/1256666#reply17",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-11-13T00:35:43.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 113,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "GoogolChrome111"
+    },
+    {
+      "id": "bc5846eaa7ab56f0",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "titleZh": "一次构建，在任何代理上运行：代理技能实用指南",
+      "summary": "Agent 技能将可重复的工程工作记录在文件中，供团队查阅和重复使用，而工具、项目背景和权限仍仅限于运行……的主机。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "source": "GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-11-12T22:54:52.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发平台"
+      ],
+      "score": 111,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "bfdff0fd1726f04b",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "titleZh": "Edge0-145B：在您自己的计算机上使用尖端人工智能功能",
+      "summary": "Hacker News 热帖，当前积分 52，评论 16。",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-11T22:34:23.000Z",
+      "publishedAt": "2026-11-12T23:06:17.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -145,74 +163,55 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 108,
+      "score": 109,
       "sourceType": "api"
-    },
-    {
-      "id": "b8a195e0e50739a8",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "titleZh": "Jensen Huang 被指控与另一名 Nvidia 高管有婚外情",
-      "summary": "黄仁勋因承认与一名被指为中国情报人员的女性有染而备受指责，如今又被指控与另一名女性有染……",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-11T23:17:05.000Z",
-      "category": "product",
-      "tags": [
-        "产品/商业",
-        "科技公司"
-      ],
-      "score": 104,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
     }
   ],
   "featuredTools": [
     {
-      "id": "78a5321fcc5a9135",
-      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
-      "url": "https://sspai.com/post/118935",
+      "id": "d7b785b187c3f9f8",
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "summary": "2026年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
+      "url": "https://sspai.com/post/118966",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-12T00:22:09.000Z",
+      "publishedAt": "2026-11-13T00:48:17.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 112,
+      "score": 114,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "8a3bfaba4dab38ad",
-      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
-      "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（... 查看全文",
-      "url": "https://sspai.com/post/118781",
+      "id": "6cc78c770833fe68",
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+      "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4 比例的图 ... 查看全文",
+      "url": "https://sspai.com/post/118366",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-11T09:30:00.000Z",
+      "publishedAt": "2026-11-12T08:37:25.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 91,
+      "score": 90,
       "sourceType": "rss",
       "cover": "",
-      "author": "程天冲"
+      "author": "Hermanchannn"
     },
     {
-      "id": "0f12dde4f95d1277",
-      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
-      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
-      "url": "https://sspai.com/post/118175",
+      "id": "3f916f111aa4d85a",
+      "title": "Mac 选购指南 2026 冬季版",
+      "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。查看全文",
+      "url": "https://sspai.com/post/85735",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-11T06:50:39.000Z",
+      "publishedAt": "2026-11-12T06:42:04.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
@@ -221,63 +220,62 @@
       "score": 84,
       "sourceType": "rss",
       "cover": "",
-      "author": "StephenFang"
+      "author": "Kostya"
     },
     {
-      "id": "9e9ea496064aadc8",
-      "title": "bonds chat",
-      "titleZh": "债券聊天",
-      "summary": "如果您和朋友们临阵退缩，多人游戏 AI 就会“阵亡”",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-11-11T05:07:26.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 79,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Sebastian Linares"
-    },
-    {
-      "id": "01432cb828a0ed82",
-      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
-      "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文",
-      "url": "https://sspai.com/post/118458",
+      "id": "78bf34d42e4267ef",
+      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+      "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着 Matter 和 HomeAssistant 打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的 HomePod、书房的 ... 查看全文",
+      "url": "https://sspai.com/post/118921",
       "source": "少数派",
       "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-11T03:13:04.000Z",
+      "publishedAt": "2026-11-12T03:12:02.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "效率"
       ],
-      "score": 78,
+      "score": 81,
       "sourceType": "rss",
       "cover": "",
-      "author": "bakamio"
+      "author": "南桥北桥不是桥"
     },
     {
-      "id": "7fbe487dfc5efcab",
-      "title": "Mister Blocks",
-      "titleZh": "Mister Blocks",
-      "summary": "拍一张您的乐高积木的照片，人工智能将为您搭建模型",
-      "url": "https://www.producthunt.com/products/mister-blocks",
+      "id": "78a5321fcc5a9135",
+      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
+      "url": "https://sspai.com/post/118935",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-12T00:22:09.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 74,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "b36bf9ac088191a8",
+      "title": "Grok Bot 1.0",
+      "titleZh": "Grok Bot 1.0",
+      "summary": "机器人与您的团队协同工作",
+      "url": "https://www.producthunt.com/products/grok",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-11-11T03:26:18.000Z",
+      "publishedAt": "2026-11-11T19:38:45.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 77,
+      "score": 64,
       "sourceType": "rss",
       "cover": "",
-      "author": "Oleksandr Gamaniuk"
+      "author": "Ankit Sharma"
     }
   ],
   "sections": [
@@ -286,6 +284,62 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "a74062c60d151b1c",
+          "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+          "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+          "source": "阮一峰的网络日志",
+          "sourceUrl": "https://www.ruanyifeng.com/blog/",
+          "publishedAt": "2026-11-13T00:08:29.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "技术周刊"
+          ],
+          "score": 120,
+          "sourceType": "rss",
+          "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111203.webp",
+          "author": "阮一峰"
+        },
+        {
+          "id": "11623c86b9a4d22e",
+          "title": "Beyond 12 Columns: Designing Layouts With Personality",
+          "titleZh": "超越 12 列：设计有特色的布局",
+          "summary": "太多的网站看起来都一样。它们使用熟悉的布局，重复相同的模式，一旦您离开，往往不会留下什么印象。Andy Clarke 探讨了如何……",
+          "url": "https://css-tricks.com/beyond-12-columns/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-11-12T16:06:55.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 108,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "80d883363f1f6490",
+          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+          "titleZh": "您真的应该将人工智能添加到其中吗？针对产品团队的四个问题审核",
+          "summary": "一项人工智能功能可以为用户节省完成任务的时间，但他们却要花时间来检查结果。这项实用性审核有助于产品团队确定人工智能在哪些方面发挥作用……",
+          "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "source": "Smashing Magazine",
+          "sourceUrl": "https://www.smashingmagazine.com/",
+          "publishedAt": "2026-11-12T10:00:00.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "设计/UI"
+          ],
+          "score": 97,
+          "sourceType": "rss",
+          "cover": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
+          "author": "hello@smashingmagazine.com (Victor Yocco)"
+        },
         {
           "id": "e87fc1c45ec54843",
           "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
@@ -300,7 +354,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 71,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -309,7 +363,7 @@
           "id": "2c94eacf64466e0b",
           "title": "CSS-Tricks, Version 20",
           "titleZh": "CSS-Tricks，第 20 版",
-          "summary": "这里看起来有点不一样？我希望如此，因为我们刚刚推出了网站的全新设计！以下是第 20（！！）版 CSS-Tricks 的所有新内容。CSS-Tricks……",
+          "summary": "这里看起来有点不一样？我希望是这样，因为我们刚刚推出了网站的全新设计！以下是第 20（！！）版 CSS-Tricks 的所有新内容。CSS-Tricks……",
           "url": "https://css-tricks.com/css-tricks-version-20/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -328,7 +382,7 @@
           "id": "1df4d037be389596",
           "title": "RSS Club: CSS-Tricks Redesign Preview",
           "titleZh": "RSS 俱乐部：CSS-Tricks 新版预览",
-          "summary": "亲爱的 RSS 订阅者们，大家好！我们刚刚悄悄推出了网站新版设计，想先让大家知道一下。完整的文章即将发布，但这里先介绍一下……",
+          "summary": "亲爱的 RSS 订阅者们，大家好！我们刚刚悄悄推出了网站新设计，想先让大家知道一下。完整的文章即将推出，但这里先介绍一下……",
           "url": "https://css-tricks.com/css-tricks-redesign-preview/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -342,61 +396,6 @@
           "sourceType": "rss",
           "cover": "",
           "author": ""
-        },
-        {
-          "id": "45c1722cb15912f7",
-          "title": "JS拖拽交互必用setPointerCapture方法",
-          "summary": "之前自定义拖拽行为的时候，我都是将 move 行为绑定在 document 上的，最近才知道，原来还有个 setPointerCapture 方法，直接绑定在触发元素上，不必担心快速移动时候目标对象的丢失。",
-          "url": "https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/",
-          "source": "张鑫旭博客",
-          "sourceUrl": "https://www.zhangxinxu.com/",
-          "publishedAt": "2026-11-06T09:51:24.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "https://image.zhangxinxu.com/image/blog/202611/2026-11-6_174901.webp",
-          "author": ""
-        },
-        {
-          "id": "0f5409e351653494",
-          "title": "A New Community For In-House UX People",
-          "titleZh": "面向内部 UX 人员的全新社区",
-          "summary": "我们一直在筹备一些新事物！我们联手打造了一个**全新的小型社区**，面向在组织内部从事用户体验工作的人士，该社区将提供每周通话和共享资料库……",
-          "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-11-06T08:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
-          "author": "hello@smashingmagazine.com (Paul Boag)"
-        },
-        {
-          "id": "08e26a238ee27ca0",
-          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
-          "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-          "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
-          "source": "阮一峰的网络日志",
-          "sourceUrl": "https://www.ruanyifeng.com/blog/",
-          "publishedAt": "2026-11-05T23:43:55.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "技术周刊"
-          ],
-          "score": 66,
-          "sourceType": "rss",
-          "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026110501.webp",
-          "author": "阮一峰"
         }
       ]
     },
@@ -405,6 +404,101 @@
       "title": "AI / 工程效率",
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
+        {
+          "id": "a06191ac9b436071",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "titleZh": "Amplitude 如何借助 OpenAI 在 1–2天内推出产品改进",
+          "summary": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队通过编码代理交付变更，并衡量……",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-12T20:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 117,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "7848065a354ec159",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "titleZh": "LLMON：一种 LLM 原生标记语言，现已在 Granite 4.1 3B 和 8B 中推出",
+          "summary": "",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-11-12T19:07:35.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "d2b6f9aa4fef70e9",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "titleZh": "Gondola 的团队使用 Codex 构建更多内容，使收入翻倍",
+          "summary": "Gondola 帮助创意人士获得认可并被聘用，Codex 将其首席工程师的产出提高了 50%，ChatGPT 则简化了日常工作。",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-12T12:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "f40a064075c565ff",
+          "title": "Holiday Extras is rethinking what it can build with Codex",
+          "titleZh": "Holiday Extras 正在重新思考可以利用 Codex 构建哪些功能",
+          "summary": "借助 Codex，Holiday Extras 将客户专业知识转化为更出色的应用程序、更高的预订转化率和新的增长可能性。",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-12T09:30:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 99,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "d284c53b365aa65d",
+          "title": "Supporting research on AI and children’s safety",
+          "titleZh": "支持有关人工智能和儿童安全的研究",
+          "summary": "OpenAI 投入 200 万美元用于人工智能与儿童安全方面的研究。这项工作支持使用共享工具来衡量年轻人面临的风险和机遇。",
+          "url": "https://openai.com/index/children-first-declaration",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 84,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "291315ca39401cbc",
           "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -419,102 +513,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 121,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "d23fcfffe8d45eb0",
-          "title": "ChatGPT Plus for veterans and servicemembers",
-          "titleZh": "面向退伍军人和现役军人的 ChatGPT Plus",
-          "summary": "超过 20,000 名退伍军人和即将退役的现役军人已领取了一年免费的 ChatGPT Plus。了解他们如何使用 ChatGPT Plus 为平民职业做好准备。",
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-11T08:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "c03424d6b42626ec",
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "titleZh": "BotPsy：搭载不到十亿参数的智能体语言模型的设备端个人助理",
-          "summary": "",
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-11-11T05:01:16.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 83,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e474c59c2ce45786",
-          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "titleZh": "JioStar 首席架构师谈论 5 亿用户规模的 AI 发现",
-          "summary": "JioStar 的 Vijay Seshadri 阐述了在 5 亿用户规模下的人工智能发现。阅读他关于评估、防护措施以及将人工智能投入生产的经验教训。",
-          "url": "https://openai.com/index/jiostar-vijay-seshadri",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-11T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 84,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "90301511ce50423a",
-          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "titleZh": "针对多向量嵌入模型的“令牌池化感知”训练",
-          "summary": "",
-          "url": "https://huggingface.co/blog/token-pooling",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-11-11T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 75,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "e7ba49f8b5987487",
-          "title": "Helping caregivers use AI in everyday life",
-          "titleZh": "帮助照护者在日常生活中使用人工智能",
-          "summary": "OpenAI Academy 正在为美国五个城市的照护者提供免费的 ChatGPT 实践工作坊，帮助他们培养适用于日常生活的实用人工智能技能。",
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-10T12:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 69,
+          "score": 82,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -527,71 +526,71 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "d67d7264f729cc2d",
+          "id": "77ab530a9ccd7703",
+          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+          "titleZh": "民主党人发起对 Nvidia 的调查，就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
+          "summary": "这是自所谓间谍事件的消息传出以来，迄今为止对英伟达在中国销售情况及其与特朗普的往来进行的第二次国会调查。",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-11-12T22:42:51.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 103,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "77adf8794dabb30f",
           "title": "The unfolding Jensen Huang scandal: a timeline",
           "titleZh": "正在发酵的黄仁勋丑闻：时间线",
-          "summary": "随着美国和中国竞相发展最先进的人工智能基础设施，此事可能对国家安全产生影响。",
-          "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "summary": "Jensen Huang 在曝出婚外情后从 Nvidia 辞职，由于美国和中国正在竞相开发最先进的……，这可能对国家安全产生影响。",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-11T23:50:00.000Z",
+          "publishedAt": "2026-11-12T21:35:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 104,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "b8a195e0e50739a8",
-          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-          "titleZh": "Jensen Huang 被指控与另一名 Nvidia 高管有婚外情",
-          "summary": "黄仁勋因承认与一名被指为中国情报人员的女性有染而备受指责，如今又被指控与另一名女性有染……",
-          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+          "id": "111988cebeb40d97",
+          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "titleZh": "Nebius 计划投入 400亿美元来测试新云战略手册",
+          "summary": "Nebius 计划通过客户预付款和贷款为其 400亿美元的人工智能基础设施扩张提供资金，尽管微软数据中心的延迟引发了人们对……的质疑。",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-11T23:17:05.000Z",
+          "publishedAt": "2026-11-12T21:27:10.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 104,
+          "score": 101,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "288bf68792bbd6be",
-          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-          "titleZh": "据报道，英伟达董事会正准备罢免首席执行官黄仁勋，该公司股价应声下跌",
-          "summary": "最早在周三晚上，英伟达董事会就可能决定罢免其已任职 33年的创始人兼首席执行官。",
-          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "id": "a165229d81fd98c8",
+          "title": "Muse can now place calls to US businesses — if you pay",
+          "titleZh": "Muse 现在可以拨打美国企业的电话了——只要您付费",
+          "summary": "Muse 的 AI 现在可以向美国企业拨打出站电话，但并非免费。",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-11T23:28:45.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 102,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "c994573e5073fbb3",
-          "title": "Why the data center you dread might never even be built",
-          "titleZh": "为什么您担心的那个数据中心可能永远不会建成",
-          "summary": "从普遍的当地反对和许可延迟，到争夺电力，数据中心热潮正遭遇严峻的现实障碍。在这些……",
-          "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-11T20:15:15.000Z",
+          "publishedAt": "2026-11-12T22:22:28.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -603,14 +602,14 @@
           "author": ""
         },
         {
-          "id": "9a45652c01cb354e",
-          "title": "Meta is losing its longtime head of infrastructure",
-          "titleZh": "Meta 将失去其长期担任基础设施主管的人员",
-          "summary": "Santosh Janardhan 于 2009年加入公司，他将卸任现职。",
-          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+          "id": "c1b7234fd9186ecc",
+          "title": "Jensen Huang was having a third affair, Reuters reports",
+          "titleZh": "路透社报道称，黄仁勋有第三段婚外情",
+          "summary": "路透社未透露与黄仁勋有关联的新员工的姓名，但表示她是英伟达的员工。",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-11T20:12:01.000Z",
+          "publishedAt": "2026-11-12T20:26:47.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -625,7 +624,7 @@
           "id": "d18e6713a7f6d1a5",
           "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
           "titleZh": "Claude Code + Obsidian：我家的人工智能大脑 | Scott Farrar",
-          "summary": "立即观看（34分钟）| 🎙️ Scott Farrar 将介绍他构建的 Claude Code 和 Obsidian 系统，该系统用于跟踪家电、跟进保险报价以及管理家居项目……",
+          "summary": "立即观看（34分钟）| 🎙️ Scott Farrar 介绍了他构建的 Claude Code 和 Obsidian 系统，用于跟踪电器、跟进保险报价以及管理家居项目……",
           "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
@@ -634,7 +633,7 @@
           "tags": [
             "产品/商业"
           ],
-          "score": 88,
+          "score": 51,
           "sourceType": "rss",
           "cover": "https://api.substack.com/feed/podcast/224221477/e714fff25978e0a4d943e3d0fd317f24.mp3",
           "author": ""
@@ -646,6 +645,25 @@
       "title": "设计 / UI",
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
+        {
+          "id": "6a51c9cf877f762f",
+          "title": "The AI mind tax that afflicts those who use AI best",
+          "titleZh": "困扰那些最善于使用人工智能的人的人工智能思维税",
+          "summary": "",
+          "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-12T11:14:40.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 89,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "5e641adb395b22b3",
           "title": "Why are we cloning Photoshop?",
@@ -660,7 +678,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 107,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -679,7 +697,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -698,7 +716,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -717,7 +735,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 106,
+          "score": 68,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -736,28 +754,9 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 70,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
-          "author": ""
-        },
-        {
-          "id": "ea1407c4d1e5d31b",
-          "title": "What being the new kid taught me about persuasion as a designer",
-          "titleZh": "作为一名设计师，成为“新人”教会了我什么有关说服的道理",
-          "summary": "人们不会对想法说“好”。他们对他们将要成为的人说“好”。继续在 UX Collective 上阅读 »",
-          "url": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-11-10T12:09:18.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 59,
-          "sourceType": "rss",
-          "cover": "https://cdn-images-1.medium.com/max/2600/1*CC58LbAG6zbjSnfTzjfBtg.jpeg",
           "author": ""
         }
       ]
@@ -768,13 +767,13 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "2407253e58cefe5e",
-          "title": "Windows11 更新后右键经典菜单失效了，能恢复么？",
-          "summary": "之前一直使用修改注册表的方式恢复传统右键菜单。reg add \"HKCU\\Software\\Classes\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32\" /f taskkill /F /IM explorer.exe explorer.exe 今天更新之后…",
-          "url": "https://www.v2ex.com/t/1256361#reply0",
+          "id": "114881927dcab4ff",
+          "title": "花 100 块让 AI 做了个 50 层魔塔网页游戏《星穹塔》",
+          "summary": "最近 claude 写 3A 大作很流行，由于预算有限，所以我花了 100 块试了试，让 claude 陪我从头做了一个 50 层魔塔风格的网页游戏《星穹塔》，一直写到今天凌晨 3 点。早上来看竟然复原了 90%的原版场景，以后程序员真的要淘汰了吗？游戏的主界面：他竟然会自己开了 4 个任务：PS.基础功能由 Haiku 5.…",
+          "url": "https://www.v2ex.com/t/1256697#reply2",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-12T02:05:37.000Z",
+          "publishedAt": "2026-11-13T01:56:27.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -782,17 +781,17 @@
           ],
           "score": 116,
           "sourceType": "rss",
-          "cover": "",
-          "author": "Eagleyes"
+          "cover": "https://i.imgur.com/sylrBfb.png",
+          "author": "niancode"
         },
         {
-          "id": "0fa76c62ae7ebd68",
-          "title": "为什么最近好多梯子都强制用户使用自家的客户端了？",
-          "summary": "大家说说，是有啥猫腻吗？",
-          "url": "https://www.v2ex.com/t/1256358#reply1",
+          "id": "691a32d10cdad905",
+          "title": "微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了",
+          "summary": "如图，微软这一帮草台也在抗议老黄离职吗",
+          "url": "https://www.v2ex.com/t/1256701#reply0",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-12T02:04:35.000Z",
+          "publishedAt": "2026-11-13T02:05:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -801,35 +800,73 @@
           "score": 110,
           "sourceType": "rss",
           "cover": "",
-          "author": "chirsxp"
+          "author": "dafen7"
         },
         {
-          "id": "413f3d2b36cdeb0a",
-          "title": "感觉两台 16g 的 macmini，不如一台 32g 的 macmini",
-          "summary": "因为我几乎什么软件都没开，就已经占用 8g 多了好像",
-          "url": "https://www.v2ex.com/t/1256326#reply17",
+          "id": "6fdb695014ed8c2b",
+          "title": "GitHub availability report: October 2026",
+          "titleZh": "GitHub 可用性报告：2026年10月",
+          "summary": "10月份，我们经历了八起导致 GitHub 各项服务性能下降的事件。文章《GitHub 可用性报告：2026年10月》首次发布于……",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+          "source": "GitHub Blog",
+          "sourceUrl": "https://github.blog/",
+          "publishedAt": "2026-11-13T00:20:16.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发平台"
+          ],
+          "score": 113,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "efcccc89c2e74a21",
+          "title": "请问大家能否推荐一本 PowerShell 7 书。现在能找到的几乎都是 6 或者 5.1。尽量中文，英文也行",
+          "summary": "目前主要在 Windows 终端下用 pwsh （PowerShell 7）配合 Claude Code 和 Codex 干活，想系统了解一下 PowerShell 的对象管道、参数绑定以及安全边界机制，方便审查 AI 生成的脚本。我害怕突然清空硬盘 搜了一圈发现经典书（比如《PowerShell 实战》）基本都停留在 5.1…",
+          "url": "https://www.v2ex.com/t/1256666#reply17",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-12T00:53:51.000Z",
+          "publishedAt": "2026-11-13T00:35:43.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 109,
+          "score": 113,
           "sourceType": "rss",
           "cover": "",
-          "author": "kongkongye"
+          "author": "GoogolChrome111"
         },
         {
-          "id": "e950d28afcdb58b8",
-          "title": "93% of paint splatters are valid Perl programs (2019)",
-          "titleZh": "93% 的颜料飞溅是有效的 Perl 程序（2019年）",
-          "summary": "Hacker News 热帖，当前积分 161，评论 25。",
-          "url": "https://www.mcmillen.dev/sigbovik/",
+          "id": "bc5846eaa7ab56f0",
+          "title": "Build once, run on any agent: A practical guide to agent skills",
+          "titleZh": "一次构建，在任何代理上运行：代理技能实用指南",
+          "summary": "Agent 技能将可重复的工程工作记录在文件中，供团队查阅和重复使用，而工具、项目背景和权限仍仅限于运行……的主机。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+          "source": "GitHub Blog",
+          "sourceUrl": "https://github.blog/",
+          "publishedAt": "2026-11-12T22:54:52.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发平台"
+          ],
+          "score": 111,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "bfdff0fd1726f04b",
+          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "titleZh": "Edge0-145B：在您自己的计算机上使用尖端人工智能功能",
+          "summary": "Hacker News 热帖，当前积分 52，评论 16。",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-11T22:34:23.000Z",
+          "publishedAt": "2026-11-12T23:06:17.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -837,45 +874,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 108,
-          "sourceType": "api"
-        },
-        {
-          "id": "fc99202a3e1ef513",
-          "title": "Lock Your GitHub Actions",
-          "titleZh": "锁定您的 GitHub Actions",
-          "summary": "Hacker News 热帖，当前积分 133，评论 21。",
-          "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-11T22:16:41.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 108,
-          "sourceType": "api"
-        },
-        {
-          "id": "6af58d3dfb4ee663",
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "titleZh": "美国联合航空公司禁止人工智能代理代表旅客预订航班",
-          "summary": "Hacker News 热帖，当前积分 384，评论 369。",
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-11T21:24:35.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 106,
+          "score": 109,
           "sourceType": "api"
         }
       ]
@@ -884,10 +883,10 @@
   "sourceFailures": [
     "Anthropic News: Anthropic News 返回 404",
     "奇舞周刊: fetch failed",
-    "InfoQ 中文: Entity expansion limit exceeded: 1001 > 1000"
+    "InfoQ 中文: InfoQ 中文 返回 404"
   ],
   "sourceStats": {
-    "totalItems": 83,
+    "totalItems": 84,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -899,15 +898,15 @@
     },
     {
       "tag": "行业热点",
-      "count": 17
-    },
-    {
-      "tag": "工具/网站",
-      "count": 12
+      "count": 19
     },
     {
       "tag": "设计/UI",
       "count": 12
+    },
+    {
+      "tag": "工具/网站",
+      "count": 11
     },
     {
       "tag": "产品/商业",
@@ -922,7 +921,7 @@
       "count": 8
     },
     {
-      "tag": "模型产品",
+      "tag": "开发者社区",
       "count": 6
     },
     {
@@ -930,7 +929,7 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -938,20 +937,20 @@
       "count": 6
     },
     {
-      "tag": "新产品",
+      "tag": "交互设计",
       "count": 6
-    },
-    {
-      "tag": "科技公司",
-      "count": 5
     },
     {
       "tag": "开发平台",
       "count": 5
     },
     {
-      "tag": "开发者社区",
-      "count": 4
+      "tag": "科技公司",
+      "count": 5
+    },
+    {
+      "tag": "新产品",
+      "count": 5
     },
     {
       "tag": "技术周刊",
