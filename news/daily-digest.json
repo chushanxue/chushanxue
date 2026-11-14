@@ -1,161 +1,140 @@
 {
-  "generatedAt": "2026-11-13T02:07:47.541Z",
+  "generatedAt": "2026-11-14T02:08:17.090Z",
   "headline": {
-    "id": "114881927dcab4ff",
-    "title": "花 100 块让 AI 做了个 50 层魔塔网页游戏《星穹塔》",
-    "summary": "最近 claude 写 3A 大作很流行，由于预算有限，所以我花了 100 块试了试，让 claude 陪我从头做了一个 50 层魔塔风格的网页游戏《星穹塔》，一直写到今天凌晨 3 点。早上来看竟然复原了 90%的原版场景，以后程序员真的要淘汰了吗？游戏的主界面：他竟然会自己开了 4 个任务：PS.基础功能由 Haiku 5.…",
-    "url": "https://www.v2ex.com/t/1256697#reply2",
-    "source": "V2EX 技术",
-    "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-11-13T01:56:27.000Z",
+    "id": "21ae7d909f4f78c6",
+    "title": "FAA lifted National Ground Stop at 0119Z",
+    "summary": "Hacker News 热帖，当前积分 78，评论 36。",
+    "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "publishedAt": "2026-11-14T01:30:01.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
-      "开发者社区"
+      "工程效率",
+      "Hacker News",
+      "讨论"
     ],
-    "score": 116,
-    "sourceType": "rss",
-    "cover": "https://i.imgur.com/sylrBfb.png",
-    "author": "niancode"
+    "score": 113,
+    "sourceType": "api"
   },
   "latest": [
     {
-      "id": "114881927dcab4ff",
-      "title": "花 100 块让 AI 做了个 50 层魔塔网页游戏《星穹塔》",
-      "summary": "最近 claude 写 3A 大作很流行，由于预算有限，所以我花了 100 块试了试，让 claude 陪我从头做了一个 50 层魔塔风格的网页游戏《星穹塔》，一直写到今天凌晨 3 点。早上来看竟然复原了 90%的原版场景，以后程序员真的要淘汰了吗？游戏的主界面：他竟然会自己开了 4 个任务：PS.基础功能由 Haiku 5.…",
-      "url": "https://www.v2ex.com/t/1256697#reply2",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-13T01:56:27.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 116,
-      "sourceType": "rss",
-      "cover": "https://i.imgur.com/sylrBfb.png",
-      "author": "niancode"
-    },
-    {
-      "id": "691a32d10cdad905",
-      "title": "微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了",
-      "summary": "如图，微软这一帮草台也在抗议老黄离职吗",
-      "url": "https://www.v2ex.com/t/1256701#reply0",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-13T02:05:10.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 110,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "dafen7"
-    },
-    {
-      "id": "a74062c60d151b1c",
-      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
-      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
-      "source": "阮一峰的网络日志",
-      "sourceUrl": "https://www.ruanyifeng.com/blog/",
-      "publishedAt": "2026-11-13T00:08:29.000Z",
-      "category": "frontend",
-      "tags": [
-        "前端技术",
-        "技术周刊"
-      ],
-      "score": 120,
-      "sourceType": "rss",
-      "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111203.webp",
-      "author": "阮一峰"
-    },
-    {
-      "id": "d7b785b187c3f9f8",
-      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-      "summary": "2026年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
-      "url": "https://sspai.com/post/118966",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-13T00:48:17.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "6fdb695014ed8c2b",
-      "title": "GitHub availability report: October 2026",
-      "titleZh": "GitHub 可用性报告：2026年10月",
-      "summary": "10月份，我们经历了八起导致 GitHub 各项服务性能下降的事件。文章《GitHub 可用性报告：2026年10月》首次发布于……",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-      "source": "GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-11-13T00:20:16.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发平台"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "efcccc89c2e74a21",
-      "title": "请问大家能否推荐一本 PowerShell 7 书。现在能找到的几乎都是 6 或者 5.1。尽量中文，英文也行",
-      "summary": "目前主要在 Windows 终端下用 pwsh （PowerShell 7）配合 Claude Code 和 Codex 干活，想系统了解一下 PowerShell 的对象管道、参数绑定以及安全边界机制，方便审查 AI 生成的脚本。我害怕突然清空硬盘 搜了一圈发现经典书（比如《PowerShell 实战》）基本都停留在 5.1…",
-      "url": "https://www.v2ex.com/t/1256666#reply17",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-13T00:35:43.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "GoogolChrome111"
-    },
-    {
-      "id": "bc5846eaa7ab56f0",
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "titleZh": "一次构建，在任何代理上运行：代理技能实用指南",
-      "summary": "Agent 技能将可重复的工程工作记录在文件中，供团队查阅和重复使用，而工具、项目背景和权限仍仅限于运行……的主机。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-      "source": "GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-11-12T22:54:52.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发平台"
-      ],
-      "score": 111,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "bfdff0fd1726f04b",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "titleZh": "Edge0-145B：在您自己的计算机上使用尖端人工智能功能",
-      "summary": "Hacker News 热帖，当前积分 52，评论 16。",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "id": "21ae7d909f4f78c6",
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "summary": "Hacker News 热帖，当前积分 78，评论 36。",
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-12T23:06:17.000Z",
+      "publishedAt": "2026-11-14T01:30:01.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 113,
+      "sourceType": "api"
+    },
+    {
+      "id": "a3b97845ceb49c70",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "summary": "Hacker News 热帖，当前积分 105，评论 30。",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-14T00:52:29.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 112,
+      "sourceType": "api"
+    },
+    {
+      "id": "fc4e5c910952eaae",
+      "title": "Schrödinger’s Huang: Nvidia could not be everything to everybody",
+      "summary": "A cautionary tale for Asian capital attempting to operate technology businesses on both sides of the Pacific simultaneously Continue reading on UX Collective »",
+      "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-11-13T23:51:27.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 115,
+      "sourceType": "rss",
+      "cover": "https://cdn-images-1.medium.com/max/1072/0*gqf8_YQf9UQKv9T5.jpg",
+      "author": ""
+    },
+    {
+      "id": "2d7593a4fba99f87",
+      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "summary": "Hacker News 热帖，当前积分 22，评论 6。",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-14T00:28:11.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 111,
+      "sourceType": "api"
+    },
+    {
+      "id": "291d2d9ec01ac9bc",
+      "title": "What Happened to 3Com?",
+      "summary": "Hacker News 热帖，当前积分 44，评论 17。",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-13T23:48:59.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 110,
+      "sourceType": "api"
+    },
+    {
+      "id": "389995ae9706d87d",
+      "title": "Decision theatre or decision design?",
+      "summary": "",
+      "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/",
+      "publishedAt": "2026-11-13T23:51:42.000Z",
+      "category": "design",
+      "tags": [
+        "设计/UI",
+        "交互设计"
+      ],
+      "score": 109,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "12efe3fb2f1d2501",
+      "title": "Terminal borders that don't cost a cell",
+      "summary": "Hacker News 热帖，当前积分 70，评论 40。",
+      "url": "https://www.joshka.net/cell-borders/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-13T23:06:40.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -165,9 +144,81 @@
       ],
       "score": 109,
       "sourceType": "api"
+    },
+    {
+      "id": "90a49e887a1b37e5",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s littl…",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-11-13T23:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 104,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
     }
   ],
   "featuredTools": [
+    {
+      "id": "e99f0648fc6de24e",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "summary": "📅本周新预告《银翼杀手 2099》终极预告 11月10日，剧集《银翼杀手 2099》发布了终极预告，将于 11月25日上线 PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ... 查看全文",
+      "url": "https://sspai.com/post/118999",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-13T09:39:22.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 91,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "8e6b0abfb787ebc9",
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+      "url": "https://sspai.com/post/118153",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-13T07:00:00.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 84,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "胡拉图说"
+    },
+    {
+      "id": "8fa7df1baff96ee6",
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费 Mac 应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole 从 1.13 一路发到了 1.19，加上了 AI 工具清理和系统数据清理，Windows ... 查看全文",
+      "url": "https://sspai.com/post/118512",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-13T03:35:48.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 82,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Tw93"
+    },
     {
       "id": "d7b785b187c3f9f8",
       "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
@@ -181,101 +232,46 @@
         "工具/网站",
         "效率"
       ],
-      "score": 114,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
     },
     {
-      "id": "6cc78c770833fe68",
-      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
-      "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4 比例的图 ... 查看全文",
-      "url": "https://sspai.com/post/118366",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-12T08:37:25.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 90,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Hermanchannn"
-    },
-    {
-      "id": "3f916f111aa4d85a",
-      "title": "Mac 选购指南 2026 冬季版",
-      "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。查看全文",
-      "url": "https://sspai.com/post/85735",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-12T06:42:04.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 84,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Kostya"
-    },
-    {
-      "id": "78bf34d42e4267ef",
-      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
-      "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着 Matter 和 HomeAssistant 打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的 HomePod、书房的 ... 查看全文",
-      "url": "https://sspai.com/post/118921",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-12T03:12:02.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 81,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "南桥北桥不是桥"
-    },
-    {
-      "id": "78a5321fcc5a9135",
-      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
-      "url": "https://sspai.com/post/118935",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-12T00:22:09.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "b36bf9ac088191a8",
-      "title": "Grok Bot 1.0",
-      "titleZh": "Grok Bot 1.0",
-      "summary": "机器人与您的团队协同工作",
-      "url": "https://www.producthunt.com/products/grok",
+      "id": "cb168a5a5a1ad1fc",
+      "title": "WHOOP Humans",
+      "summary": "WHOOP's social network built around real health data Discussion | Link",
+      "url": "https://www.producthunt.com/products/whoop",
       "source": "Product Hunt",
       "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-11-11T19:38:45.000Z",
+      "publishedAt": "2026-11-13T01:35:46.000Z",
       "category": "tools",
       "tags": [
         "工具/网站",
         "新产品"
       ],
-      "score": 64,
+      "score": 74,
       "sourceType": "rss",
       "cover": "",
-      "author": "Ankit Sharma"
+      "author": "Justin Jincaid"
+    },
+    {
+      "id": "3b69854a5e215d0e",
+      "title": "Pocket Studio for Supabase",
+      "summary": "Supabase dashboard & SQL editor for Android Discussion | Link",
+      "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-11-13T01:38:33.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 73,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Tanay"
     }
   ],
   "sections": [
@@ -284,6 +280,24 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "13694812a151dd43",
+          "title": "10 Big Ol’ 2027 Black Friday Deals",
+          "summary": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business. 10 Big Ol’ 2027 Black Friday Deals ori…",
+          "url": "https://css-tricks.com/2027-front-end-black-friday-deals/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-11-13T14:05:24.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 105,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
         {
           "id": "a74062c60d151b1c",
           "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
@@ -297,7 +311,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 120,
+          "score": 82,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111203.webp",
           "author": "阮一峰"
@@ -305,8 +319,7 @@
         {
           "id": "11623c86b9a4d22e",
           "title": "Beyond 12 Columns: Designing Layouts With Personality",
-          "titleZh": "超越 12 列：设计有特色的布局",
-          "summary": "太多的网站看起来都一样。它们使用熟悉的布局，重复相同的模式，一旦您离开，往往不会留下什么印象。Andy Clarke 探讨了如何……",
+          "summary": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how und…",
           "url": "https://css-tricks.com/beyond-12-columns/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -316,7 +329,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 108,
+          "score": 70,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -324,8 +337,7 @@
         {
           "id": "80d883363f1f6490",
           "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
-          "titleZh": "您真的应该将人工智能添加到其中吗？针对产品团队的四个问题审核",
-          "summary": "一项人工智能功能可以为用户节省完成任务的时间，但他们却要花时间来检查结果。这项实用性审核有助于产品团队确定人工智能在哪些方面发挥作用……",
+          "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place a…",
           "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "source": "Smashing Magazine",
           "sourceUrl": "https://www.smashingmagazine.com/",
@@ -335,7 +347,7 @@
             "前端技术",
             "设计/UI"
           ],
-          "score": 97,
+          "score": 65,
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
           "author": "hello@smashingmagazine.com (Victor Yocco)"
@@ -343,8 +355,7 @@
         {
           "id": "e87fc1c45ec54843",
           "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-          "titleZh": "CSS 优化：只使用一次声明 (UDJO) 今天仍然有效吗？",
-          "summary": "通过识别和减少（如果不是消除的话）CSS 声明的重复，该技术是否受到 DRY 原则的启发，是否仍然是一种相关的优化策略？CSS……",
+          "summary": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy? CSS…",
           "url": "https://css-tricks.com/css-using-declarations-just-once/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -362,8 +373,7 @@
         {
           "id": "2c94eacf64466e0b",
           "title": "CSS-Tricks, Version 20",
-          "titleZh": "CSS-Tricks，第 20 版",
-          "summary": "这里看起来有点不一样？我希望是这样，因为我们刚刚推出了网站的全新设计！以下是第 20（！！）版 CSS-Tricks 的所有新内容。CSS-Tricks……",
+          "summary": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks. CSS-Tricks…",
           "url": "https://css-tricks.com/css-tricks-version-20/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -377,25 +387,6 @@
           "sourceType": "rss",
           "cover": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-20-theme-tiggle.mp4",
           "author": ""
-        },
-        {
-          "id": "1df4d037be389596",
-          "title": "RSS Club: CSS-Tricks Redesign Preview",
-          "titleZh": "RSS 俱乐部：CSS-Tricks 新版预览",
-          "summary": "亲爱的 RSS 订阅者们，大家好！我们刚刚悄悄推出了网站新设计，想先让大家知道一下。完整的文章即将推出，但这里先介绍一下……",
-          "url": "https://css-tricks.com/css-tricks-redesign-preview/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-11-06T18:52:59.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -405,10 +396,99 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "cee30867c6e28010",
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "summary": "",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-11-13T18:00:39.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "a108aad3d14e19d0",
+          "title": "XYBench: Helping with the problem behind the question",
+          "summary": "",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-11-13T17:02:35.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "bd98a5d1e6e26dd6",
+          "title": "Introducing ChatGPT Wallet",
+          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-13T15:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "c98c961c31bfc695",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": "",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-11-13T14:05:22.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "39b147bc52159699",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-13T08:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 98,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "a06191ac9b436071",
           "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "titleZh": "Amplitude 如何借助 OpenAI 在 1–2天内推出产品改进",
-          "summary": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队通过编码代理交付变更，并衡量……",
+          "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the im…",
           "url": "https://openai.com/business/customer-stories/amplitude",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -418,102 +498,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 117,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "7848065a354ec159",
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "titleZh": "LLMON：一种 LLM 原生标记语言，现已在 Granite 4.1 3B 和 8B 中推出",
-          "summary": "",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-11-12T19:07:35.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
-          ],
-          "score": 106,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "d2b6f9aa4fef70e9",
-          "title": "Gondola doubles revenue as its team builds more with Codex",
-          "titleZh": "Gondola 的团队使用 Codex 构建更多内容，使收入翻倍",
-          "summary": "Gondola 帮助创意人士获得认可并被聘用，Codex 将其首席工程师的产出提高了 50%，ChatGPT 则简化了日常工作。",
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-12T12:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 103,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "f40a064075c565ff",
-          "title": "Holiday Extras is rethinking what it can build with Codex",
-          "titleZh": "Holiday Extras 正在重新思考可以利用 Codex 构建哪些功能",
-          "summary": "借助 Codex，Holiday Extras 将客户专业知识转化为更出色的应用程序、更高的预订转化率和新的增长可能性。",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-12T09:30:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "d284c53b365aa65d",
-          "title": "Supporting research on AI and children’s safety",
-          "titleZh": "支持有关人工智能和儿童安全的研究",
-          "summary": "OpenAI 投入 200 万美元用于人工智能与儿童安全方面的研究。这项工作支持使用共享工具来衡量年轻人面临的风险和机遇。",
-          "url": "https://openai.com/index/children-first-declaration",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-12T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 84,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "291315ca39401cbc",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "titleZh": "Gilbert + Tobin 借助人工智能重新思考法律业务",
-          "summary": "与 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话。",
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-12T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 82,
+          "score": 79,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -526,14 +511,31 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "77ab530a9ccd7703",
-          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-          "titleZh": "民主党人发起对 Nvidia 的调查，就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
-          "summary": "这是自所谓间谍事件的消息传出以来，迄今为止对英伟达在中国销售情况及其与特朗普的往来进行的第二次国会调查。",
-          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "id": "90a49e887a1b37e5",
+          "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+          "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s littl…",
+          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-12T22:42:51.000Z",
+          "publishedAt": "2026-11-13T23:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 104,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "5d37263e5efc8478",
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-11-13T22:43:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -545,52 +547,31 @@
           "author": ""
         },
         {
-          "id": "77adf8794dabb30f",
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "titleZh": "正在发酵的黄仁勋丑闻：时间线",
-          "summary": "Jensen Huang 在曝出婚外情后从 Nvidia 辞职，由于美国和中国正在竞相开发最先进的……，这可能对国家安全产生影响。",
-          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "id": "ca2de2a333e48dab",
+          "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+          "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which…",
+          "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-12T21:35:00.000Z",
+          "publishedAt": "2026-11-13T21:44:38.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 101,
+          "score": 102,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "111988cebeb40d97",
-          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-          "titleZh": "Nebius 计划投入 400亿美元来测试新云战略手册",
-          "summary": "Nebius 计划通过客户预付款和贷款为其 400亿美元的人工智能基础设施扩张提供资金，尽管微软数据中心的延迟引发了人们对……的质疑。",
-          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "id": "63fed060fd635b0c",
+          "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+          "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less tha…",
+          "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-12T21:27:10.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 101,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "a165229d81fd98c8",
-          "title": "Muse can now place calls to US businesses — if you pay",
-          "titleZh": "Muse 现在可以拨打美国企业的电话了——只要您付费",
-          "summary": "Muse 的 AI 现在可以向美国企业拨打出站电话，但并非免费。",
-          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-12T22:22:28.000Z",
+          "publishedAt": "2026-11-13T20:07:24.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
@@ -602,20 +583,19 @@
           "author": ""
         },
         {
-          "id": "c1b7234fd9186ecc",
-          "title": "Jensen Huang was having a third affair, Reuters reports",
-          "titleZh": "路透社报道称，黄仁勋有第三段婚外情",
-          "summary": "路透社未透露与黄仁勋有关联的新员工的姓名，但表示她是英伟达的员工。",
-          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+          "id": "2a12789cd9e8cc59",
+          "title": "AI agent startup LangChain hits $3B valuation",
+          "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-12T20:26:47.000Z",
+          "publishedAt": "2026-11-13T19:37:57.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 97,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -623,8 +603,7 @@
         {
           "id": "d18e6713a7f6d1a5",
           "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-          "titleZh": "Claude Code + Obsidian：我家的人工智能大脑 | Scott Farrar",
-          "summary": "立即观看（34分钟）| 🎙️ Scott Farrar 介绍了他构建的 Claude Code 和 Obsidian 系统，用于跟踪电器、跟进保险报价以及管理家居项目……",
+          "summary": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household proje…",
           "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
@@ -646,9 +625,80 @@
       "description": "设计系统、变量、组件协同和视觉趋势",
       "items": [
         {
+          "id": "fc4e5c910952eaae",
+          "title": "Schrödinger’s Huang: Nvidia could not be everything to everybody",
+          "summary": "A cautionary tale for Asian capital attempting to operate technology businesses on both sides of the Pacific simultaneously Continue reading on UX Collective »",
+          "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-13T23:51:27.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 115,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/1072/0*gqf8_YQf9UQKv9T5.jpg",
+          "author": ""
+        },
+        {
+          "id": "389995ae9706d87d",
+          "title": "Decision theatre or decision design?",
+          "summary": "",
+          "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-13T23:51:42.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 109,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "ef84c75f798ce445",
+          "title": "The crooked plate that felt more human than the algorithm",
+          "summary": "We have spent years teaching machines to be flawless. Now the flawlessness is beginning to feel like a kind of absence. Continue reading on UX Collective »",
+          "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-13T10:58:22.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 94,
+          "sourceType": "rss",
+          "cover": "https://cdn-images-1.medium.com/max/710/0*fYWy32dkzlchhe4g",
+          "author": ""
+        },
+        {
+          "id": "ec981fe941516092",
+          "title": "AI is the new old design material",
+          "summary": "",
+          "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+          "source": "UX Collective",
+          "sourceUrl": "https://uxdesign.cc/",
+          "publishedAt": "2026-11-13T02:33:09.000Z",
+          "category": "design",
+          "tags": [
+            "设计/UI",
+            "交互设计"
+          ],
+          "score": 75,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "6a51c9cf877f762f",
           "title": "The AI mind tax that afflicts those who use AI best",
-          "titleZh": "困扰那些最善于使用人工智能的人的人工智能思维税",
           "summary": "",
           "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -659,7 +709,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 89,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -667,88 +717,11 @@
         {
           "id": "5e641adb395b22b3",
           "title": "Why are we cloning Photoshop?",
-          "titleZh": "我们为什么要克隆 Photoshop？",
           "summary": "",
           "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
           "publishedAt": "2026-11-11T22:20:42.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "b00f710a3155871f",
-          "title": "Every click has a price now. Who designs how that “feels”?",
-          "titleZh": "现在，每一次点击都有一个价格。谁来设计这种“感觉”？",
-          "summary": "",
-          "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-11-11T22:15:19.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "d6aa77c7a6aeaa3d",
-          "title": "The bathroom flaws that infuriate every designer",
-          "titleZh": "让每个设计师都抓狂的卫生间缺陷",
-          "summary": "",
-          "url": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-11-11T22:10:34.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "80ffae67e91d5c15",
-          "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
-          "titleZh": "系统内设计：从代码到 Figma，再回到代码。在您的真实设计系统中进行原型设计",
-          "summary": "",
-          "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-11-11T22:08:32.000Z",
-          "category": "design",
-          "tags": [
-            "设计/UI",
-            "交互设计"
-          ],
-          "score": 68,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "ab658781c663199f",
-          "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
-          "titleZh": "在您的设计系统中进行 AI 原型设计。面向设计和产品团队的实用指南。",
-          "summary": "",
-          "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
-          "source": "UX Collective",
-          "sourceUrl": "https://uxdesign.cc/",
-          "publishedAt": "2026-11-10T23:34:58.000Z",
           "category": "design",
           "tags": [
             "设计/UI",
@@ -767,106 +740,103 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "114881927dcab4ff",
-          "title": "花 100 块让 AI 做了个 50 层魔塔网页游戏《星穹塔》",
-          "summary": "最近 claude 写 3A 大作很流行，由于预算有限，所以我花了 100 块试了试，让 claude 陪我从头做了一个 50 层魔塔风格的网页游戏《星穹塔》，一直写到今天凌晨 3 点。早上来看竟然复原了 90%的原版场景，以后程序员真的要淘汰了吗？游戏的主界面：他竟然会自己开了 4 个任务：PS.基础功能由 Haiku 5.…",
-          "url": "https://www.v2ex.com/t/1256697#reply2",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-13T01:56:27.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 116,
-          "sourceType": "rss",
-          "cover": "https://i.imgur.com/sylrBfb.png",
-          "author": "niancode"
-        },
-        {
-          "id": "691a32d10cdad905",
-          "title": "微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了",
-          "summary": "如图，微软这一帮草台也在抗议老黄离职吗",
-          "url": "https://www.v2ex.com/t/1256701#reply0",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-13T02:05:10.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 110,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "dafen7"
-        },
-        {
-          "id": "6fdb695014ed8c2b",
-          "title": "GitHub availability report: October 2026",
-          "titleZh": "GitHub 可用性报告：2026年10月",
-          "summary": "10月份，我们经历了八起导致 GitHub 各项服务性能下降的事件。文章《GitHub 可用性报告：2026年10月》首次发布于……",
-          "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-          "source": "GitHub Blog",
-          "sourceUrl": "https://github.blog/",
-          "publishedAt": "2026-11-13T00:20:16.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发平台"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "efcccc89c2e74a21",
-          "title": "请问大家能否推荐一本 PowerShell 7 书。现在能找到的几乎都是 6 或者 5.1。尽量中文，英文也行",
-          "summary": "目前主要在 Windows 终端下用 pwsh （PowerShell 7）配合 Claude Code 和 Codex 干活，想系统了解一下 PowerShell 的对象管道、参数绑定以及安全边界机制，方便审查 AI 生成的脚本。我害怕突然清空硬盘 搜了一圈发现经典书（比如《PowerShell 实战》）基本都停留在 5.1…",
-          "url": "https://www.v2ex.com/t/1256666#reply17",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-13T00:35:43.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "GoogolChrome111"
-        },
-        {
-          "id": "bc5846eaa7ab56f0",
-          "title": "Build once, run on any agent: A practical guide to agent skills",
-          "titleZh": "一次构建，在任何代理上运行：代理技能实用指南",
-          "summary": "Agent 技能将可重复的工程工作记录在文件中，供团队查阅和重复使用，而工具、项目背景和权限仍仅限于运行……的主机。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-          "source": "GitHub Blog",
-          "sourceUrl": "https://github.blog/",
-          "publishedAt": "2026-11-12T22:54:52.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发平台"
-          ],
-          "score": 111,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "bfdff0fd1726f04b",
-          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-          "titleZh": "Edge0-145B：在您自己的计算机上使用尖端人工智能功能",
-          "summary": "Hacker News 热帖，当前积分 52，评论 16。",
-          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "id": "21ae7d909f4f78c6",
+          "title": "FAA lifted National Ground Stop at 0119Z",
+          "summary": "Hacker News 热帖，当前积分 78，评论 36。",
+          "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-12T23:06:17.000Z",
+          "publishedAt": "2026-11-14T01:30:01.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 113,
+          "sourceType": "api"
+        },
+        {
+          "id": "a3b97845ceb49c70",
+          "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+          "summary": "Hacker News 热帖，当前积分 105，评论 30。",
+          "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-14T00:52:29.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 112,
+          "sourceType": "api"
+        },
+        {
+          "id": "2d7593a4fba99f87",
+          "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": "Hacker News 热帖，当前积分 22，评论 6。",
+          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-14T00:28:11.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 111,
+          "sourceType": "api"
+        },
+        {
+          "id": "291d2d9ec01ac9bc",
+          "title": "What Happened to 3Com?",
+          "summary": "Hacker News 热帖，当前积分 44，评论 17。",
+          "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-13T23:48:59.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 110,
+          "sourceType": "api"
+        },
+        {
+          "id": "12efe3fb2f1d2501",
+          "title": "Terminal borders that don't cost a cell",
+          "summary": "Hacker News 热帖，当前积分 70，评论 40。",
+          "url": "https://www.joshka.net/cell-borders/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-13T23:06:40.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 109,
+          "sourceType": "api"
+        },
+        {
+          "id": "ba6168bd9812822a",
+          "title": "FAA issues national ground stop",
+          "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-13T21:05:53.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -921,15 +891,11 @@
       "count": 8
     },
     {
+      "tag": "交互设计",
+      "count": 6
+    },
+    {
       "tag": "开发者社区",
-      "count": 6
-    },
-    {
-      "tag": "效率",
-      "count": 6
-    },
-    {
-      "tag": "模型产品",
       "count": 6
     },
     {
@@ -937,12 +903,12 @@
       "count": 6
     },
     {
-      "tag": "交互设计",
+      "tag": "模型产品",
       "count": 6
     },
     {
-      "tag": "开发平台",
-      "count": 5
+      "tag": "效率",
+      "count": 6
     },
     {
       "tag": "科技公司",
@@ -950,6 +916,10 @@
     },
     {
       "tag": "新产品",
+      "count": 5
+    },
+    {
+      "tag": "开发平台",
       "count": 5
     },
     {
