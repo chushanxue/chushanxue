@@ -1,170 +1,214 @@
 {
-  "generatedAt": "2026-11-14T02:08:17.090Z",
+  "generatedAt": "2026-11-15T02:08:14.450Z",
   "headline": {
-    "id": "21ae7d909f4f78c6",
-    "title": "FAA lifted National Ground Stop at 0119Z",
-    "summary": "Hacker News 热帖，当前积分 78，评论 36。",
-    "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "publishedAt": "2026-11-14T01:30:01.000Z",
-    "category": "industry",
+    "id": "e9e2fb328995989e",
+    "title": "Where was Nvidia’s security team?",
+    "titleZh": "Nvidia 的安全团队在哪里？",
+    "summary": "Nvidia 的安全主管于 8月悄然离职，而现在，首席执行官黄仁勋也因其人际关系而辞职，其中包括与一家可疑公司的……",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/",
+    "publishedAt": "2026-11-15T00:08:07.000Z",
+    "category": "product",
     "tags": [
-      "行业热点",
-      "工程效率",
-      "Hacker News",
-      "讨论"
+      "产品/商业",
+      "科技公司"
     ],
-    "score": 113,
-    "sourceType": "api"
+    "score": 106,
+    "sourceType": "rss",
+    "cover": "",
+    "author": ""
   },
   "latest": [
     {
-      "id": "21ae7d909f4f78c6",
-      "title": "FAA lifted National Ground Stop at 0119Z",
-      "summary": "Hacker News 热帖，当前积分 78，评论 36。",
-      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-14T01:30:01.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 113,
-      "sourceType": "api"
-    },
-    {
-      "id": "a3b97845ceb49c70",
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "summary": "Hacker News 热帖，当前积分 105，评论 30。",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-14T00:52:29.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 112,
-      "sourceType": "api"
-    },
-    {
-      "id": "fc4e5c910952eaae",
-      "title": "Schrödinger’s Huang: Nvidia could not be everything to everybody",
-      "summary": "A cautionary tale for Asian capital attempting to operate technology businesses on both sides of the Pacific simultaneously Continue reading on UX Collective »",
-      "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-11-13T23:51:27.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 115,
-      "sourceType": "rss",
-      "cover": "https://cdn-images-1.medium.com/max/1072/0*gqf8_YQf9UQKv9T5.jpg",
-      "author": ""
-    },
-    {
-      "id": "2d7593a4fba99f87",
-      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "summary": "Hacker News 热帖，当前积分 22，评论 6。",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-14T00:28:11.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 111,
-      "sourceType": "api"
-    },
-    {
-      "id": "291d2d9ec01ac9bc",
-      "title": "What Happened to 3Com?",
-      "summary": "Hacker News 热帖，当前积分 44，评论 17。",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-13T23:48:59.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 110,
-      "sourceType": "api"
-    },
-    {
-      "id": "389995ae9706d87d",
-      "title": "Decision theatre or decision design?",
-      "summary": "",
-      "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/",
-      "publishedAt": "2026-11-13T23:51:42.000Z",
-      "category": "design",
-      "tags": [
-        "设计/UI",
-        "交互设计"
-      ],
-      "score": 109,
-      "sourceType": "rss",
-      "cover": "",
-      "author": ""
-    },
-    {
-      "id": "12efe3fb2f1d2501",
-      "title": "Terminal borders that don't cost a cell",
-      "summary": "Hacker News 热帖，当前积分 70，评论 40。",
-      "url": "https://www.joshka.net/cell-borders/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-13T23:06:40.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "工程效率",
-        "Hacker News",
-        "讨论"
-      ],
-      "score": 109,
-      "sourceType": "api"
-    },
-    {
-      "id": "90a49e887a1b37e5",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s littl…",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "id": "e9e2fb328995989e",
+      "title": "Where was Nvidia’s security team?",
+      "titleZh": "Nvidia 的安全团队在哪里？",
+      "summary": "Nvidia 的安全主管于 8月悄然离职，而现在，首席执行官黄仁勋也因其人际关系而辞职，其中包括与一家可疑公司的……",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-13T23:00:00.000Z",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 104,
+      "score": 106,
       "sourceType": "rss",
       "cover": "",
       "author": ""
+    },
+    {
+      "id": "c41625c2c0941d77",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "titleZh": "沃兹在组装电脑之前是如何编写 Apple 1 BASIC 的？",
+      "summary": "Hacker News 热帖，当前积分 94，评论 31。",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-14T22:22:49.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "eed9d19ba9642b3a",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "titleZh": "英伟达通过循环融资交易故意抬高 GPU 价格",
+      "summary": "Hacker News 热帖，当前积分 193，评论 112。",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-14T22:26:30.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "ee6688bca308f923",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "titleZh": "SpaceX 成功回收星际飞船，结束第 15 次飞行任务",
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-14T21:22:24.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 108,
+      "sourceType": "api"
+    },
+    {
+      "id": "faa6414f38d2232b",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "titleZh": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
+      "summary": "截至周六下午，该请愿书已获得超过 11.5 万个签名。",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 98,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "df23dd79933785ee",
+      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+      "titleZh": "🧠 社区智慧：当您成为 AI 代理的瓶颈时、面向产品经理的 PULL 框架、产品增长与增长营销、提高反馈回复率等",
+      "summary": "社区智慧 305",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+      "source": "Lenny's Newsletter",
+      "sourceUrl": "https://www.lennysnewsletter.com/",
+      "publishedAt": "2026-11-14T21:15:46.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业"
+      ],
+      "score": 96,
+      "sourceType": "rss",
+      "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+      "author": ""
+    },
+    {
+      "id": "5a151937449a2cec",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "titleZh": "特斯拉开放“个人使用”的 Cybercab 预订，但有地域限制，且每月需支付 299美元的费用",
+      "summary": "就连埃隆·马斯克也表示，月费“太高了”。",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
+      "publishedAt": "2026-11-14T20:04:44.000Z",
+      "category": "product",
+      "tags": [
+        "产品/商业",
+        "科技公司"
+      ],
+      "score": 95,
+      "sourceType": "rss",
+      "cover": "",
+      "author": ""
+    },
+    {
+      "id": "8b4cd9d54bb48dfa",
+      "title": "两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着",
+      "summary": "我大号用了 4 个月，在 11月11日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC。小号用了一周，在 11月11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11月12日就不敢用 fabl…",
+      "url": "https://www.v2ex.com/t/1257137#reply14",
+      "source": "V2EX 技术",
+      "sourceUrl": "https://www.v2ex.com/?tab=tech",
+      "publishedAt": "2026-11-14T17:41:27.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "开发者社区"
+      ],
+      "score": 102,
+      "sourceType": "rss",
+      "cover": "https://i.imgur.com/7cxbzAT.png",
+      "author": "chenlide"
     }
   ],
   "featuredTools": [
+    {
+      "id": "ffbf72ae5436b3cd",
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "url": "https://sspai.com/post/118276",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-14T07:40:21.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "随便好啦"
+    },
+    {
+      "id": "d5ebf4f4cb3707f0",
+      "title": "Tabletop by Google Labs",
+      "titleZh": "Google Labs 的 Tabletop",
+      "summary": "利用人工智能打造互动式团体体验。",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-11-13T11:39:17.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Shivam Kushwaha"
+    },
     {
       "id": "e99f0648fc6de24e",
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -178,10 +222,29 @@
         "工具/网站",
         "效率"
       ],
-      "score": 91,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
+    },
+    {
+      "id": "76a2c38b9ab9573a",
+      "title": "Businesses in ChatGPT",
+      "titleZh": "ChatGPT 中的企业",
+      "summary": "通过 ChatGPT 帮助顾客发现您的业务",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/",
+      "publishedAt": "2026-11-13T08:53:51.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "新产品"
+      ],
+      "score": 55,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Shivam Kushwaha"
     },
     {
       "id": "8e6b0abfb787ebc9",
@@ -196,7 +259,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 84,
+      "score": 57,
       "sourceType": "rss",
       "cover": "",
       "author": "胡拉图说"
@@ -214,64 +277,10 @@
         "工具/网站",
         "效率"
       ],
-      "score": 82,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "Tw93"
-    },
-    {
-      "id": "d7b785b187c3f9f8",
-      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-      "summary": "2026年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
-      "url": "https://sspai.com/post/118966",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-13T00:48:17.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 75,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "cb168a5a5a1ad1fc",
-      "title": "WHOOP Humans",
-      "summary": "WHOOP's social network built around real health data Discussion | Link",
-      "url": "https://www.producthunt.com/products/whoop",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-11-13T01:35:46.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 74,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Justin Jincaid"
-    },
-    {
-      "id": "3b69854a5e215d0e",
-      "title": "Pocket Studio for Supabase",
-      "summary": "Supabase dashboard & SQL editor for Android Discussion | Link",
-      "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
-      "source": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/",
-      "publishedAt": "2026-11-13T01:38:33.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "新产品"
-      ],
-      "score": 73,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "Tanay"
     }
   ],
   "sections": [
@@ -283,7 +292,8 @@
         {
           "id": "13694812a151dd43",
           "title": "10 Big Ol’ 2027 Black Friday Deals",
-          "summary": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business. 10 Big Ol’ 2027 Black Friday Deals ori…",
+          "titleZh": "10 大 2027年黑色星期五超值优惠",
+          "summary": "来自业内最优秀独立出版商和教育工作者的前端课程黑色星期五优惠大盘点。2027年黑色星期五的 10 大超值优惠……",
           "url": "https://css-tricks.com/2027-front-end-black-friday-deals/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -293,7 +303,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 105,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -311,7 +321,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 82,
+          "score": 66,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111203.webp",
           "author": "阮一峰"
@@ -319,7 +329,8 @@
         {
           "id": "11623c86b9a4d22e",
           "title": "Beyond 12 Columns: Designing Layouts With Personality",
-          "summary": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how und…",
+          "titleZh": "超越 12 列：设计有特色的布局",
+          "summary": "太多的网站看起来都一样。它们使用熟悉的布局，重复相同的模式，一旦您离开，往往不会留下什么印象。Andy Clarke 探讨了如何……",
           "url": "https://css-tricks.com/beyond-12-columns/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -329,7 +340,7 @@
             "前端技术",
             "CSS"
           ],
-          "score": 70,
+          "score": 67,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -337,7 +348,8 @@
         {
           "id": "80d883363f1f6490",
           "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
-          "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place a…",
+          "titleZh": "您真的应该将人工智能添加进去吗？针对产品团队的四个问题审核",
+          "summary": "AI 功能可以为用户节省完成任务的时间，但他们却要花时间来检查结果。这项实用性审核有助于产品团队确定人工智能在哪些方面发挥作用……",
           "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "source": "Smashing Magazine",
           "sourceUrl": "https://www.smashingmagazine.com/",
@@ -355,7 +367,8 @@
         {
           "id": "e87fc1c45ec54843",
           "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-          "summary": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy? CSS…",
+          "titleZh": "CSS 优化：只使用一次声明 (UDJO) 今天仍然有效吗？",
+          "summary": "通过识别和减少（如果不是消除）CSS 声明的重复，该技术是否受到 DRY 原则的启发，是否仍然是一种相关的优化策略？CSS……",
           "url": "https://css-tricks.com/css-using-declarations-just-once/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -373,7 +386,8 @@
         {
           "id": "2c94eacf64466e0b",
           "title": "CSS-Tricks, Version 20",
-          "summary": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks. CSS-Tricks…",
+          "titleZh": "CSS-Tricks，第 20 版",
+          "summary": "这里看起来有点不一样？我希望如此，因为我们刚刚推出了网站的全新设计！以下是第 20（！！）版 CSS-Tricks 的所有新内容。CSS-Tricks……",
           "url": "https://css-tricks.com/css-tricks-version-20/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
@@ -398,6 +412,7 @@
         {
           "id": "cee30867c6e28010",
           "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "titleZh": "使用 SimReady 资产构建机器人拾放模拟",
           "summary": "",
           "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
@@ -408,7 +423,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 104,
+          "score": 66,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -416,6 +431,7 @@
         {
           "id": "a108aad3d14e19d0",
           "title": "XYBench: Helping with the problem behind the question",
+          "titleZh": "XYBench：帮助解决问题背后的难题",
           "summary": "",
           "url": "https://huggingface.co/blog/allenai/xybench",
           "source": "Hugging Face Blog",
@@ -426,7 +442,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 102,
+          "score": 64,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -434,7 +450,8 @@
         {
           "id": "bd98a5d1e6e26dd6",
           "title": "Introducing ChatGPT Wallet",
-          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "titleZh": "隆重推出 ChatGPT 钱包",
+          "summary": "隆重推出 ChatGPT 钱包，这是 ChatGPT Work、Codex 和 dots 中的客服代表在获得用户批准并使用现有银行卡保护措施完成购买的安全方式。",
           "url": "https://openai.com/index/introducing-chatgpt-wallet",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -444,7 +461,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 109,
+          "score": 70,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -452,6 +469,7 @@
         {
           "id": "c98c961c31bfc695",
           "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "titleZh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
           "summary": "",
           "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
           "source": "Hugging Face Blog",
@@ -462,7 +480,7 @@
             "AI",
             "开源模型"
           ],
-          "score": 98,
+          "score": 59,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -470,7 +488,8 @@
         {
           "id": "39b147bc52159699",
           "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+          "titleZh": "Shield 帮助技术人员通过 OpenAI 完成旧版门户网站的工作",
+          "summary": "Shield 使用 OpenAI 来帮助 IT 技术人员移交旧版门户中的工作。其 Forge 代理负责浏览系统，以便技术人员能够专注于需要他们判断的问题。",
           "url": "https://openai.com/business/customer-stories/shield",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -480,7 +499,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 98,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -488,7 +507,8 @@
         {
           "id": "a06191ac9b436071",
           "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the im…",
+          "titleZh": "Amplitude 如何借助 OpenAI 在 1–2天内推出产品改进",
+          "summary": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队通过编码代理交付变更，并衡量……",
           "url": "https://openai.com/business/customer-stories/amplitude",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -498,7 +518,7 @@
             "AI",
             "模型产品"
           ],
-          "score": 79,
+          "score": 69,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -511,110 +531,116 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "90a49e887a1b37e5",
-          "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-          "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s littl…",
-          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+          "id": "e9e2fb328995989e",
+          "title": "Where was Nvidia’s security team?",
+          "titleZh": "Nvidia 的安全团队在哪里？",
+          "summary": "Nvidia 的安全主管于 8月悄然离职，而现在，首席执行官黄仁勋也因其人际关系而辞职，其中包括与一家可疑公司的……",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-13T23:00:00.000Z",
+          "publishedAt": "2026-11-15T00:08:07.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 104,
+          "score": 106,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "5d37263e5efc8478",
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "id": "faa6414f38d2232b",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "titleZh": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
+          "summary": "截至周六下午，该请愿书已获得超过 11.5 万个签名。",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-13T22:43:00.000Z",
+          "publishedAt": "2026-11-14T21:41:22.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 103,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "ca2de2a333e48dab",
-          "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-          "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which…",
-          "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-13T21:44:38.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 102,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "63fed060fd635b0c",
-          "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-          "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less tha…",
-          "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-13T20:07:24.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 99,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "2a12789cd9e8cc59",
-          "title": "AI agent startup LangChain hits $3B valuation",
-          "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-13T19:37:57.000Z",
-          "category": "product",
-          "tags": [
-            "产品/商业",
-            "科技公司"
-          ],
-          "score": 96,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "d18e6713a7f6d1a5",
-          "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-          "summary": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household proje…",
-          "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+          "id": "df23dd79933785ee",
+          "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+          "titleZh": "🧠 社区智慧：当您成为 AI 代理的瓶颈时、面向产品经理的 PULL 框架、产品增长与增长营销、提高反馈回复率等",
+          "summary": "社区智慧 305",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
           "source": "Lenny's Newsletter",
           "sourceUrl": "https://www.lennysnewsletter.com/",
-          "publishedAt": "2026-11-11T13:04:09.000Z",
+          "publishedAt": "2026-11-14T21:15:46.000Z",
           "category": "product",
           "tags": [
             "产品/商业"
           ],
-          "score": 51,
+          "score": 96,
           "sourceType": "rss",
-          "cover": "https://api.substack.com/feed/podcast/224221477/e714fff25978e0a4d943e3d0fd317f24.mp3",
+          "cover": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+          "author": ""
+        },
+        {
+          "id": "5a151937449a2cec",
+          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "titleZh": "特斯拉开放“个人使用”的 Cybercab 预订，但有地域限制，且每月需支付 299美元的费用",
+          "summary": "就连埃隆·马斯克也表示，月费“太高了”。",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-11-14T20:04:44.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "a7fff77494ab7079",
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "titleZh": "您有 iPhone Duo 吗？这 9 项设置让使用更轻松",
+          "summary": "从 Touch ID 快捷方式到更智能的音量按钮和相机技巧，这些小改动让苹果的折叠 iPhone 在日常使用中更加便捷。",
+          "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-11-14T18:00:00.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 95,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "44e5626b5031395a",
+          "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+          "titleZh": "交通部长将全国航班停飞归咎于“例行”设备升级",
+          "summary": "美国联邦航空管理局（FAA）局长布莱恩·贝德福德（Bryan Bedford）也表示，“没有任何与人工智能相关的证据”。",
+          "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/",
+          "publishedAt": "2026-11-14T17:45:04.000Z",
+          "category": "product",
+          "tags": [
+            "产品/商业",
+            "科技公司"
+          ],
+          "score": 92,
+          "sourceType": "rss",
+          "cover": "",
           "author": ""
         }
       ]
@@ -627,7 +653,8 @@
         {
           "id": "fc4e5c910952eaae",
           "title": "Schrödinger’s Huang: Nvidia could not be everything to everybody",
-          "summary": "A cautionary tale for Asian capital attempting to operate technology businesses on both sides of the Pacific simultaneously Continue reading on UX Collective »",
+          "titleZh": "薛定谔的黄：英伟达不可能面面俱到",
+          "summary": "对于试图同时在太平洋两岸经营科技企业的亚洲资本来说，这是一个警示性案例。继续阅读 UX Collective »",
           "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
@@ -637,7 +664,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 115,
+          "score": 76,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/1072/0*gqf8_YQf9UQKv9T5.jpg",
           "author": ""
@@ -645,6 +672,7 @@
         {
           "id": "389995ae9706d87d",
           "title": "Decision theatre or decision design?",
+          "titleZh": "决策剧场还是决策设计？",
           "summary": "",
           "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -655,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 109,
+          "score": 71,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -663,7 +691,8 @@
         {
           "id": "ef84c75f798ce445",
           "title": "The crooked plate that felt more human than the algorithm",
-          "summary": "We have spent years teaching machines to be flawless. Now the flawlessness is beginning to feel like a kind of absence. Continue reading on UX Collective »",
+          "titleZh": "比算法更有人情味的歪斜餐盘",
+          "summary": "我们花了数年时间教机器做到完美无瑕。现在，完美无瑕开始让人感觉像是一种缺失。继续在 UX Collective 上阅读 »",
           "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
@@ -673,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 94,
+          "score": 61,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/710/0*fYWy32dkzlchhe4g",
           "author": ""
@@ -681,6 +710,7 @@
         {
           "id": "ec981fe941516092",
           "title": "AI is the new old design material",
+          "titleZh": "人工智能是全新的老设计材料",
           "summary": "",
           "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -691,7 +721,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 75,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -699,6 +729,7 @@
         {
           "id": "6a51c9cf877f762f",
           "title": "The AI mind tax that afflicts those who use AI best",
+          "titleZh": "困扰那些最善于使用人工智能的人的人工智能思维税",
           "summary": "",
           "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -717,6 +748,7 @@
         {
           "id": "5e641adb395b22b3",
           "title": "Why are we cloning Photoshop?",
+          "titleZh": "我们为什么要克隆 Photoshop？",
           "summary": "",
           "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -740,13 +772,14 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "21ae7d909f4f78c6",
-          "title": "FAA lifted National Ground Stop at 0119Z",
-          "summary": "Hacker News 热帖，当前积分 78，评论 36。",
-          "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+          "id": "c41625c2c0941d77",
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+          "titleZh": "沃兹在组装电脑之前是如何编写 Apple 1 BASIC 的？",
+          "summary": "Hacker News 热帖，当前积分 94，评论 31。",
+          "url": "https://retrocomputing.stackexchange.com/questions/17957",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-14T01:30:01.000Z",
+          "publishedAt": "2026-11-14T22:22:49.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -754,17 +787,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 113,
+          "score": 108,
           "sourceType": "api"
         },
         {
-          "id": "a3b97845ceb49c70",
-          "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-          "summary": "Hacker News 热帖，当前积分 105，评论 30。",
-          "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+          "id": "eed9d19ba9642b3a",
+          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+          "titleZh": "英伟达通过循环融资交易故意抬高 GPU 价格",
+          "summary": "Hacker News 热帖，当前积分 193，评论 112。",
+          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-14T00:52:29.000Z",
+          "publishedAt": "2026-11-14T22:26:30.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -772,17 +806,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 112,
+          "score": 108,
           "sourceType": "api"
         },
         {
-          "id": "2d7593a4fba99f87",
-          "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "summary": "Hacker News 热帖，当前积分 22，评论 6。",
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "id": "ee6688bca308f923",
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "titleZh": "SpaceX 成功回收星际飞船，结束第 15 次飞行任务",
+          "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-14T00:28:11.000Z",
+          "publishedAt": "2026-11-14T21:22:24.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -790,17 +825,36 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 111,
+          "score": 108,
           "sourceType": "api"
         },
         {
-          "id": "291d2d9ec01ac9bc",
-          "title": "What Happened to 3Com?",
-          "summary": "Hacker News 热帖，当前积分 44，评论 17。",
-          "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+          "id": "8b4cd9d54bb48dfa",
+          "title": "两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着",
+          "summary": "我大号用了 4 个月，在 11月11日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC。小号用了一周，在 11月11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11月12日就不敢用 fabl…",
+          "url": "https://www.v2ex.com/t/1257137#reply14",
+          "source": "V2EX 技术",
+          "sourceUrl": "https://www.v2ex.com/?tab=tech",
+          "publishedAt": "2026-11-14T17:41:27.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "开发者社区"
+          ],
+          "score": 102,
+          "sourceType": "rss",
+          "cover": "https://i.imgur.com/7cxbzAT.png",
+          "author": "chenlide"
+        },
+        {
+          "id": "29c2a0df0c1b9d2c",
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "titleZh": "Lovable 应用泄露护照信息和超过 20 万条私信",
+          "summary": "Hacker News 热帖，当前积分 653，评论 279。",
+          "url": "https://www.crissyfield.de/research/lovable-en/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-13T23:48:59.000Z",
+          "publishedAt": "2026-11-14T17:43:10.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -808,17 +862,18 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 110,
+          "score": 100,
           "sourceType": "api"
         },
         {
-          "id": "12efe3fb2f1d2501",
-          "title": "Terminal borders that don't cost a cell",
-          "summary": "Hacker News 热帖，当前积分 70，评论 40。",
-          "url": "https://www.joshka.net/cell-borders/",
+          "id": "0be95f39b104a6b9",
+          "title": "A family tree of software job titles",
+          "titleZh": "软件职位族谱",
+          "summary": "Hacker News 热帖，当前积分 211，评论 103。",
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-13T23:06:40.000Z",
+          "publishedAt": "2026-11-14T17:45:19.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -826,25 +881,7 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 109,
-          "sourceType": "api"
-        },
-        {
-          "id": "ba6168bd9812822a",
-          "title": "FAA issues national ground stop",
-          "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...",
-          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-13T21:05:53.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 109,
+          "score": 100,
           "sourceType": "api"
         }
       ]
@@ -891,11 +928,15 @@
       "count": 8
     },
     {
-      "tag": "交互设计",
+      "tag": "开发者社区",
       "count": 6
     },
     {
-      "tag": "开发者社区",
+      "tag": "效率",
+      "count": 6
+    },
+    {
+      "tag": "交互设计",
       "count": 6
     },
     {
@@ -904,10 +945,6 @@
     },
     {
       "tag": "模型产品",
-      "count": 6
-    },
-    {
-      "tag": "效率",
       "count": 6
     },
     {
