@@ -1,105 +1,51 @@
 {
-  "generatedAt": "2026-11-20T02:08:32.228Z",
+  "generatedAt": "2026-11-21T02:08:08.625Z",
   "headline": {
-    "id": "4638cb87eb7f467e",
-    "title": "Claude 被封了，说说我是怎么迁移的，希望能帮到各位",
-    "summary": "Claude Max 订阅用了小半年之后，还是被封了。简单挣扎之后未果，又没实力付那么高的溢价，只能选择迁移到其他模型。目前尝试过的订阅/模型 Deepseek-flash 官方 API Gpt：100 刀档 Gemini：50 刀档 Qwen Token Plan：首月优惠 19 块 Grok 首月优惠：具体多少钱忘了，首月大…",
-    "url": "https://www.v2ex.com/t/1258441#reply1",
+    "id": "a289064c323d0c97",
+    "title": "TG 上 IOS 充值停了，现在谷歌商店内购代充又开始了",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1258691#reply4",
     "source": "V2EX 技术",
     "sourceUrl": "https://www.v2ex.com/?tab=tech",
-    "publishedAt": "2026-11-20T02:02:36.000Z",
+    "publishedAt": "2026-11-21T00:45:28.000Z",
     "category": "industry",
     "tags": [
       "行业热点",
       "开发者社区"
     ],
-    "score": 116,
+    "score": 108,
     "sourceType": "rss",
     "cover": "",
-    "author": "moyuman"
+    "author": "qaz793"
   },
   "latest": [
     {
-      "id": "4638cb87eb7f467e",
-      "title": "Claude 被封了，说说我是怎么迁移的，希望能帮到各位",
-      "summary": "Claude Max 订阅用了小半年之后，还是被封了。简单挣扎之后未果，又没实力付那么高的溢价，只能选择迁移到其他模型。目前尝试过的订阅/模型 Deepseek-flash 官方 API Gpt：100 刀档 Gemini：50 刀档 Qwen Token Plan：首月优惠 19 块 Grok 首月优惠：具体多少钱忘了，首月大…",
-      "url": "https://www.v2ex.com/t/1258441#reply1",
+      "id": "a289064c323d0c97",
+      "title": "TG 上 IOS 充值停了，现在谷歌商店内购代充又开始了",
+      "summary": "",
+      "url": "https://www.v2ex.com/t/1258691#reply4",
       "source": "V2EX 技术",
       "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-20T02:02:36.000Z",
+      "publishedAt": "2026-11-21T00:45:28.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
         "开发者社区"
       ],
-      "score": 116,
+      "score": 108,
       "sourceType": "rss",
       "cover": "",
-      "author": "moyuman"
+      "author": "qaz793"
     },
     {
-      "id": "004e31dc96b7a609",
-      "title": "科技爱好者周刊（第 420 期）：最分心的一年",
-      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
-      "source": "阮一峰的网络日志",
-      "sourceUrl": "https://www.ruanyifeng.com/blog/",
-      "publishedAt": "2026-11-20T00:07:30.000Z",
-      "category": "frontend",
-      "tags": [
-        "前端技术",
-        "技术周刊"
-      ],
-      "score": 120,
-      "sourceType": "rss",
-      "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111901.webp",
-      "author": "阮一峰"
-    },
-    {
-      "id": "dc4e7281cde5a0e1",
-      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
-      "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年6月全面停用等。查看全文",
-      "url": "https://sspai.com/post/119311",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-20T00:34:31.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 114,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "7eef79bc7794c22a",
-      "title": "我的 App 火了，然后苹果威胁要关闭我的开发者账号",
-      "summary": "我是 iOS 上安卓模拟器 Andarium 的开发者。昨天这个 App 通过苹果审核上架 App Store，结果很快在国内外都火了：X：https://x.com/imxieyi/status/2123113325710225595 IT 之家：https://mp.weixin.qq.com/s/ujoPBioGoiK…",
-      "url": "https://www.v2ex.com/t/1258411#reply64",
-      "source": "V2EX 技术",
-      "sourceUrl": "https://www.v2ex.com/?tab=tech",
-      "publishedAt": "2026-11-20T00:29:25.000Z",
-      "category": "industry",
-      "tags": [
-        "行业热点",
-        "开发者社区"
-      ],
-      "score": 113,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "maplecomb"
-    },
-    {
-      "id": "11d89397c287459c",
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "titleZh": "Gemini 4 Neon 成为模型工程指数的新榜首",
-      "summary": "Hacker News 热帖，当前积分 114，评论 61。",
-      "url": "https://git-aarvin.github.io/mei/",
+      "id": "bf450336b89d9a86",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "titleZh": "NINLIVE：九寸钉乐队现场演出档案",
+      "summary": "Hacker News 热帖，当前积分 128，评论 27。",
+      "url": "https://ninlive.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/",
-      "publishedAt": "2026-11-19T23:35:35.000Z",
+      "publishedAt": "2026-11-20T22:30:47.000Z",
       "category": "industry",
       "tags": [
         "行业热点",
@@ -107,68 +53,179 @@
         "Hacker News",
         "讨论"
       ],
-      "score": 110,
+      "score": 108,
       "sourceType": "api"
     },
     {
-      "id": "b162b082d30d2b3d",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "titleZh": "Anthropic 的竞争对手表示，企业（大多）可以绕过昂贵的模型",
-      "summary": "在 Anthropic 上市的当天，Fireworks AI 的联合创始人为开源模型作为一种更便宜的替代方案提供了论据，并谈到了给……造成损失的漏洞。",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "id": "5c531fbb0f8a5583",
+      "title": "Inkling 2 Mini",
+      "titleZh": "Inkling 2 Mini",
+      "summary": "Hacker News 热帖，当前积分 692，评论 113。",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-20T20:12:19.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 104,
+      "sourceType": "api"
+    },
+    {
+      "id": "2f7433bbbe914762",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "titleZh": "专家警告：目前，几乎所有从事人工智能工作的人都容易落入“美人计”陷阱",
+      "summary": "技术人员正在打造能够推动世界方方面面发展的技术，但他们能保护自己的内心吗？这就是蜜罐所利用的漏洞。",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-20T00:26:03.000Z",
+      "publishedAt": "2026-11-20T20:58:29.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 106,
+      "score": 100,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "a311b4417c27be21",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "titleZh": "苹果可能正在开发自己的 AI 代理来运行您的 Mac",
-      "summary": "iPhone 制造商似乎正在打造能够与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争的智能体。",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "id": "1aaa4fab18cbe05d",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "titleZh": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。",
+      "summary": "Spotify 创始人丹尼尔·埃克（Daniel Ek）正在支持 Europa Fusion，这是一家由人工智能研究员创立的聚变能源初创公司。以下是这家初创公司正在打造的产品。",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 105,
+      "score": 98,
       "sourceType": "rss",
       "cover": "",
       "author": ""
     },
     {
-      "id": "79a11f9c632152b2",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "titleZh": "Anthropic 的 7 位创始人通过创纪录的 IPO 套现近 20亿美元",
-      "summary": "按照上调后的 83美元/股 IPO 价格，Anthropic 的七位创始人每人赚取了 2.8亿美元，而公司则获得了近 1050亿美元。",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "id": "da244ed54b684e33",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "titleZh": "紧急通知：Alessandro Masullo GRH",
+      "summary": "Hacker News 热帖，当前积分 1588，评论 723。",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-20T18:33:14.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 102,
+      "sourceType": "api"
+    },
+    {
+      "id": "f95278020df52972",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "titleZh": "人工智能声称解决了有 167年历史的黎曼猜想——而人类也解决了这个问题",
+      "summary": "最新的 AI 驱动的结果让数学家们大为震撼，而与此同时，也存在一个与之竞争的人类解决方案。",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/",
-      "publishedAt": "2026-11-20T00:43:50.000Z",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
       "category": "product",
       "tags": [
         "产品/商业",
         "科技公司"
       ],
-      "score": 105,
+      "score": 96,
       "sourceType": "rss",
       "cover": "",
       "author": ""
+    },
+    {
+      "id": "3f0a77b671b2502d",
+      "title": "We promoted developers into architects without informing them",
+      "titleZh": "我们未经告知就将开发人员晋升为架构师",
+      "summary": "Hacker News 热帖，当前积分 306，评论 185。",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/",
+      "publishedAt": "2026-11-20T18:17:51.000Z",
+      "category": "industry",
+      "tags": [
+        "行业热点",
+        "工程效率",
+        "Hacker News",
+        "讨论"
+      ],
+      "score": 101,
+      "sourceType": "api"
     }
   ],
   "featuredTools": [
+    {
+      "id": "740367140107771e",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告 11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于 11月25日在北美上映，12月23日上线 Netflix。大卫·芬奇执 ... 查看全文",
+      "url": "https://sspai.com/post/119337",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-20T09:54:01.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 92,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "少数派编辑部"
+    },
+    {
+      "id": "9e292ab949ae035f",
+      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+      "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手 6》游戏评测：10 分｜篝火。作为 RockstarGames 时隔 13年推出的《侠盗猎车手》系列新 ... 查看全文",
+      "url": "https://sspai.com/post/119327",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-20T07:34:26.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 88,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "篝火营地"
+    },
+    {
+      "id": "4e956f8f21b604c6",
+      "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+      "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文",
+      "url": "https://sspai.com/post/118879",
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/",
+      "publishedAt": "2026-11-20T02:47:52.000Z",
+      "category": "tools",
+      "tags": [
+        "工具/网站",
+        "效率"
+      ],
+      "score": 78,
+      "sourceType": "rss",
+      "cover": "",
+      "author": "Nezuko"
+    },
     {
       "id": "dc4e7281cde5a0e1",
       "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
@@ -182,7 +239,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 114,
+      "score": 75,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -200,7 +257,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 92,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -218,61 +275,7 @@
         "工具/网站",
         "效率"
       ],
-      "score": 91,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "少数派编辑部"
-    },
-    {
-      "id": "8abdddbe47fddb4f",
-      "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-      "summary": "[......] 查看全文 本文为会员文章，出自 《单篇文章》，订阅后可阅读全文。",
-      "url": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-19T07:34:11.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 85,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "广陵止息"
-    },
-    {
-      "id": "8b6276fc49d1d23c",
-      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
-      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "url": "https://sspai.com/post/119039",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-19T02:58:08.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 81,
-      "sourceType": "rss",
-      "cover": "",
-      "author": "PJHubs"
-    },
-    {
-      "id": "933c8a6850699e2c",
-      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
-      "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。查看全文",
-      "url": "https://sspai.com/post/119239",
-      "source": "少数派",
-      "sourceUrl": "https://sspai.com/",
-      "publishedAt": "2026-11-19T00:29:30.000Z",
-      "category": "tools",
-      "tags": [
-        "工具/网站",
-        "效率"
-      ],
-      "score": 74,
+      "score": 60,
       "sourceType": "rss",
       "cover": "",
       "author": "少数派编辑部"
@@ -284,6 +287,46 @@
       "title": "前端技术",
       "description": "更偏实现细节、浏览器能力和工程落地",
       "items": [
+        {
+          "id": "abaee70ac0012228",
+          "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+          "titleZh": "Andy Clarke 回答了关于网页出色设计的六个问题",
+          "summary": "网页设计师、作家兼 Stuff & Nonsense 创始人 Andy Clarke 发布了一本名为《Standout Designs for the Web》（《出众的网页设计》）的新电子书，旨在鼓励设计师超越……",
+          "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-11-20T15:03:47.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 106,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "8128e886ed5e32f3",
+          "title": "继textarea之后，iframe也自适应大小啦！",
+          "summary": "替换元素基于内容高度自适应是个老大难问题，继去年 textarea 元素支持了之后，现在 iframe 元素也支持啦，哈哈哈，CSS 的能力越来越强了，消灭每一个不支持的交互细节。",
+          "url": "https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/",
+          "source": "张鑫旭博客",
+          "sourceUrl": "https://www.zhangxinxu.com/",
+          "publishedAt": "2026-11-20T09:58:33.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS",
+            "CSS相关",
+            "高度",
+            "高度自适应"
+          ],
+          "score": 96,
+          "sourceType": "rss",
+          "cover": "https://image.zhangxinxu.com/video/blog/202611/iframe-sizing.mp4",
+          "author": ""
+        },
         {
           "id": "004e31dc96b7a609",
           "title": "科技爱好者周刊（第 420 期）：最分心的一年",
@@ -297,7 +340,7 @@
             "前端技术",
             "技术周刊"
           ],
-          "score": 120,
+          "score": 82,
           "sourceType": "rss",
           "cover": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111901.webp",
           "author": "阮一峰"
@@ -306,30 +349,11 @@
           "id": "07bf663343d8ddd8",
           "title": "scroll-state()",
           "titleZh": "scroll-state()",
-          "summary": "令人惊讶的是，CSS scroll-state() 查询与您是否在存在主义恐惧的状态下无休止地刷屏无关。不过，它确实允许您更改……",
+          "summary": "出乎意料的是，CSS scroll-state() 查询与您是否在存在主义恐惧的状态下无休止地刷屏无关。不过，它确实可以让您更改……",
           "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
           "source": "CSS-Tricks",
           "sourceUrl": "https://css-tricks.com/",
           "publishedAt": "2026-11-19T14:57:54.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 106,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "345a882049651639",
-          "title": "When Everything Has Changed, What Do We Do Next?",
-          "titleZh": "当一切都已改变，我们接下来该怎么做？",
-          "summary": "这一年……不容易，对吧？我想今年我看到的最常见的表情符号是“眼袋脸”（🫩），这说明了很多问题。有一点可以肯定：这个行业……",
-          "url": "https://css-tricks.com/when-everything-has-changed/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-11-18T14:55:21.000Z",
           "category": "frontend",
           "tags": [
             "前端技术",
@@ -341,10 +365,29 @@
           "author": ""
         },
         {
+          "id": "345a882049651639",
+          "title": "When Everything Has Changed, What Do We Do Next?",
+          "titleZh": "当一切都已改变，我们接下来该做什么？",
+          "summary": "这一年……不容易，对吧？我想今年我看到的最常见的表情符号是“眼袋脸”（🫩），这说明了很多问题。有一点可以肯定：这个行业……",
+          "url": "https://css-tricks.com/when-everything-has-changed/",
+          "source": "CSS-Tricks",
+          "sourceUrl": "https://css-tricks.com/",
+          "publishedAt": "2026-11-18T14:55:21.000Z",
+          "category": "frontend",
+          "tags": [
+            "前端技术",
+            "CSS"
+          ],
+          "score": 66,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "9ebb72d1b3150517",
           "title": "Meet AI 2027 Conference (Dec 1)",
           "titleZh": "Meet AI 2027 大会（12月1日）",
-          "summary": "撸起袖子加油干！隆重推出全新的[AI 2027 大会](https://smashingconf.com/ai-2027-conference)，这是一场轻松友好的线上大会，主题是面向人工智能的设计系统、人工智能 + F……",
+          "summary": "撸起袖子加油干！隆重推出全新的[AI 2027 大会](https://smashingconf.com/ai-2027-conference)，这是一场轻松友好的线上大会，主题是面向人工智能的设计系统、人工智能 + 前端……",
           "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
           "source": "Smashing Magazine",
           "sourceUrl": "https://www.smashingmagazine.com/",
@@ -358,44 +401,6 @@
           "sourceType": "rss",
           "cover": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)"
-        },
-        {
-          "id": "b9d095fb507ac78c",
-          "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-          "titleZh": "人工智能加速了构建：无障碍测试如何跟上步伐？",
-          "summary": "人工智能加快了团队的设计和构建速度，但质量保证 (QA) 测试并未跟上步伐，网络的无障碍性可能正在下降。根据最新研究，An…",
-          "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-          "source": "Smashing Magazine",
-          "sourceUrl": "https://www.smashingmagazine.com/",
-          "publishedAt": "2026-11-17T08:00:00.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "设计/UI"
-          ],
-          "score": 65,
-          "sourceType": "rss",
-          "cover": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
-          "author": "hello@smashingmagazine.com (Andrew Chung)"
-        },
-        {
-          "id": "939ecd1918f28180",
-          "title": "Staggering Scroll-Driven Animations with animation-range-start",
-          "titleZh": "使用 animation-range-start 实现错落有致的滚动驱动动画",
-          "summary": "想象一下，有一台 CSS 卡拉 OK 机，它会显示一个在文本上弹跳的球，该文本会根据语音识别的进度和运行该……而逐步高亮显示。",
-          "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
-          "source": "CSS-Tricks",
-          "sourceUrl": "https://css-tricks.com/",
-          "publishedAt": "2026-11-16T16:47:05.000Z",
-          "category": "frontend",
-          "tags": [
-            "前端技术",
-            "CSS"
-          ],
-          "score": 67,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
         }
       ]
     },
@@ -405,10 +410,105 @@
       "description": "围绕模型能力、工作流和开发效率工具的快讯",
       "items": [
         {
+          "id": "e7ceb653c73eb62b",
+          "title": "Combatting adversarial distillation",
+          "titleZh": "对抗对抗性蒸馏",
+          "summary": "OpenAI 对对抗性蒸馏的分层方法将模型训练、保障措施、检测和执行相结合，以防范能力提取。",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-20T10:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 101,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "dd1953a1ad5ca1a5",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "titleZh": "Hebbia 借助 GPT-6 Astra 实现了财务研究的改进",
+          "summary": "Hebbia 对 GPT-6 Astra 进行了金融研究方面的测试。其预发布评估发现，在来源覆盖面、引文相关性和呈现质量方面均有提升。",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "568a32dd4e200fe1",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "titleZh": "人工智能能否帮助科学家识别有前景的候选药物？",
+          "summary": "MedChemBench 评估 AI 模型在早期药物发现中解释分子结构、根据实验证据进行推理以及选择化合物的优劣。",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "source": "OpenAI News",
+          "sourceUrl": "https://openai.com/news/",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "模型产品"
+          ],
+          "score": 85,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "359d7abe49710e16",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "titleZh": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能",
+          "summary": "",
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 75,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
+          "id": "44aad8f4b25594ef",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "titleZh": "隆重推出安全带适配器：将您喜爱的型号适配到您的安全带上，以提高性能并降低成本",
+          "summary": "",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "category": "ai",
+          "tags": [
+            "AI",
+            "开源模型"
+          ],
+          "score": 75,
+          "sourceType": "rss",
+          "cover": "",
+          "author": ""
+        },
+        {
           "id": "2218678ab9019d44",
           "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
           "titleZh": "OpenAI 的性能工厂如何让 ChatGPT 保持快速",
-          "summary": "了解 OpenAI 是如何构建 Performance Factory 的，这是一个由 Codex 驱动的工作流系统，用于查找和修复性能问题，以帮助保持 ChatGPT 的快速运行。",
+          "summary": "了解 OpenAI 是如何构建 Performance Factory 的，这是一个由 Codex 驱动的工作流系统，用于发现和解决性能问题，以帮助保持 ChatGPT 的快速运行。",
           "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
           "source": "OpenAI News",
           "sourceUrl": "https://openai.com/news/",
@@ -417,101 +517,6 @@
           "tags": [
             "AI",
             "模型产品"
-          ],
-          "score": 97,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "7974b95919dbf4d8",
-          "title": "Deploying Daybreak Red",
-          "titleZh": "部署曙光红",
-          "summary": "探索用于监督性安全调查的参考架构 Daybreak Red，包括安全控制、设置和监控。",
-          "url": "https://openai.com/business/learn/deploying-daybreak-red",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 84,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "2aa988635fd970fe",
-          "title": "Explore the Codex Security Plugin",
-          "titleZh": "探索 Codex Security 插件",
-          "summary": "观看 Codex Security 插件的演示，了解从入门到查看结果的整个工作流程（如录像所示）。",
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 84,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "96991dfe76a8c003",
-          "title": "See PR scans in action",
-          "titleZh": "查看 PR 扫描的实际运作情况",
-          "summary": "观看 PR 扫描的演练，了解演示者如何在拉取请求工作流中审核扫描结果。",
-          "url": "https://openai.com/business/learn/pr-scans-demo",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 83,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "b6f7f776061d924f",
-          "title": "Get started with Daybreak Blue",
-          "titleZh": "开始使用 Daybreak Blue",
-          "summary": "观看 Daybreak Blue 的入门指南，详细了解设置体验以及如何开始使用。",
-          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-          "source": "OpenAI News",
-          "sourceUrl": "https://openai.com/news/",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "模型产品"
-          ],
-          "score": 83,
-          "sourceType": "rss",
-          "cover": "",
-          "author": ""
-        },
-        {
-          "id": "c5c92e3684154d48",
-          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-          "titleZh": "DaisyRose-27B：突破训练后效率的极限",
-          "summary": "",
-          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-          "source": "Hugging Face Blog",
-          "sourceUrl": "https://huggingface.co/blog",
-          "publishedAt": "2026-11-18T19:54:56.000Z",
-          "category": "ai",
-          "tags": [
-            "AI",
-            "开源模型"
           ],
           "score": 69,
           "sourceType": "rss",
@@ -526,96 +531,96 @@
       "description": "关注产品策略、创作者经济和工具商业化",
       "items": [
         {
-          "id": "b162b082d30d2b3d",
-          "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-          "titleZh": "Anthropic 的竞争对手表示，企业（大多）可以绕过昂贵的模型",
-          "summary": "在 Anthropic 上市的当天，Fireworks AI 的联合创始人为开源模型作为一种更便宜的替代方案提供了论据，并谈到了给……造成损失的漏洞。",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+          "id": "2f7433bbbe914762",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "titleZh": "专家警告：目前，几乎所有从事人工智能工作的人都容易落入“美人计”陷阱",
+          "summary": "技术人员正在打造能够推动世界方方面面发展的技术，但他们能保护自己的内心吗？这就是蜜罐所利用的漏洞。",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-20T00:26:03.000Z",
+          "publishedAt": "2026-11-20T20:58:29.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 106,
+          "score": 100,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "a311b4417c27be21",
-          "title": "Apple may be developing its own AI agent that runs your Mac",
-          "titleZh": "苹果可能正在开发自己的 AI 代理来运行您的 Mac",
-          "summary": "iPhone 制造商似乎正在打造能够与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争的智能体。",
-          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "id": "1aaa4fab18cbe05d",
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "titleZh": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。",
+          "summary": "Spotify 创始人丹尼尔·埃克（Daniel Ek）正在支持 Europa Fusion，这是一家由人工智能研究员创立的聚变能源初创公司。以下是这家初创公司正在打造的产品。",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-20T00:56:01.000Z",
+          "publishedAt": "2026-11-20T19:53:41.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 98,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "79a11f9c632152b2",
-          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-          "titleZh": "Anthropic 的 7 位创始人通过创纪录的 IPO 套现近 20亿美元",
-          "summary": "按照上调后的 83美元/股 IPO 价格，Anthropic 的七位创始人每人赚取了 2.8亿美元，而公司则获得了近 1050亿美元。",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "id": "f95278020df52972",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "titleZh": "人工智能声称解决了有 167年历史的黎曼猜想——而人类也解决了这个问题",
+          "summary": "最新的 AI 驱动的结果让数学家们大为震撼，而与此同时，也存在一个与之竞争的人类解决方案。",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-20T00:43:50.000Z",
+          "publishedAt": "2026-11-20T19:32:08.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 96,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "3383ddccef5a83bb",
-          "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-          "titleZh": "埃隆·马斯克表示，SpaceX 有计划消除手机信号盲区",
-          "summary": "SpaceX 首席执行官埃隆·马斯克表示，该公司已完成一款微型屋顶基站的设计，该基站可以为手机提供更好的信号覆盖，并消除信号盲区……",
-          "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+          "id": "5f48b573c6529df7",
+          "title": "Super-hot rock geothermal could end data center energy woes",
+          "titleZh": "超高温岩石地热能有望解决数据中心的能源难题",
+          "summary": "新兴的地热初创企业正押注于它们能够超越当今的领军企业，几乎在任何地方提供数太瓦的电力。",
+          "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-19T23:37:56.000Z",
+          "publishedAt": "2026-11-20T18:34:00.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 105,
+          "score": 95,
           "sourceType": "rss",
           "cover": "",
           "author": ""
         },
         {
-          "id": "a9db237a0219902a",
-          "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-          "titleZh": "想在 Mac 的图标上查看您的实时 AI 使用情况吗？这款巧妙的新应用让您能够做到这一点",
-          "summary": "IconSwapper 通过实时数据、动画和俏皮的自定义功能，为您的 Mac 应用程序图标注入活力，让您的桌面更有趣。",
-          "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+          "id": "5a87934a0b25d2fc",
+          "title": "Chips can survive the space environment — can their financing?",
+          "titleZh": "芯片可以在太空环境中存活——它们的融资能否做到？",
+          "summary": "贷款人不想让 SpaceX 把他们的抵押品送入轨道。这对太空数据中心整体而言意味着什么？",
+          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com/",
-          "publishedAt": "2026-11-19T22:33:26.000Z",
+          "publishedAt": "2026-11-20T17:40:01.000Z",
           "category": "product",
           "tags": [
             "产品/商业",
             "科技公司"
           ],
-          "score": 102,
+          "score": 93,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -659,7 +664,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 110,
+          "score": 71,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/2500/1*eRA1FOgoBk7_ahrimD3yBA.jpeg",
           "author": ""
@@ -678,7 +683,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 91,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -686,8 +691,8 @@
         {
           "id": "7305a666866daa42",
           "title": "Too Claudified",
-          "titleZh": "过于克劳德化",
-          "summary": "一位客户拒绝了我的动态作品，因为看起来像是机器制作的。我五个月前就发布了这一诊断。在 UX Collective 上继续阅读 »",
+          "titleZh": "过于“克劳德化”",
+          "summary": "一位客户拒绝了我的动画作品，因为看起来像是机器制作的。我五个月前就发布了这一诊断。在 UX Collective 上继续阅读 »",
           "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
@@ -697,7 +702,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 70,
+          "score": 60,
           "sourceType": "rss",
           "cover": "https://cdn-images-1.medium.com/max/600/0*k5uI3X8C4vFS2_ZB.jpg",
           "author": ""
@@ -705,7 +710,7 @@
         {
           "id": "ca549d8c6b239de2",
           "title": "If AI works from anywhere, why are we commuting to watch it?",
-          "titleZh": "如果人工智能可以在任何地方工作，我们为什么还要通勤去看它工作呢？",
+          "titleZh": "如果人工智能可以在任何地方工作，我们为什么还要通勤去看它？",
           "summary": "",
           "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
           "source": "UX Collective",
@@ -716,7 +721,7 @@
             "设计/UI",
             "交互设计"
           ],
-          "score": 65,
+          "score": 55,
           "sourceType": "rss",
           "cover": "",
           "author": ""
@@ -725,7 +730,7 @@
           "id": "169b910cd48b91b6",
           "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
           "titleZh": "众所周知，闪光图标代表人工智能。使用它们让设计审核变得更轻松",
-          "summary": "如何在不浪费数小时的情况下解读您的产品经理使用人工智能生成的模型 继续在 UX Collective 上阅读 »",
+          "summary": "如何在不浪费数小时的情况下解读您的产品经理使用人工智能生成的模型图 继续在 UX Collective 上阅读 »",
           "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
           "source": "UX Collective",
           "sourceUrl": "https://uxdesign.cc/",
@@ -767,69 +772,32 @@
       "description": "适合快速知道今天大家在讨论什么，不负责替你下结论",
       "items": [
         {
-          "id": "4638cb87eb7f467e",
-          "title": "Claude 被封了，说说我是怎么迁移的，希望能帮到各位",
-          "summary": "Claude Max 订阅用了小半年之后，还是被封了。简单挣扎之后未果，又没实力付那么高的溢价，只能选择迁移到其他模型。目前尝试过的订阅/模型 Deepseek-flash 官方 API Gpt：100 刀档 Gemini：50 刀档 Qwen Token Plan：首月优惠 19 块 Grok 首月优惠：具体多少钱忘了，首月大…",
-          "url": "https://www.v2ex.com/t/1258441#reply1",
+          "id": "a289064c323d0c97",
+          "title": "TG 上 IOS 充值停了，现在谷歌商店内购代充又开始了",
+          "summary": "",
+          "url": "https://www.v2ex.com/t/1258691#reply4",
           "source": "V2EX 技术",
           "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-20T02:02:36.000Z",
+          "publishedAt": "2026-11-21T00:45:28.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
             "开发者社区"
           ],
-          "score": 116,
+          "score": 108,
           "sourceType": "rss",
           "cover": "",
-          "author": "moyuman"
+          "author": "qaz793"
         },
         {
-          "id": "7eef79bc7794c22a",
-          "title": "我的 App 火了，然后苹果威胁要关闭我的开发者账号",
-          "summary": "我是 iOS 上安卓模拟器 Andarium 的开发者。昨天这个 App 通过苹果审核上架 App Store，结果很快在国内外都火了：X：https://x.com/imxieyi/status/2123113325710225595 IT 之家：https://mp.weixin.qq.com/s/ujoPBioGoiK…",
-          "url": "https://www.v2ex.com/t/1258411#reply64",
-          "source": "V2EX 技术",
-          "sourceUrl": "https://www.v2ex.com/?tab=tech",
-          "publishedAt": "2026-11-20T00:29:25.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "开发者社区"
-          ],
-          "score": 113,
-          "sourceType": "rss",
-          "cover": "",
-          "author": "maplecomb"
-        },
-        {
-          "id": "11d89397c287459c",
-          "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "titleZh": "Gemini 4 Neon 成为模型工程指数的新榜首",
-          "summary": "Hacker News 热帖，当前积分 114，评论 61。",
-          "url": "https://git-aarvin.github.io/mei/",
+          "id": "bf450336b89d9a86",
+          "title": "NINLIVE: The Nine Inch Nails live archive",
+          "titleZh": "NINLIVE：九寸钉乐队现场演出档案",
+          "summary": "Hacker News 热帖，当前积分 128，评论 27。",
+          "url": "https://ninlive.com/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-19T23:35:35.000Z",
-          "category": "industry",
-          "tags": [
-            "行业热点",
-            "工程效率",
-            "Hacker News",
-            "讨论"
-          ],
-          "score": 110,
-          "sourceType": "api"
-        },
-        {
-          "id": "be8c7de2b9ace931",
-          "title": "RegExr: Temporarily Offline",
-          "titleZh": "RegExr：暂时离线",
-          "summary": "Hacker News 热帖，当前积分 50，评论 26。",
-          "url": "https://regexr.com/",
-          "source": "Hacker News",
-          "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-19T22:27:07.000Z",
+          "publishedAt": "2026-11-20T22:30:47.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -841,14 +809,14 @@
           "sourceType": "api"
         },
         {
-          "id": "7358f3383a8bf3fa",
-          "title": "Synology Security Advisory",
-          "titleZh": "Synology 安全公告",
-          "summary": "Hacker News 热帖，当前积分 104，评论 69。",
-          "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+          "id": "5c531fbb0f8a5583",
+          "title": "Inkling 2 Mini",
+          "titleZh": "Inkling 2 Mini",
+          "summary": "Hacker News 热帖，当前积分 692，评论 113。",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-19T22:13:40.000Z",
+          "publishedAt": "2026-11-20T20:12:19.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -856,18 +824,56 @@
             "Hacker News",
             "讨论"
           ],
-          "score": 107,
+          "score": 104,
           "sourceType": "api"
         },
         {
-          "id": "5ede98a669f3bc7a",
-          "title": "Pancreatic cancer halted by virus injection in three patients",
-          "titleZh": "三名患者通过病毒注射使胰腺癌得到抑制",
-          "summary": "https://archive.ph/2Et0x",
-          "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+          "id": "da244ed54b684e33",
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "titleZh": "紧急通知：Alessandro Masullo GRH",
+          "summary": "Hacker News 热帖，当前积分 1588，评论 723。",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
           "source": "Hacker News",
           "sourceUrl": "https://news.ycombinator.com/",
-          "publishedAt": "2026-11-19T17:25:33.000Z",
+          "publishedAt": "2026-11-20T18:33:14.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 102,
+          "sourceType": "api"
+        },
+        {
+          "id": "3f0a77b671b2502d",
+          "title": "We promoted developers into architects without informing them",
+          "titleZh": "我们未经告知就将开发人员晋升为架构师",
+          "summary": "Hacker News 热帖，当前积分 306，评论 185。",
+          "url": "https://manidoraisamy.com/developer-to-architect.html",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-20T18:17:51.000Z",
+          "category": "industry",
+          "tags": [
+            "行业热点",
+            "工程效率",
+            "Hacker News",
+            "讨论"
+          ],
+          "score": 101,
+          "sourceType": "api"
+        },
+        {
+          "id": "3f7ba1adf5a14a70",
+          "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+          "titleZh": "非受迫纳维-斯托克斯奇点和广义黎曼猜想",
+          "summary": "Hacker News 热帖，当前积分 346，评论 143。",
+          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+          "source": "Hacker News",
+          "sourceUrl": "https://news.ycombinator.com/",
+          "publishedAt": "2026-11-20T17:21:36.000Z",
           "category": "industry",
           "tags": [
             "行业热点",
@@ -887,7 +893,7 @@
     "InfoQ 中文: InfoQ 中文 返回 404"
   ],
   "sourceStats": {
-    "totalItems": 85,
+    "totalItems": 83,
     "totalSources": 18,
     "succeededSources": 15,
     "failedSources": 3
@@ -899,15 +905,15 @@
     },
     {
       "tag": "行业热点",
-      "count": 19
-    },
-    {
-      "tag": "工具/网站",
-      "count": 12
+      "count": 18
     },
     {
       "tag": "设计/UI",
       "count": 12
+    },
+    {
+      "tag": "工具/网站",
+      "count": 11
     },
     {
       "tag": "产品/商业",
@@ -922,7 +928,7 @@
       "count": 8
     },
     {
-      "tag": "开发者社区",
+      "tag": "模型产品",
       "count": 6
     },
     {
@@ -930,20 +936,16 @@
       "count": 6
     },
     {
+      "tag": "开源模型",
+      "count": 6
+    },
+    {
       "tag": "交互设计",
       "count": 6
     },
     {
-      "tag": "模型产品",
-      "count": 6
-    },
-    {
-      "tag": "新产品",
-      "count": 6
-    },
-    {
-      "tag": "开源模型",
-      "count": 6
+      "tag": "开发者社区",
+      "count": 5
     },
     {
       "tag": "科技公司",
@@ -954,7 +956,11 @@
       "count": 5
     },
     {
-      "tag": "技术周刊",
+      "tag": "新产品",
+      "count": 5
+    },
+    {
+      "tag": "CSS相关",
       "count": 3
     }
   ]
